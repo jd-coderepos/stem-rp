@@ -1,4 +1,4 @@
-### Data for `stem`-RP
+### `stem`-RP Dataset [WIP]
 
 This repository contains a collection of over 60,000 scholarly article titles and abstracts across 10 STEM (Science, Technology, Engineering, Medicine) disciplines.
 The 10 STEM disciplines considered are: Agriculture, Astronomy, Biology, Chemistry, Earth Science, Engineering, Materials Science, Mathematics, and Medicine.
