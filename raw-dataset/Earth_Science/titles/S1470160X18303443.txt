@@ -1,0 +1,1 @@
+Prior specification in Bayesian occupancy modelling improves analysis of species occurrence data 

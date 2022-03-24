@@ -1,0 +1,1 @@
+A note on the different interpretation of the correlation parameters in the Bivariate Probit and the Recursive Bivariate Probit 

@@ -1,0 +1,1 @@
+We renormalize the Curci–Ferrari model at two loops in the MS scheme in an arbitrary covariant gauge.

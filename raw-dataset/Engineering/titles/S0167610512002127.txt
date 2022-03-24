@@ -1,0 +1,1 @@
+An investigation of plate-type windborne debris flight using coupled CFD–RBD models. Part I: Model development and validation 

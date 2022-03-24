@@ -1,0 +1,1 @@
+We test the validity of the black disk limit in elastic scattering by studying the evolution of the dip in the scaling variable τ = − t D σ tot , where t D is the transverse momentum squared at the dip and σ tot the total cross section. As s → ∞ and − t D → 0 , τ may consistently be approaching the black disc value, τ → s → ∞ τ BD = 35.92 GeV 2 mb .

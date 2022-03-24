@@ -1,0 +1,1 @@
+The recently discovered resonance at 125 GeV has properties remarkably close to those of the Standard Model Higgs boson. We perform model-independent fits of all presently available data. The non-standard best-fits found in our previous analyses remain favored with respect to the SM fit, mainly but not only because the γγ rate remains above the SM prediction.

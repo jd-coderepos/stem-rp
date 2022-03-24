@@ -1,0 +1,1 @@
+We introduce and study a partial order on graphs—lift-contractions. A graph H is a lift-contraction of a graph G if H can be obtained from G by a sequence of edge lifts and edge contractions. We give sufficient conditions for a connected graph to contain every n -vertex graph as a lift-contraction and describe the structure of graphs with an excluded lift-contraction.

@@ -1,0 +1,1 @@
+We study the rare leptonic decays B s , d 0 → ℓ + ℓ − within the general framework of the aligned two-Higgs doublet model [1]. A complete one-loop calculation of the relevant short-distance Wilson coefficients is presented, with a detailed technical summary of the results. The phenomenological constraints imposed by present data on the model parameters are also investigated.

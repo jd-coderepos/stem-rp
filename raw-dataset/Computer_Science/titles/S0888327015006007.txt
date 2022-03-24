@@ -1,0 +1,1 @@
+Wavelet analysis to decompose a vibration simulation signal to improve pre-distribution testing of packaging 

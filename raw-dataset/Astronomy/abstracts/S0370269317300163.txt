@@ -1,0 +1,1 @@
+A parametrization of (super) moduli space near the corners corresponding to bosonic or Neveu–Schwarz open string degenerations is introduced for worldsheets of arbitrary topology. With this parametrization, Feynman graph polynomials arise as the α ′ → 0 limit of objects on moduli space. Furthermore, the integration measures of string theory take on a very simple and elegant form.

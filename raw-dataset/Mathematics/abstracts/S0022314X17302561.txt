@@ -1,0 +1,1 @@
+Consider a pair of ordinary elliptic curves E and E ′ defined over the same finite field F q . Suppose they have the same number of F q -rational points, i.e. | E ( F q ) | = | E ′ ( F q ) | . In this paper we characterise for which finite field extensions F q k , k ≥ 1 (if any) the corresponding groups of F q k -rational points are isomorphic, i.e. E ( F q k ) ≅ E ′ ( F q k ) .

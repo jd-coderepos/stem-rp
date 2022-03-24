@@ -1,0 +1,1 @@
+We calculate small correction terms to gravitational potential on Randall–Sundrum brane with an induced Einstein term. The behaviors of the correction terms depend on the magnitudes of AdS radius k −1 and a characteristic length scale λ of model. We present the gravitational potential for arbitrary k and λ at all distances.

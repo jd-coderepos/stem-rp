@@ -1,0 +1,1 @@
+We show how to obtain the critical exponent of magnetization in the Lee–Yang edge singularity model coupled to two-dimensional quantum gravity.

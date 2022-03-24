@@ -1,0 +1,1 @@
+Development of a plasmid-based expression system in Clostridium thermocellum and its use to screen heterologous expression of bifunctional alcohol dehydrogenases (adhEs) 

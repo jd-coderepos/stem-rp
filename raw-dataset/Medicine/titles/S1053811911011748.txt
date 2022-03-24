@@ -1,0 +1,1 @@
+Reducing image artefacts in concurrent TMS/fMRI by passive shimming 

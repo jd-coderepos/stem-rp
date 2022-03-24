@@ -1,0 +1,1 @@
+In this paper, we consider the spatial gauge symmetries spontaneously breaking down in GR, and graviton becoming massive on this spatial condensate background. Such a model can be considered as a simplest example of massive gravity. We then apply our massive gravity theory to inflation, and find that the graviton mass removes the IR divergence of the inflationary loop diagram.

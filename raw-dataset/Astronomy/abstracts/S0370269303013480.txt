@@ -1,0 +1,1 @@
+We reveal an intimate connection between the quantum knot invariant for torus knot T(s,t) and the character of the minimal model M(s,t), where s and t are relatively prime integers. We show that Kashaev's invariant, i.e., the N-colored Jones polynomial at the Nth root of unity, coincides with the Eichler integral of the character.

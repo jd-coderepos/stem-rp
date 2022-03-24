@@ -1,0 +1,1 @@
+Equations of motion of test particles for solving the spin-dependent Boltzmann–Vlasov equation 

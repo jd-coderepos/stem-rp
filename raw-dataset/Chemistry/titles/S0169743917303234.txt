@@ -1,0 +1,1 @@
+Visualising interactions in bi- and triadditive models for three-way tables 

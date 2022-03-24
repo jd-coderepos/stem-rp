@@ -1,0 +1,1 @@
+We show that separable, nuclear and strongly purely infinite C ⁎ -algebras have finite nuclear dimension. In fact, the value is at most three. This exploits a deep structural result of Kirchberg and Rørdam on strongly purely infinite C ⁎ -algebras that are homotopic to zero in an ideal-system preserving way.

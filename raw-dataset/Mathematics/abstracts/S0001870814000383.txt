@@ -1,0 +1,1 @@
+We prove that a coherent DQ-kernel induces an equivalence between the derived categories of DQ-modules with coherent cohomology if and only if the graded commutative kernel associated to it induces an equivalence between the derived categories of coherent sheaves.

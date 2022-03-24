@@ -1,0 +1,1 @@
+We propose a preconditioning of the Dirac operator based on the factorisation of a predefined function related to the decay of the propagator with the distance. We show that it can improve the accuracy of correlators involving heavy quarks at large distances and accelerate the computation of light quark propagators.

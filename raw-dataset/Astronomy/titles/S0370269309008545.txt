@@ -1,0 +1,5 @@
+Shell-model Hamiltonian from self-consistent mean-field model: 
+                  N
+                  =
+                  Z
+                nuclei 

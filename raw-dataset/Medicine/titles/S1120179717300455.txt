@@ -1,0 +1,1 @@
+Evaluation of a multi-atlas CT synthesis approach for MRI-only radiotherapy treatment planning 

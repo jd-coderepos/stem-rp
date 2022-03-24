@@ -1,0 +1,1 @@
+We employ phosphate doped optical fibers for distributed dosimetry based on Optical Frequency Domain Reflectometry (OFDR) and demonstrate the effect of limited Integrated Insertion Loss Dynamic Range (ILDR) on the system performance.

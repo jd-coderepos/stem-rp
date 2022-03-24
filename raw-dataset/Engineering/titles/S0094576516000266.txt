@@ -1,0 +1,1 @@
+Suboptimal LQR-based spacecraft full motion control: Theory and experimentation 

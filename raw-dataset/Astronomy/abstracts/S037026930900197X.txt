@@ -1,0 +1,1 @@
+We study the q-deformed oscillator algebra acting on the wavefunctions of non-compact D-branes in the topological string on conifold. We find that the mirror B-model curve of conifold appears from the commutation relation of the q-deformed oscillators.

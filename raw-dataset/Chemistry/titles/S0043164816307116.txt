@@ -1,0 +1,1 @@
+Development of a model to demonstrate the effects of friction and pressure on skin in relation to pressure ulcer formation 

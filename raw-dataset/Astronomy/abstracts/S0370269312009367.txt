@@ -1,0 +1,1 @@
+Bipartite Riemann–Finsler geometries with complementary Finsler structures are constructed. Calculable examples are presented based on a bilinear-form coefficient for explicit Lorentz violation.

@@ -1,0 +1,1 @@
+Dataset of differentially regulated proteins in HUVECs challenged with wild type and UGM1 mutant Aspergillus fumigatus strains 

@@ -1,0 +1,1 @@
+A mathematical framework for yield (vs. rate) optimization in constraint-based modeling and applications in metabolic engineering 

@@ -1,0 +1,1 @@
+A generalization of Chern–Simons gauge theory is formulated in any dimension and arbitrary gauge group where gauge fields and gauge parameters are differential forms of any degree. The quaternion algebra structure of this formulation is shown to be equivalent to a three Z 2 -gradings structure, thus clarifying the quaternion role in the previous formulation.

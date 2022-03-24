@@ -1,0 +1,1 @@
+Erratum to ``Efficient synthesis of robust models for stochastic systems'' [The Journal of Systems & Software 143 (2018) 140–158] 

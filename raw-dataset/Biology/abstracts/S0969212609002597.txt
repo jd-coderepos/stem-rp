@@ -1,0 +1,1 @@
+SH2 domains are phosphotyrosine specific interaction modules with largely overlapping sequence specificities. A recent structure by Bae et al. revealed that SH2 domain specificity can be mediated by secondary binding sites located outside the phosphotyrosine binding pocket.

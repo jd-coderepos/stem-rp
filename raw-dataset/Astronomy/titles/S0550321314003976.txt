@@ -1,0 +1,28 @@
+The complete worldsheet S matrix of superstrings on 
+                  
+                     
+                        AdS
+                     
+                     
+                        3
+                     
+                  
+                  ×
+                  
+                     
+                        S
+                     
+                     
+                        3
+                     
+                  
+                  ×
+                  
+                     
+                        T
+                     
+                     
+                        4
+                     
+                  
+                with mixed three-form flux 

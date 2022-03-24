@@ -1,0 +1,1 @@
+A firm-level dataset for analyzing entry, exit, employment and R&D expenditures in the UK: 1997–2012 

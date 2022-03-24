@@ -1,0 +1,1 @@
+A coupled thermo-hydro-mechanical finite element formulation for curved beams in two-dimensions 

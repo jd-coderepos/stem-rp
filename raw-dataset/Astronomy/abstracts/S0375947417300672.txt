@@ -1,0 +1,1 @@
+We report on new measurements of jet yields and jet fragmentation in 2.76 TeV and 5.02 TeV Pb+Pb and pp collisions that were performed with the ATLAS detector at the LHC. These new measurements are expected to provide an insight into the mechanism of the energy loss of partons traversing hot and dense QCD matter created in heavy ion collisions.

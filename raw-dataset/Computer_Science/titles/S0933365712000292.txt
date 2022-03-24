@@ -1,0 +1,1 @@
+Channel selection and classification of electroencephalogram signals: An artificial neural network and genetic algorithm-based approach 

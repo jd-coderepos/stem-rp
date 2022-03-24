@@ -1,0 +1,1 @@
+A multiaxial load-induced thermal strain constitutive model for concrete 

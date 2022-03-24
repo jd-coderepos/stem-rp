@@ -1,0 +1,1 @@
+This article presents the statistical analysis of the deposit activities in each of the account types of a leading bank in Nigeria. The mean effect of these account types on the bank was determined using analysis of variance (ANOVA). Further test which include the Tukey's simultaneous test for differences of means was also conducted.

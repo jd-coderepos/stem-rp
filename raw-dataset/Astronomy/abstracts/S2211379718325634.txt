@@ -1,0 +1,1 @@
+This article attempts to clarify an issue regarding the proper definition of plastic dislocation density tensor. This study shows that the Ortiz’s and Berdichevsky’s plastic dislocation density tensors are equivalent with each other, but not with Kondo’s one. To fix the problem, we propose a modified version of Kondo’s plastic dislocation density tensor.

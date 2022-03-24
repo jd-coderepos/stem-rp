@@ -1,0 +1,1 @@
+Energy monitoring and quality control of a single screw extruder 

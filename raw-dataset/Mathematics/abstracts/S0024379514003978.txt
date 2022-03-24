@@ -1,0 +1,1 @@
+We extend the Markov Chain Tree Theorem to general commutative semirings, and we generalize the State Reduction Algorithm to general commutative semifields. This leads to a new universal algorithm, whose prototype is the State Reduction Algorithm which computes the Markov chain tree vector of a stochastic matrix.

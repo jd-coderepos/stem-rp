@@ -1,0 +1,1 @@
+Using a large sample of D +→K − π + μ + ν decays collected by the FOCUS photoproduction experiment at Fermilab, we present new measurements of two semileptonic form factor ratios: r v and r 2. We find r v =1.504±0.057±0.039 and r 2=0.875±0.049±0.064. Our form factor results include the effects of the s-wave interference discussed in Phys. Lett. B 535 (2002) 43.

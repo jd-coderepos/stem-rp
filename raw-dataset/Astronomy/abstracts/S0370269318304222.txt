@@ -1,0 +1,1 @@
+We make predictions for cross sections of ρ and ϕ vector meson photoproduction in ultraperipheral Xe–Xe collisions at s N N = 5.44 TeV . Analyzing the momentum transfer distribution of ρ mesons in this process, we explore the feasibility of extracting the nuclear density of 129Xe, which is needed in searches for dark matter with Xenon-based detectors.

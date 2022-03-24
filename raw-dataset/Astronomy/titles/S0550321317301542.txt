@@ -1,0 +1,15 @@
+Permutation-symmetric three-particle hyper-spherical harmonics based on the S
+               3
+               ⊗
+               SO(3)
+                  rot
+               
+               ⊂
+               O(2)⊗SO(3)
+                  rot
+               
+               ⊂
+               U(3)⋊S
+               2
+               ⊂
+               O(6) subgroup chain 

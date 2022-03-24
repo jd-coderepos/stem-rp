@@ -1,0 +1,1 @@
+It is shown that in the approximation of |q/p|=1 the CP violation in B 0 d,s →l + l − decays vanishes in SM. In a 2HDM with CP violating phases and MSSM the CP asymmetries depend on the parameters of models and can be as large as 40% for B 0 d and 3% for B 0 s . An observation of CP asymmetry in the decays would unambiguously signal the existence of new physics.

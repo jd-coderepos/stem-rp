@@ -1,0 +1,1 @@
+Dataset of chlorophyll content estimation of Coffea Canephora using Red and Near-Infrared consumer-grade camera 

@@ -1,0 +1,1 @@
+Assimilation of remotely sensed soil moisture and vegetation with a crop simulation model for maize yield prediction 

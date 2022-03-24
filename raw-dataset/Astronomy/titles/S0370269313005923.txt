@@ -1,0 +1,1 @@
+Harmonic oscillator with minimal length, minimal momentum, and maximal momentum uncertainties in SUSYQM framework 

@@ -1,0 +1,1 @@
+Time-course proteomics dataset to monitor protein-bound methionine oxidation in Bacillus cereus ATCC 14579 

@@ -1,0 +1,1 @@
+Two-loop renormalization group equations in gauge theories with multiple U(1) groups are presented. Instead of normalizing the Abelian gauge fields in canonical forms, we retain kinetic-mixing terms and treat the mixing coefficients as free parameters. The β- and γ-functions are then obtained in a straightforward manner.

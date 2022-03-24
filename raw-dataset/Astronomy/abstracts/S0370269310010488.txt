@@ -1,0 +1,1 @@
+From the recent theoretical result on the production of the Higgs boson at the Large Hadron Collider, it follows that other particles will also be produced with small transverse momentum, of the order of 1 GeV / c . The leptonic decay mode of the Z is especially suited for a first observation of this phenomenon. Other related effects, such as paired jets, are also discussed.

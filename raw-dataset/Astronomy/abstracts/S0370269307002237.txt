@@ -1,0 +1,1 @@
+The dipole form of the “Abelian” part of the massless quark contribution to the BFKL kernel is found in the coordinate representation by direct transfer from the momentum representation where the contribution was calculated before. It coincides with the corresponding part of the quark contribution to the dipole kernel calculated recently by Balitsky and is conformal invariant.

@@ -1,0 +1,1 @@
+We give an alternative perturbative proof of the renormalizability of the system defined by the gradient flow and the fermion flow in vector-like gauge theories.

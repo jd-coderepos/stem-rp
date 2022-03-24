@@ -1,0 +1,1 @@
+We study co-ideals in the core Hopf algebra underlying a quantum field theory.

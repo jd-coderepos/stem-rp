@@ -1,0 +1,1 @@
+We analyze the phenomenon of birefringence of the electromagnetic field in the context of noncommutative geometry, using as background a deformed pp-wave solution to noncommutative Einsteinʼs equations. The light-cone structure is determined using a generalized Fresnel equation characterizing the propagation of light in premetric vacuum electrodynamics.

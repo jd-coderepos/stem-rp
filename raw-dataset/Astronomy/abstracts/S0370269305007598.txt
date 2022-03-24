@@ -1,0 +1,1 @@
+We have measured the antineutrino asymmetry B in neutron beta decay, i.e., the correlation of the neutron spin and the antineutrino momentum, with a new method. Our result is B = 0.967 ± 0.006 stat ± 0.010 syst = 0.967 ± 0.012 . Statistical and systematic uncertainty can be considerably reduced in future experiments.

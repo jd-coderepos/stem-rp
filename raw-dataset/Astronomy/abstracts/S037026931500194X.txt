@@ -1,0 +1,1 @@
+In this note, we use the disformal transformation to induce a geometry from the manifold which is originally Riemannian. The new geometry obtained here can be considered as a generalization of Weyl integrable geometry. Based on these results, we further propose a geometry which is naturally a generalization of Weyl geometry.

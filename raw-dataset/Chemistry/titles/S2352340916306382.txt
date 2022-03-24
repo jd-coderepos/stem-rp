@@ -1,0 +1,1 @@
+A large dataset of synthetic SEM images of powder materials and their ground truth 3D structures 

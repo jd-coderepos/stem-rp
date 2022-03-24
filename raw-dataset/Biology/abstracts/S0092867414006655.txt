@@ -1,0 +1,1 @@
+The generation of piRNAs from long primary transcripts requires specialized factors that distinguish these precursors from canonical RNA polymerase II transcripts. Mohn et al. and Zhang et al. provide evidence that in Drosophila melanogaster noncanonical transcription coupled with splicing inhibition differentiates piRNA precursors from mRNAs and ensures their correct processing.

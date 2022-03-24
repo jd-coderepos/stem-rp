@@ -1,0 +1,3 @@
+Refocusing-range and image-quality enhanced optical reconstruction of 3-D objects from integral images using a principal periodic 
+                  δ
+               -function array 

@@ -1,0 +1,1 @@
+We focus on escape of a spin integer particle the challenge for which is of course that the corresponding field equation contains the second order time derivative and, in general, may be problematic for interpreting the extra-dimensional part of the field as a wave function for the KK modes as it is usually regarded.

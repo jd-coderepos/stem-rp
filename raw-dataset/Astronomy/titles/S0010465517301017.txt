@@ -1,0 +1,1 @@
+LB3D: A parallel implementation of the Lattice-Boltzmann method for simulation of interacting amphiphilic fluids 

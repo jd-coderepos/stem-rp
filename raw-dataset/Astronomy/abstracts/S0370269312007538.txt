@@ -1,0 +1,1 @@
+We consider near horizon geometries of extremal black holes in six-dimensional type IIB supergravity. In particular, we use the entropy function formalism to compute the charges and thermodynamic entropy of these solutions. We also comment on the role of attractor mechanism in understanding the entropy of the Hopf T-dual solutions in type IIA supergravity.

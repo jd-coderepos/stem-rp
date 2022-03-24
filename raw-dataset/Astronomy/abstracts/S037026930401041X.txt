@@ -1,0 +1,1 @@
+In this Letter we propose two path integral approaches to describe the classical mechanics of spinning particles. We show how these formulations can be derived from the associated quantum ones via a sort of geometrical dequantization procedure proposed in a previous paper.

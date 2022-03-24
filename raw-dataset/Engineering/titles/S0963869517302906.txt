@@ -1,0 +1,1 @@
+A confidence map based damage assessment approach using pulsed thermographic inspection 

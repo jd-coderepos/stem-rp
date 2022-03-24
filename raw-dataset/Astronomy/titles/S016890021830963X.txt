@@ -1,0 +1,1 @@
+Description of the luminosity evolution for the CERN LHC including dynamic aperture effects. Part II: application to Run 1 data 

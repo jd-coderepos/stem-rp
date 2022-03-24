@@ -1,0 +1,1 @@
+Random numbers for parallel computers: Requirements and methods, with emphasis on GPUs 

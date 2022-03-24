@@ -1,0 +1,1 @@
+Validation of an ergonomic assessment method using Kinect data in real workplace conditions 

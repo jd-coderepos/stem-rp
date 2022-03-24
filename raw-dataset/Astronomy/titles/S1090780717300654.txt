@@ -1,0 +1,1 @@
+A pulse sequence for singlet to heteronuclear magnetization transfer: S2hM 

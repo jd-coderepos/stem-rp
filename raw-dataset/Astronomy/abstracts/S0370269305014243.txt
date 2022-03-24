@@ -1,0 +1,1 @@
+The NA48 Collaboration has measured the amplitude of the CP-conserving component of the decay K S 0 → π + π − π 0 relative to K L 0 → π + π − π 0 . For the characteristic parameter λ, the values Re λ = 0.038 ± 0.010 and Im λ = − 0.013 ± 0.007 have been extracted. These values agree with earlier measurements and with theoretical predictions from chiral perturbation theory.

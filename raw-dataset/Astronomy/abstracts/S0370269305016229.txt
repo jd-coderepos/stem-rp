@@ -1,0 +1,1 @@
+We study the transition between quantum and classical behaviour of particles in a gravitational quantum well. We analyze how an increase in the particles mass turns the energy spectrum into a continuous one, from an experimental point of view. We also discuss the way these effects could be tested by conducting experiments with atoms and fullerene-type molecules.

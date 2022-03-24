@@ -1,0 +1,1 @@
+We prove a general formula for analytic reduction of tensor integrals which appear in calculations of multi-loop Feynman diagrams in quantum field theory models.

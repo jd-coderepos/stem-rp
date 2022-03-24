@@ -1,0 +1,1 @@
+Nonlinear oscillators arise in physics and engineering. A fast insight into a nonlinear oscillator’s property is much needed. In this letter the frequency-amplitude formulation with ω 4 is showed to be simple but effective in the analysis of nonlinear oscillators. As an example, a nonlinear oscillator with coordinate-dependent mass is adopted to elucidate the solution process.

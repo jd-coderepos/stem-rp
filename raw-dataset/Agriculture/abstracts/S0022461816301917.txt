@@ -1,0 +1,1 @@
+A rapid and efficient process for arranging a Braun-Blanquet phytosociological table is described. By means of an Information Processing System, a table containing up to 220 relevés and 980 species can be manipulated and produced for publication.

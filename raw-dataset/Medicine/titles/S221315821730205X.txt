@@ -1,0 +1,1 @@
+Diffusion tensor image segmentation of the cerebrum provides a single measure of cerebral small vessel disease severity related to cognitive change 

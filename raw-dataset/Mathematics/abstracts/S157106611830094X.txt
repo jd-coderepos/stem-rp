@@ -1,0 +1,1 @@
+We prove that the double covariant powerset functor PP does not admit any monad structure. The same applies to the n-fold composition of P for any n > 1 .

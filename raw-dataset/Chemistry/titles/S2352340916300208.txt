@@ -1,0 +1,1 @@
+Data for the identification of proteins and post-translational modifications of proteins associated to histones H3 and H4 in S. cerevisiae, using tandem affinity purification coupled with mass spectrometry 

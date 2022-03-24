@@ -1,0 +1,1 @@
+The statistical entropy of the Nariai black hole in a thermal equilibrium is calculated by using the brick-wall method. Even if the temperature depends on the choice of the timelike Killing vector, the entropy can be written by the ordinary area law which agrees with the Wald entropy. We discuss some physical consequences of this result and the properties of the temperatures.

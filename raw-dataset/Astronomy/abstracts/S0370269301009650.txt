@@ -1,0 +1,1 @@
+We study four point correlation functions of the spin 1 operators in the SU(2)0 WZNW model. The general solution which is everywhere single-valued has logarithmic terms and thus has a natural interpretation in terms of logarithmic conformal field theory. These are not invariant under all the crossing symmetries but can remain if fields possess additional quantum numbers.

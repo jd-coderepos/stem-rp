@@ -1,0 +1,1 @@
+BanglaLekha-Isolated: A multi-purpose comprehensive dataset of Handwritten Bangla Isolated characters 

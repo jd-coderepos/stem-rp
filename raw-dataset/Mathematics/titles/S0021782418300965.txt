@@ -1,0 +1,1 @@
+Stable boundary spike clusters for the two-dimensional Gierer–Meinhardt system 

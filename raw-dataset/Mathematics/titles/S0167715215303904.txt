@@ -1,0 +1,1 @@
+Exponential decay rate of partial autocorrelation coefficients of ARMA and short-memory processes 

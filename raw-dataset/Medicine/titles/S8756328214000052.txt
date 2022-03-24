@@ -1,0 +1,1 @@
+Increasing shape modelling accuracy by adjusting for subject positioning: An application to the analysis of radiographic proximal femur symmetry using data from the Osteoarthritis Initiative 

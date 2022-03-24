@@ -1,0 +1,1 @@
+Measuring land-use and land-cover change using the U.S. department of agriculture’s cropland data layer: Cautions and recommendations 

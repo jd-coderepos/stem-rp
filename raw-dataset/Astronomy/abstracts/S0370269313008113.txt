@@ -1,0 +1,1 @@
+It is observed that the finite size of hadrons produced in high energy collisions implies that their positions are correlated, since the probability to find two hadrons on top of each other is highly reduced. It is then shown that this effect can naturally explain the values of the correlation function below one, observed at LEP and LHC for pairs of identical pions.

@@ -1,0 +1,1 @@
+The scaffold protein APC has a well-known function in ensuring β-catenin destruction. In this issue of Developmental Cell, Saito-Diaz et al. (2018) uncover another role for APC in Wnt signaling: to prevent clathrin-dependent signalosome formation in the absence of ligand.

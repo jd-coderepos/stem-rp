@@ -1,0 +1,1 @@
+The first-order QED corrections to the polarized muon decay spectrum are considered. The exact dependence on electron and muon masses is kept. Numerical results are presented.

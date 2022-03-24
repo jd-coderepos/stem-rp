@@ -1,0 +1,1 @@
+We present an octonionic N = 1 superfield action that reproduces in components the action of Bagger and Lambert for M2 branes. By giving an expectation value to one of the scalars we obtain the maximally supersymmetric superfield action for D2 branes.

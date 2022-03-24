@@ -1,0 +1,1 @@
+JGIXA — A software package for the calculation and fitting of grazing incidence X-ray fluorescence and X-ray reflectivity data for the characterization of nanometer-layers and ultra-shallow-implants 

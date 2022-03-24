@@ -1,0 +1,1 @@
+We compute the third-order correction to the heavy-quark current correlation function due to the emission and absorption of an ultrasoft gluon. Our result supplies a missing contribution to top-quark pair production near threshold and the determination of the bottom quark mass from QCD sum rules.

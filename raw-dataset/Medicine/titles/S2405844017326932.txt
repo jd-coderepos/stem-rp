@@ -1,0 +1,1 @@
+A discrete algebraic framework for stochastic systems which yield unique and exact solutions 

@@ -1,0 +1,1 @@
+Convergence and quasi-optimality of adaptive FEM with inhomogeneous Dirichlet data 

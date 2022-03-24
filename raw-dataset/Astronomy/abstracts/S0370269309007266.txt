@@ -1,0 +1,1 @@
+In θ-expanded approach, we expand the noncommutative quantum electrodynamics action to θ 2 order and calculate the one loop divergent corrections to gauge field propagators. It is shown that the gauge field propagators are one loop renormalizable at θ 2 -order with a massive or massless fermion field.

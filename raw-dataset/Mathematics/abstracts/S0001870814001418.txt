@@ -1,0 +1,1 @@
+Combining known spectral sequences with a new spectral sequence relating reduced and unreduced sl N -homology yields a relationship between the Homflypt-homology of a knot and its sl N -concordance invariants. As an application, some of the sl N -concordance invariants are shown to be linearly independent.

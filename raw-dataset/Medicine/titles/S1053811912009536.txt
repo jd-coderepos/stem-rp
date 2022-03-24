@@ -1,0 +1,1 @@
+Removing motion and physiological artifacts from intrinsic BOLD fluctuations using short echo data 

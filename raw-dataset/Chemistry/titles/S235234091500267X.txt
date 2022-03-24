@@ -1,0 +1,1 @@
+Dataset for genotyping validation of cytochrome P450 2A6 whole-gene deletion (CYP2A6*4) by real-time polymerase chain reaction platforms 

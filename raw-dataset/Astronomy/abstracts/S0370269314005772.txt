@@ -1,0 +1,1 @@
+We show that in previous analyses of electron–proton scattering, the uncertainties in the statistical procedure to extract the proton charge radius are underestimated. Using a fit function based on a conformal mapping, we can describe the scattering data with high precision and extract a radius value in agreement with the one obtained from muonic hydrogen.

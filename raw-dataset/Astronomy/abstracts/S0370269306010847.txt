@@ -1,0 +1,1 @@
+We discuss the strength of the trilinear Higgs boson coupling in technicolor (or composite) models in a model independent way. The coupling is determined as a function of a very general ansatz for the technicolor self-energy, and turns out to be equal or smaller than the one of the Standard Model Higgs boson depending on the dynamics of the theory.

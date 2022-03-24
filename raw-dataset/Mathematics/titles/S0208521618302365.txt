@@ -1,0 +1,1 @@
+Fuzzy genetic-based noise removal filter for digital panoramic X-ray images 

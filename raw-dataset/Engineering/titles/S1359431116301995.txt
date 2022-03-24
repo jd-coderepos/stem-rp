@@ -1,0 +1,1 @@
+Dynamic coupled thermal-and-electrical modelling of sheet-and-tube hybrid photovoltaic/thermal (PVT) collectors 

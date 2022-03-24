@@ -1,0 +1,1 @@
+The prediction of photovoltaic module temperature with artificial neural networks 

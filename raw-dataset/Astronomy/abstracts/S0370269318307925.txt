@@ -1,0 +1,1 @@
+The gluon propagator plays a central role in determining the dynamics of QCD. In this work we demonstrate for BRST quantised QCD that the Dyson–Schwinger equation imposes significant analytic constraints on the structure of this propagator. In particular, we find that these constraints control the appearance of massless components in the gluon spectral density.

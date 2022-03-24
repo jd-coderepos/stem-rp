@@ -1,0 +1,1 @@
+We present a simple and yet rigorous derivation of the flow equations for the supersymmetric black-hole solutions of all 4-dimensional supergravities based on the recently found general form of all those solutions.

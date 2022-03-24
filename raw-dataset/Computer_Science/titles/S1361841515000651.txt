@@ -1,0 +1,1 @@
+Discriminative dictionary learning for abdominal multi-organ segmentation 

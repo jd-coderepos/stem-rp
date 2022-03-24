@@ -1,0 +1,1 @@
+We show that Calabi–Yau n-folds serve as (partial) moduli spaces for a large class of supersymmetric field theory models, constructed in spacetimes of various dimensions and signatures, and with various numbers of supersymmetry generators.

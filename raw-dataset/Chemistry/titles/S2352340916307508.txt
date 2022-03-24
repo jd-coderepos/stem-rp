@@ -1,0 +1,1 @@
+Dataset of the absorption, emission and excitation spectra and fluorescence intensity graphs of fluorescent cyanine dyes for the quantification of low amounts of dsDNA 

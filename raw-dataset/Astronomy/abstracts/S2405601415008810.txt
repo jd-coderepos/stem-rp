@@ -1,0 +1,1 @@
+We use large-scale lattice simulations to compute the rate of baryon-number violating processes, the sphaleron rate, the Higgs field expectation value, and the critical temperature of the electroweak phase transition in the Standard Model.

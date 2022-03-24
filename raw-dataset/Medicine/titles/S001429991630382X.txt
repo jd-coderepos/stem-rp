@@ -1,0 +1,1 @@
+A new, simple and robust radioligand binding method used to determine kinetic off-rate constants for unlabeled ligands. Application at α2A- and α2C-adrenoceptors 

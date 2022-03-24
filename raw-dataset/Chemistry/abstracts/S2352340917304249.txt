@@ -1,0 +1,1 @@
+This article provides a protocol for determination of human procollagen C-proteinase enhancer 1 (PCPE-1) concentrations by ELISA. The inter-assay and intra-assay coefficients of variability are given and so are the average plasma concentrations of PCPE-1 in healthy (control) individuals and liver fibrosis patients.

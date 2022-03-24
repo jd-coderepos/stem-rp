@@ -1,0 +1,1 @@
+Algorithms for left atrial wall segmentation and thickness – Evaluation on an open-source CT and MRI image database 

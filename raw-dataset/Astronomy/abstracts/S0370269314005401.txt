@@ -1,0 +1,1 @@
+We introduce the basic concepts of catastrophe theory needed to derive analytically the phase diagram of the proton–neutron interacting boson model (IBM-2). Previous studies [1–3] were based on numerical solutions. We here explain the whole IBM-2 phase diagram including the precise order of the phase transitions in terms of the cusp catastrophe.

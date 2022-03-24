@@ -1,0 +1,1 @@
+We give a direct proof of one-sided strategy-proofness for worker–firm matching under continuously transferable utility. A new “Lone Wolf” Theorem (Jagadeesan et al., 2017) for settings with transferable utility allows us to adapt the method of proving one-sided strategy-proofness that is typically used in settings with discrete transfers.

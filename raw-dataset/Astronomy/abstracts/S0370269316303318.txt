@@ -1,0 +1,1 @@
+We construct zero-curvature representations for the equations of motion of a class of σ-models with complex homogeneous target spaces, not necessarily symmetric. We show that in the symmetric case the proposed flat connection is gauge-equivalent to the conventional one.

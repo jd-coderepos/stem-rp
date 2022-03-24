@@ -1,0 +1,1 @@
+Point-hyperplane frameworks, slider joints, and rigidity preserving transformations 

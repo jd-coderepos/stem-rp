@@ -1,0 +1,1 @@
+Parton Distributions based on a Maximally Consistent Dataset 

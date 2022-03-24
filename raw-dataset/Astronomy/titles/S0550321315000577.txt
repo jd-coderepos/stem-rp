@@ -1,0 +1,7 @@
+Algebraic Bethe ansatz for the 
+                  s
+                  ℓ
+                  (
+                  2
+                  )
+                Gaudin model with boundary 

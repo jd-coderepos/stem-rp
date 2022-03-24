@@ -1,0 +1,1 @@
+We consider a planar double box with four massive external momenta and two massive internal propagators. We derive the system of differential equations for the relevant master integrals, cast it in canonical form, write it as a dlog form and solve it in terms of iterated integrals up to depth four.

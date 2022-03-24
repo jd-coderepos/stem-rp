@@ -1,0 +1,5 @@
+The continuity of the gauge fixing condition n
+               ⋅∂n
+               ⋅
+               A
+               =0 

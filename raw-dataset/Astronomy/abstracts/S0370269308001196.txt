@@ -1,0 +1,1 @@
+The discrete subgroup Δ ( 27 ) of SU ( 3 ) has the interesting multiplication rule 3 × 3 = 3 ¯ + 3 ¯ + 3 ¯ , which is used to obtain near tribimaximal neutrino mixing. Using present neutrino oscillation data as input, this model predicts that the effective mass m e e measured in neutrinoless double beta decay will be 0.14 eV.

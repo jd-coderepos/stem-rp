@@ -1,0 +1,1 @@
+We propose a state from the two-dimensional conformal field theory on the orbifold ( T 4 ) N / S ( N ) as a dual description for a pulsating string moving in AdS 3 . We show that, up to first order in the deforming parameter, the energy in both descriptions has the same dependence on the mode number, but with a non-trivial function of the coupling.

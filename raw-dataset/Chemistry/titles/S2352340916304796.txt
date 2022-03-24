@@ -1,0 +1,1 @@
+Data for molecular dynamics simulations of B-type cytochrome c oxidase with the Amber force field 

@@ -1,0 +1,1 @@
+We show that logic C 1 cannot be extended to a paraconsistent logic in which the substitution theorem is valid. We show that C 1 can be extended to larger paraconsistent logics by adding some desirable properties as axioms. We use three-valued logics to support our claims.

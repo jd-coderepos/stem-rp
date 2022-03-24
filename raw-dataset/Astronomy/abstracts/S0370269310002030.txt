@@ -1,0 +1,1 @@
+We propose a manifestly SO ( 8 ) invariant BF type Lagrangian for describing the dynamics of M2-brane–anti-M2-brane system in flat spacetime. When one of the scalars which satisfies a free-scalar equation takes a large expectation value, the M2-brane–anti-M2-brane action reduces to the tachyon DBI action of D2-brane–anti-D2-brane system in flat spacetime.

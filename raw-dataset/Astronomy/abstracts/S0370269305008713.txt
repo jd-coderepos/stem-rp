@@ -1,0 +1,1 @@
+We show that majoron emission from a hot nascent neutron star can be anisotropic in the presence of a strong magnetic field. If majorons carry a non-negligible fraction of the supernova energy, the resulting recoil velocity of a neutron star can explain the observed velocities of pulsars.

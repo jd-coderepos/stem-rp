@@ -1,0 +1,1 @@
+Data resulting from the CFD analysis of ten window frames according to the UNI EN ISO 10077-2 

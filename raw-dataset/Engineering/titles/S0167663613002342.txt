@@ -1,0 +1,1 @@
+Mechanical modeling of incompressible particle-reinforced neo-Hookean composites based on numerical homogenization 

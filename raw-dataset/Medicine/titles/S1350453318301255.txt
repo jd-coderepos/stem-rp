@@ -1,0 +1,1 @@
+Rate and age-dependent damage elasticity formulation for efficient hip fracture simulations 

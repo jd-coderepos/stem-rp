@@ -1,0 +1,1 @@
+A new strain energy function for the hyperelastic modelling of ligaments and tendons based on fascicle microstructure 

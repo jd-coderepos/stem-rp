@@ -1,0 +1,1 @@
+Using the NA48 detector at the CERN SPS, 31 K S →π 0 γγ candidates with an estimated background of 13.7±3.2 events have been observed. This first observation leads to a branching ratio of BR(K S →π 0 γγ) z>0.2=(4.9±1.6stat±0.9syst)×10−8 in agreement with Chiral Perturbation Theory predictions.

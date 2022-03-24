@@ -1,0 +1,1 @@
+QMC-SW: A simple workflow for quantum Monte Carlo calculations in chemistry 

@@ -1,0 +1,1 @@
+Dataset of quantitative spectral EEG of different stages of kindling acquisition in rats 

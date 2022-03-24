@@ -1,0 +1,1 @@
+Topic detection using paragraph vectors to support active learning in systematic reviews 

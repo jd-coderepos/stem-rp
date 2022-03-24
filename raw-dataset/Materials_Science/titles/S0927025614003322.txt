@@ -1,0 +1,1 @@
+A RESTful API for exchanging materials data in the AFLOWLIB.org consortium 

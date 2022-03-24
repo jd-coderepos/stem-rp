@@ -1,0 +1,1 @@
+N=(2,0) self-dual non-Abelian tensor multiplet in D=3+3 generates N=(1,1) self-dual systems in D=2+2 

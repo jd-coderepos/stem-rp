@@ -1,0 +1,1 @@
+Transverse spectra are calculated for various types of hadrons stemming from AuAu collisions at s = 200 GeV . We utilize a quark recombination model based on generalized Boltzmann–Gibbs thermodynamics for local hadron production at various break-up scenarios.

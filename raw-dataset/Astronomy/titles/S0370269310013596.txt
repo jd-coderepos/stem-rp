@@ -1,0 +1,9 @@
+Supersymmetry restoration in lattice formulations of 2D 
+                  N
+                  =
+                  (
+                  2
+                  ,
+                  2
+                  )
+                WZ model based on the Nicolai map 

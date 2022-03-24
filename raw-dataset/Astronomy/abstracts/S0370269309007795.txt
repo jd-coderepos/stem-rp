@@ -1,0 +1,1 @@
+The magnetic and quadrupole moments of the light-vector and axial-vector mesons are calculated in the light cone QCD sum rules. Our results for the static properties of these mesons are compared with the predictions of lattice QCD as well as other approaches existing in the literature.

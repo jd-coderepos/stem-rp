@@ -1,0 +1,1 @@
+Approximate solutions for N-body Hamiltonians with identical particles in D dimensions 

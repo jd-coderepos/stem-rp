@@ -1,0 +1,1 @@
+Dataset representing the effect of indirect band gap region of Cd-free AlGaAs buffer layer in Cu(In,Ga)Se photovoltaic cell 

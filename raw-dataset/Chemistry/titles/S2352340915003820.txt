@@ -1,0 +1,1 @@
+Dataset on protein composition of a human plasma sub-proteome able to modulate the Dengue 2 virus infection in Huh 7.5 cells 

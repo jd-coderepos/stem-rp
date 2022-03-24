@@ -1,0 +1,1 @@
+The LHCb forward acceptance covers a range of rapidities not accessible by the other LHC experiments, allowing for complementary measurements. We report recent measurements of electroweak boson production, either inclusive, or in association with a jet or a D meson.

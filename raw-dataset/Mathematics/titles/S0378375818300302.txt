@@ -1,0 +1,1 @@
+A group analysis using the Multiregression Dynamic Models for fMRI networked time series 

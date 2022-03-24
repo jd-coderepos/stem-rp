@@ -1,0 +1,3 @@
+A double-component Anderson–Weiss approach for describing NMR signals of mobile SI
+                  n
+                units: Application to constant-time DIPSHIFT experiments 

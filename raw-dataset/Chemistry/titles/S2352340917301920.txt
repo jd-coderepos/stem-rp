@@ -1,0 +1,1 @@
+Genome-wide gene expression dataset used to identify potential therapeutic targets in androgenetic alopecia 

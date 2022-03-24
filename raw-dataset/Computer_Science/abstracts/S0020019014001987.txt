@@ -1,0 +1,1 @@
+We study the characteristics of straight skeletons of monotone polygonal chains and use them to devise an algorithm for computing positively weighted straight skeletons of monotone polygons. Our algorithm runs in O ( n log ⁡ n ) time and O ( n ) space, where n denotes the number of vertices of the polygon.

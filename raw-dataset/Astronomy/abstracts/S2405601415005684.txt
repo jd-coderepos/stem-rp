@@ -1,0 +1,1 @@
+We investigate the potential to search for the vectorlike top partner in fully hadronic final states at the LHC. An algorithm is developed which kinematically reconstructs the vectorlike top. We show that for moderate masses and a large branching fraction into top quark and Higgs boson, the reconstruction works with good quality.

@@ -1,0 +1,1 @@
+Spatial registration for functional near-infrared spectroscopy: From channel position on the scalp to cortical location in individual and group analyses 

@@ -1,0 +1,1 @@
+Performances of full cross-validation partial least squares regression models developed using Raman spectral data for the prediction of bull beef sensory attributes 

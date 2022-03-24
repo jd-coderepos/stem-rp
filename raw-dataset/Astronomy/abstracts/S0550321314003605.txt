@@ -1,0 +1,1 @@
+A new spin-chain representation of the Temperley–Lieb algebra TL n ( β = 0 ) is introduced and related to the dimer model. Unlike the usual XXZ spin-chain representations of dimension 2 n , this dimer representation is of dimension 2 n − 1 . A detailed analysis of its structure is presented and found to yield indecomposable zigzag modules.

@@ -1,0 +1,1 @@
+Dataset for the thermodynamic description for the NaF-KF-RbF-ZnF2 system 

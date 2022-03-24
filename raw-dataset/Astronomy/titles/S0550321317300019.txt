@@ -1,0 +1,2 @@
+Hierarchy of the low-lying excitations for the (2+1)-dimensional q
+               =3 Potts model in the ordered phase 

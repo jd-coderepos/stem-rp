@@ -1,0 +1,22 @@
+The 3-loop pure singlet heavy flavor contributions to the structure function 
+                  
+                     
+                        F
+                     
+                     
+                        2
+                     
+                  
+                  (
+                  x
+                  ,
+                  
+                     
+                        Q
+                     
+                     
+                        2
+                     
+                  
+                  )
+                and the anomalous dimension 

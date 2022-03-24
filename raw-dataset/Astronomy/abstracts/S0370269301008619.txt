@@ -1,0 +1,1 @@
+A value of (−6.1±0.9stat±0.5syst)×10−3 is obtained for the quadratic slope parameter h in the KL→3π 0 decay Dalitz plot at the NA48 experiment at the CERN SPS. The result is based on 14.7×106 fully reconstructed KL→3π 0→6γ decays. This is the most precise measurement of any of the Dalitz plot slope parameters in the charged and neutral kaon decays so far.

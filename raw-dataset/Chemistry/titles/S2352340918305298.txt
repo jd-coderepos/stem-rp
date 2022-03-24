@@ -1,0 +1,1 @@
+Dataset of surface plasmon resonance based on photonic crystal fiber for chemical sensing applications 

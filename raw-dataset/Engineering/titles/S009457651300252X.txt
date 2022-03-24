@@ -1,0 +1,1 @@
+Broad-search algorithms for the spacecraft trajectory design of Callisto–Ganymede–Io triple flyby sequences from 2024 to 2040, Part II: Lambert pathfinding and trajectory solutions 

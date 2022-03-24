@@ -1,0 +1,1 @@
+We obtain a gauge-invariant relativistic quantum geometry by using a Weylian-like manifold with a geometric scalar field which provides a gauge-invariant relativistic quantum theory in which the algebra of the Weylian-like field depends on observers. An example for a Reissner–Nordström black-hole is studied.

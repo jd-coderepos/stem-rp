@@ -1,0 +1,1 @@
+A difference ring theory for symbolic summation 

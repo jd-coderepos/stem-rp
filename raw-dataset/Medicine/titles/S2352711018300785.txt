@@ -1,0 +1,1 @@
+dotCall64: An R package providing an efficient interface to compiled C, C++, and Fortran code supporting long vectors 

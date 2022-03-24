@@ -1,0 +1,1 @@
+Patient-specific parameterised cam geometry in finite element models of femoroacetabular impingement of the hip 

@@ -1,0 +1,1 @@
+Null ideals of matrices over residue class rings of principal ideal domains 

@@ -1,0 +1,1 @@
+DarkSide-50 (DS-50) at Gran Sasso underground laboratory (LNGS), Italy, is a direct dark matter search experiment based on a TPC with liquid argon. DS-50 has completed its first dark matter run using atmospheric argon as target. The DS-50 detector performances and the results of the first physics run are reviewed in this proceeding.

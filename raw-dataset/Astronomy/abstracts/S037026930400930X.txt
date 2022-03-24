@@ -1,0 +1,1 @@
+We report on a search for the flavor-changing neutral current decay D 0 → μ + μ − using 50 × 10 6 events recorded with a dimuon trigger in interactions of 920 GeV protons with nuclei by the HERA-B experiment. We find no evidence for such decays and set a 90% confidence level upper limit on the branching fraction B ( D 0 → μ + μ − ) < 2.0 × 10 − 6 .

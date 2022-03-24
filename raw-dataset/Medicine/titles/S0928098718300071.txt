@@ -1,0 +1,1 @@
+Development of a mechanistic biokinetic model for hepatic bile acid handling to predict possible cholestatic effects of drugs 

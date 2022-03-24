@@ -1,0 +1,1 @@
+Time-of-flight detectors, based on scintillation counters, may use conventional photomultipliers for the readout. Problems arise in presence of external magnetic fields. SiPMT arrays are insensitive to magnetic fields and may be a suitable option to replace photomultipliers. Timing performances for several types of SiPMT arrays have been studied and results are presented.

@@ -1,0 +1,1 @@
+Complete inclusion of parity-dependent level densities in the statistical description of astrophysical reaction rates 

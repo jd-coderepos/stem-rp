@@ -1,0 +1,1 @@
+We calculate the electric dipole form factor of the nucleon that arises as a low-energy manifestation of time-reversal violation in quark–gluon interactions of effective dimension 6: the quark electric and chromoelectric dipole moments, and the gluon chromoelectric dipole moment. We use the framework of two-flavor chiral perturbation theory to one loop.

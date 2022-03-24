@@ -1,0 +1,1 @@
+Research has suggested that monetary policy acts asymmetrically near zero interest rates. We match past ECB decisions with a simple forecast-based reaction function. The policy easing that started in 2013 has led to a deviation indicating a “lower for longer” approach.

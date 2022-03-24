@@ -1,0 +1,1 @@
+An investigation of dynamic behavior of the cylindrical shells under thermal effect 

@@ -1,0 +1,1 @@
+Simulator testing of evacuated flat plate solar collectors for industrial heat and building integration 

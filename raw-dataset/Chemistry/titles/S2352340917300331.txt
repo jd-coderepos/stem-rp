@@ -1,0 +1,1 @@
+Dataset of proinflammatory cytokine and cytokine receptor gene expression in rainbow trout (Oncorhynchus mykiss) measured using a novel GeXP multiplex, RT-PCR assay 

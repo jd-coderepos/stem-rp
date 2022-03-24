@@ -1,0 +1,1 @@
+Geographically weighted regression models for ordinal categorical response variables: An application to geo-referenced life satisfaction data 

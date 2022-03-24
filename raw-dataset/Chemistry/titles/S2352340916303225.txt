@@ -1,0 +1,3 @@
+Load displacement and high speed nanoindentation data set at different state of charge (SoC) for spinel Li
+                  x
+               Mn2O4 cathodes 

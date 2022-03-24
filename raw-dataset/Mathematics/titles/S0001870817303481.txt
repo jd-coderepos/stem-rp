@@ -1,0 +1,3 @@
+Rigorous effective bounds on the Hausdorff dimension of continued fraction Cantor sets: A hundred decimal digits for the dimension of E
+               2
+             

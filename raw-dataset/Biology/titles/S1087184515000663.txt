@@ -1,0 +1,2 @@
+A codon-optimized green fluorescent protein for live cell imaging in Zymoseptoria tritici
+             

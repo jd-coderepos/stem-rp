@@ -1,0 +1,1 @@
+Ground-state energies of the open and closed p + ip-pairing models from the Bethe Ansatz 

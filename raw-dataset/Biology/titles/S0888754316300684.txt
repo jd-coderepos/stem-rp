@@ -1,0 +1,1 @@
+Comparing continuous and discrete analyses of breast cancer survival information 

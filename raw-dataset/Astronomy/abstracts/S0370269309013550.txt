@@ -1,0 +1,1 @@
+We show in some lower-dimensional supergravity models that the holographic counterterms which are needed in the AdS/CFT correspondence to make the theory finite, coincide with the counterterms that are needed to make the action supersymmetric without imposing any boundary conditions on the fields.

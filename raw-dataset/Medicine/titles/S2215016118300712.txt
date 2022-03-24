@@ -1,0 +1,1 @@
+Wavelet regression: An approach for undertaking multi-time scale analyses of hydro-climate relationships 

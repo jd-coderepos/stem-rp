@@ -1,0 +1,1 @@
+We investigate the possibility that the dimension 2 condensate A 2 μ has a non zero non-perturbative value in Yang–Mills theory. We introduce a multiplicatively renormalisable effective potential for this condensate and show through two loop calculations that a non zero condensate is energetically favoured.

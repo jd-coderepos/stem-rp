@@ -1,0 +1,1 @@
+The cross section of the process e+e−→Ze+e− is measured with 0.7 fb−1 of data collected with the L3 detector at LEP. Decays of the Z boson into quarks and muons are considered at centre-of-mass energies ranging from 183 GeV up to 209 GeV . The measurements are found to agree with Standard Model predictions, achieving a precision of about 10% for the hadronic channel.

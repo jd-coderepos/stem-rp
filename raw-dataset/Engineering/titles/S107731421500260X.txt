@@ -1,0 +1,1 @@
+A comparative study of pose representation and dynamics modelling for online motion quality assessment 

@@ -1,0 +1,1 @@
+In the gauge mediation mechanism, the effects of the hidden sector are characterized by a set of correlation functions of the global symmetry current of the hidden sector. We present methods to compute these correlators in cases with strongly coupled hidden sectors. Several examples are presented to demonstrate the technique explicitly.

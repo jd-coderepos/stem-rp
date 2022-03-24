@@ -1,0 +1,1 @@
+Received signal strength and local terrain profile data for radio network planning and optimization at GSM frequency bands 

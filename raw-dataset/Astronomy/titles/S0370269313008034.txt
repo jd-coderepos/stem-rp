@@ -1,0 +1,10 @@
+Reconcile the AMS-02 positron fraction and Fermi-LAT/HESS total 
+                  
+                     
+                        e
+                     
+                     
+                        ±
+                     
+                  
+                spectra by the primary electron spectrum hardening 

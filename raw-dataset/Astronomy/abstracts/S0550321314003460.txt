@@ -1,0 +1,1 @@
+We study a quark–monopole bound system moving in N = 4 SYM plasma with a constant velocity by the AdS/CFT correspondence. The screening length of this system is calculated, and it is smaller than that of the quark–antiquark bound state.

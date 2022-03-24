@@ -1,0 +1,1 @@
+Forecasting US bond default ratings allowing for previous and initial state dependence in an ordered probit model 

@@ -1,0 +1,1 @@
+Relation between the rate of convergence of strong law of large numbers and the rate of concentration of Bayesian prior in game-theoretic probability 

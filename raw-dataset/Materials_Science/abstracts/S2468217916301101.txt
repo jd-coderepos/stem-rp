@@ -1,0 +1,1 @@
+We studied giant magnetoimpedance (GMI) effect in magnetically soft amorphous Co-rich microwires in the extended frequency range. From obtained experimentally dependences of the GMI ratio on magnetic field at different frequencies we estimated the penetration depth and its dependence on applied magnetic field and frequency.

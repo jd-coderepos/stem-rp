@@ -1,0 +1,2 @@
+Update (v1.1) to DLTPulseGenerator: A library for the simulation of lifetime spectra based on detector-output pulses
+             

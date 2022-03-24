@@ -1,0 +1,1 @@
+New data acquisition system for beam loss monitor used in J-PARC main ring 

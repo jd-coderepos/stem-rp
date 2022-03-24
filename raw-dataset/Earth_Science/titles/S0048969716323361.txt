@@ -1,0 +1,1 @@
+A framework for a joint hydro-meteorological-social analysis of drought 

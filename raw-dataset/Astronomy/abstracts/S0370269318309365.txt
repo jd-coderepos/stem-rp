@@ -1,0 +1,1 @@
+In this note we provide a new perspective on the topological parts of several action functionals in string and M-theory. We show that rationally these can be viewed as large gauge transformations corresponding to variations of higher structures, such as String, Fivebrane, and Ninebrane structures.

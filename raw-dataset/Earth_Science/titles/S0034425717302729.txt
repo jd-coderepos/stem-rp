@@ -1,0 +1,1 @@
+A drought event composite analysis using satellite remote-sensing based soil moisture 

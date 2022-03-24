@@ -1,0 +1,1 @@
+Reference layer artefact subtraction (RLAS): A novel method of minimizing EEG artefacts during simultaneous fMRI 

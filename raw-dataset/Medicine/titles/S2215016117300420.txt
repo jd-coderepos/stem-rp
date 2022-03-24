@@ -1,0 +1,1 @@
+A protocol for gene expression analysis of chondrocytes from bovine osteochondral plugs used for biotribological applications 

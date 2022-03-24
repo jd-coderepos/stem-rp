@@ -1,0 +1,1 @@
+A recent paper by Henderson et al. (2012) claimed that skin sympathetic nerve activity (SSNA) can not be retrieved from skin conductance responses (SCR). Here, I argue that this claim is not supported by the literature, and comment on contemporary approaches of estimating SSNA from SCR using biophysical models.

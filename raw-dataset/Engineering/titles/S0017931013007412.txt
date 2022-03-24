@@ -1,0 +1,1 @@
+Simulation of macrosegregation in a 2.45-ton steel ingot using a three-phase mixed columnar-equiaxed model 

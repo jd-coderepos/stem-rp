@@ -1,0 +1,1 @@
+Using a new country-level panel database, we explore effect of capital inflow surges, credit booms and financial fragility on the probability of banking crises. We find that booms increase the probability of a crisis only in relatively fragile financial systems.

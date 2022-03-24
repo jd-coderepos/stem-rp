@@ -1,0 +1,1 @@
+A simple trace-coupled Galileon model is shown to admit spherically symmetric static solutions with naked spacetime curvature singularities.

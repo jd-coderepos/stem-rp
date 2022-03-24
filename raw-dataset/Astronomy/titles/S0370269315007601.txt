@@ -1,0 +1,57 @@
+Measurement of the branching ratio 
+                  Γ
+                  (
+                  
+                     
+                        Λ
+                     
+                     
+                        b
+                     
+                     
+                        0
+                     
+                  
+                  →
+                  ψ
+                  (
+                  2
+                  S
+                  )
+                  
+                     
+                        Λ
+                     
+                     
+                        0
+                     
+                  
+                  )
+                  /
+                  Γ
+                  (
+                  
+                     
+                        Λ
+                     
+                     
+                        b
+                     
+                     
+                        0
+                     
+                  
+                  →
+                  J
+                  /
+                  ψ
+                  
+                     
+                        Λ
+                     
+                     
+                        0
+                     
+                  
+                  )
+                with the ATLAS detector 

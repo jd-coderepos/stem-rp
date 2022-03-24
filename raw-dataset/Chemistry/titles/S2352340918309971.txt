@@ -1,0 +1,1 @@
+Data to reproduce and modify “An approach for screening single phase high-entropy alloys using an in-house thermodynamic database” 

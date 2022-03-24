@@ -1,0 +1,1 @@
+Multi-hazard loss estimation for shaking and tsunami using stochastic rupture sources 

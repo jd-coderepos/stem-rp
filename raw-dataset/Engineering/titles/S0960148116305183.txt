@@ -1,0 +1,1 @@
+Reducing sensor complexity for monitoring wind turbine performance using principal component analysis 

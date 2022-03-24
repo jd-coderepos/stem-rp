@@ -1,0 +1,1 @@
+CANDLES studies the double beta decay of 48Ca through CaF2 scintillation crystals. The CANDLES III detector, located in Kamioka underground laboratory, is currently running. Here we describe recent status of data analysis which includes detector performance, detector stability, and background estimation. Current sensitivity for 0 ν β β half-life is also discussed in this paper.

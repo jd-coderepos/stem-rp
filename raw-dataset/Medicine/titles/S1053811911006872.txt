@@ -1,0 +1,1 @@
+Patient classification as an outlier detection problem: An application of the One-Class Support Vector Machine 

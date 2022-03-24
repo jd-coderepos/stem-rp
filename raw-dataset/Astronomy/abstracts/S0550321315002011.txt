@@ -1,0 +1,1 @@
+For complete intersection Calabi–Yau manifolds in toric varieties, Gross and Haase–Zharkov have given a conjectural combinatorial description of the special Lagrangian torus fibrations whose existence was predicted by Strominger, Yau and Zaslow. We present a geometric version of this construction, generalizing an earlier conjecture of the first author.

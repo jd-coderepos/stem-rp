@@ -1,0 +1,1 @@
+Compression testing spherical particles for strength: Theory of the meridian crack test and implementation for microscopic fused quartz 

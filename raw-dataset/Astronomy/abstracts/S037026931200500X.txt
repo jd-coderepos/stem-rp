@@ -1,0 +1,1 @@
+We show that the new relation between master integrals recently obtained in M.Yu. Kalmykov and B.A. Kniehl (2011) [1] can be reproduced using the integration-by-parts technique implemented with an effective mass. In fact, this relation is recovered as a special case of a whole family of new relations between master integrals.

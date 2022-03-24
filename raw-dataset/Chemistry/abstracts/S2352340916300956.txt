@@ -1,0 +1,1 @@
+We analysed STAT5A gene expression in breast cancer using the Oncomine database. We exemplify four representative studies showing that STAT5A is generally downregulated in breast cancer.

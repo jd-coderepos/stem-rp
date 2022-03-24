@@ -1,0 +1,1 @@
+We show that one can express Frobenius transformation on middle-dimensional p-adic cohomology of Calabi–Yau threefold in terms of mirror map and instanton numbers. We express the mirror map in terms of Frobenius transformation on p-adic cohomology. We discuss a p-adic interpretation of the conjecture about integrality of Gopakumar–Vafa invariants.

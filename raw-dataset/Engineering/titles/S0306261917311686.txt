@@ -1,0 +1,1 @@
+Performance of an electrical distribution network with Soft Open Point during a grid side AC fault 

@@ -1,0 +1,1 @@
+Dataset of mRNA levels for dopaminergic receptors, adrenoceptors and tyrosine hydroxylase in lymphocytes from subjects with clinically isolated syndromes 

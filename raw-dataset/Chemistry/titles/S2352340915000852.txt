@@ -1,0 +1,1 @@
+Data supporting the identification of compound for inhibition of survivin of colorectal cancer by using ingenuity pathway analysis of gene expression profiling of colorectal cancer tissues 

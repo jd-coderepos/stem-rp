@@ -1,0 +1,1 @@
+Dataset for petroleum based stock markets and GAUSS codes for SAMEM 

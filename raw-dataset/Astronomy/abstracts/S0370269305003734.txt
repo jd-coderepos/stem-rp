@@ -1,0 +1,1 @@
+We have searched for the lepton-flavor-violating decay τ → e γ using a data sample of 86.7 fb−1 collected with the Belle detector at the KEKB asymmetric e + e − collider. No evidence for a signal is obtained, and we set an upper limit for the branching fraction B ( τ → e γ ) < 3.9 × 10 −7 at the 90% C.L.

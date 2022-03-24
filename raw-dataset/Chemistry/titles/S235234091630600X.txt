@@ -1,0 +1,2 @@
+Data for the qualitative modeling of the osmotic stress response to NaCl in Escherichia coli
+             

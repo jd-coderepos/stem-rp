@@ -1,0 +1,53 @@
+Measurement of the ratio of the vector to pseudoscalar charm semileptonic decay rate 
+                  Γ
+                  (
+                  
+                     D
+                     +
+                  
+                  →
+                  
+                     
+                        K
+                        ¯
+                     
+                     
+                        *
+                        0
+                     
+                  
+                  
+                     μ
+                     +
+                  
+                  
+                     ν
+                     μ
+                  
+                  )
+                  /
+                  Γ
+                  (
+                  
+                     D
+                     +
+                  
+                  →
+                  
+                     
+                        K
+                        ¯
+                     
+                     0
+                  
+                  
+                     μ
+                     +
+                  
+                  
+                     ν
+                     μ
+                  
+                  )
+               
+             

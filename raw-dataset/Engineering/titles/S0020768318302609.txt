@@ -1,0 +1,1 @@
+A thermodynamically consistent model for elastoplasticity, recovery, recrystallization and grain coarsening 

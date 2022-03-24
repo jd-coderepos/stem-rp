@@ -1,0 +1,9 @@
+Numerical simulation of the 
+                  N
+                  =
+                  (
+                  2
+                  ,
+                  2
+                  )
+                Landau–Ginzburg model 

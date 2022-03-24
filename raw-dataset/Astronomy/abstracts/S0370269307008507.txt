@@ -1,0 +1,1 @@
+A method to solve the static field equation of the Faddeev model is presented. For a special combination of the concerned field, we adopt a form which is compatible with the field equation and involves two arbitrary complex functions. As a result, the static field equation is reduced to a set of first order partial differential equations.

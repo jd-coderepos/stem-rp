@@ -1,0 +1,1 @@
+We find that there exists a soliton-like solution “I-ball” in theories of a real scalar field if the scalar potential satisfies appropriate conditions. Although the I-ball does not have any topological or global U(1) charges, its stability is ensured by the adiabatic invariance for the oscillating field.

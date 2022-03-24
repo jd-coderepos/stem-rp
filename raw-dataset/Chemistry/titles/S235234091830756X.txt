@@ -1,0 +1,1 @@
+A geospatial database of drought occurrence in inland valleys in Mali, Burkina Faso and Nigeria 

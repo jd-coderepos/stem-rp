@@ -1,0 +1,1 @@
+We obtain a number of explicit estimates for quasi-norms of pseudo-differential operators in the Schatten–von Neumann classes S q with 0 < q ⩽ 1 . The estimates are applied to derive semi-classical bounds for operators with smooth or non-smooth symbols.

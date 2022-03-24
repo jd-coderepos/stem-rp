@@ -1,0 +1,1 @@
+We consider double parton distributions in the general case in which the virtualities of the interacting partons are different. We elaborate the corresponding evolution equations and their extension to next-to-leading logarithmic accuracy.

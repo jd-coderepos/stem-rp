@@ -1,0 +1,1 @@
+Automated monitoring of dairy cow body condition, mobility and weight using a single 3D video capture device 

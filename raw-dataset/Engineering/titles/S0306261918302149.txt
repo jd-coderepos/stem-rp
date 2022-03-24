@@ -1,0 +1,1 @@
+Evaluation of peer-to-peer energy sharing mechanisms based on a multiagent simulation framework 

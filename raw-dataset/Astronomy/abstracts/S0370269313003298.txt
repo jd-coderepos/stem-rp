@@ -1,0 +1,1 @@
+We reexamine the effect of kinetic decoupling on the relic density of the non-relativistic particles whose annihilation rate is increased by Sommerfeld enhancement. I claim that the result in Dent et al. (2010) [1] is wrong in the case of kinetic decoupling for small coupling constant α.

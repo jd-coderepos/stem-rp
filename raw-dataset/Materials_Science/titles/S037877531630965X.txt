@@ -1,0 +1,1 @@
+Multi-temperature state-dependent equivalent circuit discharge model for lithium-sulfur batteries 

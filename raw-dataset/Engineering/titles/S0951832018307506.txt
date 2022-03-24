@@ -1,0 +1,1 @@
+Remaining useful life predictions for turbofan engine degradation using semi-supervised deep architecture 

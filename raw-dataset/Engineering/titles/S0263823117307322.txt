@@ -1,0 +1,1 @@
+Analysis of flexural behavior of a simple supported thin beam under concentrated multiloads using trigonometric series method 

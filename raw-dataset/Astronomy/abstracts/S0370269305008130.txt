@@ -1,0 +1,1 @@
+Vacuum expectation values of the surface energy–momentum tensor is investigated for a massless scalar field obeying mixed boundary condition on a brane in de Sitter bulk. To generate the corresponding vacuum surface densities we use the conformal relation between de Sitter and Rindler spacetimes.

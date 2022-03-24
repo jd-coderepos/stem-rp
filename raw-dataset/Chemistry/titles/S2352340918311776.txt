@@ -1,0 +1,1 @@
+RNA sequencing dataset describing transcriptional changes in cervical dorsal root ganglia after bilateral pyramidotomy and forelimb intramuscular gene therapy with an adeno-associated viral vector encoding human neurotrophin-3 

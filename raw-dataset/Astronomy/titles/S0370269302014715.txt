@@ -1,0 +1,1 @@
+A decoupled system of hyperbolic equations for linearized cosmological perturbations 

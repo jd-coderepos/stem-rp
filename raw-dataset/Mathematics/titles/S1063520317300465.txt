@@ -1,0 +1,1 @@
+Minimax optimal procedures for testing the structure of multidimensional functions 

@@ -1,0 +1,1 @@
+Point process models for novelty detection on spatial point patterns and their extremes 

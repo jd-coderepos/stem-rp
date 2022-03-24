@@ -1,0 +1,1 @@
+We discuss the high energy diffractive dissociation in DIS at the Next to Leading Order. In the large N c dipole limit we derive the NLO version of the Kovchegov–Levin equation. We argue that the original structure of the equation is preserved, that is it coincides with the Balitsky–Kovchegov equation at NLO.

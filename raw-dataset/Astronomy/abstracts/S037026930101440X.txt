@@ -1,0 +1,1 @@
+The prototype of the Borexino detector Counting Test Facility, located in the Gran-Sasso laboratory, has been used to obtain a bound on the stability of the electron. The new lower limit on the mean lifetime defined on 32.1 days of data set is τ(e −→ν e +γ)⩾4.6×1026 yr (90% c.l.).

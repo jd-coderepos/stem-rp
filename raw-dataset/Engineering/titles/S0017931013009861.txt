@@ -1,0 +1,1 @@
+A solution of the Boltzmann equations in the presence of three components and inelastic collisions 

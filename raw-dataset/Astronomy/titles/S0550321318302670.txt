@@ -1,0 +1,28 @@
+An action of the free product 
+                  
+                     
+                        Z
+                     
+                     
+                        2
+                     
+                  
+                  ⋆
+                  
+                     
+                        Z
+                     
+                     
+                        2
+                     
+                  
+                  ⋆
+                  
+                     
+                        Z
+                     
+                     
+                        2
+                     
+                  
+                on the q-Onsager algebra and its current algebra 

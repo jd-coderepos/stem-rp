@@ -1,0 +1,1 @@
+Spectral response characterization of CdTe sensors of different pixel size with the IBEX ASIC 

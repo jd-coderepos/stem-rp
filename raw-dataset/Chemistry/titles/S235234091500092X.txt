@@ -1,0 +1,3 @@
+A concise methodology for the estimation of elemental concentration effects on mesoscale cohesion of non-ferrous covalent glasses: The case of Se(80−x)Ge(20−x)In
+                  x=0,5,10,15
+             

@@ -1,0 +1,1 @@
+An overview of the data obtained during the validation of an optimized MALDI-TOF MS Biotyper database for the identification of anaerobic bacteria 

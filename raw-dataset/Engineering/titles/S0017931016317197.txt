@@ -1,0 +1,1 @@
+A spectral element model for nonhomogeneous heat flow in shallow geothermal systems 

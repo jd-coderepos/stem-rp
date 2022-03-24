@@ -1,0 +1,8 @@
+The NSVZ scheme for 
+                  N
+                  =
+                  1
+                SQED with N
+               
+                  f
+                flavors, regularized by the dimensional reduction, in the three-loop approximation 

@@ -1,0 +1,1 @@
+An 85%-efficiency reconfigurable multiphase switched capacitor DC-DC converter utilizing frequency, switch size, and interleaving scaling techniques 

@@ -1,0 +1,1 @@
+This set of experiments characterizes a model of transient cerebral ischemic stroke in a transgenic (Tg) mouse line in which the glial fibrillary acidic protein (GFAP) promoter is utilized to drive expression of a human RNA-binding protein, HuR. Additionally, the effect of cerebral ischemia on the expression of endogenous Hu proteins is presented.

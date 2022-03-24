@@ -1,0 +1,1 @@
+Stagnation point flow of hyperbolic tangent fluid with Soret-Dufour effects 

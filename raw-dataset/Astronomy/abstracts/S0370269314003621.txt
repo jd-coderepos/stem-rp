@@ -1,0 +1,1 @@
+We correct an error affecting the plotting of Fig. 5 in Phys. Lett. B 728 (2014) 216 (arXiv:1307.5543).

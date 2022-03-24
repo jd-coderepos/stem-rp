@@ -1,0 +1,1 @@
+Comparison between meteorological re-analyses from ERA-Interim and MERRA and measurements of daily solar irradiation at surface 

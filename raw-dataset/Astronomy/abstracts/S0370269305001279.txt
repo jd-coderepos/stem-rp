@@ -1,0 +1,1 @@
+We study the massive Curci–Ferrari model as a starting point for defining BRST quantisation for Yang–Mills theory on the lattice. In particular, we elucidate this proposal in light of topological approaches to gauge-fixing and study the case of a simple one-link Abelian model.

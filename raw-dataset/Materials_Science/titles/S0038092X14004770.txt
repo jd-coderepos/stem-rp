@@ -1,0 +1,1 @@
+Irradiance modelling for individual cells of shaded solar photovoltaic arrays 

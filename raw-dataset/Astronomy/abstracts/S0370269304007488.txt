@@ -1,0 +1,1 @@
+We extend the counting of generalized form factors presented in [Phys. Rev. D 63 (2001) 076005] by Ji and Lebed to the axial vector and the tensor operator at twist-2 level. Following this, a parameterization of all higher moments in x of the tensor (helicity flip) operator is given in terms of generalized form factors.

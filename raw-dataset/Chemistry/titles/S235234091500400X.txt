@@ -1,0 +1,1 @@
+Dataset for the NMR structure of the intrinsically disordered acidic region of XPC bound to the PH domain of TFIIH p62 

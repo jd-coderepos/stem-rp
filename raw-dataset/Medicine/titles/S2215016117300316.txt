@@ -1,0 +1,1 @@
+A straightforward LC approach using an amine column and single quad mass detector to determine choline chloride in feed additives and feeds 

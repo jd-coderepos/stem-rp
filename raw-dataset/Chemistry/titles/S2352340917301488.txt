@@ -1,0 +1,1 @@
+Data on anti-insulation detection via Point of Thermal Inflexion (PTI) in 1248 cases; 13 climates, four occupancy profiles, six wall configurations and four insulation levels 

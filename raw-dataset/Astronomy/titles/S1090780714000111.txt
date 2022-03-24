@@ -1,0 +1,1 @@
+A standard format and a graphical user interface for spin system specification 

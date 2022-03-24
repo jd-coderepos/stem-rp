@@ -1,0 +1,1 @@
+I reconsider the forward–backward asymmetry for flavoured quarks in electron–positron annihilation. I suggest an infrared-safe definition of this observable, such that the asymmetry may be computed in perturbative QCD with massless quarks. With this definition, the first and second order QCD corrections are computed.

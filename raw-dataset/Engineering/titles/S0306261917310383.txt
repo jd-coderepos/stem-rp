@@ -1,0 +1,1 @@
+Coupling detailed radiation model with process simulation in Aspen Plus: A case study on fluidized bed combustor 

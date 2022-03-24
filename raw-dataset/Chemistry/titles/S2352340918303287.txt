@@ -1,0 +1,1 @@
+Biometric authentication data with three traits using compression technique, HOG, GMM and fusion technique 

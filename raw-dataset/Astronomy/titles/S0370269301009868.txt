@@ -1,0 +1,1 @@
+Testing non-commutative QED, constructing non-commutative MHD 

@@ -1,0 +1,1 @@
+Feynman's functional formulation of statistical mechanics is used to study the renormalizability of the well-known Linear Chiral Sigma Model in the presence of fermionic fields at finite temperature in an alternative way. It is shown that the renormalization conditions coincide with those of the zero temperature model.

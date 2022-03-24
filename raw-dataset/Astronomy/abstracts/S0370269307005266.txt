@@ -1,0 +1,1 @@
+We construct a long-range Baxter equation encoding anomalous dimensions of composite operators in the SL ( 2 | 1 ) sector of N = 4 supersymmetric Yang–Mills theory. The formalism is based on the analytical Bethe ansatz. We compare predictions of the Baxter equations for short operators with available multiloop perturbative calculations.

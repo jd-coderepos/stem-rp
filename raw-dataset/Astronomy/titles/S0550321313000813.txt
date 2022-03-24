@@ -1,0 +1,8 @@
+Three dimensional finite temperature 
+                  
+                     SU
+                  
+                  (
+                  3
+                  )
+                gauge theory near the phase transition 

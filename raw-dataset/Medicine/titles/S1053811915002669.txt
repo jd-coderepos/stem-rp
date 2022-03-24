@@ -1,0 +1,1 @@
+Is fMRI “noise” really noise? Resting state nuisance regressors remove variance with network structure 

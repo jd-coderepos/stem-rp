@@ -1,0 +1,1 @@
+A two-variable model robust to pacemaker behaviour for the dynamics of the cardiac action potential 

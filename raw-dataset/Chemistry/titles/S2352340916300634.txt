@@ -1,0 +1,1 @@
+Comprehensive RNA dataset of AGO2 associated RNAs in Jurkat cells following miR-21 over-expression 

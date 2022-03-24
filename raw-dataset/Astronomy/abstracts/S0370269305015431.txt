@@ -1,0 +1,1 @@
+In the perturbative QCD with N c → ∞ the amplitude for the collision of two heavy nuclei is expressed via dipole densities in the nuclei. Coupled equations for these densities are derived in the configuration space. The equations are conformal invariant in absence of external sources. Passing to conformal basis and its possible truncation are discussed.

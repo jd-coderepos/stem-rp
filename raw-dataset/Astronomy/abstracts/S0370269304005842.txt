@@ -1,0 +1,1 @@
+We have searched for the C-violating decay η→γγγ in a sample of ∼18 million η mesons produced in φ→ηγ decays, collected with the KLOE detector at the Frascati φ-factory DAΦNE. No signal is observed and we obtain the upper limit BR(η→γγγ)⩽1.6×10−5 at 90% CL.

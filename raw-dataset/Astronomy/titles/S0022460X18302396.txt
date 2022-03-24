@@ -1,0 +1,1 @@
+Cross-frequency and band-averaged response variance prediction in the hybrid deterministic-statistical energy analysis method 

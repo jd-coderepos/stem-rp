@@ -1,0 +1,1 @@
+Optimized alamarBlue assay protocol for drug dose-response determination of 3D tumor spheroids 

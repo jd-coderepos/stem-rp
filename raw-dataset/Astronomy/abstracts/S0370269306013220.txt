@@ -1,0 +1,1 @@
+We present the first observation of τ lepton decays to hadronic final states with a ϕ-meson. This analysis is based on 401 fb−1 of data accumulated at the Belle experiment. The branching fraction obtained is B ( τ − → ϕ K − ν τ ) = ( 4.05 ± 0.25 ± 0.26 ) × 10 −5 .

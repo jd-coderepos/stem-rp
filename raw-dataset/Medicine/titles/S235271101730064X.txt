@@ -1,0 +1,1 @@
+Multiresolution alignment for multiple unsynchronized audio sequences using Sequential Monte Carlo samplers 

@@ -1,0 +1,1 @@
+We extend to chiral N = 4 operators the holographic agreement recently found between correlators of the symmetric orbifold of M 4 at large N and type IIB strings propagating in AdS 3 × S 3 × M 4 , where M 4 = T 4 or K3. We also present expressions for some bulk correlators not yet computed in the boundary.

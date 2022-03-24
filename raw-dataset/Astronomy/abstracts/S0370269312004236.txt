@@ -1,0 +1,1 @@
+We investigate the evolution of the gravitational potential in Rastall scalar field theories. In a single component model a consistent perturbation theory, formulated in the Newtonian gauge, is possible only for γ = 1 , which is the General Relativity limit. On the other hand, the addition of another canonical fluid component allows to consider the case γ ≠ 1 .

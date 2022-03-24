@@ -1,0 +1,1 @@
+Tools and protocol for quantification of myosin phosphorylation with MRM-MS 

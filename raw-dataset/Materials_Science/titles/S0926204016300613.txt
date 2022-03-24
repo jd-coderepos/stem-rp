@@ -1,0 +1,1 @@
+Calculation of solid-state NMR lineshapes using contour analysis 

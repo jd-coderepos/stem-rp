@@ -1,0 +1,1 @@
+Using the strong coupling expansion we calculate the analytically exact order parameter for the effective theory of Polyakov loops with applied chemical potential in the large- N c limit.

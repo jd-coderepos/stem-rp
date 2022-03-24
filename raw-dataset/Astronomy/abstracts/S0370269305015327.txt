@@ -1,0 +1,1 @@
+The three-dimensional universal complex Clifford algebra C ¯ 3 , 0 is used to represent relativistic vectors in terms of paravectors. In analogy to the Hestenes spacetime approach spinors are introduced in an algebraic form. This removes the dependance on an explicit matrix representation of the algebra.

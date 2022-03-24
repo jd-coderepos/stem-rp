@@ -1,0 +1,1 @@
+A virtual inspection framework for precision manufacturing of aerofoil components 

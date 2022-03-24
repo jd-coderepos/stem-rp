@@ -1,0 +1,1 @@
+qPCR based mRNA quality score show intact mRNA after heat stabilization 

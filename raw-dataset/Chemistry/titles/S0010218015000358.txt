@@ -1,0 +1,1 @@
+Rate-Controlled Constrained Equilibrium (RCCE) simulations of turbulent partially premixed flames (Sandia D/E/F) and comparison with detailed chemistry 

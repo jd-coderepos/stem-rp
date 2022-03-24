@@ -1,0 +1,1 @@
+Score based procedures for the calculation of forensic likelihood ratios – Scores should take account of both similarity and typicality 

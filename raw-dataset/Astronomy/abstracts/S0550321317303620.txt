@@ -1,0 +1,1 @@
+We classify the phases of N = 2 elliptic models in terms of their global properties i.e. the spectrum of line operators. We show the agreement between the field theory and the M-theory analysis and how the phases form orbits under the action of the S-duality group which corresponds to the mapping class group of the Riemann surface in M-theory.

@@ -1,0 +1,1 @@
+Dataset of differential lipid raft and global proteomes of SILAC-labeled cystic fibrosis cells upon TNF -α stimulation 

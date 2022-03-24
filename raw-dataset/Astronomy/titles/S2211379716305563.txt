@@ -1,0 +1,1 @@
+Explicit solutions of the fifth-order KdV type nonlinear evolution equation using the system technique 

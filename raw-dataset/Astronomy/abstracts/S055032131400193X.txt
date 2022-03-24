@@ -1,0 +1,1 @@
+We compute the generic correlator with L untwisted operators and N (excited) twist fields for branes at angles on T 2 and show that it is given by a generalization of the Wick theorem. We give also the recipe to compute efficiently the generic OPE between an untwisted operator and an excited twisted state.

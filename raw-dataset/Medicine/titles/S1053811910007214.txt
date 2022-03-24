@@ -1,0 +1,1 @@
+Evaluating an acoustically quiet EPI sequence for use in fMRI studies of speech and auditory processing 

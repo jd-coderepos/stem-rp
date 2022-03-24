@@ -1,0 +1,1 @@
+A semi-empirical ship operational performance prediction model for voyage optimization towards energy efficient shipping 

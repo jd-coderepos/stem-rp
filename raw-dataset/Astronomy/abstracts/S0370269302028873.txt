@@ -1,0 +1,1 @@
+We present the exact solution of Baxter's three-color problem on a random planar graph, using its formulation in terms of three coupled random matrices.

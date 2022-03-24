@@ -1,0 +1,1 @@
+Combining ancillary soil data with VisNIR spectra to improve predictions of organic and inorganic carbon content of soils 

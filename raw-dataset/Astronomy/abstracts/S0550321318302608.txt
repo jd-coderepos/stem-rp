@@ -1,0 +1,1 @@
+In systems governed by “chaotic” local Hamiltonians, we conjecture the universality of eigenstate entanglement (defined as the average entanglement entropy of all eigenstates) by proposing an exact formula for its dependence on the subsystem size. This formula is derived from an analytical argument based on a plausible assumption, and is supported by numerical simulations.

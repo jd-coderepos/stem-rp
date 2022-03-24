@@ -1,0 +1,1 @@
+A generalisation of the Hill's quadratic yield function for planar plastic anisotropy to consider loading direction 

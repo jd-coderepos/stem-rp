@@ -1,0 +1,1 @@
+A Bayesian spatial model for neuroimaging data based on biologically informed basis functions 

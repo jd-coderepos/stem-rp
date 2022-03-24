@@ -1,0 +1,1 @@
+The dataset describes: HIF-1 α expression and LPS mediated cytokine production in MKP-1 deficient bone marrow derived murine macrophages 

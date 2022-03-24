@@ -1,0 +1,1 @@
+A simple and rapid method for combining fluorescent in situ RNA hybridization (FISH) and immunofluorescence in the C. elegans germline 

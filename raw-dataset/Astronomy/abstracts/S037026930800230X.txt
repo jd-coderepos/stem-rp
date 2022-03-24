@@ -1,0 +1,1 @@
+Continuing our previous work [Z.H. Guo, J.J. Sanz-Cillero, H.Q. Zheng, JHEP 0706 (2007) 030], large- N C techniques and partial wave dispersion relations are used to discuss ππ scattering amplitudes. We get a set of predictions for O ( p 6 ) low-energy chiral perturbation theory couplings. They are provided in terms of the masses and decay widths of scalar and vector mesons.

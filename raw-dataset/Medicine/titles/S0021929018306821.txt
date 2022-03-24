@@ -1,0 +1,1 @@
+Estimation of vertical walking ground reaction force in real-life environments using single IMU sensor 

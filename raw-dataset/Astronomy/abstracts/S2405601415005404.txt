@@ -1,0 +1,1 @@
+The purpose of current XMASS project is dark matter detection. With 835 kg liquid xenon, we searched for various kinds of dark matter candidate using commissioning data. In order to reduce the background contribution from the PMT surface material, we have refurbished the detector and restarted to take data in November, 2013. Future project of XMASS is also shown.

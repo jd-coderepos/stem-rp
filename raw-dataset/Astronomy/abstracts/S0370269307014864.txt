@@ -1,0 +1,1 @@
+We study the Maxwell–Einstein theory in the framework of effective field theories. We show that the modified one-loop renormalizable Lagrangian due to quantum gravitational effects contains a Lee–Wick vector field as an extra degree of freedom in the theory. Thus gravity provides a natural mechanism for the emergence of this exotic particle.

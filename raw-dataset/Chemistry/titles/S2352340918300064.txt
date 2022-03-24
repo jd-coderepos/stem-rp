@@ -1,0 +1,1 @@
+Parameterized hemodynamic response function data of healthy individuals obtained from resting-state functional MRI in a 7T MRI scanner 

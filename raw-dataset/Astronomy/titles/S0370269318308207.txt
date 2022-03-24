@@ -1,0 +1,1 @@
+Constraining new physics with searches for long-lived particles: Implementation into SModelS 

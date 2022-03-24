@@ -1,0 +1,1 @@
+The electromagnetic form factors of octet baryons are estimated within light cone QCD sum rules method, using the most general form of the interpolating current for baryons. A comparison of our predictions on the magnetic dipole and electric form factors with the results of other approaches is performed.

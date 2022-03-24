@@ -1,0 +1,1 @@
+Migration barriers for surface diffusion on a rigid lattice: Challenges and solutions 

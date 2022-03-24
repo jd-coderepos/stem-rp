@@ -1,0 +1,1 @@
+In the paper [F. Nasseri, Phys. Lett. B 614 (2005) 140–142], F. Nasseri shows that the value of the fine structure constant reduces due to the presence of a cosmic string. In this comment I want to point out that this conclusion is not completely correct in the sense that the result obtained is valid only in a very special situation.

@@ -1,0 +1,1 @@
+We present an equivalence theorem for the longitudinal components of the gauge bosons in a compactified five-dimensional extension of the Standard Model, whose spontaneous symmetry breaking is driven either by one Higgs in the bulk or by one on a brane or by both together. We also show some implications for the unitarity bounds on Higgs masses.

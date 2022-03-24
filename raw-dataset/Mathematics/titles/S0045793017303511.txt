@@ -1,0 +1,1 @@
+Spatial eigensolution analysis of discontinuous Galerkin schemes with practical insights for under-resolved computations and implicit LES 

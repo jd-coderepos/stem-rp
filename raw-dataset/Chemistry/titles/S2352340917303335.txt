@@ -1,0 +1,1 @@
+Electrical circuit model of ITO/AZO/Ge photodetector 

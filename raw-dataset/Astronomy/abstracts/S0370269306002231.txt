@@ -1,0 +1,1 @@
+The one-neutron transfer reaction Li 9 + H 2 → Li 8 + t has been investigated in an inverse kinematics experiment by bombarding a deuterated polypropylene target with a 2.36 MeV/u 9Li beam from the post-accelerator REX-ISOLDE at CERN. Excitation energies in 8Li as well as angular distributions of the tritons were obtained and spectroscopic factors deduced.

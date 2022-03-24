@@ -1,0 +1,9 @@
+Lattice formulation of two-dimensional 
+                  N
+                  =
+                  (
+                  2
+                  ,
+                  2
+                  )
+                SQCD with exact supersymmetry 

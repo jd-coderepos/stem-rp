@@ -1,0 +1,1 @@
+We show how it is possible to integrate out chiral matter fields in N=1 supersymmetric theories and in this way derive in a simple diagrammatic way the N f SlogS−SlogdetX part of the Veneziano–Yankielowicz–Taylor superpotential.

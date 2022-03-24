@@ -1,0 +1,1 @@
+Prediction of combustion instability limit cycle oscillations by combining flame describing function simulations with a thermoacoustic network model 

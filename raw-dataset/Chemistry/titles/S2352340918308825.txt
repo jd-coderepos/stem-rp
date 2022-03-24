@@ -1,0 +1,1 @@
+Examples of sub-millimeter, 7T, T1-weighted EPI datasets acquired with the T123DEPI sequence 

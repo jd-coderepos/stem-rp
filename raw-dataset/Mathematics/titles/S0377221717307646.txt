@@ -1,0 +1,1 @@
+A hybrid Constraint Programming/Mixed Integer Programming framework for the preventive signaling maintenance crew scheduling problem 

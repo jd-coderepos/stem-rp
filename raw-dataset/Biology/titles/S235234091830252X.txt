@@ -1,0 +1,1 @@
+Dataset from the dynamic shake-table test of a full-scale unreinforced clay-masonry building with flexible timber diaphragms 

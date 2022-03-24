@@ -1,0 +1,1 @@
+Total Ionizing Dose, Random Dopant Fluctuations, and its combined effect in the 45nm PDSOI node 

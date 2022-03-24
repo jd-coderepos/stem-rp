@@ -1,0 +1,1 @@
+Data on enzyme activities and kinetics have often been reported with insufficient experimental detail to allow their repetition. This paper discusses the objectives and recommendations of the Standards for Reporting Enzyme Data (STRENDA) project to define minimal experimental standards for the reporting enzyme functional data.

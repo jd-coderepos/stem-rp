@@ -1,0 +1,1 @@
+Input data for mathematical modeling and numerical simulation of switched reluctance machines 

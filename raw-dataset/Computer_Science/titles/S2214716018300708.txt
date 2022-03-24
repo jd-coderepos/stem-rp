@@ -1,0 +1,1 @@
+Analysis of a multi-component system with failure dependency, N-policy and vacations 

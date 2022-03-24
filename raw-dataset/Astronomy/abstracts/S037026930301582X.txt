@@ -1,0 +1,1 @@
+The three-dimensional noncommutative supersymmetric QED is investigated within the superfield approach. We prove the absence of UV/IR mixing in the theory at any loop order and demonstrate its one-loop finiteness.

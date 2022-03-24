@@ -1,0 +1,1 @@
+Generalization of the model-independent Laurent–Pietarinen single-channel pole-extraction formalism to multiple channels 

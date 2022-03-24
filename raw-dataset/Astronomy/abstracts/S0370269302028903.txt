@@ -1,0 +1,1 @@
+Chiral symmetry breaking in a purely fermionic theory is investigated by the help of the renormalization group method. It is shown that the RG equation for the running mass m k admits a solution with vanishing bare mass and finite physical mass.

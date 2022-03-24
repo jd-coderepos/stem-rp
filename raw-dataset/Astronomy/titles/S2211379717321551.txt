@@ -1,0 +1,1 @@
+A modified Stern-Gerlach experiment using a quantum two-state magnetic field 

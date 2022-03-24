@@ -1,0 +1,1 @@
+A non-intrusive method for estimating binaural speech intelligibility from noise-corrupted signals captured by a pair of microphones 

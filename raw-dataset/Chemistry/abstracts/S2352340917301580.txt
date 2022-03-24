@@ -1,0 +1,1 @@
+We present in this paper a novel dataset (MMU VAAC) for violent actions against children recognition. This original dataset has been recorded using Microsoft Kinect with the usage of a child mannequin. MMU VAAC dataset contains skeleton joints, depth, and RGB modalities.

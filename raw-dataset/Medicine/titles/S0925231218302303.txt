@@ -1,0 +1,1 @@
+Stochastic discriminant analysis for linear supervised dimension reduction 

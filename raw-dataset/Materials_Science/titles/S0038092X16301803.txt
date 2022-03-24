@@ -1,0 +1,1 @@
+Quantifying residential PV feed-in power in low voltage grids based on satellite-derived irradiance data with application to power flow calculations 

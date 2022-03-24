@@ -1,0 +1,1 @@
+Layout of CCS monitoring infrastructure with highest probability of detecting a footprint of a CO2 leak in a varying marine environment 

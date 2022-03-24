@@ -1,0 +1,1 @@
+Excited states NLIE for sine-Gordon model in a strip with Dirichlet boundary conditions 

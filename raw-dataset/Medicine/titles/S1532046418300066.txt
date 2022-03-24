@@ -1,0 +1,1 @@
+Estimating summary statistics for electronic health record laboratory data for use in high-throughput phenotyping algorithms 

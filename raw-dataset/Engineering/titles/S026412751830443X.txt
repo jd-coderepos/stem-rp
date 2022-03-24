@@ -1,0 +1,1 @@
+Effective design and simulation of surface-based lattice structures featuring volume fraction and cell type grading 

@@ -1,0 +1,1 @@
+In this Letter we study gauge-invariant metric fluctuations from a noncompact Kaluza–Klein (NKK) theory of gravity in de Sitter expansion. We recover the well-known result δ ρ / ρ ≃ 2 Φ , obtained from the standard 4D semiclassical approach to inflation. The spectrum for these fluctuations should be dependent of the fifth (spatial-like) coordinate.

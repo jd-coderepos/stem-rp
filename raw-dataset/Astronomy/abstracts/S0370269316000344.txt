@@ -1,0 +1,1 @@
+With an explicit example, we show that Jordan frame and the conformally transformed Einstein frames clearly lead to different physics for a non-minimally coupled theory of gravity, namely Brans–Dicke theory, at least at the quantum level. The example taken up is the spatially flat Friedmann cosmology in Brans–Dicke theory.

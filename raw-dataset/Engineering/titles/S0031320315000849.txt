@@ -1,0 +1,1 @@
+A scale- and orientation-adaptive extension of Local Binary Patterns for texture classification 

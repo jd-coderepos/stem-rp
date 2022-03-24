@@ -1,0 +1,1 @@
+Interpreting RG flows as dynamical systems in the space of couplings we produce a variety of constraints, global (topological) as well as local. These constraints, in turn, rule out some of the proposed RG flows and also predict new phases and fixed points, surprisingly, even in familiar theories such as O ( N ) model, QED3, or QCD4.

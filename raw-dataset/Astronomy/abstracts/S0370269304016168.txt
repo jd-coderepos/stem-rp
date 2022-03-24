@@ -1,0 +1,1 @@
+Higher spin field theory on AdS(4) is defined by lifting the minimal conformal sigma model in three-dimensional flat space. This allows to calculate the masses from the anomalous dimensions of the currents in the sigma model. The Goldstone boson field can be identified.

@@ -1,0 +1,1 @@
+We compute the b quark mass from dynamical lattice QCD with clover quarks. The calculation is done at a fixed lattice spacing with sea quark masses as low as half the strange quark mass. Our final result is m b ¯ ( m b ¯ ) = 4.25 ( 2 ) ( 11 ) GeV , where the first error is statistical and the last error is the systematic uncertainty.

@@ -1,0 +1,2 @@
+
+               DuplicationDetector, a light weight tool for duplication detection using NGS data 

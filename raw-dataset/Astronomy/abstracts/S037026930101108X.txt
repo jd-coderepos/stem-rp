@@ -1,0 +1,1 @@
+An improved QED Parton Shower algorithm to calculate photonic radiative corrections to QED processes at flavour factories is described. We consider the possibility of performing photon generation in order to take into account also the effects due to interference between initial and final state radiation. Comparisons with exact order α results are shown and commented.

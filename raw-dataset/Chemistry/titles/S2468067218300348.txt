@@ -1,0 +1,1 @@
+An automatable, field camera track system for phenotyping crop lodging and crop movement 

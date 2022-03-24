@@ -1,0 +1,1 @@
+Generalized Haar wavelet operational matrix method for solving hyperbolic heat conduction in thin surface layers 

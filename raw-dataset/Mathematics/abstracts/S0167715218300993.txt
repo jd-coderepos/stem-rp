@@ -1,0 +1,1 @@
+We introduce a novel class of strictly proper scoring rules for statistical models on spheres that does not require the calculation of normalizing constants. The class contains the Hyvärinen scoring rule investigated by Mardia et al.(2016).

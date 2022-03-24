@@ -1,0 +1,2 @@
+RapidRIP quantifies the intracellular metabolome of 7 industrial strains of E. coli
+             

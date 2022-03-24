@@ -1,0 +1,1 @@
+We consider a model where the weak and the DM scale arise at one loop from the Coleman–Weinberg mechanism. We perform a precision computation of the model predictions for the production cross section of a new Higgs-like scalar and for the direct-detection cross section of the DM particle candidate.

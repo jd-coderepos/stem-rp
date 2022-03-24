@@ -1,0 +1,1 @@
+A set of world-line deviation equations is derived in the framework of Mathisson–Papapetrou–Dixon description of pseudo-classical spinning particles. They generalize the geodesic deviation equations. We examine the resulting equations for particles moving in the space–time of a plane gravitational wave.

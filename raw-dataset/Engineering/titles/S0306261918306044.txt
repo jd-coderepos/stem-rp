@@ -1,0 +1,1 @@
+A framework for producing gbXML building geometry from Point Clouds for accurate and efficient Building Energy Modelling 

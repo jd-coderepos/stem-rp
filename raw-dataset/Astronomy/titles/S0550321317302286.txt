@@ -1,0 +1,59 @@
+An embedding of the universal Askey–Wilson algebra into 
+                  
+                     
+                        U
+                     
+                     
+                        q
+                     
+                  
+                  (
+                  
+                     
+                        sl
+                     
+                     
+                        2
+                     
+                  
+                  )
+                  ⊗
+                  
+                     
+                        U
+                     
+                     
+                        q
+                     
+                  
+                  (
+                  
+                     
+                        sl
+                     
+                     
+                        2
+                     
+                  
+                  )
+                  ⊗
+                  
+                     
+                        U
+                     
+                     
+                        q
+                     
+                  
+                  (
+                  
+                     
+                        sl
+                     
+                     
+                        2
+                     
+                  
+                  )
+               
+             

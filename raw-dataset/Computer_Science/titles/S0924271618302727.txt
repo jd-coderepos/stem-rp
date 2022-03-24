@@ -1,0 +1,1 @@
+Structure from Motion for aerial thermal imagery at city scale: Pre-processing, camera calibration, accuracy assessment 

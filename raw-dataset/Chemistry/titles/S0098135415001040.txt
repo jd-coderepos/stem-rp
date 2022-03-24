@@ -1,0 +1,1 @@
+Fully coupled LES-DEM of particle interaction and agglomeration in a turbulent channel flow 

@@ -1,0 +1,1 @@
+Microarray dataset on the genome-wide expression profile of an M. smegmatis amtR mutant (JR258) compared to M. smegmatis mc2155 

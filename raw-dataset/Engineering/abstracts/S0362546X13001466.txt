@@ -1,0 +1,1 @@
+The existence of solitary wave solutions of the generalized two-component Hunter–Saxton system is determined. It is also shown that there are peaked and cusped solitary waves with singularities among those smooth solitary wave solutions.

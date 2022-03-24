@@ -1,0 +1,1 @@
+Optimization of combined heat and power production with heat storage based on sliding time window method 

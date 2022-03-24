@@ -1,0 +1,1 @@
+Numerical thermodynamic model of alpha-type Stirling engine 

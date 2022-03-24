@@ -1,0 +1,1 @@
+Gaussian process approximations for fast inference from infectious disease data 

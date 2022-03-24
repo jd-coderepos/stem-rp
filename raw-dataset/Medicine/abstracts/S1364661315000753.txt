@@ -1,0 +1,1 @@
+Grid cells are neurons whose regularly spaced firing fields form apparently symmetric arrays, or grids, that are thought to collectively provide an environment-independent metric framework for the brain's cognitive map of space. However, two recent studies show that grids are naturally distorted, revealing greater local environment-specific effects than previously recognized.

@@ -1,0 +1,1 @@
+Dataset on metabolomics profile of acute leukemia blood obtained by the NMR methods 

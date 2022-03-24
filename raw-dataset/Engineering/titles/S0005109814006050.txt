@@ -1,0 +1,1 @@
+A clipped-optimal control algorithm for semi-active vehicle suspensions: Theory and experimental evaluation 

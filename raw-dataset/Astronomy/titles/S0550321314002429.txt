@@ -1,0 +1,12 @@
+A framework for the calculation of the 
+                  Δ
+                  N
+                  
+                     
+                        γ
+                     
+                     
+                        ⁎
+                     
+                  
+                transition form factors on the lattice 

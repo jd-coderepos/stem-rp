@@ -1,0 +1,1 @@
+A simple procedure to synchronize concurrent measurements of gait and brain electrical activity and preliminary results from a pilot measurement involving motor-cognitive dual-tasking in healthy older and young volunteers 

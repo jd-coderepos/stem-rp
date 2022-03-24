@@ -1,0 +1,1 @@
+Antiproton annihilation cross sections on medium-heavy and heavy nuclear targets are measured for the first time at 5.3 MeV kinetic energy at the Antiprotons Decelerator facility of CERN. The results agree with the expected behavior from the black-disk model with the Coulomb corrections.

@@ -1,0 +1,1 @@
+Dataset to delineate changes in association between Akt1 and its interacting partners as a function of active state of Akt1 protein 

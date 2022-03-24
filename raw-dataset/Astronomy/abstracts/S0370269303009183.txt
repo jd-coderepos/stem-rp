@@ -1,0 +1,1 @@
+A dissipative mechanism is presented, which emerges in generic interacting quantum field systems and which leads to robust warm inflation. An explicit example is considered, where using typical parameter values, it is shown that considerable radiation can be produced during inflation. The extension of our results to expanding spacetime also is discussed.

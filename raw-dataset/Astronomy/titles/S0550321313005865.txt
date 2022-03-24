@@ -1,0 +1,1 @@
+Exact solution of the one-dimensional Hubbard model with arbitrary boundary magnetic fields 

@@ -1,0 +1,1 @@
+We correct a small error in our article Integrals of motion in the many body localized phase [1]. The correction does not alter the main result regarding the convergence of the perturbative expansion for integrals of motion in forward approximation, but reduces the estimate of the radius of convergence by a numerical factor of roughly ≃1.79.

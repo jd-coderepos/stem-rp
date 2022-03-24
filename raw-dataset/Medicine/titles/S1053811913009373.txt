@@ -1,0 +1,1 @@
+Spatial–temporal modelling of fMRI data through spatially regularized mixture of hidden process models 

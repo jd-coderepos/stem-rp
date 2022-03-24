@@ -1,0 +1,1 @@
+Expression and methylation data from SLE patient and healthy control blood samples subdivided with respect to ARID3a levels 

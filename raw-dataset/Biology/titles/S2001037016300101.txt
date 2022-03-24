@@ -1,0 +1,1 @@
+Applying data mining techniques to medical time series: an empirical case study in electroencephalography and stabilometry 

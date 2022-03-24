@@ -1,0 +1,1 @@
+Dataset of liver proteins of eu- and hypothyroid rats affected in abundance by any of three factors: in vivo exposure to hexabromocyclododecane (HBCD), thyroid status, gender differences 

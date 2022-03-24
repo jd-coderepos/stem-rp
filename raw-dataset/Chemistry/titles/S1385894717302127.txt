@@ -1,0 +1,1 @@
+Experimental and simulation study of heat transfer in fluidized beds with heat production 

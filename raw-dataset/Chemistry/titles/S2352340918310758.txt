@@ -1,0 +1,1 @@
+Experimental dataset on adsorption of Arsenic from aqueous solution using Chitosan extracted from shrimp waste; optimization by response surface methodology with central composite design 

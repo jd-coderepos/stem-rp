@@ -1,0 +1,1 @@
+Modal curvature-based damage localization in weakly damaged continuous beams 

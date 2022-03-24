@@ -1,0 +1,1 @@
+Multi-modal sliding window-based support vector regression for predicting plant water stress 

@@ -1,0 +1,1 @@
+Shape factor for dual-permeability fractured reservoir simulation: Effect of non-uniform flow in 2D fracture network 

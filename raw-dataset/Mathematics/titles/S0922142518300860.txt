@@ -1,0 +1,1 @@
+A spatial autoregressive stochastic frontier model for panel data incorporating a model of technical inefficiency 

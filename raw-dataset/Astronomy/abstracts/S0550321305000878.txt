@@ -1,0 +1,1 @@
+Using the Pöshl–Teller approximation, we evaluate the neutrino quasinormal modes (QNMs) of a Kerr–Newman–de Sitter black hole. The result shows that for a Kerr–Newman–de Sitter black hole, massless neutrino perturbation of large Λ, positive m and small value of n will decay slowly.

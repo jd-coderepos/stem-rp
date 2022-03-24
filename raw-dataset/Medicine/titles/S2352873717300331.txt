@@ -1,0 +1,1 @@
+Power analysis to detect treatment effects in longitudinal clinical trials for Alzheimer's disease 

@@ -1,0 +1,1 @@
+A late time accelerated FRW model with scalar and vector fields via Noether symmetry 

@@ -1,0 +1,14 @@
+Angular analysis of the decay B0
+               →K⁎0
+               μ
+               +
+               μ
+               − from pp collisions at 
+                  
+                     s
+                  
+                  =
+                  8
+                   TeV
+               
+             

@@ -1,0 +1,1 @@
+We determine running coupling corrections to the kernel of the non-linear evolution equation for the cross section of single diffractive dissociation in high energy DIS. The running coupling kernel for diffractive evolution is found to be exactly the same as the kernel of the rcBK evolution equation.

@@ -1,0 +1,1 @@
+Well above the critical temperature hot QCD is described by 3d electrostatic QCD with gauge coupling g E and Debye mass m E . We integrate out the Debye scales to two loop accuracy and find for the gauge coupling in the resulting magnetostatic action gM 2=gE 2 1− 1 48 gE 2N πmE − 17 4608 gE 2N πmE 2+O gE 2N πmE 3 .

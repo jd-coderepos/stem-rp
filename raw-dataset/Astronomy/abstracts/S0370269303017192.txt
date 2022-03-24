@@ -1,0 +1,1 @@
+We present a new fermionic solution of the supersymmetric matrix model. The solution satisfies the commutation and anticommutation relations for noncommutative superspace. Therefore the solution can be considered as an implementation of noncommutative superspace on the matrix model.

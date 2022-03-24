@@ -1,0 +1,1 @@
+We discuss some constraints on the x and t-dependence of E(x,0,t) that arise from positivity bounds in the impact parameter representation. In addition, we show that E(x,0,0) for the nucleon vanishes for x→1 at least as rapidly as (1−x)4. Finally we provide an inequality that limits the contribution from E to the angular momentum sum rule.

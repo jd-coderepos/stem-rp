@@ -1,0 +1,1 @@
+Modelling volatility of cryptocurrencies using Markov-Switching GARCH models 

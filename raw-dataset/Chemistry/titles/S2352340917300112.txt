@@ -1,0 +1,1 @@
+Tashkeela: Novel corpus of Arabic vocalized texts, data for auto-diacritization systems 

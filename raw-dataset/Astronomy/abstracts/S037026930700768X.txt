@@ -1,0 +1,1 @@
+We show how every bound state of a finite system of identical fermions, whether a ground state or an excited one, defines a density functional. Degeneracies created by a symmetry group can be trivially lifted by a pseudo-Zeeman effect. When complex scaling can be used to regularize a resonance into a square integrable state, a DF also exists.

@@ -1,0 +1,1 @@
+Supportive data related to the article “Anonymous nuclear markers reveal taxonomic incongruence and long-term disjunction in a cactus species complex with continental-island distribution in South America” (Perez et al., 2016) [1]. Here, we present pyrosequencing results, primer sequences, a cpDNA phylogeny, and a species tree phylogeny.

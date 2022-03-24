@@ -1,0 +1,1 @@
+We use the constraints arising from primordial nucleosynthesis to bound a putative electric charge density |e|n q of the universe. We find |n q /n γ |≲10−43, four orders of magnitude more stringent than previous limits. We also work out the bounds on n q in models with a photon mass, that allows to have a charge density without large-scale electric fields.

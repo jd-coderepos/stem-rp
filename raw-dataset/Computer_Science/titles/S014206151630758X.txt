@@ -1,0 +1,1 @@
+Study on FRT compliance of VSC-HVDC connected offshore wind plants during AC faults including requirements for the negative sequence current control 

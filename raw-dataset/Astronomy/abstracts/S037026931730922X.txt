@@ -1,0 +1,1 @@
+We clarify the recently proposed method for computing a special Kähler metric on a Calabi–Yau complex structure moduli space using the fact that the moduli space is a subspace of a particular Frobenius manifold. We use this method to compute a previously unknown special Kähler metric in a two-moduli non-Fermat model.

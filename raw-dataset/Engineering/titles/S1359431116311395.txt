@@ -1,0 +1,1 @@
+Large eddy simulation of a T-Junction with upstream elbow: The role of Dean vortices in thermal fatigue 

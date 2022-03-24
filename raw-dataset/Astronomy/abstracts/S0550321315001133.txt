@@ -1,0 +1,1 @@
+In this short note, based on the work [7] in 1994, we describe compactifications of moduli spaces of Calabi–Yau complete intersections in Gorenstein toric Fano varieties.

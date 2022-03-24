@@ -1,0 +1,1 @@
+We investigate the behaviour of solutions of the recently proposed extended Volterra lattice. A variety of methods are used to determine the effects of the new terms on small amplitude equations, and, following approximation of the partial differential delay equations by PDEs we also determine similarity reductions.

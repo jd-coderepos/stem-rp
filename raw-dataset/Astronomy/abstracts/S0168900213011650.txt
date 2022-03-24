@@ -1,0 +1,1 @@
+The LHCb RICH1 detector uses hybrid photon detectors (HPDs) as its optical sensors. A calibration system has been constructed to provide corrections for distortions that are primarily due to external magnetic fields. We describe here the system design, construction, operation and performance.

@@ -1,0 +1,1 @@
+Formalizing Constructive Projective Geometry in Agda 

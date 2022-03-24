@@ -1,0 +1,1 @@
+CBC2: A CMS microstrip readout ASIC with logic for track-trigger modules at HL-LHC 

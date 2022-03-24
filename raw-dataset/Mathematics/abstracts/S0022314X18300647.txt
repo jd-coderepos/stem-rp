@@ -1,0 +1,1 @@
+We investigate the distribution of the function ω ( n ) , the number of distinct prime divisors of n, in residue classes modulo q for natural numbers q greater than 2. In particular we ask ‘prime number races’ style questions, as suggested by Coons and Dahmen in their paper ‘On the residue class distribution of the number of prime divisors of an integer’.

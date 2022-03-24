@@ -1,0 +1,1 @@
+Model to predict inhomogeneous protein–sugar distribution in powders prepared by spray drying 

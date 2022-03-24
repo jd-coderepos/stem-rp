@@ -1,0 +1,1 @@
+We update the constraint on the dark matter annihilation cross section by using the recent measurements of the CMB anisotropy by the Planck satellite. We fully calculate the cascade of dark matter annihilation products and their effects on ionization, heating and excitation of the hydrogen, hence do not rely on any assumption on the energy fractions that cause these effects.

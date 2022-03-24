@@ -1,0 +1,1 @@
+Type A N -fold supersymmetry of one-dimensional quantum mechanics can be constructed by using sl(2) generators represented on a finite-dimensional functional space. Using this sl(2) formalism we show a general method of constructing type A N -fold supersymmetric models. We also present systematic generation of known models and several new models using this method.

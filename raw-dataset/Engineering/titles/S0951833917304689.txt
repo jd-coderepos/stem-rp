@@ -1,0 +1,1 @@
+A global slamming force model for offshore wind jacket structures 

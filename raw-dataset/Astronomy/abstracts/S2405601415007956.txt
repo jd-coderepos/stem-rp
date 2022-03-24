@@ -1,0 +1,1 @@
+This talk will briefly survey the capabilities of current detectors sensitive to supernova neutrino bursts. It will then cover recent progess in development of supernova neutrino detection techniques as well as prospects for specific future experiments.

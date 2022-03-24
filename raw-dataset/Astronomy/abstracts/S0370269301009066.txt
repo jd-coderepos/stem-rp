@@ -1,0 +1,1 @@
+The dependence of the dressed quark propagator on the quark chemical potential is investigated in various models based on the Dyson–Schwinger equations. We find that the critical chemical potential of the chiral symmetry restoration transitions is strongly dependent on the nature of the interaction kernel in the infrared region.

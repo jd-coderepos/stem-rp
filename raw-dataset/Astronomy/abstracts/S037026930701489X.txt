@@ -1,0 +1,1 @@
+We compute the correlations of two height variables in the two-dimensional Abelian sandpile model. We extend the known result for two minimal heights to the case when one of the heights is bigger than one. We find that the most dominant correlation log r / r 4 exactly fits the prediction obtained within the logarithmic conformal approach.

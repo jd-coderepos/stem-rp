@@ -1,0 +1,1 @@
+Modelling of gas–solid turbulent channel flow with non-spherical particles with large Stokes numbers 

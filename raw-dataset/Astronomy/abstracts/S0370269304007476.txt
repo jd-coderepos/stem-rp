@@ -1,0 +1,1 @@
+Charm photoproduction rates off nuclei below the nucleon threshold are estimated using the phenomenologically known structure functions both for x>1. The rates rapidly fall below the threshold from values ∼10 pb for Pb close to the threshold (at 7.5 GeV) to ∼1 pb at 6 GeV.

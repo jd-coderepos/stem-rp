@@ -1,0 +1,1 @@
+We investigate various excited states of sine-Gordon model on a strip with Dirichlet boundary conditions on both boundaries using a non-linear integral equation (NLIE) approach.

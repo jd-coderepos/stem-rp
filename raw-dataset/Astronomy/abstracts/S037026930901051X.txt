@@ -1,0 +1,1 @@
+We derive self-similar string solutions in a graph representation, near the point of singularity formation, which can be shown to extend to point-like singularities on M(em)branes, as well as to the radially symmetric case.

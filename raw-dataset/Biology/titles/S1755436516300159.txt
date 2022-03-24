@@ -1,0 +1,1 @@
+A fast algorithm for calculating an expected outbreak size on dynamic contagion networks 

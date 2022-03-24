@@ -1,0 +1,1 @@
+A multivariate method to determine the dimensionality of neural representation from population activity 

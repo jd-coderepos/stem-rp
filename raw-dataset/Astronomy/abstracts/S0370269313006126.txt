@@ -1,0 +1,1 @@
+We argue that the expectation values and dispersions of various operators for coherent states of generalized harmonic oscillator, presented in Ghosh and Roy (2012) [1], are incorrect. Therefore, the conclusions based on these results are misleading and need to be corrected.

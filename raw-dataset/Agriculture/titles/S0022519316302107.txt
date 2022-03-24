@@ -1,0 +1,1 @@
+Stochastic multi-scale models of competition within heterogeneous cellular populations: Simulation methods and mean-field analysis 

@@ -1,0 +1,1 @@
+Efficient DOA estimation based on difference-set table traversal searching for the generalized coprime array 

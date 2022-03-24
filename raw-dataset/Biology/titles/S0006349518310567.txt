@@ -1,0 +1,1 @@
+A Hidden Markov Model for Detecting Confinement in Single-Particle Tracking Trajectories 

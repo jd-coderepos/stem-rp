@@ -1,0 +1,10 @@
+Cosets, characters and fusion for admissible-level 
+                  
+                     osp
+                  
+                  (
+                  1
+                  |
+                  2
+                  )
+                minimal models 

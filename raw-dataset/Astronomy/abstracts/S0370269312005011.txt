@@ -1,0 +1,1 @@
+We study the longitudinal-transverse double spin asymmetry A LT for direct photon production in nucleon–nucleon scattering by using the collinear twist-3 approach. This asymmetry, which, for instance, could be measured at RHIC, contains a complete set of collinear twist-3 correlation functions in a transversely polarized nucleon.

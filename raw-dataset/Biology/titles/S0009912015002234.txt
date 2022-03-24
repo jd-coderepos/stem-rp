@@ -1,0 +1,1 @@
+Multi-center evaluation of analytical performance of the Beckman Coulter AU5822 chemistry analyzer 

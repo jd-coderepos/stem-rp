@@ -1,0 +1,1 @@
+In this article we provide a simple combinatorial description of morphisms between indecomposable complexes in the bounded derived category of a gentle algebra.

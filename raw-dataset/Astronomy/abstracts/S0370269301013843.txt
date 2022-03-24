@@ -1,0 +1,1 @@
+We compute the effective action of QED at one loop order for an electric field which points in the ẑ direction and depends arbitrarily upon the light cone time coordinate, x+=(x0+x3)/ 2 . This calculation generalizes Schwinger's formula for the vacuum persistence probability in the presence of a constant electric field.

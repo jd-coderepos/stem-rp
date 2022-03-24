@@ -1,0 +1,1 @@
+Identifying the sources of the pulse artefact in EEG recordings made inside an MR scanner 

@@ -1,0 +1,9 @@
+SUSY WT identity in a lattice formulation of 2D 
+                  N
+                  =
+                  (
+                  2
+                  ,
+                  2
+                  )
+                SYM 

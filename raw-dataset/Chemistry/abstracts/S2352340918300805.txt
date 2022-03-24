@@ -1,0 +1,1 @@
+Five datasets were constructed from ligand and bioassay result data from the literature. These datasets include bioassay results from the Ames mutagenicity assay, Greenscreen GADD-45a-GFP assay, Syrian Hamster Embryo (SHE) assay, and 2 year rat carcinogenicity assay results. These datasets provide information about chemical mutagenicity, genotoxicity and carcinogenicity.

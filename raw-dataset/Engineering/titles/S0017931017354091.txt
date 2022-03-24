@@ -1,0 +1,1 @@
+Semi-analytic approximation of the temperature field resulting from moving heat loads 

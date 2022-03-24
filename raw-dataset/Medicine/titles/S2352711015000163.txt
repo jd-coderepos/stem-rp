@@ -1,0 +1,2 @@
+
+               MaskDensity14: An R package for the density approximant of a univariate based on noise multiplied data 

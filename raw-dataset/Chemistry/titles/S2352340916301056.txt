@@ -1,0 +1,1 @@
+“Eyes Open – Eyes Closed” EEG/fMRI data set including dedicated “Carbon Wire Loop” motion detection channels 

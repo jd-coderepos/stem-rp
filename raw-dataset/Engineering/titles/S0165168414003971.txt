@@ -1,0 +1,1 @@
+Nonlinear dynamical model of Costas loop and an approach to the analysis of its stability in the large 

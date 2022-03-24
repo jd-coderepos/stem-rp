@@ -1,0 +1,1 @@
+Model-checking for Resource-Bounded ATL with production and consumption of resources 

@@ -1,0 +1,1 @@
+Autoadaptive motion modelling for MR-based respiratory motion estimation 

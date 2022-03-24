@@ -1,0 +1,1 @@
+Reduced notch sensitivity in pseudo-ductile CFRP thin ply angle-ply laminates with central 0° plies 

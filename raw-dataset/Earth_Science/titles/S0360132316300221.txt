@@ -1,0 +1,1 @@
+Modelling personal thermal sensations using C-Support Vector Classification (C-SVC) algorithm 

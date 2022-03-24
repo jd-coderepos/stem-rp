@@ -1,0 +1,1 @@
+Multicomponent proof-theoretic method for proving interpolation properties 

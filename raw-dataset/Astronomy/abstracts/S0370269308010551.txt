@@ -1,0 +1,1 @@
+We discuss, within the context of first order perturbation theory, the correction to the NLO BFKL wavefunction for scattering processes with non-zero momentum transfer, arising from the fact that in NLO the kernel is not covariant under conformal transformations.

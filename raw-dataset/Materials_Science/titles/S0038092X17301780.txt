@@ -1,0 +1,1 @@
+A synthetic, spatially decorrelating solar irradiance generator and application to a LV grid model with high PV penetration 

@@ -1,0 +1,1 @@
+Rotational degree-of-freedom synthesis: An optimised finite difference method for non-exact data 

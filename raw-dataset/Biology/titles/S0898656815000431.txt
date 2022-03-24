@@ -1,0 +1,1 @@
+The cAMP sensors, EPAC1 and EPAC2, display distinct subcellular distributions despite sharing a common nuclear pore localisation signal 

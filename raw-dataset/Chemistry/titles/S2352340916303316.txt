@@ -1,0 +1,2 @@
+Quantitative inner membrane proteome datasets of the wild-type and the Δmin mutant of Escherichia coli
+             

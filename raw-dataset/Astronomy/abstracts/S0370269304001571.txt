@@ -1,0 +1,1 @@
+We report on the decay to two photons of the χc0 (1 3 P 0) charmonium resonance formed in p ̄ p interactions at Fermilab experiment E835. We have measured the product of branching ratios BR(χc0 → p ̄ p)×BR(χc0 →γγ)=(6.52±1.18(stat)+0.48 −0.72(sys))×10−8 . Using values from the 2002 PDG, this measurement leads to the partial width Γ(χ c 0 →γγ)=2.9±0.9 keV.

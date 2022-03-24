@@ -1,0 +1,1 @@
+A novel reversible logic gate and its systematic approach to implement cost-efficient arithmetic logic circuits using QCA 

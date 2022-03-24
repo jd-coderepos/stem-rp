@@ -1,0 +1,1 @@
+3-D elastodynamic contact problem for an interface crack under harmonic loading 

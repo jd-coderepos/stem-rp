@@ -1,0 +1,1 @@
+Extracting High Temperature Event radiance from satellite images and correcting for saturation using Independent Component Analysis 

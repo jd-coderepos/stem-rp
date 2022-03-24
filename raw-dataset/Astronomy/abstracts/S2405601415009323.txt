@@ -1,0 +1,1 @@
+The performance of the electron and photon reconstruction and selection with the CMS detector at s = 8 TeV is presented. Selection criteria and efficiency measurements in data and simulation are shown. The electron and photon energy scale calibration and resolution are also discussed, with particular emphasis on their role in Higgs analyses.

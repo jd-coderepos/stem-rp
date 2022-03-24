@@ -1,0 +1,1 @@
+The most powerful relativistic two-body equations have only half as many components as their Dirac–Breit and Bethe–Salpeter counterparts and contain only the square of the total cms energy. In this Letter, the “energy-square” theorem is extended to systems of n > 2 Dirac particles. The case n = 3 is discussed for baryons.

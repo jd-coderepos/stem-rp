@@ -1,0 +1,1 @@
+A Web Map Service implementation for the visualization of multidimensional gridded environmental data 

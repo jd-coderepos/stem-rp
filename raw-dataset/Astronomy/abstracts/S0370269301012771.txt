@@ -1,0 +1,1 @@
+The N=2 supersymmetric KdV equation of Inami and Kanno is bilinearized employing the Hirota method and the existence of N soliton solutions is demonstrated. The exact form of the solutions are explicitly obtained and an interesting symmetry of the equations of motion is observed.

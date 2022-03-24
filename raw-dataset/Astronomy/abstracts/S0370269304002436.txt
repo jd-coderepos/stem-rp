@@ -1,0 +1,1 @@
+The standard Friedmann universe embedded in a five-dimensional bulk with constant curvature is examined as a brane-world with the extrinsic curvature derived directly from Codazzi's equation. It is shown that the accelerated expansion of the universe can be described as an extrinsic geometrical property, as an alternative to dark energy.

@@ -1,0 +1,1 @@
+Based on parametric reasoning, we provide a simple dynamical picture of how a perturbative parton cascade, in interaction with a QCD medium, fills phase space as a function of time.

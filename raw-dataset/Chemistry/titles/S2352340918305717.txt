@@ -1,0 +1,1 @@
+Dataset and analysis of editorial board composition of 165 Hindawi journals indexed and abstracted in PubMed based on affiliations 

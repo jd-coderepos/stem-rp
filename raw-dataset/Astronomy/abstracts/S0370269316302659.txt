@@ -1,0 +1,1 @@
+The weak gravity conjecture applied for the aligned natural inflation indicates that generically there can be a modulation of the inflaton potential, with a period determined by sub-Planckian axion scale. We study the oscillations in the primordial power spectrum induced by such modulation, and discuss the resulting observational constraints on the model.

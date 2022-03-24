@@ -1,0 +1,2 @@
+Test of the local form of higher-spin equations via AdS/CFT
+             

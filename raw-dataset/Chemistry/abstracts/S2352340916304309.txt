@@ -1,0 +1,1 @@
+The data article includes reaction time and accuracy from four experiments. It descries three independent variables: the social meaning of geometric shape (include self, friend and stranger), the label of identify (self, friend and stranger), the body perceptive (first-person perspective and third-person perspective), see (Sun et al., 2016) [1].

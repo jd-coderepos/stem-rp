@@ -1,0 +1,1 @@
+Inspired by the truncated Euler–Maruyama method developed in Mao (2015), we propose the truncated Milstein method in this paper. The strong convergence rate is proved to be close to 1 for a class of highly non-linear stochastic differential equations with commutative noise. Numerical examples are given to illustrate the theoretical results.

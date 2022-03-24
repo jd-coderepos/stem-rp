@@ -1,0 +1,1 @@
+An efficient exponential time integration method for the numerical solution of the shallow water equations on the sphere 

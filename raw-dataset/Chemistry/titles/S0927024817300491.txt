@@ -1,0 +1,1 @@
+Absorption coefficients in AlGaInP lattice-matched to GaAs 

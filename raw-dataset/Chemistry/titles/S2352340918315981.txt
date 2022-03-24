@@ -1,0 +1,1 @@
+Data on migration of the non-invasive breast cancer cell line, MCF-7 treated with Bevacizumab using Real Time Cell Analyzer (RTCA) 

@@ -1,0 +1,1 @@
+A simple ansatz that is well-motivated by group-theoretical considerations is proposed in the context of the type III neutrino see-saw mechanism. It results in predictions for m s / m b and m τ / m b that relates these quantities to the masses and mixings of neutrinos.

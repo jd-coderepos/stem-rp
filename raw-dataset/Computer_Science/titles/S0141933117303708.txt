@@ -1,0 +1,1 @@
+A versatile architecture for long-term monitoring of single-event transient durations 

@@ -1,0 +1,1 @@
+We construct charged black hole solutions to three-dimensional new massive gravity (NMG), by adding electromagnetic Maxwell and Chern–Simons actions. We find charged black holes in the form of warped AdS 3 and “log” solutions in specific critical point. The entropy, mass and angular momentum of these black holes are computed.

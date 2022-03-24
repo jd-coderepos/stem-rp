@@ -1,0 +1,1 @@
+Methods for integration of transcriptomic data in genome-scale metabolic models 

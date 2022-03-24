@@ -1,0 +1,1 @@
+The possible sources of light nuclei populations observed recently below the geomagnetic cutoff by the AMS experiment are discussed in terms of nuclear processes: fragmentation of the incoming flux of cosmic 4He on atmospheric nuclei, and nuclear coalescence from proton and 4He induced reactions. Results of simulations for 2,3H and 3,4He, are presented and compared to the data.

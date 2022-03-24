@@ -1,0 +1,1 @@
+We provide a remarkably compact proof that spherically symmetric neutral black holes cannot support static nonminimally coupled massless scalar fields. The theorem is based on causality restrictions imposed on the energy-momentum tensor of the fields near the regular black-hole horizon.

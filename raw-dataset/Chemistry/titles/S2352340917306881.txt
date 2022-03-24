@@ -1,0 +1,1 @@
+Data demonstrating the challenges of determining the kinetic parameters of P-gp mediated transport of low-water soluble substrates 

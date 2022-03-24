@@ -1,0 +1,1 @@
+A stronger version of an anomaly matching theorem (AMT) is proven that allows to anticipate the matching of continuous as well as discrete global anomalies. The AMT shows a connection between anomaly matching and the geometry of the null cone of SYM theories. Discrete symmetries are shown to be broken at the origin of the moduli space in Seiberg–Witten theories.

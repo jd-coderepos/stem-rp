@@ -1,0 +1,1 @@
+We present a short proof of the fact that the exponential decay rate of partial autocorrelation coefficients of a short-memory process, in particular an ARMA process, is equal to the exponential decay rate of the coefficients of its infinite autoregressive representation.

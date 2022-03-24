@@ -1,0 +1,1 @@
+We propose an all-orders β-function for current–current interactions in 2d with flavor anisotropy. When the number of left-moving and right-moving flavors are unequal, the β-function has a nontrivial fixed point at finite values of the couplings. We also extend the computation to simple cases with both flavor and color anisotropy.

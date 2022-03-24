@@ -1,0 +1,1 @@
+A method exploiting direct communication between phasor measurement units for power system wide-area protection and control algorithms 

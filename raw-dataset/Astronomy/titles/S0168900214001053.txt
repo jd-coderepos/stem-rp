@@ -1,0 +1,1 @@
+A high precision radiation-tolerant LVDT conditioning module 

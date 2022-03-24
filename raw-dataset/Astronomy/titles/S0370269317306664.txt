@@ -1,0 +1,1 @@
+A general framework to diagonalize vector–scalar and axial-vector–pseudoscalar transitions in the effective meson Lagrangian 

@@ -1,0 +1,1 @@
+We examine, through a Boltzmann equation approach, the generating action of hard thermal loops in the background of gravitational fields. Using the gauge and Weyl invariance of the theory at high temperature, we derive an explicit closed-form expression for the effective action.

@@ -1,0 +1,1 @@
+Tensor to scalar ratio from single field magnetogenesis 

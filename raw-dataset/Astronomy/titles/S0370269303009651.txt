@@ -1,0 +1,1 @@
+QCD potential as a “Coulomb-plus-linear” potential 

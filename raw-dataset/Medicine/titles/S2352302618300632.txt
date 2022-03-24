@@ -1,0 +1,1 @@
+A clinical prediction model for cancer-associated venous thromboembolism: a development and validation study in two independent prospective cohorts 

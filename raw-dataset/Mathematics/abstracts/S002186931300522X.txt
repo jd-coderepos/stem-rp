@@ -1,0 +1,1 @@
+We characterize the fixed divisor of a polynomial f ( X ) in Z [ X ] by looking at the contraction of the powers of the maximal ideals of the overring Int ( Z ) containing f ( X ) . Given a prime p and a positive integer n, we also obtain a complete description of the ideal of polynomials in Z [ X ] whose fixed divisor is divisible by p n in terms of its primary components.

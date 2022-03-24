@@ -1,0 +1,1 @@
+This short note is devoted to deriving scaling but hyperscaling violating solutions in a generalised Einstein–Maxwell-Dilaton theory with an arbitrary number of scalars and vectors. We obtain analytic solutions in some special case and discuss the physical constraints on the allowed parameter range in order to have a well-defined holographic ground-state solution.

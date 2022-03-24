@@ -1,0 +1,1 @@
+Dataset of urinary metabolites measured by 1H NMR analysis of normal human urine 

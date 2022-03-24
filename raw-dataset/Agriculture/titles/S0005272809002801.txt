@@ -1,0 +1,4 @@
+Visualizing changes in electron distribution in coupled chains of cytochrome bc
+               1 by modifying barrier for electron transfer between the FeS cluster and heme c
+               1
+             

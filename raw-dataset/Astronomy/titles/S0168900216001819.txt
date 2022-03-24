@@ -1,0 +1,1 @@
+A procedure for combining rotating-coil measurements of large-aperture accelerator magnets 

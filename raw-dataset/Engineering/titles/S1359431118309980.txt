@@ -1,0 +1,1 @@
+A dynamic building and aquifer co-simulation method for thermal imbalance investigation 

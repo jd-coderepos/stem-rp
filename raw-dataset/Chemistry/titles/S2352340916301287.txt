@@ -1,0 +1,1 @@
+Determining firms׳ utility functions and competitive roles from data on market shares using Lotka–Volterra models 

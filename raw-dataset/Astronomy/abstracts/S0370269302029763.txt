@@ -1,0 +1,1 @@
+A new method of estimating higher order perturbative coefficients is discussed. It exploits the rapid, asymptotic growth of perturbative coefficients and the information on the singularities in the complex Borel plane. A comparison with other methods is made in several Quantum Chromodynamics (QCD) expansions.

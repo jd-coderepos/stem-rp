@@ -1,0 +1,1 @@
+OrthoGNC: A Software for Accurate Identification of Orthologs Based on Gene Neighborhood Conservation 

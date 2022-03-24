@@ -1,0 +1,1 @@
+Dataset of the molecular dynamics simulations of bilayers consisting of short amyloidogenic peptide VDSWNVLVAG from Bgl2p–glucantransferase of S. cerevisiae cell wall 

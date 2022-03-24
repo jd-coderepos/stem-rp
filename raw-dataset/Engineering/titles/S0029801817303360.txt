@@ -1,0 +1,1 @@
+Hydrodynamic analysis of a ducted, open centre tidal stream turbine using blade element momentum theory 

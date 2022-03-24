@@ -1,0 +1,1 @@
+Characterization and correction of eddy-current artifacts in unipolar and bipolar diffusion sequences using magnetic field monitoring 

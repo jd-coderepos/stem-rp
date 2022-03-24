@@ -1,0 +1,1 @@
+Load ratio determines the ammonia recovery and energy input of an electrochemical system 

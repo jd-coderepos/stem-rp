@@ -1,0 +1,1 @@
+The α decay parameter in the process Ω − → Λ K − has been measured from a sample of 4.50 million unpolarized Ω − decays recorded by the HyperCP (E871) experiment at Fermilab and found to be [ 1.78 ± 0.19 ( stat ) ± 0.16 ( syst ) ] × 10 −2 . This is the first unambiguous evidence for a nonzero α decay parameter, and hence parity violation, in the Ω − → Λ K − decay.

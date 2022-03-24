@@ -1,0 +1,1 @@
+Data on association between QRS duration on prehospital ECG and mortality in patients with confirmed STEMI 

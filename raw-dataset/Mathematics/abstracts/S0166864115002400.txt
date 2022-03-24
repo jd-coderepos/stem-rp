@@ -1,0 +1,1 @@
+We prove that a strong version of Chang's Conjecture together with 2 ω = ω 2 implies there are no ω 2 -Aronszajn trees.

@@ -1,0 +1,1 @@
+We construct an SU ( N ) membrane B ∧ F theory with dual pairs of scalar and tensor fields. The moduli space of the theory is precisely that of N M2-branes on the noncompact flat space. The theory possesses explicit SO ( 8 ) invariance and is an extension of the maximal SU ( N ) super-Yang–Mills theory.

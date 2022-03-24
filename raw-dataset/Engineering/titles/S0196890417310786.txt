@@ -1,0 +1,1 @@
+Towards accurate CFD simulations of vertical axis wind turbines at different tip speed ratios and solidities: Guidelines for azimuthal increment, domain size and convergence 

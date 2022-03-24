@@ -1,0 +1,1 @@
+A compact spike-timing-dependent-plasticity circuit for floating gate weight implementation 

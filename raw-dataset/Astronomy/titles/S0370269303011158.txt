@@ -1,0 +1,1 @@
+Classical O(N) nonlinear sigma model on the half line: a study on consistent Hamiltonian description 

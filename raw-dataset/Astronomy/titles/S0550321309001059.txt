@@ -1,0 +1,6 @@
+Quantum field theory solution for a short-range interacting 
+                  SO
+                  (
+                  3
+                  )
+                quantum spin-glass 

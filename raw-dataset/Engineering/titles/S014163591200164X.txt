@@ -1,0 +1,1 @@
+Efficient estimation by FEA of machine tool distortion due to environmental temperature perturbations 

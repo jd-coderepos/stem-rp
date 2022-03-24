@@ -1,0 +1,1 @@
+Multi-scale modal analysis for axisymmetric and spherical symmetric structures with periodic configurations 

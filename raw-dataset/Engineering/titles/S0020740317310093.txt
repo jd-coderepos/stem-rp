@@ -1,0 +1,1 @@
+A semi-analytical approach towards plane wave analysis of local resonance metamaterials using a multiscale enriched continuum description 

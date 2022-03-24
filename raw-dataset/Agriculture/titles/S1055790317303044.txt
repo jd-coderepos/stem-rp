@@ -1,0 +1,1 @@
+Comparison of different strategies for using fossil calibrations to generate the time prior in Bayesian molecular clock dating 

@@ -1,0 +1,1 @@
+We evaluate the two-loop O ( m e 2 / s ) contribution to the wide-angle high-energy electron–positron scattering in the double-logarithmic approximation. The origin and the general structure of the power-suppressed double logarithmic corrections are discussed in detail.

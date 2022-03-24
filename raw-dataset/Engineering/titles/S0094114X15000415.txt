@@ -1,0 +1,1 @@
+Euler–Rodrigues formula variations, quaternion conjugation and intrinsic connections 

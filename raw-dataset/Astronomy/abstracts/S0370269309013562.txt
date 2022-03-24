@@ -1,0 +1,1 @@
+We find exact spherically symmetric solution of 4d nonlinear bosonic higher-spin gauge theory, that preserves a quarter of supersymmetries of N = 2 supersymmetric 4d higher-spin gauge theory. In the weak field regime it describes AdS 4 Schwarzschild black hole in the spin two sector along with nonzero massless fields of all integer spins.

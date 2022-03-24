@@ -1,0 +1,1 @@
+A precision test of lepton flavour universality has been performed by measuring the ratio R K of kaon leptonic decay rates K + → e + ν and K + → μ + ν in a sample of 59 813 reconstructed K + → e + ν candidates with ( 8.71 ± 0.24 ) % background contamination. The result R K = ( 2.487 ± 0.013 ) × 10 − 5 is in agreement with the Standard Model expectation.

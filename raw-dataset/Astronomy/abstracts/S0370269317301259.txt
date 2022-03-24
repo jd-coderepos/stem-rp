@@ -1,0 +1,1 @@
+Muon neutrino disappearance measurements at NOνA suggest that maximal θ 23 is excluded at the 2.6σ CL. This is in mild tension with T2K data which prefer maximal mixing. Considering that NOνA has a much longer baseline than T2K, we point out that the apparent departure from maximal mixing in NOνA may be a consequence of nonstandard neutrino propagation in matter.

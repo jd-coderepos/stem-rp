@@ -1,0 +1,1 @@
+Adequate sample size for developing prediction models is not simply related to events per variable 

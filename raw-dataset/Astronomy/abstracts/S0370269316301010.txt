@@ -1,0 +1,1 @@
+In this work we consider the construction of the Hamiltonian action for the transgressions field theory. The subspace separation method for Chern–Simons Hamiltonian is built and used to find the Hamiltonian for five-dimensional Einstein–Chern–Simons gravity. It is then shown that the Hamiltonian for Einstein gravity arises in the limit where the scale parameter l approaches zero.

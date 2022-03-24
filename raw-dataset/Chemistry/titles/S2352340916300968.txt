@@ -1,0 +1,2 @@
+Recombinant protein production data after expression in the bacterium Escherichia coli
+             

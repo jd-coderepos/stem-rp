@@ -1,0 +1,1 @@
+In this Letter, we study bosonization of the noncommutative massive Thirring model in 2+1 dimensions. We show that, contrary to the duality between massive Thirring model and Maxwell–Chern–Simons model in ordinary spacetime, in the low energy (or large fermion mass) limit, their noncommutative versions are not equivalent, in the same approximation.

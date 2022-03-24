@@ -1,0 +1,1 @@
+The Automatic Neuroscientist: A framework for optimizing experimental design with closed-loop real-time fMRI 

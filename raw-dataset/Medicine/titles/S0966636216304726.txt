@@ -1,0 +1,1 @@
+A multi-resolution investigation for postural transition detection and quantification using a single wearable 

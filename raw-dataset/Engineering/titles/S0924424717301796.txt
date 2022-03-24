@@ -1,0 +1,1 @@
+Design study of a mechanically plucked piezoelectric energy harvester using validated finite element modelling 

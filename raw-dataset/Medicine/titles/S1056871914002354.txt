@@ -1,0 +1,1 @@
+Prediction of Thorough QT study results using action potential simulations based on ion channel screens 

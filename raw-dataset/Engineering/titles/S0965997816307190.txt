@@ -1,0 +1,1 @@
+A computational strategy to establish algebraic parameters for the Reference Resistance Design of metal shell structures 

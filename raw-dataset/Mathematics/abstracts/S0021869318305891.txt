@@ -1,0 +1,1 @@
+I classify projective modules over idempotent semirings that are free on a monoid. The analysis extends to the case of the semiring of convex, piecewise-affine functions on a polyhedron, for which projective modules correspond to convex families of weight polyhedra for the general linear group.

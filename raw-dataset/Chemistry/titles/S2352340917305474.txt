@@ -1,0 +1,1 @@
+Forest harvest dataset for northern Colorado Rocky Mountains (1984–2015) generated from a Landsat time series and existing forest harvest records 

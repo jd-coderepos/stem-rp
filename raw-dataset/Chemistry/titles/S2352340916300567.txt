@@ -1,0 +1,1 @@
+SILAC based protein profiling data of MKK3 knockout mouse embryonic fibroblasts 

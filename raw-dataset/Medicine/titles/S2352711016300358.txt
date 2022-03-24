@@ -1,0 +1,1 @@
+SULISO: The Bath suite of vibrational characterization and isotope effect calculation software 

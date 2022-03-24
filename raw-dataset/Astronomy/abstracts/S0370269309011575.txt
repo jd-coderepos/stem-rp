@@ -1,0 +1,1 @@
+On the basis of the so-called supersymmetric yukawaon model, it is investigated what form of the superpotential W can lead to the observed charged lepton mass spectrum. A simple form of W can speculate reasonable values of K ( μ ) = ( m e + m μ + m τ ) / ( m e + m μ + m τ ) 2 and κ ( μ ) = m e m μ m τ / ( m e + m μ + m τ ) 3 at an energy scale μ = Λ .

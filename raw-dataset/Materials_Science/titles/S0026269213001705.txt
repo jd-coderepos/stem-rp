@@ -1,0 +1,1 @@
+Transceiver with inductive coupling for wireless chip-to-chip communication using a 50-nm digital CMOS process 

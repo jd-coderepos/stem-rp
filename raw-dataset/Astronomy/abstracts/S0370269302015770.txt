@@ -1,0 +1,1 @@
+We compute RR charges of D2-branes on a background with H-field which belongs to a nontrivial cohomology class. We discover that the RR charge depends on the configuration of the background ‘electric’ RR field. This result explains the ambiguity in the definition of the RR charge previously observed in the SU(2) WZW model.

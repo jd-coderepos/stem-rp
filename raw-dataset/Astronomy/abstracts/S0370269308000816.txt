@@ -1,0 +1,1 @@
+An action for eleven-dimensional standard supergravity genuinely invariant under the D'Auria–Fré group is proposed. The construction of the action is carried out through a generalization of the Stelle–West–Grignani–Nardelli formalism. The action is genuinely invariant under this group without the need to impose auxiliary conditions such as a torsion-free condition.

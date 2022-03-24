@@ -1,0 +1,1 @@
+The tensor form factors of B into p-wave axial vector meson transition are calculated within light cone QCD sum rules method. The parametrizations of the tensor form factors based on the series expansion are presented.

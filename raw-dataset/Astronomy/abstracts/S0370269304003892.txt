@@ -1,0 +1,1 @@
+We calculate the S-wave decay widths and energy shifts for π + π − and π ± K ∓ atoms in the framework of QCD + QED. The evaluation—valid at next-to-leading order in isospin symmetry breaking—is performed within a non-relativistic effective field theory. The results are of interest for future hadronic atom experiments.

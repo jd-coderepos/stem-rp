@@ -1,0 +1,1 @@
+It is proved that self-gravitating static scalar fields whose self-interaction potential V ( ψ 2 ) is a monotonically increasing function of its argument cannot form spherically symmetric asymptotically flat bound matter configurations. Our compact theorem rules out, in particular, the existence of spatially regular static boson stars made of nonlinear massive scalar fields.

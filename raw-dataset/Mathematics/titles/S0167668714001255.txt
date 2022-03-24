@@ -1,0 +1,1 @@
+A copula based Bayesian approach for paid–incurred claims models for non-life insurance reserving 

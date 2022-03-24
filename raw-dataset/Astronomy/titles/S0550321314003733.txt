@@ -1,0 +1,1 @@
+Gaudin-type models, non-skew-symmetric classical r-matrices and nested Bethe ansatz 

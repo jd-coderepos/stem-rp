@@ -1,0 +1,1 @@
+This article characterises the dimension of indeterminacy of linear rational expectations (LRE) models and derives their full set of solutions. It extends the analysis of indeterminate equilibria in Lubik and Schorfheide (2003) where some equilibria are incorrectly classified as indeterminate even though they entail the same observable outcome.

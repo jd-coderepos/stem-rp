@@ -1,0 +1,1 @@
+This code computes the largest Lyapunov exponent and tests for the presence of a chaotic dynamics, as opposed to stochastic dynamics, in a noisy scalar series. The program runs under Matlab​® programming language.

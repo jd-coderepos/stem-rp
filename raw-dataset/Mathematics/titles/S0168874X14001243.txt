@@ -1,0 +1,1 @@
+On the stress update algorithm of an advanced critical state elasto-plastic model and the effect of yield function equation 

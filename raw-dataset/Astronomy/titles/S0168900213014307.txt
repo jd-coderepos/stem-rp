@@ -1,0 +1,1 @@
+A high resolution TOF-PET concept with axial geometry and digital SiPM readout 

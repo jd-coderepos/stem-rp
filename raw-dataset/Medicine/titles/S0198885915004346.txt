@@ -1,0 +1,1 @@
+Histoimmunogenetics Markup Language 1.0: Reporting next generation sequencing-based HLA and KIR genotyping 

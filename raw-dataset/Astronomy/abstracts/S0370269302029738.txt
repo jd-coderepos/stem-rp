@@ -1,0 +1,1 @@
+The gluon distribution is dominated by the hard pomeron at small x and all Q 2, with no soft-pomeron contribution. This describes well not only the DGLAP evolution of the hard-pomeron part of F 2(x,Q 2), but also charm photoproduction and electroproduction, and is consistent with what is known about the longitudinal structure function.

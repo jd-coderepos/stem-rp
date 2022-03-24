@@ -1,0 +1,1 @@
+We analyze the Ricci flow of a non-compact metric that describes a two-dimensional black hole. We consider entanglement entropy of a 2d black hole which is due to the quantum correlations between two subsystems: one is inside and the other is outside the black hole horizon. It is demonstrated that the entanglement entropy is monotonic along the Ricci flow.

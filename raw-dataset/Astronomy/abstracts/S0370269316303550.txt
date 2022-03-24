@@ -1,0 +1,1 @@
+In this addendum, we consider the connection between certain 2d super-GCA, obtained from the parametric contractions of 2d SCFTs, which can describe the constraint algebra of null spinning strings.

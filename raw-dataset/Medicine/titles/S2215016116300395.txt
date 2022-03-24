@@ -1,0 +1,1 @@
+A computationally efficient algorithm for fitting ion channel parameters 

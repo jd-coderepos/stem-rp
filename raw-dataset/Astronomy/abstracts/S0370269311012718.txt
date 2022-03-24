@@ -1,0 +1,1 @@
+Campbellʼs theorem ensures that all vacuum space–times in general relativity can be embedded in five dimensions, with the 4D scalar curvature expressed as an effective cosmological ‘constant’ Λ which depends on the extra coordinate. This Λ-landscape can be used to give insight to certain physical phenomena, such as the big bang and quantized particles.

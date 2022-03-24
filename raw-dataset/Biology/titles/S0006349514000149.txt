@@ -1,0 +1,1 @@
+Automated Detection and Analysis of Ca2+ Sparks in x-y Image Stacks Using a Thresholding Algorithm Implemented within the Open-Source Image Analysis Platform ImageJ 

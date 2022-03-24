@@ -1,0 +1,8 @@
+SU(2)
+                  L
+               
+               ×SU(2)
+                  R
+                minimal dark matter with 2 TeV W
+               ′
+             

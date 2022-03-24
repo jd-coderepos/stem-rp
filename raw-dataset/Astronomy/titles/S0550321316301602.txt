@@ -1,0 +1,110 @@
+The complete 
+                  O
+                  (
+                  
+                     
+                        α
+                     
+                     
+                        s
+                     
+                     
+                        2
+                     
+                  
+                  )
+                non-singlet heavy flavor corrections to the structure functions 
+                  
+                     
+                        g
+                     
+                     
+                        1
+                        ,
+                        2
+                     
+                     
+                        e
+                        p
+                     
+                  
+                  (
+                  x
+                  ,
+                  
+                     
+                        Q
+                     
+                     
+                        2
+                     
+                  
+                  )
+               , 
+                  
+                     
+                        F
+                     
+                     
+                        1
+                        ,
+                        2
+                        ,
+                        L
+                     
+                     
+                        e
+                        p
+                     
+                  
+                  (
+                  x
+                  ,
+                  
+                     
+                        Q
+                     
+                     
+                        2
+                     
+                  
+                  )
+               , 
+                  
+                     
+                        F
+                     
+                     
+                        1
+                        ,
+                        2
+                        ,
+                        3
+                     
+                     
+                        ν
+                        (
+                        
+                           
+                              ν
+                           
+                           
+                              ¯
+                           
+                        
+                        )
+                     
+                  
+                  (
+                  x
+                  ,
+                  
+                     
+                        Q
+                     
+                     
+                        2
+                     
+                  
+                  )
+                and the associated sum rules 

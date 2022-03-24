@@ -1,0 +1,1 @@
+Dirac, Schwinger and Zwanziger theories of electric and magnetic charges are obtained via duality transformation. Analogous construction for three Euclidean dimensions, with magnetic charges interacting with electric currents, is also done. The role of Dirac strings as dislocations in the configurations of gauge potential is emphasized.

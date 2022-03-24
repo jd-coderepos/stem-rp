@@ -1,0 +1,1 @@
+Using the embedded defect method, we classify the possible embeddings of a 't Hooft–Polyakov monopole in a general gauge theory. We then discuss some similarities with embedded vortices and relate our results to fundamental monopoles.

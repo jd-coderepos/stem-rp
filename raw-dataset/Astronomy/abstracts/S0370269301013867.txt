@@ -1,0 +1,1 @@
+Precise data on the neutron magnetic form factor G mn have been obtained with measurements of the ratio of cross sections of D(e,e′n) and D(e,e′p) up to momentum transfers of Q 2=0.9 (GeV/c)2. Data with typical uncertainties of 1.5% are presented. These data allow for the first time to extract a precise value of the magnetic radius of the neutron.

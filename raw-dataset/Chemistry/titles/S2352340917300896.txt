@@ -1,0 +1,1 @@
+Calculation of statistic estimates of kinetic parameters from substrate uncompetitive inhibition equation using the median method 

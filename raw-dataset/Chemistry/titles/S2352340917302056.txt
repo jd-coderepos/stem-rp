@@ -1,0 +1,1 @@
+Ultra high-field (7T) multi-resolution fMRI data for orientation decoding in visual cortex 

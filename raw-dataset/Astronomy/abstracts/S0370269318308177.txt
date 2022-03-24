@@ -1,0 +1,1 @@
+We reformulate in a systematic way the conversional approach in its most general and compact form. We present a new definition of generalized Dirac bracket directly in terms of the super-observables commuting with the basic BFV-BRST charge.

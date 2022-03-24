@@ -1,0 +1,1 @@
+A coupled optical-thermal-electrical model to predict the performance of hybrid PV/T-CCPC roof-top systems 

@@ -1,0 +1,1 @@
+Natural image sequences constrain dynamic receptive fields and imply a sparse code 

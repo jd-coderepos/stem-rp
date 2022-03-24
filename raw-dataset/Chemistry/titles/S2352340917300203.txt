@@ -1,0 +1,1 @@
+Dataset of proteomics analysis of aging C. elegans exposed to Pseudomonas aeruginosa strain PA01 

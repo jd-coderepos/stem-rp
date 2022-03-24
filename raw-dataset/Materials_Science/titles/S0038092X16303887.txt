@@ -1,0 +1,1 @@
+Six-parameter electrical model for photovoltaic cell/module with compound parabolic concentrator 

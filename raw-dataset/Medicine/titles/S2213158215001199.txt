@@ -1,0 +1,1 @@
+Fast semi-automated lesion demarcation in stroke 

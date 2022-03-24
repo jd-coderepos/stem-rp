@@ -1,0 +1,1 @@
+Validation of MALDI-TOF MS Biotyper database optimized for anaerobic bacteria: The ENRIA project 

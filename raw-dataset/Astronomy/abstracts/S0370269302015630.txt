@@ -1,0 +1,1 @@
+It is shown that the violation of unitarity observed in space/time noncommutative field theories is due to an improper definition of quantum field theory on noncommutative spacetime.

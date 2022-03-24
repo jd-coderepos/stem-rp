@@ -1,0 +1,1 @@
+Micromagnetic simulation of exchange coupled ferri-/ferromagnetic heterostructures 

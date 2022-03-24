@@ -1,0 +1,1 @@
+We point out the possibility to test the simplest scalar dark matter model at gamma-ray telescopes. We discuss the relevant constraints and show the predictions for direct detection, gamma line searches and LHC searches. Since the final state radiation processes are suppressed by small Yukawa couplings one could observe the gamma lines from dark matter annihilation.

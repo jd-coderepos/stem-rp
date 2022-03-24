@@ -1,0 +1,2 @@
+Data characterizing the genomic structure of the T cell receptor (TRB) locus in Camelus dromedarius
+             

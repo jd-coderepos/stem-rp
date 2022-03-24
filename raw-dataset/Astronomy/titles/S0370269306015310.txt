@@ -1,0 +1,8 @@
+Relativistic two-body equation based on the extension of the 
+                  SL
+                  (
+                  2
+                  ,
+                  C
+                  )
+                group 

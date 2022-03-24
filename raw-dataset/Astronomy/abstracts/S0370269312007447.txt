@@ -1,0 +1,1 @@
+By introducing an additional operator into the action and using the Feynman–Hellmann theorem we describe a method to determine both the quark line connected and disconnected terms of matrix elements. As an illustration of the method we calculate the gluon contribution (chromo-electric and chromo-magnetic components) to the nucleon mass.

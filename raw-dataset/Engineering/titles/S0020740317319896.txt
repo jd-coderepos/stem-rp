@@ -1,0 +1,1 @@
+Comparison of plane-stress, generalized-plane-strain and 3D FEM elastic–plastic analyses of thick-walled cylinders subjected to radial thermal gradient 

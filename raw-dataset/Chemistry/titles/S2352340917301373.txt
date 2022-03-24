@@ -1,0 +1,1 @@
+Data demonstrating the influence of the latent storage efficiency on the dynamic thermal characteristics of a PCM layer 

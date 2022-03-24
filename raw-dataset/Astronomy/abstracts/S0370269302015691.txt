@@ -1,0 +1,1 @@
+Generalization of the recent Taylor–Polchinski argument is presented, which helps to explain quantization of RR charges in IIA-like theories in the presence of cohomologically trivial H-fields.

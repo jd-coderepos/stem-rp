@@ -1,0 +1,1 @@
+Kaplan–Meier survival analysis and Cox regression analyses regarding right ventricular septal pacing: Data from Japanese pacemaker cohort 

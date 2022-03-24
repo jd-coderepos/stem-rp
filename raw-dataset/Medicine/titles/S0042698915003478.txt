@@ -1,0 +1,1 @@
+Gestalt-like constraints produce veridical (Euclidean) percepts of 3D indoor scenes 

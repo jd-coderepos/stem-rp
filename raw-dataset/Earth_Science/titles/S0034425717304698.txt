@@ -1,0 +1,1 @@
+Retrieval of outgoing longwave radiation at top-of-atmosphere using Himawari-8 AHI data 

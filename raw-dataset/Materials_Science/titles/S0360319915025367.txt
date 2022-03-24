@@ -1,0 +1,1 @@
+Hydrogen production by steam reforming of DME in a large scale CFB reactor. Part I: Computational model and predictions 

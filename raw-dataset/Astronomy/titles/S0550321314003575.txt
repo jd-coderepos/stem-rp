@@ -1,0 +1,11 @@
+CFT4 as 
+                  
+                     SO
+                  
+                  (
+                  4
+                  ,
+                  2
+                  )
+               -invariant TFT2
+             

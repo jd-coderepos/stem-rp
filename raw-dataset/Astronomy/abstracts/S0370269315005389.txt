@@ -1,0 +1,1 @@
+We identify the independent dimension 6 twist 4 gluon operators and calculate their renormalization in the pure gauge theory. By constructing the renormalization group invariant combinations, we find the scale invariant condensates that can be estimated in nonperturbative calculations and used in QCD sum rules for heavy quark systems in medium.

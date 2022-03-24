@@ -1,0 +1,1 @@
+A comparative study of stabilizing control of a planer electromagnetic levitation using PID and LQR controllers 

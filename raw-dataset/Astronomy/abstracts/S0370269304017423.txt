@@ -1,0 +1,1 @@
+We consider the super-Yang–Mills/spin system map to construct the SU ( 2 ) spin bit model at the level of two loops in Yang–Mills perturbation theory. The model describes a spin system with chaining interaction. In the large N limit the model is shown to be reduced to the two loop planar integrable spin chain.

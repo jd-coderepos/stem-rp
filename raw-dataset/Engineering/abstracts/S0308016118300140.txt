@@ -1,0 +1,1 @@
+Closely-spaced cracks in structures can interact with each other; the presence of one crack can change the strain energy release rate at another crack nearby. Since this interaction is enhanced by the onset of plasticity, elastic analysis alone should not be used for judging whether interaction between cracks will have a significant effect on the integrity of a structure.

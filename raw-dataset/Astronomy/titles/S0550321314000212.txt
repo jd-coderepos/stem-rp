@@ -1,0 +1,21 @@
+Modular transformations and Verlinde formulae for logarithmic 
+                  (
+                  
+                     
+                        p
+                     
+                     
+                        +
+                     
+                  
+                  ,
+                  
+                     
+                        p
+                     
+                     
+                        −
+                     
+                  
+                  )
+               -models 

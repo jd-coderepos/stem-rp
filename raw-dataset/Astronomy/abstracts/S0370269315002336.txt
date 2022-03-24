@@ -1,0 +1,1 @@
+In this work we examine the existence and uniqueness of the groundstate of a SU ( N ) × G 2 octonionic matrix model on a bounded domain of R N . The existence and uniqueness argument of the groundstate wavefunction follows from the Lax–Milgram theorem. Uniqueness is shown by means of an explicit argument which is drafted in some detail.

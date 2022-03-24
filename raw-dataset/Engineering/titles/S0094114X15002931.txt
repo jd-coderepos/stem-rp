@@ -1,0 +1,1 @@
+Reconfiguration analysis of a 4-DOF 3-RER parallel manipulator with equilateral triangular base and moving platform 

@@ -1,0 +1,4 @@
+Nektar++: An open-source spectral/
+                  h
+                  p
+                element framework 

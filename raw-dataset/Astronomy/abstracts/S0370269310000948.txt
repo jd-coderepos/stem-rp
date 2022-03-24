@@ -1,0 +1,1 @@
+The modular matrix for the generic 1-point conformal blocks on the torus is expressed in terms of the fusion matrix for the 4-point blocks on the sphere. The modular invariance of the toric 1-point functions in the Liouville field theory with DOZZ structure constants is proved.

@@ -1,0 +1,1 @@
+We report an improved measurement of D 0 – D ‾ 0 mixing and a search for CP violation in D 0 decays to CP-even final states K + K − and π + π − . The measurement is based on the final Belle data sample of 976 fb−1. The results are y CP = ( 1.11 ± 0.22 ± 0.09 ) % and A Γ = ( − 0.03 ± 0.20 ± 0.07 ) % , where the first uncertainty is statistical and the second is systematic.

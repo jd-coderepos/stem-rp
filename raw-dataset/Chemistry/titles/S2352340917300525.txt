@@ -1,0 +1,1 @@
+Data representing two separate LC-MS methods for detection and quantification of water-soluble and fat-soluble vitamins in tears and blood serum 

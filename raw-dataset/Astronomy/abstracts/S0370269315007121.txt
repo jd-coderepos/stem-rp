@@ -1,0 +1,1 @@
+The computation of direct CP asymmetries in charmless B decays at next-to-next-to-leading order (NNLO) in QCD is of interest to ascertain the short-distance contribution. Here we compute the two-loop penguin contractions of the current–current operators Q 1 , 2 and provide a first estimate of NNLO CP asymmetries in penguin-dominated b → s transitions.

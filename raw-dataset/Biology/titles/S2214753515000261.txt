@@ -1,0 +1,1 @@
+A glance at the applications of Singular Spectrum Analysis in gene expression data 

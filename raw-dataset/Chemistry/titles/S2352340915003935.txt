@@ -1,0 +1,1 @@
+Forward-scatter and side-scatter dataset for epithelial cells from touch samples analyzed by flow cytometry 

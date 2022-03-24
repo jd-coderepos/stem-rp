@@ -1,0 +1,1 @@
+We evaluate n-particle ( n = 2 , 3 , 4 , 5 ) transverse momentum correlations for pions and kaons following from the decay of statistical clusters. These correlation functions could provide strong constraints on a possible existence of thermal clusters in the process of particle production.

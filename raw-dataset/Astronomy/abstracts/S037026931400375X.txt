@@ -1,0 +1,1 @@
+We calculate the one-loop anomalous dimension matrix for the dimension-six baryon number violating operators of the Standard Model effective field theory, including right-handed neutrino fields. We discuss the flavor structure of the renormalization group evolution in the contexts of minimal flavor violation and unification.

@@ -1,0 +1,1 @@
+We propose a holographic dual for (pseudo-)conformal cosmological scenario, with a scalar field that forms a moving domain wall in adS5. The domain wall separates two vacua with unequal energy densities. Unlike in the existing construction, the 5d solution is regular in the relevant space–time domain.

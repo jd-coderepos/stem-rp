@@ -1,0 +1,1 @@
+We rewrite the N=(2,2) non-linear sigma model using auxiliary spinorial superfields defining the model on T⊕ ∗ T , where T is the tangent bundle of the target space M . This is motivated by possible connections to Hitchin's generalized complex structures. We find the general form of the second supersymmetry compatible with the known one for the original model.

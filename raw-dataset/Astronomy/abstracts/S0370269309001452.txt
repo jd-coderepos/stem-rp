@@ -1,0 +1,1 @@
+We consider a noncommutative scalar field with a covariantly constant noncommutative parameter in a curved space–time background. For a potential as a noncommutative polynomial it is shown that the stability conditions are unaffected by the noncommutativity, a result that is valid irrespective whether space–time has horizons or not.

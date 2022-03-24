@@ -1,0 +1,1 @@
+A simple Regge-eikonal model with the eikonal represented as a single-reggeon-exchange term is applied to description of the nucleon–nucleon elastic diffractive scattering at ultra-high energies. The range of validity of the proposed approximation is discussed. The model predictions for the proton–proton cross-sections at the collision energy 14 TeV are given.

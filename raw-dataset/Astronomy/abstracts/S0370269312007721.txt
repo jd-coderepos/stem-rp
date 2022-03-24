@@ -1,0 +1,1 @@
+The magnetic moment of the Roper resonance is calculated in the framework of a low-energy effective field theory of the strong interactions. A systematic power-counting procedure is implemented by applying the complex-mass scheme.

@@ -1,0 +1,1 @@
+A bi-intuitionistic modal logic: Foundations and automation 

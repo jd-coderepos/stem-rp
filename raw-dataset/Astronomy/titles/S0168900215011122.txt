@@ -1,0 +1,1 @@
+ALPIDE, the Monolithic Active Pixel Sensor for the ALICE ITS upgrade 

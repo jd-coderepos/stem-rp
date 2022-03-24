@@ -1,0 +1,1 @@
+A joint design for functional data with application to scheduling ultrasound scans 

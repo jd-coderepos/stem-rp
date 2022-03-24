@@ -1,0 +1,1 @@
+Improving BRDF normalisation for Landsat data using statistical relationships between MODIS BRDF shape and vegetation structure in the Australian continent 

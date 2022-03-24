@@ -1,0 +1,1 @@
+Quintessence model with double exponential potential 

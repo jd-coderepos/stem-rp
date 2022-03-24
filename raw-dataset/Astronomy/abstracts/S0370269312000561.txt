@@ -1,0 +1,1 @@
+We show that a gauge singlet scalar boson in low-energy supersymmetric model may behave as the standard model (SM) Higgs boson if the singlet couples to (heavy) vector-like colored particles. In this case, the SM-Higgs-like signal at the LHC can be mimicked by the singlet production process for wide range of the singlet mass.

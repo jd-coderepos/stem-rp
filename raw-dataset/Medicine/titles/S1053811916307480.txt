@@ -1,0 +1,1 @@
+Potential pitfalls when denoising resting state fMRI data using nuisance regression 

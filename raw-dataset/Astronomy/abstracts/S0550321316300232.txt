@@ -1,0 +1,1 @@
+It is shown that the general 3-point function 〈 Φ c Φ b Φ a 〉 , with continuous values of charges a , b , c of a statistical model operators, and the 3-point function of the Liouville model, could all be obtained by successive analytical continuations starting from the 3-point function of the minimal model.

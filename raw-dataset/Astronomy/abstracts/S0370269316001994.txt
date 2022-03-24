@@ -1,0 +1,1 @@
+We perform the leading logarithmic resummation of nonglobal logarithms for the single-hemisphere jet mass distribution in e + e − annihilation including the finite- N c corrections. The result is compared with the previous all-order result in the large- N c limit as well as fixed-order perturbative calculations.

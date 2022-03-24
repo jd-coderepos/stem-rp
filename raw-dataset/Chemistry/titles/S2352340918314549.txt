@@ -1,0 +1,1 @@
+Data and performance of an active-set truncated Newton method with non-monotone line search for bound-constrained optimization 

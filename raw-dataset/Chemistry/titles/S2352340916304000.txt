@@ -1,0 +1,1 @@
+A semi-simulated EEG/EOG dataset for the comparison of EOG artifact rejection techniques 

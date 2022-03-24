@@ -1,0 +1,1 @@
+How sleep is homeostatically regulated remains a mystery. In this issue of Neuron, Donlea et al. (2014) provide evidence in Drosophila that a set of sleep-inducing neurons require Crossveinless-c, a specific Rho-GTPase-activating protein (Rho-Gap), to alter their membrane excitability in response to sleep deprivation.

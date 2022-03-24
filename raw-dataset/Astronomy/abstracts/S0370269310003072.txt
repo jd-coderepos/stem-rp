@@ -1,0 +1,1 @@
+We propose an extension of the hypothesis of Minimal Flavour Violation (MFV) to general multi-Higgs models without the assumption of Natural Flavour Conservation (NFC) in the Higgs sector. We study in detail under what conditions the neutral Higgs couplings are only functions of V CKM and propose a MFV expansion for the neutral Higgs couplings to fermions.

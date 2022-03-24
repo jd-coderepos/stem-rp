@@ -1,0 +1,1 @@
+Portable battery lifespans and new estimation method for battery collection rate based on a lifespan modeling approach 

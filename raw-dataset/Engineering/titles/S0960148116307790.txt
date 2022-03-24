@@ -1,0 +1,1 @@
+Steam gasification of biomass with subsequent syngas adjustment using shift reaction for syngas production: An Aspen Plus model 

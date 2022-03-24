@@ -1,0 +1,1 @@
+Proportional integral derivative, modeling and ways of stabilization for the spark plasma sintering process 

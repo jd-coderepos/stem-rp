@@ -1,0 +1,1 @@
+Variances and covariances in the Central Limit Theorem for the output of a transducer 

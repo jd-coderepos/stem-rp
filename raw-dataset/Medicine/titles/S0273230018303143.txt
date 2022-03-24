@@ -1,0 +1,1 @@
+Principles and procedures for handling out-of-domain and indeterminate results as part of ICH M7 recommended (Q)SAR analyses 

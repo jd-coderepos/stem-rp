@@ -1,0 +1,1 @@
+Dependence on supernovae light-curve processing in void models 

@@ -1,0 +1,1 @@
+Automatic scoring of lateral and sternal lying posture in grouped pigs using image processing and Support Vector Machine 

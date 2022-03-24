@@ -1,0 +1,1 @@
+A robust method to estimate the intracranial volume across MRI field strengths (1.5T and 3T) 

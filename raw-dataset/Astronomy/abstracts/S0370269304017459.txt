@@ -1,0 +1,1 @@
+We give a simple general extension to all free bosonic and fermionic massless gauge fields of a recent proof that spin 2 is duality invariant in flat space. We also discuss its validity in (A)dS backgrounds and the relevance of supersymmetry.

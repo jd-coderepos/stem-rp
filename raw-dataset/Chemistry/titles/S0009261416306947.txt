@@ -1,0 +1,1 @@
+Partitioning dynamic electron correlation energy: Viewing Møller-Plesset correlation energies through Interacting Quantum Atom (IQA) energy partitioning 

@@ -1,0 +1,1 @@
+A general formula of complex synchronizations with complex scaling diagonal matrix and time lag 

@@ -1,0 +1,21 @@
+Hadronization geometry from net-charge angular correlations on momentum subspace 
+                  (
+                  η
+                  ,
+                  ϕ
+                  )
+                in Au–Au collisions at 
+                  
+                     
+                        s
+                        
+                           N
+                           N
+                        
+                     
+                  
+                  =
+                  130
+                   GeV
+               
+             

@@ -1,0 +1,1 @@
+In this Letter we compute the corrections to the fine structure constant in D-dimensional space. These corrections stem from the generalized uncertainty principle. We also discuss in three-space dimension.

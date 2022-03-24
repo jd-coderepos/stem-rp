@@ -1,0 +1,1 @@
+Appearance-based indoor localization: A comparison of patch descriptor performance 

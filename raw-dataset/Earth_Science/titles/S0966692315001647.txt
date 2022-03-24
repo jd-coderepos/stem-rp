@@ -1,0 +1,1 @@
+Methods for deriving and calibrating privacy-preserving heat maps from mobile sports tracking application data 

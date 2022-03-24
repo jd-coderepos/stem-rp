@@ -1,0 +1,1 @@
+Neural network model develops border ownership representation through visually guided learning 

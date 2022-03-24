@@ -1,0 +1,1 @@
+We give a simple presentation of the combinatorics of renormalization in perturbative quantum field theory in terms of triangular matrices. The prescription, that may be of calculational value, is derived from first principles, to wit, the “Birkhoff decomposition” in the Hopf-algebraic description of renormalization by Connes and Kreimer.

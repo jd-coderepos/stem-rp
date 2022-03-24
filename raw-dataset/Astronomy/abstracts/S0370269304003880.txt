@@ -1,0 +1,1 @@
+We consider rotating boson star solutions in a three-dimensional anti-de Sitter spacetime and investigate the influence of the rotation on their properties. The mass and angular momentum of these configurations are computed by using the counterterm method. No regular solution is found in the limit of vanishing cosmological constant.

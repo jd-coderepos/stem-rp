@@ -1,0 +1,1 @@
+A measurement of the derivative (∂ lnF 2/∂ lnx) Q 2 ≡−λ(x,Q 2) of the proton structure function F 2 is presented in the low x domain of deeply inelastic positron–proton scattering. For 5×10−5⩽x⩽0.01 and Q2⩾1.5 GeV 2 , λ(x,Q 2) is found to be independent of x and to increase linearly with lnQ 2.

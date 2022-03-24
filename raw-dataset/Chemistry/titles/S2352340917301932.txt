@@ -1,0 +1,1 @@
+Microarray dataset of transient and permanent DNA methylation changes in HeLa cells undergoing inorganic arsenic-mediated epithelial-to-mesenchymal transition 

@@ -1,0 +1,1 @@
+In this note we demonstrate that, as we conjectured earlier in [1], the a-charge in the conformal anomaly in dimension d = 2 n manifests in a n-point correlation function of energy–momentum tensor of a CFT considered in flat spacetime with a conical defect. We consider in detail dimensions d = 2 , 4 , 6 and give a general formula for arbitrary n.

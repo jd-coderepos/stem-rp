@@ -1,0 +1,1 @@
+An extended linear quadratic regulator for LTI systems with exogenous inputs 

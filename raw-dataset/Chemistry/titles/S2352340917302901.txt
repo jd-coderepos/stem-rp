@@ -1,0 +1,1 @@
+Dataset of Sgo1 expression in cardiac, gastrointestinal, hepatic and neuronal tissue in mouse 

@@ -1,0 +1,1 @@
+Exploiting nonlinear spectral broadening in a 400 W Yb:YAG thin-disk multipass amplifier to achieve 2 mJ pulses with sub-150 fs duration 

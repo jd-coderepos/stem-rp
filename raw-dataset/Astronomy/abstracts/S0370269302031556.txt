@@ -1,0 +1,1 @@
+We present a new supersymmetric version of the SU(3)⊗U(1) gauge model using a more economic content of particles. The model has a smaller set of free parameters than other possibilities considered before. The MSSM can be seen as an effective theory of this larger symmetry. We find that the upper bound of the lightest CP-even Higgs boson can be moved up to 140 GeV.

@@ -1,0 +1,1 @@
+Using a sequence of rational approximants and the large- N c limit of QCD, we estimate the value of the low-energy constant C 87 which appears in the Lagrangian of Chiral Perturbation Theory at O ( p 6 ) .

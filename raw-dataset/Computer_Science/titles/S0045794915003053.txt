@@ -1,0 +1,2 @@
+
+               hp-Finite element solution of coupled stationary magnetohydrodynamics problems including magnetostrictive effects 

@@ -1,0 +1,1 @@
+Data set of the protein expression profiles of Luminal A, Claudin-low and overexpressing HER2+ breast cancer cell lines by iTRAQ labelling and tandem mass spectrometry 

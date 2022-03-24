@@ -1,0 +1,1 @@
+Data on dopant characteristics and band alignment of CdTe cells with and without a ZnO highly-resistive-transparent buffer layer 

@@ -1,0 +1,21 @@
+Small-x behavior of the structure function 
+                  
+                     F
+                     2
+                  
+                and its slope 
+                  ∂
+                  ln
+                  
+                     F
+                     2
+                  
+                  /
+                  ∂
+                  ln
+                  (
+                  1
+                  /
+                  x
+                  )
+                for “frozen” and analytic strong-coupling constants 

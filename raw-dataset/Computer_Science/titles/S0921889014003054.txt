@@ -1,0 +1,1 @@
+Symbolically structured database for human whole body motions based on association between motion symbols and motion words 

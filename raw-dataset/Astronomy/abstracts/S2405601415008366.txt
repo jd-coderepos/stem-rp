@@ -1,0 +1,1 @@
+I present results on continuing updates in PDFs within the framework now called MMHT14 due to both theory improvements and the inclusion of new data sets, including most of the up-to-date LHC data. A new set of PDFs is essentially finalised, with no changes expected to the PDFs presented here.

@@ -1,0 +1,1 @@
+Speeding up the optimal method of Drezner for the p-centre problem in the plane 

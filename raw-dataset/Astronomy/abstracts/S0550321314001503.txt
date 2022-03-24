@@ -1,0 +1,1 @@
+Instanton analysis is applied to the scalar ϕ 3 theory. Higher-order asymptotic expansions of the renormalization constants in the minimal subtraction scheme and 6 − ϵ dimensional regularization and of the index η are found. Results of the Borel resummation for the presently known terms of the ϵ-expansion of the index η up to the order ϵ 4 are presented.

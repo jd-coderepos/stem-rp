@@ -1,0 +1,1 @@
+Direct numerical simulation of flow around a heated/cooled isolated sphere up to a Reynolds number of 300 under subsonic to supersonic conditions 

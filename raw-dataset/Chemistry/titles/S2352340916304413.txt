@@ -1,0 +1,1 @@
+Data on publications, structural analyses, and queries used to build and utilize the AlloRep database 

@@ -1,0 +1,1 @@
+The vector form factor of the pion is calculated in the framework of chiral effective field theory with vector mesons included as dynamical degrees of freedom. To construct an effective field theory with a consistent power counting, the complex-mass scheme is applied.

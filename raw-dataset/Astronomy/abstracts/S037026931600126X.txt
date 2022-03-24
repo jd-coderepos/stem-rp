@@ -1,0 +1,1 @@
+For proton removal from 13B to bound and unbound states of 12Be, I investigate the consequences of core excitation in both nuclei, using wave functions determined previously. Conclusions are that the ground state contains most of the 0 + strength, but the 2 + strength is concentrated in the second 2 + state, which is currently unknown, but predicted near 5 MeV.

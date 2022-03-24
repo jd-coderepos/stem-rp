@@ -1,0 +1,1 @@
+The t-dependence of generalized parton distributions for x→1 is discussed. Based on a Fock space expansion, we argue that models, where the t-dependence for x→1 is through the product (1−x)t, are inconsistent. Instead we suggest a leading dependence in terms of (1−x) n t, where n⩾2, for x→1.

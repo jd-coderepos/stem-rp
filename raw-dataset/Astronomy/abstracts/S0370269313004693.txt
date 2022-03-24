@@ -1,0 +1,1 @@
+The formalism of Causal Dynamical Triangulations (CDT) attempts to provide a non-perturbative regularization of quantum gravity, viewed as an ordinary quantum field theory. In two dimensions one can solve the lattice theory analytically and the continuum limit is universal, not depending on the details of the lattice regularization.

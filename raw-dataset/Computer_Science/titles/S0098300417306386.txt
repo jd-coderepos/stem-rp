@@ -1,0 +1,1 @@
+A reversible-jump Markov chain Monte Carlo algorithm for 1D inversion of magnetotelluric data 

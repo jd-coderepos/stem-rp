@@ -1,0 +1,3 @@
+Running coupling effects for the singlet structure function g
+               1 at small x
+             

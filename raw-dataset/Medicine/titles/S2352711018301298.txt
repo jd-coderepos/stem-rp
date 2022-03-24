@@ -1,0 +1,2 @@
+
+               Heatrapy: A flexible Python framework for computing dynamic heat transfer processes involving caloric effects in 1.5D systems 

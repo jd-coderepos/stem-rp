@@ -1,0 +1,1 @@
+We introduce the strange quark mass to the Sakai–Sugimoto model of holographic QCD. We compute mass shifts in the spectra of three-flavor baryons at the leading order in perturbation in quark masses. Comparison with experimental data shows an agreement only qualitatively.

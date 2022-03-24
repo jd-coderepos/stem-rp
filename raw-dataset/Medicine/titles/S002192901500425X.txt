@@ -1,0 +1,1 @@
+A new strain energy function for modelling ligaments and tendons whose fascicles have a helical arrangement of fibrils 

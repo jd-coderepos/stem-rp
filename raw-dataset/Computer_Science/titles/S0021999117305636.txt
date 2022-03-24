@@ -1,0 +1,1 @@
+A fast numerical scheme for the Godunov–Peshkov–Romenski model of continuum mechanics 

@@ -1,0 +1,1 @@
+The pole mass of the gluino is diagrammatically calculated to the two-loop order in SUSY QCD as a function of the running parameters in the Lagrangian, for the gluino and squarks sufficiently heavier than the quarks. The O ( α s 2 ) correction shifts the gluino mass by typically 1–2%, which may be larger than the expected accuracy of the mass determination at future colliders.

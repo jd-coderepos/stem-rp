@@ -1,0 +1,1 @@
+Limited Mobility Bias explains why positive assortative matching is not observed in the empirical literature. Using German social security records, we estimate the correlation between worker and firm contributions to wage equations and find that it is unambiguously positive.

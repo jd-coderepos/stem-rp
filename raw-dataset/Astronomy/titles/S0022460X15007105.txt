@@ -1,0 +1,1 @@
+Fast Bayesian identification of a class of elastic weakly nonlinear systems using backbone curves 

@@ -1,0 +1,1 @@
+Semi-solid deformation of Al-Cu alloys: A quantitative comparison between real-time imaging and coupled LBM-DEM simulations 

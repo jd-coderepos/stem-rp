@@ -1,0 +1,1 @@
+Stratification and sample allocation for reference burned area data 

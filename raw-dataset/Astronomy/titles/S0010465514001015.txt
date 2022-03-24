@@ -1,0 +1,1 @@
+Metropolis–Hastings thermal state sampling for numerical simulations of Bose–Einstein condensates 

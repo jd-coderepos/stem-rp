@@ -1,0 +1,1 @@
+Finite size and finite temperature studies of the osp(1|2) spin chain 

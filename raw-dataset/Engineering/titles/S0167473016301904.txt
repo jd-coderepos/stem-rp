@@ -1,0 +1,1 @@
+Weibull parameter estimation and goodness-of-fit for glass strength data 

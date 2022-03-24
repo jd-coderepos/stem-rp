@@ -1,0 +1,1 @@
+Population-specific material properties of the implantation site for transcatheter aortic valve replacement finite element simulations 

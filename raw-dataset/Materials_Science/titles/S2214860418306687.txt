@@ -1,0 +1,1 @@
+Prediction of lack of fusion porosity in selective laser melting based on melt pool monitoring data 

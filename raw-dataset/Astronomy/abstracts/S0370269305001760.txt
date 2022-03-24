@@ -1,0 +1,1 @@
+We construct new axially symmetric rotating solutions of Einstein–Yang–Mills–Higgs theory. These globally regular configurations possess a nonvanishing electric charge which equals the total angular momentum, and zero topological charge, representing a monopole–antimonopole system rotating around the symmetry axis through their common center of mass.

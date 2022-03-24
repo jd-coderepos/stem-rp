@@ -1,0 +1,1 @@
+Taking proton as an ensemble of quark–gluon Fock states and using the principle of detailed balance, we construct a simple statistical model for parton distribution of proton. The recent observed Bjorken-x dependent light flavor sea quark asymmetry d ̄ (x)− u ̄ (x) can be well reproduced by Monte Carlo simulation as a pure statistical effect.

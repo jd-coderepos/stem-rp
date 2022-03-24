@@ -1,0 +1,1 @@
+Adaptive poromechanics computations based on a posteriori error estimates for fully mixed formulations of Biot’s consolidation model 

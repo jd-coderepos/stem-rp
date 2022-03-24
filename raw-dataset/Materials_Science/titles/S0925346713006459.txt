@@ -1,0 +1,1 @@
+Comparison of parameters of q-switching saturable absorbers estimated by different models and the impact of accuracy of input data on the results of the estimation 

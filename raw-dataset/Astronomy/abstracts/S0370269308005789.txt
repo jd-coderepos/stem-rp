@@ -1,0 +1,1 @@
+The four-dimensional Lorentz-breaking finite and determined Chern–Simons like action is generated as a one-loop perturbative correction via an appropriate Lorentz-breaking coupling of the gauge field with the spinor field. Unlike the known schemes of calculations, within this scheme this term is found to be regularization independent.

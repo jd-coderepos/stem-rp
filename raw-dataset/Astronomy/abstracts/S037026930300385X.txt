@@ -1,0 +1,1 @@
+The response of the one loop effective action for a gauge theory with local couplings g(x),θ(x) under a local Weyl rescaling of the background metric is calculated. Apart from terms which may be removed by local contributions to the effective action the result is compatible with Sl(2,R) symmetry acting on g,θ. Two loop effects are also discussed.

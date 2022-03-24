@@ -1,0 +1,1 @@
+Trajectories of microsecond molecular dynamics simulations of nucleosomes and nucleosome core particles 

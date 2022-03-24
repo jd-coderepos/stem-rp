@@ -1,0 +1,1 @@
+In this Letter we consider a quintom model of dark energy with a single scalar field T given by a Lagrangian which inspired by tachyonic Lagrangian in string theory. We consider non-minimal coupling of tachyon field to the scalar curvature, then we obtain the equation of state (EoS), and the condition required for the model parameters when ω crosses over −1.

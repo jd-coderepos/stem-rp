@@ -1,0 +1,1 @@
+For disordered elastic manifolds in the ground state (equilibrium) we obtain the critical exponents for the roughness and the correction-to-scaling up to 3-loop order, i.e. third order in ε = 4 − d , where d is the internal dimension d. We also give the full 2-point function up to order ε 2 , i.e. at 2-loop order.

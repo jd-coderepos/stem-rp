@@ -1,0 +1,1 @@
+Several languages and libraries has been proposed to work with quantum programs, usually considering the imperative and functional paradigms. In this paper, we discuss the application of the FJQuantum language, an object-oriented language based on Featherweight Java to develop programs that handle quantum data and operations.

@@ -1,0 +1,1 @@
+A brain slice experimental model to study the generation and the propagation of focally-induced epileptiform activity 

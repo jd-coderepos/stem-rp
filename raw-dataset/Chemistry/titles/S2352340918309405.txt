@@ -1,0 +1,1 @@
+Dataset describing ethanol and 1,2-propanediol production by a stenothermal moderately thermophilic anaerobe, Clostridium strain AK1 

@@ -1,0 +1,1 @@
+The simplest non-commutative renormalizable field theory, the ϕ 4 model on four-dimensional Moyal space with harmonic potential is asymptotically safe up to three loops, as shown by H. Grosse and R. Wulkenhaar, M. Disertori and V. Rivasseau. We extend this result to all orders.

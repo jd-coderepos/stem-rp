@@ -1,0 +1,1 @@
+In this note, it is proven that, given two perturbative constructions of time-ordered products via the Bogoliubov-Epstein-Glaser recursion, both sets of coupling functions are related by a local formal power series, recursively determined by causality.

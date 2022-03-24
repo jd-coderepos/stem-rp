@@ -1,0 +1,1 @@
+Dataset of differentially accumulated proteins in Mucor strains representative of four species grown on synthetic potato dextrose agar medium and a cheese mimicking medium 

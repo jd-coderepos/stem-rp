@@ -1,0 +1,1 @@
+The BaBar detector operated successfully at the PEP-II asymmetric e+e− collider at the SLAC National Accelerator Laboratory from 1999 to 2008. This report covers upgrades, operation, and performance of the collider and the detector systems, as well as the trigger, online and offline computing, and aspects of event reconstruction since the beginning of data taking.

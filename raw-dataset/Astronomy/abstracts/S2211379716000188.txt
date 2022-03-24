@@ -1,0 +1,1 @@
+We study stability of self-injection locking realized with DFB laser coupled with an external fiber optic ring cavity. Polarization behavior of the radiation circulating in the feedback loop is reported. Two regimes of mode hopping have been observed; one of them is accompanied by polarization bistability involving two orthogonal polarization states.

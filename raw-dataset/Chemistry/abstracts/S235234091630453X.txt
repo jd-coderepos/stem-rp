@@ -1,0 +1,1 @@
+This article describes the Bacterial Infectious Diseases Ontology (BCIDO) dataset related to research published in http:dx.doi.org/ 10.1016/j.jbi.2015.07.014 [1], and contains the Protégé OWL files required to run BCIDO in the Protégé environment. BCIDO contains 1719 classes and 39 object properties.

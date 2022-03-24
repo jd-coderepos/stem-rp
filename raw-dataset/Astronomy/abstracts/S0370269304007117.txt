@@ -1,0 +1,1 @@
+We present a general framework for nonparallel brane worlds and use it to discuss the nonlinear radion problem. By imposing the Einstein frame as a gauge condition we are able to give the effective action for both Minkowski and (A)dS4 branes. In particular, we find the nonlinear radion does not disappear in the second Randall–Sundrum model.

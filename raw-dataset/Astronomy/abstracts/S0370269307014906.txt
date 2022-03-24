@@ -1,0 +1,1 @@
+In minimal non-critical string theory we show that the principal ( r , s ) ZZ brane can be viewed as the basic ( 1 , 1 ) ZZ boundary state tensored with the ( r , s ) Cardy boundary state. In this sense there exists only one ZZ boundary state, the basic ( 1 , 1 ) boundary state.

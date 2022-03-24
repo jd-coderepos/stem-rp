@@ -1,0 +1,1 @@
+Forest baseline and deforestation map of the Dominican Republic through the analysis of time series of MODIS data 

@@ -1,0 +1,1 @@
+Minimum-norm cortical source estimation in layered head models is robust against skull conductivity error 

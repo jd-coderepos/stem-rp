@@ -1,0 +1,1 @@
+We find the leading RG logs in ϕ 4 theory for any Feynman diagram with 4 external edges. We obtain the result in two ways. The first way is to calculate the relevant terms in Feynman integrals. The second way is to use the RG invariance based on the Lie algebra of graphs introduced by Connes and Kreimer.

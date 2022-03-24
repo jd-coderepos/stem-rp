@@ -1,0 +1,1 @@
+Many authors have used one-component plasma simulations in discussing the role of ion–ion correlations in reducing neutrino opacities during the collapse phase of a supernova. In a multicomponent plasma in which constituent ions have even a small range of N / Z ratios neutrino opacities are much larger, in some regions of parameters, than for the case of a one component plasma.

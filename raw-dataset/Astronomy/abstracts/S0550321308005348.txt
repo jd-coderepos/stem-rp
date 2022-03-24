@@ -1,0 +1,1 @@
+Two questions related to reflections of magnons in AdS/CFT are discussed: namely the problem of explaining the (physical) poles of the reflection amplitudes using Landau type diagrams and the generalization of the Ghoshal–Zamolodchikov boundary state formalism to magnon reflections.

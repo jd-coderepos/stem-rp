@@ -1,0 +1,1 @@
+We calculate dimensional reduction of gravitational flux tube solutions in the scheme of Kaluza–Klein theory. The fifth dimension is compactified to a region of Planck size. Assuming the width of the tube to be also Planck size we obtain string-like object with physical fields originated from an initial 5D metric. The dynamics of these fields is inner one.

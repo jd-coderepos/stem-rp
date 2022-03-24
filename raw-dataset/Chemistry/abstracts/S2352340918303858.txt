@@ -1,0 +1,1 @@
+1541 Sentinel-1 SAR images, acquired over Fram Strait between 2014 and 2016, were considered for sea ice drift retrieval using an open-source feature tracking algorithm. Based on this SAR image data set, 2026 and 3120 image pairs in HH and HV polarisation were used to calculate monthly mean sea ice velocities at 79 N.

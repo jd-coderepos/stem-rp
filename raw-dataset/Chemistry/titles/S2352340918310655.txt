@@ -1,0 +1,1 @@
+Data on estimation for sodium absorption ratio: Using artificial neural network and multiple linear regressions 

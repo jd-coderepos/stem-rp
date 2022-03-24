@@ -1,0 +1,1 @@
+In this Letter we present a simple, general prescription for coupling brane localized fields to bulk supergravity. We illustrate the procedure by considering 6D N = 2 bulk supergravity on a 2D orbifold, with brane fields localized at the fixed points. The resulting action enjoys the full 6D N = 2 symmetries in the bulk, and those of 4D N = 1 supergravity at the brane positions.

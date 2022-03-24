@@ -1,0 +1,1 @@
+High-order spectral/hp element discretisation for reaction–diffusion problems on surfaces: Application to cardiac electrophysiology 

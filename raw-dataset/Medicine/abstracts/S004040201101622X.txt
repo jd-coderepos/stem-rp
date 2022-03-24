@@ -1,0 +1,1 @@
+A library of hybrid oxazole–triazole based compounds containing contiguously linked aromatic units were synthesised as G-quadruplex binding ligands. The design of these ligands was based upon combining features of our first generation of G-quadruplex bis-triazole ligands and the natural product telomestatin. The syntheses and biophysical studies of these ligands are described.

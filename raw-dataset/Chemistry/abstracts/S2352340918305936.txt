@@ -1,0 +1,1 @@
+This data provides the respiratory sensor performance prepared with the MWCNT coated textile fabricated by vacuum-filtration. Readers are requested to go through the article entitled “High durability conductive textile using MWCNT for motion sensing” (Ko et al., 2018) [1] for further interpretation and discussion.

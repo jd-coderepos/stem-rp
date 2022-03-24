@@ -1,0 +1,1 @@
+It is well-known that in the wallet game with two bidders, bidding twice the (individual) signal is an equilibrium. We prove that this strategy is never an equilibrium in a Japanese–English auction once discrete bid levels are introduced; we also discuss the implications of this result.

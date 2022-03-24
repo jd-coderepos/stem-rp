@@ -1,0 +1,1 @@
+Field test of neural-network based automatic bucket-filling algorithm for wheel-loaders 

@@ -1,0 +1,1 @@
+The three loop anomalous dimension for the gauge invariant, renormalizable, non-local mass operator for a gluon is computed in the MS ¯ scheme. In addition the anomalous dimensions of the associated localizing ghost fields are also deduced at the same order and it is shown that the three loop QCD β-function correctly emerges from the gluon localizing ghost vertex renormalization.

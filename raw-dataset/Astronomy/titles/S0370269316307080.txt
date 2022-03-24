@@ -1,0 +1,65 @@
+Search for new resonances decaying to a W or Z boson and a Higgs boson in the 
+                  
+                     
+                        ℓ
+                     
+                     
+                        +
+                     
+                  
+                  
+                     
+                        ℓ
+                     
+                     
+                        −
+                     
+                  
+                  b
+                  
+                     
+                        b
+                     
+                     
+                        ¯
+                     
+                  
+               , 
+                  ℓ
+                  ν
+                  b
+                  
+                     
+                        b
+                     
+                     
+                        ¯
+                     
+                  
+               , and 
+                  ν
+                  
+                     
+                        ν
+                     
+                     
+                        ¯
+                     
+                  
+                  b
+                  
+                     
+                        b
+                     
+                     
+                        ¯
+                     
+                  
+                channels with pp collisions at 
+                  
+                     s
+                  
+                  =
+                  13
+                   TeV
+                with the ATLAS detector 

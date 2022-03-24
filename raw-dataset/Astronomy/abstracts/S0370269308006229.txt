@@ -1,0 +1,1 @@
+It is shown that a symmetric massless bosonic higher-spin field can be described by a traceless tensor field with reduced (transverse) gauge invariance. The Hamiltonian analysis of the transverse gauge invariant higher-spin models is used to control a number of degrees of freedom.

@@ -1,0 +1,1 @@
+We propose a new interpretation of doubly special relativity (DSR) based on the distinction between the momentum and the translation generators in its phase space realization. We also argue that the implementation of DSR theories does not necessarily require a deformation of the Lorentz symmetry, but only of the translation invariance.

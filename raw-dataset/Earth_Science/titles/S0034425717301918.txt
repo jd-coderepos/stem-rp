@@ -1,0 +1,1 @@
+A Fully Automated Supraglacial lake area and volume Tracking (“FAST”) algorithm: Development and application using MODIS imagery of West Greenland 

@@ -1,0 +1,1 @@
+Data on records of indoor temperature and relative humidity in a University building 

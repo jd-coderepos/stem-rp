@@ -1,0 +1,1 @@
+This paper presents a new approach to the dimension theory of triangulated categories by considering invariants that arise in the pretriangulated setting.

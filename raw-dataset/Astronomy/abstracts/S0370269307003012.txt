@@ -1,0 +1,1 @@
+It has recently been suggested that the attempt to understand Hawking radiation as tunnelling across black hole horizons produces a Hawking temperature double the standard value. It is explained here how one can obtain the standard value in the same tunnelling approach.

@@ -1,0 +1,1 @@
+Data for high-throughput estimation of specific activities of enzyme/mutants in cell lysates through immunoturbidimetric assay of proteins 

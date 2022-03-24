@@ -1,0 +1,1 @@
+A dual Lagrangian for non-Abelian tensor gauge fields 

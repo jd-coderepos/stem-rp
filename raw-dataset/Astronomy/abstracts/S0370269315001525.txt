@@ -1,0 +1,1 @@
+We describe a simple model that automatically generates the sum over gauge group representations and chiralities of a single generation of fermions in the Standard Model, augmented by a sterile neutrino. The model is a modification of the world-line approach to chiral fermions.

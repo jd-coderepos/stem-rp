@@ -1,0 +1,1 @@
+Development of a validated 2D model for flow, moisture and heat transport in a packed bed reactor using MRI experiment and a lab-scale reactor setup 

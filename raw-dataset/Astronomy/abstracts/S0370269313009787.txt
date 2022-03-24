@@ -1,0 +1,1 @@
+By converting the asymptotic Bethe Ansatz (ABA) of N = 4 SYM into non-linear integral equations, we find 2D scattering amplitudes of excitations on top of the GKP vacuum. We prove that this is a suitable and powerful set-up for the understanding and computation of the whole S-matrix. We show that all the amplitudes depend on the fundamental scalar–scalar one.

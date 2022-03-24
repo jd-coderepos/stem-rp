@@ -1,0 +1,1 @@
+A numerical study of magnetohydrodynamics flow in Casson nanofluid combined with Joule heating and slip boundary conditions 

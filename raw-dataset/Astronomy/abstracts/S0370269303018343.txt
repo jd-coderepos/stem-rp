@@ -1,0 +1,1 @@
+We discuss a semiclassical treatment to inflationary models from Kaluza–Klein theory without the cylinder condition. We conclude that the evolution of the early universe could be described by a geodesic trajectory of a cosmological 5D metric here proposed, so that the effective 4D FRW background metric should be a hypersurface on a constant fifth dimension.

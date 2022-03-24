@@ -1,0 +1,1 @@
+Model selection and parameter estimation in structural dynamics using approximate Bayesian computation 

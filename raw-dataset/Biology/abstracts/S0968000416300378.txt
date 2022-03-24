@@ -1,0 +1,1 @@
+Hybrid methods combine experimental data and computational modeling to analyze protein structures that are elusive to structure determination. To spur the development of hybrid methods, we propose to test them in the context of the CASP experiment and would like to invite experimental groups to participate in this initiative.

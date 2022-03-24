@@ -1,0 +1,1 @@
+A knowledge-assisted visual malware analysis system: Design, validation, and reflection of KAMAS 

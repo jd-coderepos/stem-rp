@@ -1,0 +1,1 @@
+We generalize Wigner's causality bounds and Bethe's integral formula for the effective range to arbitrary dimension and arbitrary angular momentum. Moreover, we discuss the impact of these constraints on the separation of low- and high-momentum scales and universality in low-energy quantum scattering.

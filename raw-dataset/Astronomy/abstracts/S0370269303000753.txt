@@ -1,0 +1,1 @@
+The KamLAND reactor antineutrino experiment has detected a 3.4σ flux suppression relative to the expectation if no neutrino oscillations occur. We combine KamLAND data with solar neutrino data and show that the LMA solution is the only viable oscillation solution to the solar neutrino problem at the 4.4σ C.L.

@@ -1,0 +1,1 @@
+In terms of a rephasing invariant parametrization, the set of renormalization group equations (RGE) for Dirac neutrino parameters can be cast in a compact and simple form. These equations exhibit manifest symmetry under flavor permutations. We obtain both exact and approximate RGE invariants, in addition to some approximate solutions and examples of numerical solutions.

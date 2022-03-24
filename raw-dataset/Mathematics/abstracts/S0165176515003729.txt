@@ -1,0 +1,1 @@
+This paper shows that buying from a team of sellers can be optimal for the buyer in a static model where the buyer has private information about quality, sellers have private information about the cost and choice of effort, and quality is not contractible.

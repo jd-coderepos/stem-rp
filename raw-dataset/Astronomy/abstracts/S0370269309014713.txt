@@ -1,0 +1,1 @@
+In this note we prove to all orders in the small scale expansion that all off-shell parameters which appear in the chiral effective Lagrangian with explicit Δ ( 1232 ) isobar degrees of freedom can be absorbed into redefinitions of certain low-energy constants and are therefore redundant.

@@ -1,0 +1,1 @@
+Data of embedded humidity sensors, sample weights, and measured pore volume distribution for eight screed types 

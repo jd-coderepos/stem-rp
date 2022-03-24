@@ -1,0 +1,1 @@
+SILAC-iPAC: A quantitative method for distinguishing genuine from non-specific components of protein complexes by parallel affinity capture 

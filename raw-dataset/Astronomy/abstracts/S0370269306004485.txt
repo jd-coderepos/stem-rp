@@ -1,0 +1,1 @@
+An infinite-dimensional Lie algebra is proposed which includes, in its subalgebras and limits, most Lie algebras routinely utilized in physics. It relies on the finite oscillator Lie group, and appears applicable to twisted noncommutative QFT and CFT.

@@ -1,0 +1,1 @@
+The Poisson brackets for non-linear σ-models on G/H are set up on the light-like plane. A quantity which transforms irreducibly by the Killing vectors, called Killing scalar, is constructed in an arbitrary representation of G. It is shown to satisfy the classical exchange algebra.

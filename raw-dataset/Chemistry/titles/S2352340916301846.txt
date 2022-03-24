@@ -1,0 +1,1 @@
+Small power and lighting load time series data for 27 departments across 8 UK hospitals 

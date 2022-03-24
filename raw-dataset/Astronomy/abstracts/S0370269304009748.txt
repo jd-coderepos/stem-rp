@@ -1,0 +1,1 @@
+A formalization of the recently introduced formalism for inflation is developed from a noncompact Kaluza–Klein theory. In particular, the case for a single scalar field inflationary model is studied. We obtain that the scalar potential, which assume different representations in different frames, has a geometrical origin.

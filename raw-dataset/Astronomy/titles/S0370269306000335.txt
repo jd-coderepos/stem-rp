@@ -1,0 +1,12 @@
+Toward a NNLO calculation of the 
+                  
+                     B
+                     ¯
+                  
+                  →
+                  
+                     X
+                     s
+                  
+                  γ
+                decay rate with a cut on photon energy: I. Two-loop result for the soft function 

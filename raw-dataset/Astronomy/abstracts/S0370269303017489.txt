@@ -1,0 +1,1 @@
+Starting from the Lehmann–Symanzik–Zimmermann reduction theorem, we provide a general procedure to extract S-matrix elements from Green functions in arbitrary renormalization schemes.

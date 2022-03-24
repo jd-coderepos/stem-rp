@@ -1,0 +1,1 @@
+In this paper we work out the explicit form of the change of variables that reproduces an arbitrary change of gauge in a higher-order Lagrangian formalism.

@@ -1,0 +1,1 @@
+Simple, self-similar, analytic solutions of (1+1)-dimensional relativistic hydrodynamics are presented, generalizing the Hwa–Bjorken boost-invariant solution to inhomogeneous rapidity distributions. These solutions are generalized also to (1+3)-dimensional, cylindrically symmetric firetubes, corresponding to central collisions of heavy ions at relativistic bombarding energies.

@@ -1,0 +1,1 @@
+Electronic noise in charge sensitive preamplifiers for X-ray spectroscopy and the benefits of a SiC input JFET 

@@ -1,0 +1,1 @@
+A comprehensive open package format for preservation and distribution of geospatial data and metadata 

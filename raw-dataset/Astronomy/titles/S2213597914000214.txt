@@ -1,0 +1,1 @@
+Optimal self-calibration of tomographic reconstruction parameters in whole-body small animal optoacoustic imaging 

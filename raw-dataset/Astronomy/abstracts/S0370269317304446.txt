@@ -1,0 +1,1 @@
+Generalized transverse momentum dependent parton distributions (GTMDs) are the most general parton correlation functions of hadrons. By considering the exclusive double Drell–Yan process it is shown for the first time how quark GTMDs can be measured. Specific GTMDs can be addressed by means of polarization observables.

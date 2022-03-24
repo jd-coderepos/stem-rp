@@ -1,0 +1,1 @@
+We study N=2 supersymmetric U(1) gauge theory in non(anti)commutative N=2 harmonic superspace with the singlet deformation, which preserves chirality. We construct a Lagrangian which is invariant under both the deformed gauge and supersymmetry transformations. We find the field redefinition such that the N=2 vector multilplet transforms canonically under the deformed symmetries.

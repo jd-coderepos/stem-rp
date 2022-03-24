@@ -1,0 +1,30 @@
+The transition matrix element 
+                  
+                     
+                        A
+                     
+                     
+                        g
+                        q
+                     
+                  
+                  (
+                  N
+                  )
+                of the variable flavor number scheme at 
+                  O
+                  (
+                  
+                     
+                        α
+                     
+                     
+                        s
+                     
+                     
+                        3
+                     
+                  
+                  )
+               
+             

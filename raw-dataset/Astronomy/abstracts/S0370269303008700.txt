@@ -1,0 +1,1 @@
+We revisit the derivation of the so-called Lorentz invariance relations between parton distributions. In the most important cases these relations involve twist-3 and transverse momentum dependent parton distributions. It is shown that these relations are violated if the path-ordered exponential is taken into account in the quark correlator.

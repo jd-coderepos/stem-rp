@@ -1,0 +1,1 @@
+Prediction and visualization data for the interpretation of sarcomeric and non-sarcomeric DNA variants found in patients with hypertrophic cardiomyopathy 

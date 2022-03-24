@@ -1,0 +1,1 @@
+In an S U ( 2 ) R extension of the standard model, it is shown how the neutral fermion N in the doublet ( N , e ) R may be assigned baryon number B = 1 , in contrast to its S U ( 2 ) L counterpart ν in the doublet ( ν , e ) L which has lepton number L = 1 . This baryon-lepton duplicity allows a scalar σ which couples to N L N L to be long-lived dark matter.

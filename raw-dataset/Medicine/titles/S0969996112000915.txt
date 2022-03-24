@@ -1,0 +1,1 @@
+Integration of GWAS SNPs and tissue specific expression profiling reveal discrete eQTLs for human traits in blood and brain 

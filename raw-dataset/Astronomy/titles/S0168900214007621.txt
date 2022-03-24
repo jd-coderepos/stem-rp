@@ -1,0 +1,1 @@
+Performance of the first prototype of the CALICE scintillator strip electromagnetic calorimeter 

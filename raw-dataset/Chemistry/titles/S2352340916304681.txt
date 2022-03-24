@@ -1,0 +1,1 @@
+Data presenting a modified bacterial expression vector for expressing and purifying Nus solubility-tagged proteins 

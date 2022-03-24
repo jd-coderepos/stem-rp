@@ -1,0 +1,1 @@
+We consider an N = 2 supersymmetric odd-order Pais–Uhlenbeck oscillator with distinct frequencies of oscillation. The technique previously developed in [Bolonek and Kosiński (2005) [7]], [Masterov (2016) [10]] is used to construct a family of Hamiltonian structures for this system.

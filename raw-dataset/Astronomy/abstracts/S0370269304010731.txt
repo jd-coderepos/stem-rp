@@ -1,0 +1,1 @@
+The model of soft diffractive dissociation proposed some time ago by Miettinen and Pumplin is shown to describe correctly the data at FERMILAB energies. The comparison with Goulianos model of renormalized pomeron flux is also presented.

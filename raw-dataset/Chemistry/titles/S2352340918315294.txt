@@ -1,0 +1,2 @@
+
+               Escherichia coli O157:H7 transcriptome datasets for comparison of RNA-seq and microarray platforms 

@@ -1,0 +1,1 @@
+Gaussian process classification of Alzheimer's disease and mild cognitive impairment from resting-state fMRI 

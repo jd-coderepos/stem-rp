@@ -1,0 +1,1 @@
+High-accuracy phase-field models for brittle fracture based on a new family of degradation functions 

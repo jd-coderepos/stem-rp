@@ -1,0 +1,1 @@
+Frequency-dependent functional connectivity within resting-state networks: An atlas-based MEG beamformer solution 

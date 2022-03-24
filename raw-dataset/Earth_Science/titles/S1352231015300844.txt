@@ -1,0 +1,1 @@
+An AIS-based approach to calculate atmospheric emissions from the UK fishing fleet 

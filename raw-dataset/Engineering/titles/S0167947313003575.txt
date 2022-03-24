@@ -1,0 +1,1 @@
+Covariance structure regularization via entropy loss function 

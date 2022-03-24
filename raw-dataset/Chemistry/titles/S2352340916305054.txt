@@ -1,0 +1,2 @@
+Data on the optimizations of expression and purification of human BiP/GRP78 protein in Escherichia coli
+             

@@ -1,0 +1,1 @@
+New explicit approximations to the implicitly given Colebrook equation for flow friction factor are given. They are with improved accuracy compared with the one recently published [Shaikh et al.: Int. J. Heat Mass Tran. 88 (2015) 538–543]. The new approximations are highly accurate only in rough pipes under fully developed turbulent cases of flow.

@@ -1,0 +1,1 @@
+Correlation function of four spins in the percolation model 

@@ -1,0 +1,1 @@
+Slepton pairs can be produced in vector–boson fusion processes at hadron colliders. The next-to-leading order QCD corrections to the electroweak production cross section for p p → ℓ ˜ + ℓ ˜ − + 2 jets at order α s α 4 have been calculated and implemented in an NLO parton-level Monte Carlo program. Numerical results are presented for the CERN large hadron collider.

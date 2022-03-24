@@ -1,0 +1,1 @@
+This paper discusses identification of systems of simultaneous cointegrating equations with integrated variables of order two or higher, under constraints on the cointegration parameters. Rank and order conditions for identification are provided for general linear constraints, covering both cross-equation and equation-by-equation restrictions.

@@ -1,0 +1,1 @@
+In this work it is proposed a transformation which is useful in order to simplify non-polynomial potentials given in the form of an exponential. As an application, it is shown that the quantum Liouville field theory may be mapped into a field theory with a polynomial interaction between two scalar fields and a massive vector field.

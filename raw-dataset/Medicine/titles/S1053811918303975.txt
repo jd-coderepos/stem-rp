@@ -1,0 +1,1 @@
+Multi-subject hierarchical inverse covariance modelling improves estimation of functional brain networks 

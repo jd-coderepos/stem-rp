@@ -1,0 +1,1 @@
+We demonstrate that the total energy of electromagnetic field in the Bardeen and Ayón-Beato–García singularity-free models is equal to the mass parameter M, being therefore independent of the charge parameter Q. Our result is fully congruent with the original idea of Born and Infeld to use nonlinear electrodynamics for proving the electromagnetic nature of mass.

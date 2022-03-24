@@ -1,0 +1,1 @@
+Data set of optimal parameters for colorimetric red assay of epoxide hydrolase activity 

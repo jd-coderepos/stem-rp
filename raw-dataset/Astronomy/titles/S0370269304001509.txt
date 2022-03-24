@@ -1,0 +1,1 @@
+Ground state bands of the E(5) and X(5) critical symmetries obtained from Davidson potentials through a variational procedure 

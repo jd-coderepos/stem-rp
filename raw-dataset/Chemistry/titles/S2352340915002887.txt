@@ -1,0 +1,1 @@
+Dataset for distribution of INGI/RIME and SLACS CRE transposable elements in Trypanosoma brucei genome 

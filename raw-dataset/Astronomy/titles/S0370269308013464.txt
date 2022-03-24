@@ -1,0 +1,6 @@
+Octonions, 
+                  
+                     G
+                     2
+                  
+                and generalized Lie 3-algebras 

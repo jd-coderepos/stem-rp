@@ -1,0 +1,1 @@
+This work deals with braneworld scenarios in the presence of real scalar field with standard dynamics. We show that the first-order formalism, which exists in the case of flat brane, can be extended to bent brane, for both de Sitter and anti-de Sitter geometry. We illustrate the results with some examples of current interest to high energy physics.

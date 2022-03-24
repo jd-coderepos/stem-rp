@@ -1,0 +1,1 @@
+Simulation of a stabilised control strategy for PEM fuel cell and supercapacitor hybrid propulsion system for a city bus 

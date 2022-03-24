@@ -1,0 +1,1 @@
+Data on multi-actor parameter design tasks by engineering students with variable problem size, coupling, and team size 

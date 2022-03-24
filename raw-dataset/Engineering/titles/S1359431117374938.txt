@@ -1,0 +1,1 @@
+Nonlinear dynamic simulation and control of large-scale reheating furnace operations using a zone method based model 

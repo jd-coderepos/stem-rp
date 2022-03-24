@@ -1,0 +1,1 @@
+We study un-particle dynamics in the framework of standard quantum field theory. We obtain the Feynman propagator by supplementing standard quantum field theory definitions with integration over the mass spectrum. Then we use this information to construct effective actions for scalar, gauge vector and gravitational un-particles.

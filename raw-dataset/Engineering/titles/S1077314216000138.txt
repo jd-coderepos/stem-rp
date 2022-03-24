@@ -1,0 +1,1 @@
+Improving posture classification accuracy for depth sensor-based human activity monitoring in smart environments 

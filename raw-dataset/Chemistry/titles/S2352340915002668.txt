@@ -1,0 +1,1 @@
+Data for proteomic analysis of ATP-binding proteins and kinase inhibitor target proteins using an ATP probe 

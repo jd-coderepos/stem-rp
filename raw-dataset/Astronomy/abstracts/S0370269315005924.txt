@@ -1,0 +1,1 @@
+In this paper we focus on the Hamilton–Jacobi method to determine the entropy of a self-dual black hole by using linear and quadratic GUPs (generalized uncertainty principles). We have obtained the Bekenstein–Hawking entropy of self-dual black holes and its quantum corrections that are logarithm and also of several other types.

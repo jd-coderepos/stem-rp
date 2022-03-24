@@ -1,0 +1,1 @@
+Estimation of current constriction losses via 3D tomography reconstructions in electrochemical devices: a case study of a solid oxide cell electrode/electrolyte interface 

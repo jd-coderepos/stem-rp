@@ -1,0 +1,1 @@
+Reducing ghosting due to k-space discontinuities in fast spin echo (FSE) imaging by a new combination of k-space ordering and parallel imaging 

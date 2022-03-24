@@ -1,0 +1,1 @@
+Adaptive multi-view feature selection for human motion retrieval 

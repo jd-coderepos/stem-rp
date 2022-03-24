@@ -1,0 +1,1 @@
+We compute 5-point classical conformal blocks with two heavy, two light, and one superlight operator using the monodromy approach up to third order in the superlight expansion. By virtue of the AdS/CFT correspondence we show the equivalence of the resulting expressions to those obtained in the bulk computation for the corresponding geodesic configuration.

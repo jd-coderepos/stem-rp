@@ -1,0 +1,1 @@
+Towards good correlation between fragment molecular orbital interaction energies and experimental IC50 for ligand binding: A case study of p38 MAP kinase 

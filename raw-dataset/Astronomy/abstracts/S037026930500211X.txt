@@ -1,0 +1,1 @@
+It is argued that the one-loop effective action for space-like noncommutative (i) λ φ 4 scalar field theory and (ii) U ( 1 ) gauge theory does not exist. This indicates that such theories are not renormalizable already at one-loop order and suggests supersymmetrization and reinvestigating other types of noncommutativity.

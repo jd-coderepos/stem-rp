@@ -1,0 +1,1 @@
+We calculate branching ratios for pure penguin decay modes, B→φK decays using perturbative QCD approach. Our results of branching ratios are consistent with the experimental data and larger than those obtained from the naive factorization assumption and the QCD-improved factorization approach. This is due to a dynamical penguin enhancement in perturbative QCD approach.

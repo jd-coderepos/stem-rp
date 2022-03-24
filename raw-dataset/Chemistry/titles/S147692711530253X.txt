@@ -1,0 +1,1 @@
+Steric exclusion and constraint satisfaction in multi-scale coarse-grained simulations 

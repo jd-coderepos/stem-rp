@@ -1,0 +1,1 @@
+Quark propagator and vertex: systematic corrections of hypercubic artifacts from lattice simulations 

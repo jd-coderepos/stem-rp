@@ -1,0 +1,1 @@
+Types of approximation for probabilistic cognition: Sampling and variational 

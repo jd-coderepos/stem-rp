@@ -1,0 +1,1 @@
+It has been recently suggested that it is possible to calculate the effect of final state interactions in K→ππ amplitudes by applying dispersive methods to the amplitude with the kaon off-shell. We critically reexamine the procedure, and point out the effects of the arbitrariness in the choice of the off-shell field for the kaon.

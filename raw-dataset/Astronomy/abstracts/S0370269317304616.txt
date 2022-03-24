@@ -1,0 +1,1 @@
+We compute the leading mass corrections to the high-energy behavior of the massive quark vector form factor to three loops in QCD in the double-logarithmic approximation.

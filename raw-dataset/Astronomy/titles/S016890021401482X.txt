@@ -1,0 +1,1 @@
+Quality control of the TSV multi-pixel photon counter arrays, and modules for the external plate of EndoTOF-PET ultrasound detector 

@@ -1,0 +1,1 @@
+Energy–enstrophy conserving compatible finite element schemes for the rotating shallow water equations with slip boundary conditions 

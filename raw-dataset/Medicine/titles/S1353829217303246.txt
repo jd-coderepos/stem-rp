@@ -1,0 +1,1 @@
+A flow-based statistical model integrating spatial and nonspatial dimensions to measure healthcare access 

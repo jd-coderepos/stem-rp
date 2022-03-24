@@ -1,0 +1,1 @@
+Within the framework of black hole complementarity, a proposal is made for an approximate interior effective field theory description. For generic correlators of local operators on generic black hole states, it agrees with the exact exterior description in a region of overlapping validity, up to corrections that are too small to be measured by typical infalling observers.

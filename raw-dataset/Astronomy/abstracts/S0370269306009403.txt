@@ -1,0 +1,1 @@
+We derive the expression for the jerk parameter in f ( R ) gravity. We use the Palatini variational principle and the field equations in the Einstein conformal gauge. For the particular case f ( R ) = R − α 2 3 R , the predicted value of the jerk parameter agrees with the SNLS SNIa and X-ray galaxy cluster distance data but does not with the SNIa gold sample data.

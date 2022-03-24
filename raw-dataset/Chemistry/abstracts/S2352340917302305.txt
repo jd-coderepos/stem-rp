@@ -1,0 +1,1 @@
+Biogeographical analyses have proven to be an efficient complement to classic ecology. An ecoregional layer based on Morrone understanding of the Andean region and its sub-regions was constructed. This high-resolution layer was generated with GIS software, and it enables to include ecoregions as categorical variables into species distribution modeling software.

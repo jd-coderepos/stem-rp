@@ -1,0 +1,1 @@
+We propose analytic approximations of chiral SU ( 3 ) amplitudes for the extrapolation of lattice data to the physical meson masses. The method allows the determination of NNLO low-energy constants in a controllable fashion. We test the approach with recent lattice data for the ratio F K / F π of meson decay constants.

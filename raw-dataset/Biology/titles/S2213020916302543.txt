@@ -1,0 +1,1 @@
+GLYDE-II: The GLYcan data exchange format 

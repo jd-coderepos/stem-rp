@@ -1,0 +1,1 @@
+We show that violation of the null energy condition implies instability in a broad class of models, including gauge theories with scalar and fermionic matter as well as any perfect fluid. When applied to the dark energy, our results imply that w = p / ρ is unlikely to be less than −1.

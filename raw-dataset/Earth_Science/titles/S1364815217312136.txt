@@ -1,0 +1,1 @@
+A python framework for multi-agent simulation of networked resource systems 

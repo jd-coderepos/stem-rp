@@ -1,0 +1,1 @@
+Rabbit CD200R binds host CD200 but not CD200-like proteins from poxviruses 

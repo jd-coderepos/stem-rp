@@ -1,0 +1,1 @@
+Dataset concerning GroEL chaperonin interaction with proteins 

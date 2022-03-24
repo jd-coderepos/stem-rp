@@ -1,0 +1,2 @@
+Datasets for transcriptomics, q-proteomics and phenotype microarrays of polyphosphate metabolism mutants from Escherichia coli
+             

@@ -1,0 +1,1 @@
+Chicago supermarket data and food access analytics in census tract shapefiles for 2007–2014 

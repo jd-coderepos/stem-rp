@@ -1,0 +1,1 @@
+We present the result of a full direct component calculation for the term proportional to ζ 5 in the four-loop universal anomalous dimension of the twist-2 operators in N = 4 supersymmetric Yang–Mills theory for the first three even moments. We suggest the general form such contribution for the arbitrary Lorentz spin of the twist-2 operators.

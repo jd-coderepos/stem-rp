@@ -1,0 +1,1 @@
+We determine the O ( α ) correction to the energy spectrum of electrons produced in the decay of muons bound in atoms. We focus on the high-energy end of the spectrum that constitutes a background for the muon–electron conversion and will be precisely measured by the upcoming experiments Mu2e and COMET. The correction suppresses the background by about 15%.

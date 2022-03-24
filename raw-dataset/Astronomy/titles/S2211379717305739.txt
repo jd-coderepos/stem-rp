@@ -1,0 +1,1 @@
+Wall slip and non-integer order derivative effects on the heat transfer flow of Maxwell fluid over an oscillating vertical plate with new definition of fractional Caputo-Fabrizio derivatives 

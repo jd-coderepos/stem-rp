@@ -1,0 +1,1 @@
+Discrete symmetries allowed in string compactification are the mother of all global symmetries which are broken at some level. We discuss the resulting pseudo-Goldstone bosons, in particular the QCD axion and a temporary cosmological constant, and inflatons. We also comment on some implications of the recent BICEP2 data.

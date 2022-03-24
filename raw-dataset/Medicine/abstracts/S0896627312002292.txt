@@ -1,0 +1,1 @@
+In this issue of Neuron, Raj et al. (2012) and Zhou et al. (2012) use graph theory to suggest that neurodegenerative diseases spread diffusively via intrinsic brain networks. These studies provide a powerful model for understanding and predicting disease-specific profiles of neurodegeneration.

@@ -1,0 +1,1 @@
+Using the Zumino identities it is shown that in a class of non-local gauges, massless QED3 has an infrared behaviour of a conformal field theory with a continuously varying anomalous dimension of the fermion. In the usual Lorentz gauge, the fermion propagator falls off exponentially for a large separation, but this apparent fermion mass is a gauge artifact.

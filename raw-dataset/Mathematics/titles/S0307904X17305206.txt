@@ -1,0 +1,1 @@
+A hybrid analytical-numerical method for solving water flow equations in root hydraulic architectures 

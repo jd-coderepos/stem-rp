@@ -1,0 +1,27 @@
+A method to measure 
+                  
+                     ϕ
+                     1
+                  
+                using 
+                  
+                     
+                        B
+                        ¯
+                     
+                     0
+                  
+                  →
+                  
+                     D
+                     
+                        (
+                        ∗
+                        )
+                     
+                  
+                  
+                     h
+                     0
+                  
+                with multibody D decay 

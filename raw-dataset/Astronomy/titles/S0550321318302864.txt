@@ -1,0 +1,9 @@
+Gauge dependence of the one-loop divergences in 6D, 
+                  N
+                  =
+                  (
+                  1
+                  ,
+                  0
+                  )
+                abelian theory 

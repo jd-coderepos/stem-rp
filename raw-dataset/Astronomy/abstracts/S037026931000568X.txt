@@ -1,0 +1,1 @@
+Atom interferometry is a rapidly advancing field and this Letter proposes an experiment based on existing technology that can search for new short distance forces. With current technology it is possible to improve the sensitivity by up to a factor of 102 and near-future advances may be able to rewrite the limits for forces with ranges from 1 mm to 100 m.

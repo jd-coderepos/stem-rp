@@ -1,0 +1,1 @@
+Classification of parameter spaces for a reaction-diffusion model on stationary domains 

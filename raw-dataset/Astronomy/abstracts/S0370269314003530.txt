@@ -1,0 +1,1 @@
+The paper deals with universal thermodynamics for FRW model of the universe bounded by apparent (or event) horizon. Assuming Hawking temperature on the horizon, the unified first law is examined on the horizon for different gravity theories. The results show that equilibrium configuration is preserved with a modification to Bekenstein entropy on the horizon.

@@ -1,0 +1,1 @@
+We introduce a new matrix model that describes Causal Dynamical Triangulations (CDT) in two dimensions. In order to do so, we introduce a new, simpler definition of 2D CDT and show it to be equivalent to the old one. The model makes use of ideas from dually weighted matrix models, combined with multi-matrix models, and can be studied by the method of character expansion.

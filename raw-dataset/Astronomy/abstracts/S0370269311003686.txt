@@ -1,0 +1,1 @@
+We calculate the next-to-leading order perturbative corrections to the SVZ sum rules for the coupling f N , the nucleon leading twist wave function at the origin. The results are compared to the established Ioffe sum rules and also to lattice QCD simulations.

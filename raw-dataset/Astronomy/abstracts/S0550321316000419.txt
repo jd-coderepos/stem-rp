@@ -1,0 +1,1 @@
+We formulate self-consistency equations for the distribution of links in spin models and of plaquettes in gauge theories. This improves upon known mean-field, mean-link, and mean-plaquette approximations in such that we self-consistently determine all moments of the considered variable instead of just the first. We give examples in both Abelian and non-Abelian cases.

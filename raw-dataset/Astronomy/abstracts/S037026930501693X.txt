@@ -1,0 +1,1 @@
+We check the list of supersymmetric standard model orientifold spectra of Dijkstra, Huiszoon and Schellekens for the presence of global anomalies, using probe branes. Absence of global anomalies is found to impose strong constraints, but in nearly all cases they are automatically satisfied by the solutions to the tadpole cancellation conditions.

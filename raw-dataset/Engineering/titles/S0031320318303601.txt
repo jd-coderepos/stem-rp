@@ -1,0 +1,1 @@
+Cumulative attribute space regression for head pose estimation and color constancy 

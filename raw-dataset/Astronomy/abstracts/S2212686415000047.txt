@@ -1,0 +1,1 @@
+In this White Paper we present and discuss a concrete proposal for the consistent interpretation of Dark Matter searches at colliders and in direct detection experiments. Based on a specific implementation of simplified models of vector and axial-vector mediator exchanges, this proposal demonstrates how the two search strategies can be compared on an equal footing.

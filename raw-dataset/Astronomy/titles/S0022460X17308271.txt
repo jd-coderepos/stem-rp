@@ -1,0 +1,1 @@
+Experimental feedback linearisation of a vibrating system with a non-smooth nonlinearity 

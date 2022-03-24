@@ -1,0 +1,1 @@
+3D representations of amino acids—applications to protein sequence comparison and classification 

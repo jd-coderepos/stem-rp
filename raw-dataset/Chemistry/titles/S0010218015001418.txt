@@ -1,0 +1,1 @@
+Large Eddy Simulations of a turbulent premixed swirl flame using an algebraic scalar dissipation rate closure 

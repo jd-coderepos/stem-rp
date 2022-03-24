@@ -1,0 +1,1 @@
+Dataset of 100-year flood susceptibility maps for the continental U.S. derived with a geomorphic method 

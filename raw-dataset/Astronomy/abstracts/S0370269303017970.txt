@@ -1,0 +1,1 @@
+We investigate the effects produced by the three-momentum scale mΛ QCD in the strong coupling regime of heavy quarkonium. We compute the leading non-vanishing contributions due to this scale to the masses and inclusive decay widths. We find that they may provide leading corrections to the S-wave decay widths but only subleading corrections to the masses.

@@ -1,0 +1,1 @@
+Hybrid Method Based on Information Gain and Support Vector Machine for Gene Selection in Cancer Classification 

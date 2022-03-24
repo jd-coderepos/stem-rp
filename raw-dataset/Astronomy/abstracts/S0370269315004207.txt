@@ -1,0 +1,1 @@
+It is shown that the transverse momentum distributions of particles emerging from the decay of statistical clusters, distributed according to a power law in their transverse energy, closely resemble those following from the Tsallis non-extensive statistical model. The experimental data are well reproduced with the cluster temperature T ≈ 160 MeV .

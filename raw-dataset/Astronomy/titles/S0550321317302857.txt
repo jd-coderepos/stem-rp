@@ -1,0 +1,34 @@
+The integrable quantum group invariant 
+                  
+                     
+                        A
+                     
+                     
+                        2
+                        n
+                        −
+                        1
+                     
+                     
+                        (
+                        2
+                        )
+                     
+                  
+                and 
+                  
+                     
+                        D
+                     
+                     
+                        n
+                        +
+                        1
+                     
+                     
+                        (
+                        2
+                        )
+                     
+                  
+                open spin chains 

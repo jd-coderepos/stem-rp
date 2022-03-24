@@ -1,0 +1,1 @@
+Asteroid thermal modeling in the presence of reflected sunlight 

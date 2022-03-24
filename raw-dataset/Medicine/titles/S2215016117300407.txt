@@ -1,0 +1,1 @@
+A protocol for preparation and transfection of rat entorhinal cortex organotypic cultures for electrophysiological whole-cell recordings 

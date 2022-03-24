@@ -1,0 +1,1 @@
+Micro-CT based finite element models of cancellous bone predict accurately displacement once the boundary condition is well replicated: A validation study 

@@ -1,0 +1,1 @@
+Estimating repetitive spatiotemporal patterns from resting-state brain activity data 

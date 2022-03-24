@@ -1,0 +1,1 @@
+Shielding, coincidence, and time-of-flight measurement techniques are employed to tag fast neutrons emitted from an 241Am/9Be source resulting in a continuous polychromatic energy-tagged beam of neutrons with energies up to 7MeV. The measured energy structure of the beam agrees qualitatively with both previous measurements and theoretical calculations.

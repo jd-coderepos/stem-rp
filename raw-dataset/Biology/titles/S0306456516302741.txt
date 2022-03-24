@@ -1,0 +1,1 @@
+Mathematical prediction of core body temperature from environment, activity, and clothing: The heat strain decision aid (HSDA) 

@@ -1,0 +1,1 @@
+Dynamics of large-scale fMRI networks: Deconstruct brain activity to build better models of brain function 

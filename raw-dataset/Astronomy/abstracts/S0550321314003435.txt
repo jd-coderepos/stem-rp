@@ -1,0 +1,1 @@
+We define chiral fermions in the presence of non-trivial gravitational and gauge background fields in the framework of locally covariant field theory. This allows to straightforwardly compute the chiral anomalies on non-compact Lorentzian spacetimes, without recourse to a weak field approximation.

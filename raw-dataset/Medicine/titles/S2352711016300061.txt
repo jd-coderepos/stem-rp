@@ -1,0 +1,1 @@
+GURU v2.0: An interactive Graphical User interface to fit rheometer curves in Han’s model for rubber vulcanization 

@@ -1,0 +1,1 @@
+Data for the generation of RNA spatiotemporal distributions and interpretation of Chk1 and SLBP protein depletion phenotypes during Drosophila embryogenesis 

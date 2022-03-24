@@ -1,0 +1,1 @@
+MPSLIB: A C++ class for sequential simulation of multiple-point statistical models 

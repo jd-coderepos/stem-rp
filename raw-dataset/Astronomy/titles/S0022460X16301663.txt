@@ -1,0 +1,1 @@
+An analytical approach for detecting isolated periodic solution branches in weakly nonlinear structures 

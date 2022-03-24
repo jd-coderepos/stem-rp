@@ -1,0 +1,1 @@
+Mack has conjectured that all conformal field theories are equivalent to string theories. We explore the example of the two-dimensional minimal model CFTs and confirm that the Mellin transformed amplitudes have the desired properties of string theory in three-dimensional anti-de Sitter spacetime.

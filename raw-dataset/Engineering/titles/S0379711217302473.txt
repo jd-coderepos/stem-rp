@@ -1,0 +1,1 @@
+Model parameter sensitivity and benchmarking of the explicit dynamic solver of LS-DYNA for structural analysis in case of fire 

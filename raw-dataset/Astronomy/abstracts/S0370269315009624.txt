@@ -1,0 +1,1 @@
+We extract the leading-order entropy of a four-dimensional extremal black hole in N = 2 ungauged supergravity by formulating the CFT1 that is holographically dual to its near-horizon AdS2 geometry, in terms of a rational Calogero model with a known counting formula for the degeneracy of states in its Hilbert space.

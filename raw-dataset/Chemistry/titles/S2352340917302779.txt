@@ -1,0 +1,1 @@
+Data and code for the exploratory data analysis of the electrical energy demand in the time domain in Greece 

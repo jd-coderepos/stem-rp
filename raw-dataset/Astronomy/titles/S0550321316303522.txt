@@ -1,0 +1,1 @@
+Convergent series for lattice models with polynomial interactions 

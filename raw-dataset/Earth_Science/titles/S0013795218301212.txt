@@ -1,0 +1,1 @@
+Presenting logistic regression-based landslide susceptibility results 

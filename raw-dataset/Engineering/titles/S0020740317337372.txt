@@ -1,0 +1,1 @@
+A confinement-dependent load-induced thermal strain constitutive model for concrete subjected to temperatures up to 500 °C 

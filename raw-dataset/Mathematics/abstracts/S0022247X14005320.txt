@@ -1,0 +1,1 @@
+Simple inequalities for some integrals involving the modified Bessel functions I ν ( x ) and K ν ( x ) are established. We also obtain a monotonicity result for K ν ( x ) and a new lower bound, that involves gamma functions, for K 0 ( x ) .

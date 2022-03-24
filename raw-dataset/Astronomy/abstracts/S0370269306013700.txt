@@ -1,0 +1,1 @@
+We derive spectral sum rules for a system with two quarks coupled to an imaginary isospin chemical potential in the ϵ regime. The sum rules show an explicit dependence on the pion decay constant which should make it possible to measure F π from the eigenvalue spectrum of this particular Dirac operator.

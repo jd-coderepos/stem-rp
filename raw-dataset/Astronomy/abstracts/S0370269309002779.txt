@@ -1,0 +1,1 @@
+Using the nonrenormalization theorem and Pohlmeyer's theorem, it is proven that there cannot be an asymptotic safety scenario for the Wess–Zumino model unless there exists a non-trivial fixed point with (i) a negative anomalous dimension (ii) a relevant direction belonging to the Kähler potential.

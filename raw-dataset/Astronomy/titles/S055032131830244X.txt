@@ -1,0 +1,1 @@
+Dual simulation of the 2d U(1) gauge Higgs model at topological angle θ = π: Critical endpoint behavior 

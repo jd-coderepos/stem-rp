@@ -1,0 +1,1 @@
+Behavior data of battery and battery pack SOC estimation under different working conditions 

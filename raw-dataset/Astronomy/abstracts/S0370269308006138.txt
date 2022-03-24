@@ -1,0 +1,1 @@
+By introducing the noncommutativity in the world sheet, we discuss a modification of the D-brane states in the closed string theory. In particular we show how the world sheet noncommutativity induces a nonperturbative effect to the D-brane states.

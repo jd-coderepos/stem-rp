@@ -1,0 +1,1 @@
+Code is increasingly central to ecological research but often remains unpublished and insufficiently recognized. Making code available allows analyses to be more easily reproduced and can facilitate research by other scientists. We evaluate journal handling of code, discuss barriers to its publication, and suggest approaches for promoting and archiving code.

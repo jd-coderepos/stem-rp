@@ -1,0 +1,1 @@
+ATMIN is required for the ATM-mediated signaling and recruitment of 53BP1 to DNA damage sites upon replication stress 

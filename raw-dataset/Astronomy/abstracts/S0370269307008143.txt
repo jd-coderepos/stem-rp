@@ -1,0 +1,1 @@
+The Kawai–Lewellen–Tye (KLT) relations derived from string theory tell us that perturbative gravity amplitudes are the “square” of the corresponding amplitudes in gauge theory. Starting from the light-cone Lagrangian for pure gravity we make these relations manifest off-shell, for three- and four-graviton vertices, at the level of the action.

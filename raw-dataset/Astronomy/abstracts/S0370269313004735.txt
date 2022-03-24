@@ -1,0 +1,1 @@
+The lengths of shortest non-contractible loops are studied numerically in 2d Euclidean quantum gravity on a torus coupled to conformal field theories with central charge less than one. We find that the distribution of these geodesic lengths displays a scaling in agreement with a Hausdorff dimension given by the formula of Y. Watabiki.

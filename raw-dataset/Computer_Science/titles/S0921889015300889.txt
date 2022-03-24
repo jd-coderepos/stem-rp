@@ -1,0 +1,1 @@
+High performance loop closure detection using bag of word pairs 

@@ -1,0 +1,1 @@
+Dataset demonstrating the modeling of a high performance Cu(In,Ga)Se2 absorber based thin film photovoltaic cell 

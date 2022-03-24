@@ -1,0 +1,1 @@
+Talin is a substrate for SUMOylation in migrating cancer cells 

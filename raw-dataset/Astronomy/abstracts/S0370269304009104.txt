@@ -1,0 +1,1 @@
+We construct asymptotically anti-de Sitter (and de Sitter) black hole solutions of Einstein–Born–Infeld theory in arbitrary dimension. We critically analyse their geometries and discuss their thermodynamic properties.

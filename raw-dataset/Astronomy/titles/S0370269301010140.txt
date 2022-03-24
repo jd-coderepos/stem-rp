@@ -1,0 +1,2 @@
+Simple parametrization of single- and two-nucleon separation energies in terms of the neutron to proton ratio N/Z
+             

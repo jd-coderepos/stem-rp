@@ -1,0 +1,10 @@
+Norm of Bethe vectors in models with 
+                  
+                     gl
+                  
+                  (
+                  m
+                  |
+                  n
+                  )
+                symmetry 

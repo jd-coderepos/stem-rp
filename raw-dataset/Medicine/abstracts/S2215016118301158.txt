@@ -1,0 +1,1 @@
+The reported data deal with the derivation of the equation of isostatic line of compression (ILC) and splitting force in a bottle-shaped strut with different height-to-width ratios. The final data show that the splitting force in a bottle-shaped strut is not only related to the height-to-width ratio (h/b), but also related to the load area ratio.

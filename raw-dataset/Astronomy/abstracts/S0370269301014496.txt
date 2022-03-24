@@ -1,0 +1,1 @@
+We compute the Higgs mass in a model for the electroweak interactions based on a confining theory. This model is related to the standard model by the complementarity principle. A dynamical effect due to the large typical scale of the Higgs boson shifts its mass above that of the W-bosons. We obtain m H =129.6 GeV.

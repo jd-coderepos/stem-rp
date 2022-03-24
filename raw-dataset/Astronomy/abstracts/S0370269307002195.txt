@@ -1,0 +1,1 @@
+Using pNRQCD and known results for the field strength correlator, we calculate the ultrasoft contribution to the QCD static energy of a quark–antiquark pair at short distances at N4LO in α s . At the same order, this provides the logarithmic terms of the singlet static potential in pNRQCD and the log α s terms of the static energy.

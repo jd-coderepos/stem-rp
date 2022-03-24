@@ -1,0 +1,1 @@
+An investigation on using electrical resistance tomography (ERT) to monitor the removal of a non-Newtonian soil by water from a cleaning-in-place (CIP) circuit containing different pipe geometries 

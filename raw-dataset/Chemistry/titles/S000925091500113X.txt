@@ -1,0 +1,1 @@
+Evaluation of a structural mechanics model to predict the effect of inserts in the bed support of chromatographic columns 

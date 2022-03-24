@@ -1,0 +1,1 @@
+Dataset of vibrational and acoustic measurements for squeal analysis from the laboratory brake setup Friction-Induced Vibration and noisE at Ecole Centrale de Lyon (FIVE@ECL) 

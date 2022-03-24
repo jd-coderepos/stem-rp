@@ -1,0 +1,1 @@
+Assessment of different basis sets and DFT functionals for the calculation of structural parameters, vibrational modes and ligand binding energies of Zr4O2(carboxylate)12 clusters 

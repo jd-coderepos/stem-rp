@@ -1,0 +1,1 @@
+Automatised and georeferenced energy assessment of an Antwerp district based on cadastral data 

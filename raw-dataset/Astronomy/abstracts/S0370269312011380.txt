@@ -1,0 +1,1 @@
+We introduce the Maxwell-invariant extension of D = 4 relativistic free particle model into ten-dimensional Maxwell tensorial space. The new model after first quantization describes in particular Lorentz frame the planar dynamics providing Landau orbits in the presence of constant magnetic field.

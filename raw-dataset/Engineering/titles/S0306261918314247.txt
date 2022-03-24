@@ -1,0 +1,1 @@
+Heuristic optimization of clusters of heat pumps: A simulation and case study of residential frequency reserve 

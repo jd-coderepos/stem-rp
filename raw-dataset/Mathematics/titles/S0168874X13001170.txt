@@ -1,0 +1,1 @@
+XFEM investigation of a crack path in residual stresses resulting from quenching 

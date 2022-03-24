@@ -1,0 +1,1 @@
+Exploring the origins of EEG motion artefacts during simultaneous fMRI acquisition: Implications for motion artefact correction 

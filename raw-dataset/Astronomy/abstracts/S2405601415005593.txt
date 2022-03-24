@@ -1,0 +1,1 @@
+The search for electroweak superpartners has recently moved to the centre of interest at the LHC. We provide the currently most precise theoretical predictions for these particles, use them to assess the precision of parton shower simulations, and reanalyse public experimental results assuming more general decompositions of gauginos and sleptons.

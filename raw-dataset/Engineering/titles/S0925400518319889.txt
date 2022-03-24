@@ -1,0 +1,1 @@
+Automatic de-noising of close-range hyperspectral images with a wavelength-specific shearlet-based image noise reduction method 

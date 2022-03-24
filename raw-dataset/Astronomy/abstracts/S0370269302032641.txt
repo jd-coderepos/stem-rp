@@ -1,0 +1,1 @@
+Experimental data accumulated by the SNO detector (containing 1000 t of D2O) on neutral-current solar neutrinos interactions [Phys. Rev. Lett. 89 (2002) 011301] have been used to set the best up-to-date life-time limit on the proton disappearance (or decay to the weakly interacting particles like neutrinos, majorons, etc.): limτ(p→?)>5.7(3.5)×1028 yr at 68% (90%) C.L.

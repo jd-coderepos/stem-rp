@@ -1,0 +1,1 @@
+Consistency between SU(3) and SU(2) covariant baryon chiral perturbation theory for the nucleon mass 

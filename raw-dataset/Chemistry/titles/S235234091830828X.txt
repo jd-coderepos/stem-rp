@@ -1,0 +1,1 @@
+Dataset for evaluating fitness index using Adaptive Neuro-Fuzzy Inference System 

@@ -1,0 +1,1 @@
+Robust indoor speaker recognition in a network of audio and video sensors 

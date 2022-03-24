@@ -1,0 +1,1 @@
+A model for habitus-adjusted paediatric weight estimation by age and data concerning the validation of this method on a large dataset of English children 

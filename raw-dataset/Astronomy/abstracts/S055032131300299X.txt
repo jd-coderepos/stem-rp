@@ -1,0 +1,1 @@
+It is shown that in the next-to-leading approximation of N = 4 SUSY the BFKL equation for two-gluon composite states in the adjoint representation of the gauge group can be reduced to a form which is invariant under Möbius transformation in the momentum space. The corresponding similarity transformation of its integral kernel is constructed in an explicit way.

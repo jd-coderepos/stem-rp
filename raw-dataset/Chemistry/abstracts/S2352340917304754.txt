@@ -1,0 +1,1 @@
+Here the statistics concerning X-ray data processing and structure refinement are given, together with the substrate preference analysis for ThBgl1 and ThBgl2. Finally, the analysis of the influence of temperature and pH on the activities of both enzymes are shown.

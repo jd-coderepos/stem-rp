@@ -1,0 +1,1 @@
+We propose a class of observables constructed from lepton energy distribution, which are independent of the velocity of the parent particle if it is scalar or unpolarized. These observables may be used to measure properties of various particles in the LHC experiments. We demonstrate their usage in a determination of the Higgs boson mass.

@@ -1,0 +1,1 @@
+Applying the amplitude difference method to Fermilab experiment E791 D + → π − π + π + data, we measure the low mass π + π − phase motion. Our results suggest a significant phase variation, compatible with the existence of an isoscalar σ ( 500 ) meson, as previously reported using an isobar model fit to the full Dalitz-plot density.

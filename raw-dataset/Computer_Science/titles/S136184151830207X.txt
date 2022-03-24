@@ -1,0 +1,1 @@
+A work flow to build and validate patient specific left atrium electrophysiology models from catheter measurements 

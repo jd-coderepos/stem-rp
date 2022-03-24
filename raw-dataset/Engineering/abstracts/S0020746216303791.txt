@@ -1,0 +1,1 @@
+We discuss whether homogeneous Cauchy stress implies homogeneous strain in isotropic nonlinear elasticity. While for linear elasticity the positive answer is clear, we exhibit, through detailed calculations, an example with inhomogeneous continuous deformation but constant Cauchy stress. The example is derived from a non rank-one convex elastic energy.

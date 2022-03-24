@@ -1,0 +1,1 @@
+Representing the dwelling stock as 3D generic tiles estimated from average residential density 

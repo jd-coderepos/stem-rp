@@ -1,0 +1,1 @@
+Probabilistic wind power forecasting and its application in the scheduling of gas-fired generators 

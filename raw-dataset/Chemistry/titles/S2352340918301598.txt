@@ -1,0 +1,1 @@
+Data on coding association rules from an inpatient administrative health data coded by International classification of disease - 10th revision (ICD-10) codes 

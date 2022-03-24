@@ -1,0 +1,1 @@
+Experimental data on load test and performance parameters of a LENZ type vertical axis wind turbine in open environment condition 

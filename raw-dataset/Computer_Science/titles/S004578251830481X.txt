@@ -1,0 +1,1 @@
+Mixed displacement–rotation–pressure formulations for linear elasticity 

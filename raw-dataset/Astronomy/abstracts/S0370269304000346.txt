@@ -1,0 +1,1 @@
+We study the dilaton stabilization in models with anomalous U(1) symmetry by adding specific string-motivated, non-perturbative corrections to the tree-level dilaton Kähler potential. We find that the non-perturbative effects can stabilize the dilaton at a desirably large value. We also observe that the size of Fayet–Iliopoulos term is reduced at the stabilized point.

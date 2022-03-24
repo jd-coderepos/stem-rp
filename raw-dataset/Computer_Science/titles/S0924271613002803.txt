@@ -1,0 +1,1 @@
+Automated parameterisation for multi-scale image segmentation on multiple layers 

@@ -1,0 +1,1 @@
+Quantum field propagator for extended-objects in the microcanonical ensemble and the S-matrix formulation 

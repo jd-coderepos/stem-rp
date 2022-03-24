@@ -1,0 +1,1 @@
+Temperature quantization from the TBA equations 

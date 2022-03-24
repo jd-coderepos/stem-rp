@@ -1,0 +1,1 @@
+In the recently proposed non-local theory of quantum gravity one can avoid massive tensor ghosts at the tree level by introducing an exponential form factor between the two Ricci tensors. We show that at the quantum level this theory has an infinite amount of massive unphysical states, mostly corresponding to complex poles.

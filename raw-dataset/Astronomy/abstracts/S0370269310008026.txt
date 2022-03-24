@@ -1,0 +1,1 @@
+Color-ordered amplitudes in gauge theories satisfy non-linear identities involving amplitude products of different helicity configurations. We consider the origin of such identities and connect them to the Kawai–Lewellen–Tye (KLT) relations between gravity and gauge theory amplitudes. Extensions are made to one-loop order of the full N = 4 super Yang–Mills multiplet.

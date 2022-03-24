@@ -1,0 +1,1 @@
+Spatial mapping with Gaussian processes and nonstationary Fourier features 

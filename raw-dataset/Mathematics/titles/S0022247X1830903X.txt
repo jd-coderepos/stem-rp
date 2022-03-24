@@ -1,0 +1,1 @@
+Well-posedness of the fully coupled quasi-static thermo-poroelastic equations with nonlinear convective transport 

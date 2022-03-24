@@ -1,0 +1,1 @@
+Derivative analysis for layer selection of geophysical borehole logs 

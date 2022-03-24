@@ -1,0 +1,1 @@
+Path loss dataset for modeling radio wave propagation in smart campus environment 

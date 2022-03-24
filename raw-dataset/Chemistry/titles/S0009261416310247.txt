@@ -1,0 +1,1 @@
+Chemically accurate simulation of dissociative chemisorption of D2 on Pt(111) 

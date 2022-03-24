@@ -1,0 +1,1 @@
+The Hilbert–Kunz multiplicity and F -signature are important invariants for researchers in commutative algebra and algebraic geometry. We provide software, and describe the automation, for the calculations of the two invariants in the case of intersection algebras over polynomial rings.

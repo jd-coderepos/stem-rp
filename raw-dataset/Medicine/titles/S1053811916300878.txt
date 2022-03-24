@@ -1,0 +1,1 @@
+Functional connectivity and structural covariance between regions of interest can be measured more accurately using multivariate distance correlation 

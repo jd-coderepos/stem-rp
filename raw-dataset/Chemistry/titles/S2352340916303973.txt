@@ -1,0 +1,1 @@
+Data supporting the high-accuracy haplotype imputation using unphased genotype data as the references 

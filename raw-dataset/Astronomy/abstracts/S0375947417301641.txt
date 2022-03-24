@@ -1,0 +1,1 @@
+We discuss the relation between particle number cumulants and genuine correlation functions. It is argued that measuring multi-particle correlation functions could provide cleaner information on possible non-trivial dynamics in heavy-ion collisions.

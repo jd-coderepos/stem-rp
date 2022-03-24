@@ -1,0 +1,1 @@
+Correlation of three variables describing nasal patency (HD, MCA, NOSE score) in healthy subjects 

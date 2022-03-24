@@ -1,0 +1,1 @@
+Model of the N-quark potential in SU(N) gauge theory using gauge-string duality 

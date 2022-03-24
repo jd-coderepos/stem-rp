@@ -1,0 +1,1 @@
+Entropy generation in MHD radiative viscous nanofluid flow over a porous wedge using the bivariate spectral quasi-linearization method 

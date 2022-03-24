@@ -1,0 +1,1 @@
+ASCIZ/ATMIN is dispensable for ATM signaling in response to replication stress 

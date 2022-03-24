@@ -1,0 +1,1 @@
+Neglecting smaller amplitudes the time-dependent CP asymmetry in penguin-dominated b → s q q ¯ transitions (such as B → ϕ K S ) is expected to equal ± sin ( 2 β ) , an expectation not borne out by the present average experimental data. I compute and discuss the correction due to the smaller amplitudes in the framework of QCD factorization.

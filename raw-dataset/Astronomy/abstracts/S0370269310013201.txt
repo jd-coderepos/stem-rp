@@ -1,0 +1,1 @@
+We generalize a positivity constraint derived initially for parity-conserving processes to the parity-violating ones, and use it to derive non-trivial bounds on several Sivers functions, entering in the theoretical description of single spin asymmetry for various processes.

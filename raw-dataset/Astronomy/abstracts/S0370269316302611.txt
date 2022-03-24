@@ -1,0 +1,1 @@
+We formulate a way to separate UV and IR contributions to the Adler function and discuss how Λ QCD 2 / Q 2 dependence is encoded in the UV contribution within perturbative QCD.

@@ -1,0 +1,1 @@
+Dataset describing the development, optimization and application of SRM/MRM based targeted proteomics strategy for quantification of potential biomarkers of EGFR TKI sensitivity 

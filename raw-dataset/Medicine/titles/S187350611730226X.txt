@@ -1,0 +1,1 @@
+A human iPS cell myogenic differentiation system permitting high-throughput drug screening 

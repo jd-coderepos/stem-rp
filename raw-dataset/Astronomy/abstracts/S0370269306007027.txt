@@ -1,0 +1,1 @@
+An efficient method to calculate tadpole diagrams is proposed. Its capability is demonstrated by analytically evaluating two four-loop tadpole diagrams of current interest in the literature, including their O ( ϵ ) terms in D = 4 − 2 ϵ space–time dimensions.

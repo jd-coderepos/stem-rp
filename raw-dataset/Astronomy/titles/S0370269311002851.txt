@@ -1,0 +1,1 @@
+Exact solution of finite size Mean Field Percolation and application to nuclear fragmentation 

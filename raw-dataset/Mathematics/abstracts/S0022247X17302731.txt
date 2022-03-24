@@ -1,0 +1,1 @@
+We construct Green functions of Dirichlet boundary value problems for sub-Laplacians on certain unbounded domains of a prototype Heisenberg-type group (prototype H-type group, in short). We also present solutions in an explicit form of the Dirichlet problem for the sub-Laplacian with non-zero boundary datum on half-space, quadrant-space, etc., as well as in a strip.

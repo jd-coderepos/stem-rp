@@ -1,0 +1,1 @@
+A computational model to simulate self-heating ignition across scales, configurations, and coal origins 

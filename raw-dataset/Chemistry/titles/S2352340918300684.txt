@@ -1,0 +1,1 @@
+The ‘Plantain-Optim’ dataset: Agronomic traits of 405 plantains every 15 days from planting to harvest 

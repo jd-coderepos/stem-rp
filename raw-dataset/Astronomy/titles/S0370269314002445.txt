@@ -1,0 +1,1 @@
+A convenient implementation of the overlap between arbitrary Hartree–Fock–Bogoliubov vacua for projection 

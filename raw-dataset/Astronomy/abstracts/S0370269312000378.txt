@@ -1,0 +1,1 @@
+We discuss the orbital angular momentum of partons inside a longitudinally polarized proton in the recently proposed framework of spin decomposition. The quark orbital angular momentum defined by Ji can be decomposed into the ‘canonical’ and the ‘potential’ angular momentum parts, both of which are represented as the matrix element of a manifestly gauge invariant operator.

@@ -1,0 +1,1 @@
+We propose a method to determine the isoscalar K ¯ N scattering length on the lattice. Our method represents the generalization of Lüscher's approach in the presence of inelastic channels (complex scattering length). In addition, the proposed approach allows one to find the position of the S-matrix pole corresponding the Λ ( 1405 ) resonance.

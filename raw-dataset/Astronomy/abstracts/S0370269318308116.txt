@@ -1,0 +1,1 @@
+In this note we prove that quantum gravitational corrections to vacuum solutions of Einstein's equations vanish at second order in curvature.

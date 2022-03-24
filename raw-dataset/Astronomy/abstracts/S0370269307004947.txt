@@ -1,0 +1,1 @@
+We present the results of a complete two-loop calculation at order O ( q 6 ) of the nucleon mass in manifestly Lorentz-invariant chiral perturbation theory. The renormalization is performed using the reformulated infrared renormalization, which allows for the treatment of two-loop integrals while preserving all relevant symmetries, in particular chiral symmetry.

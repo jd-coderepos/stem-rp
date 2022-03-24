@@ -1,0 +1,1 @@
+We provide explicit expressions for boundary form factors in the boundary scaling Lee–Yang model for operators with the mildest ultraviolet behavior for all integrable boundary conditions. The form factors of the boundary stress tensor take a determinant form, while the form factors of the boundary primary field contain additional explicit polynomials.

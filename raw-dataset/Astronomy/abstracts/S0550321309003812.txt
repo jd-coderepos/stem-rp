@@ -1,0 +1,1 @@
+We compute metric correlations in loop quantum gravity with the dynamics defined by the new spin foam models. The analysis is done at the lowest order in a vertex expansion and at the leading order in a large spin expansion. The result is compared to the graviton propagator of perturbative quantum gravity.

@@ -1,0 +1,1 @@
+ASPEN PLUS simulation model for CO2 removal with MEA: Validation of desorption model with experimental data 

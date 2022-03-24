@@ -1,0 +1,1 @@
+We do not find any AdS 2 branes, neither in the H 3 + WZNW model nor in the SL(2,R) WZNW model. We then reexamine the case of the branes that possess a su(2) symmetry: we speculate that they would have to live on the boundary of AdS 3. This cannot be realized in an Euclidean spacetime, but in the SL(2,R) WZNW model by analytical continuation.

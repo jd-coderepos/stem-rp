@@ -1,0 +1,1 @@
+We present the first nonlinear term of the higher spin curvature which is covariant with respect to deformed gauge transformations that are linear in the field. We consider the case of spin 3 after presenting spin 2 as an example, and then construct the general spin s quadratic term of the de Wit–Freedman curvature.

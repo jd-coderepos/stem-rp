@@ -1,0 +1,1 @@
+Modelling of ductile fracture in single point incremental forming using a modified GTN model 

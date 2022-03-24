@@ -1,0 +1,1 @@
+Recently, Böhm and Ştefan constructed duplicial (paracyclic) objects from distributive laws between (co)monads. Here we define the category of factorisations of a distributive law, show that it acts on this construction, and give some explicit examples.

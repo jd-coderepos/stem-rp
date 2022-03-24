@@ -1,0 +1,1 @@
+A three-dimensional coupled thermo-hydro-mechanical model for deformable fractured geothermal systems 

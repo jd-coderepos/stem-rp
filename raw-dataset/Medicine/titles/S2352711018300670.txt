@@ -1,0 +1,1 @@
+MobiQ: A modular Android application for collecting social interaction, repeated survey, GPS and photographic data 

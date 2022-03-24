@@ -1,0 +1,1 @@
+MRT discrete Boltzmann method for compressible exothermic reactive flows 

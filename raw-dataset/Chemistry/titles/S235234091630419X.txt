@@ -1,0 +1,1 @@
+Time-course gene expression data on the transcriptional effects of Aminaphtone on ECV304 endothelial cells 

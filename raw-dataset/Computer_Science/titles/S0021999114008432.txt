@@ -1,0 +1,1 @@
+A WENO-solver combined with adaptive momentum discretization for the Wigner transport equation and its application to resonant tunneling diodes 

@@ -1,0 +1,1 @@
+Accelerated Cyclic Reduction: A distributed-memory fast solver for structured linear systems 

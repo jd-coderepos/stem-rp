@@ -1,0 +1,1 @@
+We propose a new way to build networks of defects. The idea takes advantage of the deformation procedure recently employed to describe defect structures, which we use to construct networks, spread from small rudimentary networks that appear in simple models of scalar fields.

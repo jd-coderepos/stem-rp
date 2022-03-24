@@ -1,0 +1,1 @@
+Data on peptides identified by mass spectrometry analysis of in vitro DYRK1A-mediated phosphorylation sites on GLI1 

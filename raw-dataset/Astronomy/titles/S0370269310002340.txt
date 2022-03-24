@@ -1,0 +1,5 @@
+Calculation of two-loop β-function for general 
+                  N
+                  =
+                  1
+                supersymmetric Yang–Mills theory with the higher covariant derivative regularization 

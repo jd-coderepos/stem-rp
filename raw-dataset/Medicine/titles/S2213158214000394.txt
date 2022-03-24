@@ -1,0 +1,1 @@
+Automated delineation of stroke lesions using brain CT images 

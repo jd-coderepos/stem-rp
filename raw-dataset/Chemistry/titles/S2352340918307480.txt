@@ -1,0 +1,1 @@
+R program for estimation of group efficiency and finding its gradient. Stochastic data envelopment analysis with a perfect object approach 

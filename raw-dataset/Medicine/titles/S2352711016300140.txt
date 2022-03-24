@@ -1,0 +1,1 @@
+tgcd: An R package for analyzing thermoluminescence glow curves 

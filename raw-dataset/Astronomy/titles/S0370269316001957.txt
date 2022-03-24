@@ -1,0 +1,3 @@
+Revalidation of the isobaric multiplet mass equation at A
+               =53, T
+               =3/2 

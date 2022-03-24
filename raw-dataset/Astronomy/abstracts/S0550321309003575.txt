@@ -1,0 +1,1 @@
+We extend a recently discovered set of relations for gauge-theory amplitudes to non-gluonic matter. For all MHV amplitudes we find that these can be made to hold for scalar/fermion/quark cases by inclusion of a factor derived via Ward identities. For six- and seven-point amplitudes with non-gluonic matter we explicitly confirm these relations for NMHV helicity configurations.

@@ -1,0 +1,1 @@
+Implementation and computational aspects of a 3D elastic wave modelling by PUFEM 

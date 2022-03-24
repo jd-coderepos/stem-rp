@@ -1,0 +1,1 @@
+Energy dependent features of X-ray signals in a GridPix detector 

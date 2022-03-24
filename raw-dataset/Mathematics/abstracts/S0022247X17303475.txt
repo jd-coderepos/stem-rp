@@ -1,0 +1,1 @@
+We prove a realization formula and a model formula for analytic functions with modulus bounded by 1 on the symmetrized bidisc G = def { ( z + w , z w ) : | z | < 1 , | w | < 1 } . As an application we prove a Pick-type theorem giving a criterion for the existence of such a function satisfying a finite set of interpolation conditions.

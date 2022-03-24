@@ -1,0 +1,1 @@
+A comparison of deep networks with ReLU activation function and linear spline-type methods 

@@ -1,0 +1,1 @@
+Dataset for the quantitative proteomics analysis of the primary hepatocellular carcinoma with single and multiple lesions 

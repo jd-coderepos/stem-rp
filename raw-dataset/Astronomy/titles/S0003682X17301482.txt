@@ -1,0 +1,1 @@
+Infinite-dimensional SVD for revealing microphone array’s characteristics 

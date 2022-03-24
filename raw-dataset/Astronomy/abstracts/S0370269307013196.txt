@@ -1,0 +1,1 @@
+This is an Erratum to a Letter of ours [S. Moretti, M.R. Nolten, D.A. Ross, Phys. Lett. B 639 (2006) 513]. After its publication, we have discovered a mistake in a numerical program that affects the results presented therein. We provide here the corrected version.

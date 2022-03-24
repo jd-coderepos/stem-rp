@@ -1,0 +1,1 @@
+2DE and 2D-DIGE based proteomics analysis of serum from women with endometriosis revealed several proteins to be dysregulated. A complete list of these proteins along with their mass spectrometry data and subsequent bioinformatics analysis are presented here. The data is related to “Investigation of serum proteome alterations in human endometriosis” by Dutta et al. [1].

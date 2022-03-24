@@ -1,0 +1,1 @@
+A Bloch wave reduction scheme for ultrafast band diagram and dynamic response computation in periodic structures 

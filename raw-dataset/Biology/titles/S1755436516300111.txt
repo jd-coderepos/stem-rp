@@ -1,0 +1,1 @@
+A model for sea lice (Lepeophtheirus salmonis) dynamics in a seasonally changing environment 

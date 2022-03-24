@@ -1,0 +1,1 @@
+Benchmark dataset for undirected and Mixed Capacitated Arc Routing Problems under Time restrictions with Intermediate Facilities 

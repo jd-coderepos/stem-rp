@@ -1,0 +1,1 @@
+We present the embedding of three-dimensional SO ( 4 ) ⋉ R 6 gauged N = 4 supergravity with quaternionic target space SO ( 4 , 4 ) / ( SO ( 4 ) × SO ( 4 ) ) into D = 6 , N = ( 1 , 0 ) supergravity coupled to a single chiral tensor multiplet through a consistent reduction on AdS 3 × S 3 .

@@ -1,0 +1,1 @@
+Combining micromagnetism and magnetostatic Maxwell equations for multiscale magnetic simulations 

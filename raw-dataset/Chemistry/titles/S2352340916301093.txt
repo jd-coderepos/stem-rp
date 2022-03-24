@@ -1,0 +1,1 @@
+mRNA and protein dataset of autophagy markers (LC3 and p62) in several cell lines 

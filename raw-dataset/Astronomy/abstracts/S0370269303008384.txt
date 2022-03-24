@@ -1,0 +1,1 @@
+We construct the set of theories which share the property that the tree-level threshold amplitudes nullify even if both initial and final states contain the same type of particles. The origin of this phenomenon lies in the fact that reduced classical dynamics describes the isochronic systems.

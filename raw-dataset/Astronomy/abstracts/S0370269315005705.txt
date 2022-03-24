@@ -1,0 +1,1 @@
+The LHCb experiment is capable of studying four-body decays of the b-flavored baryons Λ b and Ξ b 0 to charmless final states consisting of charged pions, kaons, and baryons. We remark on the search in such modes for CP-violating triple product asymmetries and for CP rate asymmetries relative to decays involving charmed baryons.

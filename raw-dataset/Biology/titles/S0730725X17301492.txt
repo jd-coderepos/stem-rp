@@ -1,0 +1,1 @@
+Simple algorithm for the correction of MRI image artefacts due to random phase fluctuations 

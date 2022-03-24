@@ -1,0 +1,1 @@
+The azimuthal distribution of jets produced in the Breit frame in high-Q 2 deep inelastic e + p scattering has been studied with the ZEUS detector at HERA using an integrated luminosity of 38.6 pb−1. The measured azimuthal distribution shows a structure that is well described by next-to-leading-order QCD predictions over the Q 2 range considered, Q 2>125 GeV2.

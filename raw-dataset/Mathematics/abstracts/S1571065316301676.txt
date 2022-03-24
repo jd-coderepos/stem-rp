@@ -1,0 +1,1 @@
+Drezner's optimal algorithm for the p-centre problem is an elegant but somewhat slow method. We suggest some technical enhancements that significantly improve the method's efficiency.

@@ -1,0 +1,1 @@
+We compute the ratio of the inclusive jet cross-sections obtained with the same jet algorithm at two different values of the jet radius. We perform a computation of that observable at NLO ( O ( α s 2 ) ) in perturbative QCD and compute non-perturbative corrections from soft-gluon emission. We discuss predictions for RHIC and the LHC.

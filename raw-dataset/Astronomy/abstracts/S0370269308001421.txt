@@ -1,0 +1,1 @@
+We analyze the role played by the Polyakov loop in the description of the chiral phase transition within the framework of nonlocal SU(3) chiral models with flavor mixing. We show that its presence provides a substantial enhancement of the predicted critical temperature, bringing it to a better agreement with the most recent results of lattice calculations.

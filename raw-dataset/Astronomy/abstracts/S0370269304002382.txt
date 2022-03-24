@@ -1,0 +1,1 @@
+In chiral models with SU(3) group structure, strange form factors of baryon octet are evaluated by constructing their sum rules to yield theoretical predictions comparable to the recent experimental data of the SAMPLE Collaboration. We also study sum rules for the flavor singlet axial currents for the EMC experiment in a modified quark model.

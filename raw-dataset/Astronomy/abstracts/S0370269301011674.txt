@@ -1,0 +1,1 @@
+Using an OPE modification, which takes non-perturbative non-locality into account, the difference and sum of vector and axial-vector correlators are evaluated in euclidean position space. For distances up to 0.8 fm the calculated behavior is close to the instanton liquid result and the ALEPH data, in contrast to the implications of the conventional OPE.

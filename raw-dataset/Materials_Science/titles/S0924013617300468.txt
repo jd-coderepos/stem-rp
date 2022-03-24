@@ -1,0 +1,1 @@
+Extension of the double-ellipsoidal heat source model to narrow-groove and keyhole weld configurations 

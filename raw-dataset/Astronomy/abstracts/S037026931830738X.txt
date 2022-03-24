@@ -1,0 +1,1 @@
+We show how to construct supersymmetric warped AdS7 vacua of massive IIA and AdS6 vacua of IIB supergravity, using “half-maximal structures” of exceptional field theory. We use this formalism to obtain the minimal consistent truncations around these AdS vacua.

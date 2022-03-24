@@ -1,0 +1,1 @@
+Improved shimming for fMRI specifically optimizing the local BOLD sensitivity 

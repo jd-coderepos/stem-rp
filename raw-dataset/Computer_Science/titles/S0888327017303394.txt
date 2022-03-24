@@ -1,0 +1,1 @@
+Intelligent condition monitoring method for bearing faults from highly compressed measurements using sparse over-complete features 

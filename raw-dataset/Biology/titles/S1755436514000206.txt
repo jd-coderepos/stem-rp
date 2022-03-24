@@ -1,0 +1,2 @@
+
+               OutbreakTools: A new platform for disease outbreak analysis using the R software 

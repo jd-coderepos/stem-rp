@@ -1,0 +1,1 @@
+We argue the possibility that a real part of a flavor neutrino mass matrix only respects a μ–τ symmetry. This possibility is shown to be extended to more general case with a phase parameter θ, where the μ–τ symmetric part has a phase of θ / 2 . This texture shows maximal CP violation and no Majorana CP violation.

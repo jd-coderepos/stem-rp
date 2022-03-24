@@ -1,0 +1,1 @@
+Fast and powerful heritability inference for family-based neuroimaging studies 

@@ -1,0 +1,1 @@
+A novel prism has been devised which can be used in place of the ‘flag’ in an optical shadow-sensing type of displacement sensor, for example. In this way, theoretically the displacement sensitivity of the sensor can be doubled. Such a prism has been manufactured, and its displacement-doubling property has been verified.

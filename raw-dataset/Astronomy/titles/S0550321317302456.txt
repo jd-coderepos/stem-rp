@@ -1,0 +1,77 @@
+The quasi-two-body decays 
+                  
+                     
+                        B
+                     
+                     
+                        (
+                        s
+                        )
+                     
+                  
+                  →
+                  (
+                  
+                     
+                        D
+                     
+                     
+                        (
+                        s
+                        )
+                     
+                  
+                  ,
+                  
+                     
+                        
+                           
+                              D
+                           
+                           
+                              ¯
+                           
+                        
+                     
+                     
+                        (
+                        s
+                        )
+                     
+                  
+                  )
+                  ρ
+                  →
+                  (
+                  
+                     
+                        D
+                     
+                     
+                        (
+                        s
+                        )
+                     
+                  
+                  ,
+                  
+                     
+                        
+                           
+                              D
+                           
+                           
+                              ¯
+                           
+                        
+                     
+                     
+                        (
+                        s
+                        )
+                     
+                  
+                  )
+                  π
+                  π
+                in the perturbative QCD factorization approach 

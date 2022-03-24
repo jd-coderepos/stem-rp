@@ -1,0 +1,2 @@
+Annotating and quantifying pri-miRNA transcripts using RNA-Seq data of wild type and serrate-1 globular stage embryos of Arabidopsis thaliana
+             

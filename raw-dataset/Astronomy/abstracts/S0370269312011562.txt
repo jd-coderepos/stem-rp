@@ -1,0 +1,1 @@
+We propose a very simple approach to deal with the problems of the modified Schrödinger equation due to minimal length and thereby solve the minimal length Schrödinger equation in the presence of a non-minimal Woods–Saxon interaction. The transmission and reflection coefficients are reported as well.

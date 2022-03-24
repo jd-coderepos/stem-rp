@@ -1,0 +1,1 @@
+Extraction of second harmonic from an InP based planar Gunn diode using diamond resonator for milli-metric wave frequencies 

@@ -1,0 +1,1 @@
+Microbiology is experiencing a revolution brought on by recent developments in sequencing technology. The unprecedented volume of microbiome data being generated poses significant challenges that are currently hindering progress in the field. Here, we outline the major bottlenecks and propose a vision to advance microbiome research as a data-driven science.

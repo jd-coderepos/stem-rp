@@ -1,0 +1,1 @@
+After publication we found a few errors in our article The kinematics of cosmic reheating [1], which we correct below for clarity. The resulting changes in our main result, the temperature dependent damping rate Γ, are not significant.

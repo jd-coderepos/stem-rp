@@ -1,0 +1,1 @@
+We point out that exponential shape of transverse spectra can be obtained as the Fourier transform of the limiting distribution of randomly positioned partons with power law spectra given by pQCD, which actually realize Tsallis distributions. Such spectra were used to obtain hadron yields by recombination in relativistic heavy-ion collisions at RHIC energies.

@@ -1,0 +1,1 @@
+We present new solutions of the d = 5 Einstein–Yang–Mills theory describing black holes with squashed horizons. These configurations are asymptotically locally flat and have a boundary topology of a fiber bundle R × S 1 ↪ S 2 . In a d = 4 picture, they describe black hole solutions with both non-Abelian and U ( 1 ) magnetic charges.

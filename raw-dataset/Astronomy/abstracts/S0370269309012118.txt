@@ -1,0 +1,1 @@
+A universal description is proposed for generic viscoelastic systems with a single relaxation time. Foliation preserving diffeomorphisms are introduced as an underlying symmetry which naturally interpolates between the two extreme limits of elasticity and fluidity. The symmetry is found to be powerful enough to determine the dynamics in the first order of strains.

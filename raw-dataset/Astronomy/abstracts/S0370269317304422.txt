@@ -1,0 +1,1 @@
+We propose a holographic computation of the 2 → 2 meson scattering in a curved string background, dual to a QCD-like theory. We recover the Veneziano amplitude and compute a perturbative correction due to the background curvature. The result implies a small deviation from a linear trajectory, which is a requirement of the UV regime of QCD.

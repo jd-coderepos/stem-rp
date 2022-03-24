@@ -1,0 +1,1 @@
+Using the techniques of nonlinear coset realization with a generalized Poincaré group, we construct a relativistic particle model, invariant under the generalized symmetries, providing a dynamical realization of the B 5 algebra.

@@ -1,0 +1,1 @@
+Local data of heat flux, wall temperature and the void phase along the boiling curve during vertical subcooled flow boiling of refrigerant Novec 649 at a copper wall 

@@ -1,0 +1,1 @@
+Thermal sensitivity analysis data utilizing Q10 scanning, Boltzmann slope factor and the change of molar heat capacity 

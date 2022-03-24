@@ -1,0 +1,1 @@
+This article presents the statistical analysis of the number and profitability of air conditioners in an Egyptian company. Checking the same distribution for each categorical variable has been made using Kruskal–Wallis test.

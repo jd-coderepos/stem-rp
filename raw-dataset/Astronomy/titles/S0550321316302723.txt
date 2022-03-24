@@ -1,0 +1,4 @@
+“Generalized” algebraic Bethe ansatz, Gaudin-type models and Z
+               
+                  p
+               -graded classical r-matrices 

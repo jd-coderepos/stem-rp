@@ -1,0 +1,1 @@
+Compiled data set of exact NOE distance limits, residual dipolar couplings and scalar couplings for the protein GB3 

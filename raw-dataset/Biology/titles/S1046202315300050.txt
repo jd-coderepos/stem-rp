@@ -1,0 +1,1 @@
+A straightforward approach for gated STED-FCS to investigate lipid membrane dynamics 

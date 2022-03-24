@@ -1,0 +1,1 @@
+The spectroscopy of 27Ne has been investigated through the one-neutron transfer reaction 26Ne( d , p )27Ne in inverse kinematics at 9.7 MeV/nucleon. The results strongly support the existence of a low-lying negative parity state in 27Ne, which is a signature of a reduced sd–fp shell gap in the N = 16 neutron-rich region, at variance with stable nuclei.

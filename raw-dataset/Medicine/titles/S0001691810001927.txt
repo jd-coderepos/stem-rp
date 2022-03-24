@@ -1,0 +1,1 @@
+Language can mediate eye movement control within 100milliseconds, regardless of whether there is anything to move the eyes to 

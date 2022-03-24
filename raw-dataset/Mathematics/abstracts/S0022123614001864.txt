@@ -1,0 +1,1 @@
+In this paper we give criteria on integral kernels ensuring that integral operators on compact manifolds belong to Schatten classes. A specific test for nuclearity is established as well as the corresponding trace formulae. In the special case of compact Lie groups, kernel criteria in terms of (locally and globally) hypoelliptic operators are also given.

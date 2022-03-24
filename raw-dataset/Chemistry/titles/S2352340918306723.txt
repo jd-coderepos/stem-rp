@@ -1,0 +1,1 @@
+Daily rainfall nearest neighbor pattern using point data series in Iran 

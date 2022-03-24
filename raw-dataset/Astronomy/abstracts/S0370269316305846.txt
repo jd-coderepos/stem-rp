@@ -1,0 +1,1 @@
+We propose a model independent extraction of the hadronic information needed to determine the photon polarization of the b → s γ process by the method utilizing the B → K 1 γ → K π π γ angular distribution. We show that exactly the same hadronic information can be obtained by using the B → J / ψ K 1 → J / ψ K π π channel, which leads to a much higher precision.

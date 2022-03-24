@@ -1,0 +1,1 @@
+Guiding functional connectivity estimation by structural connectivity in MEG: an application to discrimination of conditions of mild cognitive impairment 

@@ -1,0 +1,1 @@
+We consider a system of two discrete levels coupled to a channel. The levels are close to threshold. We investigate the influence of the channel threshold on positions and widths of the levels. We introduce a simple parameterization of the energy dependence of the coupling matrix elements. Simple examples demonstrate the importance of this dependence.

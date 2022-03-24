@@ -1,0 +1,1 @@
+Energy dependent mesh adaptivity of discontinuous isogeometric discrete ordinate methods with dual weighted residual error estimators 

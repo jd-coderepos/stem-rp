@@ -1,0 +1,1 @@
+Strain smoothing for compressible and nearly-incompressible finite elasticity 

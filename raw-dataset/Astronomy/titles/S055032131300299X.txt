@@ -1,0 +1,5 @@
+Möbius invariant BFKL equation for the adjoint representation in 
+                  N
+                  =
+                  4
+                SUSY 

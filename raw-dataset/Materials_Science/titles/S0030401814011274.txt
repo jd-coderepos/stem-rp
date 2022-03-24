@@ -1,0 +1,1 @@
+Algorithm based comparison between the integral method and harmonic analysis of the timing jitter of diode-based and solid-state pulsed laser sources 

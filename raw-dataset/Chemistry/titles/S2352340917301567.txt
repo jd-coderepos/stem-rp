@@ -1,0 +1,1 @@
+A curated dataset of complete Enterobacteriaceae plasmids compiled from the NCBI nucleotide database 

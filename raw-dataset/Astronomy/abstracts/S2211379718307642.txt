@@ -1,0 +1,1 @@
+This note concerns the doubtful Khater method included in the above two papers. We show by simple calculation that Khater method is not true. The solutions of the proposed nonlinear equations in the above two papers are all not true too.

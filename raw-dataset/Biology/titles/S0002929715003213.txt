@@ -1,0 +1,1 @@
+Increased Power for Detection of Parent-of-Origin Effects via the Use of Haplotype Estimation 

@@ -1,0 +1,1 @@
+We compute expectation values of Wilson loops in q-deformed 2d Yang–Mills on a Riemann surface and show that they give invariants of knots in 3-manifolds which are circle bundles over the Riemann surface. The areas of the loops play an essential role in encoding topological information about the extra dimension, and they are quantized to integer or half-integer values.

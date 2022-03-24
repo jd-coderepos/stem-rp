@@ -1,0 +1,1 @@
+A one dimensional numerical approach for computing the eigenmodes of elastic waves in buried pipelines 

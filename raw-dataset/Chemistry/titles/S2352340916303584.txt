@@ -1,0 +1,2 @@
+Data describing Rax positive optic-vesicle generation from mouse embryonic stem cells in vitro
+             

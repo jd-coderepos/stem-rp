@@ -1,0 +1,1 @@
+Data supporting the validation of a simulation model for multi-component gas separation in polymeric membranes 

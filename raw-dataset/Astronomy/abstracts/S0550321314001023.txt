@@ -1,0 +1,1 @@
+We write down the supermembrane actions for M-theory backgrounds dual to general N = 2 four-dimensional superconformal field theories. The actions are given to all orders in fermions and are in a particular κ-gauge. When an extra U ( 1 ) isometry is present, our actions reduce to κ-gauge fixed Green–Schwarz actions for the corresponding Type IIA backgrounds.

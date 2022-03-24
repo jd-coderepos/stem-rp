@@ -1,0 +1,1 @@
+Data describing the accuracy of non-numerical visual features in predicting fMRI responses to numerosity 

@@ -1,0 +1,6 @@
+Reconstruction of 
+                  f
+                  (
+                  R
+                  )
+                models with scale-invariant power spectrum 

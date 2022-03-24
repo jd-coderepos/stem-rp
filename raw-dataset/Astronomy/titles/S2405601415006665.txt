@@ -1,0 +1,1 @@
+Performance of the reconstruction, calibration and identification of electrons and photons with the ATLAS detector, and their impact on the ATLAS physics results 

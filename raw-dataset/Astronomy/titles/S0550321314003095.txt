@@ -1,0 +1,1 @@
+Finite size scaling of the 5D Ising model with free boundary conditions 

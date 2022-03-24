@@ -1,0 +1,1 @@
+Simulation basis for a techno-economic evaluation of chitin nanomaterials production process using Aspen Plus® software 

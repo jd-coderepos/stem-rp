@@ -1,0 +1,1 @@
+A P3P problem solver representing all parameters as a linear combination 

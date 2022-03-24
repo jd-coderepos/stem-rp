@@ -1,0 +1,1 @@
+Simulating Jupiter’s weather layer. Part I: Jet spin-up in a dry atmosphere 

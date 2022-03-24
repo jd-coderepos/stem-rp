@@ -1,0 +1,1 @@
+Weak interaction contributions to the strong θ parameter are revisited in the frame of a large- N c Chiral Perturbation Theory. Focusing on the hadronic η ( ′ ) → π π amplitudes, we express these second-order corrections in terms of the CP-violating parameter in K → π π decays to obtain Δ w θ ≈ 10 − 17 at O ( G F 2 ε ′ ) .

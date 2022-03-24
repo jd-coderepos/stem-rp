@@ -1,0 +1,1 @@
+A common age effect model for the mortality of multiple populations 

@@ -1,0 +1,1 @@
+Accurate determination of one-bond heteronuclear coupling constants with “pure shift” broadband proton-decoupled CLIP/CLAP-HSQC experiments 

@@ -1,0 +1,1 @@
+Optimized classification of 18F-Florbetaben PET scans as positive and negative using an SUVR quantitative approach and comparison to visual assessment 

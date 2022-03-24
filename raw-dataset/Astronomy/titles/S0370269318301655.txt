@@ -1,0 +1,1 @@
+Exact solution of mean-field plus an extended T=1 nuclear pairing Hamiltonian in the seniority-zero symmetric subspace 

@@ -1,0 +1,1 @@
+A 3-bracket variant of the Virasoro–Witt algebra is constructed through the use of su ( 1 , 1 ) enveloping algebra techniques. The Leibniz rules for 3-brackets acting on other 3-brackets in the algebra are discussed and verified in various situations.

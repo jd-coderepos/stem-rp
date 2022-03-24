@@ -1,0 +1,34 @@
+Determining the unitarity triangle angle γ with a four-body amplitude analysis of 
+                  
+                     B
+                     ±
+                  
+                  →
+                  
+                     
+                        (
+                        
+                           K
+                           +
+                        
+                        
+                           K
+                           −
+                        
+                        
+                           π
+                           +
+                        
+                        
+                           π
+                           −
+                        
+                        )
+                     
+                     D
+                  
+                  
+                     K
+                     ±
+                  
+                decays 

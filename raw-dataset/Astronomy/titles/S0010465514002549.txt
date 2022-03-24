@@ -1,0 +1,1 @@
+PyFR: An open source framework for solving advection–diffusion type problems on streaming architectures using the flux reconstruction approach 

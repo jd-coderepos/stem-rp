@@ -1,0 +1,1 @@
+A method has been developed for urbanization by using satellite data and socio-economic data. These datasets consists three decade Landsat images and population data. A detailed description using flow chart is given to show how to use this data to produce land use/cove maps. The land use/cove maps were used to know the urban growth in Samara City, Russia.

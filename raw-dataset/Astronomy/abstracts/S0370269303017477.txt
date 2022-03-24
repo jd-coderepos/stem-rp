@@ -1,0 +1,1 @@
+The radiative width of the 3/2+ state at 6.793 MeV in 15O has been experimentally determined to be Γ γ =0.95+0.60 −0.95 eV by intermediate-energy Coulomb excitation. Our result independently supports the recent studies which point to a minor contribution of this state to the astrophysical rate of the 14N(p,γ)15O reaction in the CNO-cycle hydrogen burning in massive stars.

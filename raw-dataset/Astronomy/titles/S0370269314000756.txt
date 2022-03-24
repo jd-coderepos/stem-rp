@@ -1,0 +1,14 @@
+Scheme independent consequence of the NSVZ relation for 
+                  N
+                  =
+                  1
+                SQED with 
+                  
+                     
+                        N
+                     
+                     
+                        f
+                     
+                  
+                flavors 

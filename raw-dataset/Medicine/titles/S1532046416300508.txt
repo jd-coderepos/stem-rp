@@ -1,0 +1,1 @@
+Analysis of the effect of sentiment analysis on extracting adverse drug reactions from tweets and forum posts 

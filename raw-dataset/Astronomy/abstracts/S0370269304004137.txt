@@ -1,0 +1,1 @@
+A search for single top production (e+e−→t c ̄ ) via flavour changing neutral currents (FCNC) was performed using the data taken by the DELPHI detector at LEP2. The data analyzed have been accumulated at center-of-mass energies ranging from 189 to 208 GeV. Limits at 95% confidence level were obtained on the anomalous coupling parameters κ γ and κ Z .

@@ -1,0 +1,1 @@
+We study dynamics of scalar fields on a large class of geometries described by integrable sigma models. Although equations of motion are not separable due to absence of isometries and Killing tensors, we completely determine the spectra using algebraic and group-theoretic methods.

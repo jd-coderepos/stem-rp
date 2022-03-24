@@ -1,0 +1,1 @@
+Spinor helicity methods in high-energy factorization: Efficient momentum-space calculations in the Color Glass Condensate formalism 

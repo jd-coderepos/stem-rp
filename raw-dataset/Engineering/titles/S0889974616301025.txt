@@ -1,0 +1,1 @@
+Aeroelastic simulations of stores in weapon bays using Detached-Eddy Simulation 

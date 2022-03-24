@@ -1,0 +1,1 @@
+A matrix-based approach to solving the inverse Frobenius–Perron problem using sequences of density functions of stochastically perturbed dynamical systems 

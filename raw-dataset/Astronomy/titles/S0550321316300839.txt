@@ -1,0 +1,1 @@
+Universal Bethe ansatz solution for the Temperley–Lieb spin chain 

@@ -1,0 +1,1 @@
+Actuator allocation for integrated control in tokamaks: architectural design and a mixed-integer programming algorithm 

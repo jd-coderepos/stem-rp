@@ -1,0 +1,1 @@
+The η→π 0 γγ rare decay was measured at the AGS with the Crystal Ball photon spectrometer and its relative branching ratio was extracted to be B 1=(8.3±2.8±1.4)×10−4, based on the analysis of 3×107 detected η mesons. This leads to a lower partial width for this eta channel than past measurements and is in line with chiral perturbation theory calculations.

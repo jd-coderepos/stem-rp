@@ -1,0 +1,1 @@
+Peristaltic flow of MHD nano fluid in a porous channel with velocity and thermal slip conditions is examined. Nanomaterial is comprised with water and copper/silver. Thermal radiation is present. The relevant problems have been solved for the velocity, temperature, pressure rise, frictional force and heat transfer rate. Physical impact of parameters in this study is analyzed.

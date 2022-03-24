@@ -1,0 +1,1 @@
+An over simplified analysis of issues related to a resonance close to threshold may lead to misleading results. We clarify some subtle points, in particular the relation between the Breit–Wigner and effective range approaches to the f 0 – a 0 mesons.

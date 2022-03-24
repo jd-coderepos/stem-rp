@@ -1,0 +1,1 @@
+Comparison of a RANS blade element model for tidal turbine arrays with laboratory scale measurements of wake velocity and rotor thrust 

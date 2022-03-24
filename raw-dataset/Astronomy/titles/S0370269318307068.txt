@@ -1,0 +1,5 @@
+A class of the NSVZ renormalization schemes for 
+                  N
+                  =
+                  1
+                SQED 

@@ -1,0 +1,1 @@
+Learnable manifold alignment (LeMA): A semi-supervised cross-modality learning framework for land cover and land use classification 

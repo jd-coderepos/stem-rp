@@ -1,0 +1,5 @@
+Performance study of a large 1 
+                  ×
+                1 m2 MRPC with 1 
+                  ×
+                1 cm2 readout pads 

@@ -1,0 +1,4 @@
+Dataset reporting detection of breast cancer-related HER2
+               
+                  I655V
+                polymorphism using allele-specific polymerase chain reaction 

@@ -1,0 +1,1 @@
+Extraction of distance restraints from pure shift NOE experiments 

@@ -1,0 +1,1 @@
+Floquet Hamiltonian for incorporating electronic excitation by a laser pulse into simulations of non-adiabatic dynamics 

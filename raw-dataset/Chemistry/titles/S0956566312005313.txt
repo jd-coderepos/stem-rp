@@ -1,0 +1,1 @@
+A modular cell-based biosensor using engineered genetic logic circuits to detect and integrate multiple environmental signals 

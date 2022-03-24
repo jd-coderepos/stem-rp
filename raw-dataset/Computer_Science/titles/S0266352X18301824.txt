@@ -1,0 +1,1 @@
+Modelling stress-dependent single and multi-phase flows in fractured porous media based on an immersed-body method with mesh adaptivity 

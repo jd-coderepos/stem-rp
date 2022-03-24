@@ -1,0 +1,11 @@
+SUSY 
+                  SU
+                  (
+                  5
+                  )
+                with singlet plus adjoint matter and 
+                  
+                     A
+                     4
+                  
+                family symmetry 

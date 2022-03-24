@@ -1,0 +1,1 @@
+A predictive model to distinguish malignant and benign thyroid nodules based on age, gender and ultrasonographic features 

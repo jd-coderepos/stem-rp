@@ -1,0 +1,1 @@
+Models of daily rainfall cross-correlation for the United Kingdom 

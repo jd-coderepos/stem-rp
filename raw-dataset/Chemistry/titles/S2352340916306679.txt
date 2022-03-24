@@ -1,0 +1,1 @@
+Applying latent class assignments for accelerometry data to external populations: Data from the National Health and Nutrition Examination Survey 2003–2006 

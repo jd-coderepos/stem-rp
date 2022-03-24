@@ -1,0 +1,1 @@
+I analyze the hypothesis that deviations from the linear meson mass spectra appear due to the dynamical chiral symmetry breaking in QCD. It is shown that the linear mass spectrum for the light, non-strange vector and axial-vector mesons is then parametrized by the constant f π , being successful phenomenologically. The toy model for deviations from linearity is proposed.

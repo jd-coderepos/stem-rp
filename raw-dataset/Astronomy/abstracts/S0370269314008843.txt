@@ -1,0 +1,1 @@
+The BRST quantizations of worldsheet gravity corresponding to final more acceptable derivative gauge and the standard conformal gauge are studied. We establish a mapping between these two gauges utilizing FFBRST formulation in standard way. Therefore, we are able to declare that the problems associated with Virasoro constraints are the gauge artifact.

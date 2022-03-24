@@ -1,0 +1,1 @@
+CAinterprTools: An R package to help interpreting Correspondence Analysis’ results 

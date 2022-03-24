@@ -1,0 +1,1 @@
+Couplings between standard model particles and unparticles from a nontrivial scale invariant sector can lead to long range forces. If the forces couple to quantities such as baryon or lepton (electron) number, stringent limits result from tests of the gravitational inverse square law. These limits are much stronger than from collider phenomenology and astrophysics.

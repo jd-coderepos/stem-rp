@@ -1,0 +1,1 @@
+Development and validation of a predictive model for calving time based on sensor measurements of ingestive behavior in dairy cows 

@@ -1,0 +1,1 @@
+The application of ANFIS prediction models for thermal error compensation on CNC machine tools 

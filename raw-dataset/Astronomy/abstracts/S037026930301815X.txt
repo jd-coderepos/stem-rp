@@ -1,0 +1,1 @@
+We study the hidden symmetries arising in the dimensional reduction of d=5, N=2 supergravity to three dimensions. Extending previous partial results for the bosonic part, we give a derivation that includes fermionic terms, shedding light on the appearance of the local hidden symmetry SO(4) in the reduction.

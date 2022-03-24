@@ -1,0 +1,1 @@
+It is shown that a supersymmetric SO ( 10 ) model extended with fermion singlets can accommodate the observed neutrino masses and mixings as well as generate the desired lepton asymmetry in concordance with the gravitino constraint. A necessary prediction of the model is near-TeV scale doubly-charged Higgs scalars which should be detectable at the LHC.

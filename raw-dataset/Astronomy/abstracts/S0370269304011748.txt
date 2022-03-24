@@ -1,0 +1,1 @@
+We present new solutions of the classical equations of motion of bosonic (matrix-)membranes. Those relating to minimal surfaces in spheres provide spinning membrane solutions in AdS p × S q , as well as in flat space–time. Nontrivial reductions of the BMN matrix model equations are also given.

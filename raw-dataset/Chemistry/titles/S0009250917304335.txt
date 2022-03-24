@@ -1,0 +1,1 @@
+A model for diffusion of water into a swelling particle with a free boundary: Application to a super absorbent polymer particle 

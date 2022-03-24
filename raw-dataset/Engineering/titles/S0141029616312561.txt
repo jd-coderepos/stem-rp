@@ -1,0 +1,1 @@
+Distortional analysis of simply supported box girders with inner diaphragms considering shear deformation of diaphragms using initial parameter method 

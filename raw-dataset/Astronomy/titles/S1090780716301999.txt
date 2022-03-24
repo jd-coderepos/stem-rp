@@ -1,0 +1,1 @@
+Multi-turn multi-gap transmission line resonators – Concept, design and first implementation at 4.7T and 7T 

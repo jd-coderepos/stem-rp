@@ -1,0 +1,1 @@
+UMONS-TAICHI: A multimodal motion capture dataset of expertise in Taijiquan gestures 

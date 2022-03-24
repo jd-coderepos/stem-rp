@@ -1,0 +1,4 @@
+Dataset on the microstructure Ni50Mn38Sb9Si3 alloy and compositions of Ni50Mn38Sb12−x
+               Si
+                  x
+                (x=2.5, 3) ferromagnetic shape memory alloys 

@@ -1,0 +1,1 @@
+We formulate the infrared regularization of Becher and Leutwyler in a form analogous to our recently proposed extended on-mass-shell renormalization. In our formulation, IR regularization can be applied to multi-loop diagrams with an arbitrary number of particles with arbitrary masses.

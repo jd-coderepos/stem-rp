@@ -1,0 +1,1 @@
+We study shape coexistence in 186Pb using configuration mixing of angular-momentum and particle-number projected self-consistent mean-field states. The same Skyrme interaction SLy6 is used everywhere in connection with a density-dependent, zero-range pairing force. The model predicts coexisting spherical, prolate and oblate 0+ states at low energy.

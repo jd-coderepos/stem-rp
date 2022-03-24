@@ -1,0 +1,1 @@
+It is well known that the perturbative prepotentials of four-dimensional N=2 supersymmetric Yang–Mills theories satisfy the generalized WDVV equations, regardless of the gauge group. In this Letter we study perturbative prepotentials of the five-dimensional theories for some classical gauge groups and determine whether or not they satisfy the WDVV system.

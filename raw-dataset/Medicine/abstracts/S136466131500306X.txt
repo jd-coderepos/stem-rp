@@ -1,0 +1,1 @@
+Grid cells have been proposed to encode both the self-location of an animal and the relative position of locations within an environment. We reassess the validity of these roles in light of recent evidence demonstrating grid patterns to be less temporally and spatially stable than previously thought.

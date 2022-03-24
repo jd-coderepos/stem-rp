@@ -1,0 +1,1 @@
+DeepConPred2: An Improved Method for the Prediction of Protein Residue Contacts 

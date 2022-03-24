@@ -1,0 +1,1 @@
+Reduction of static field equation of Faddeev model to first order PDE 

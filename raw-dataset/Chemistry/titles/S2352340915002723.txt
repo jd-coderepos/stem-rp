@@ -1,0 +1,1 @@
+Data set for diffusion coefficients of alloying elements in dilute Mg alloys from first-principles 

@@ -1,0 +1,1 @@
+Optimal Bidding and Operation of a Power Plant with Solvent-Based Carbon Capture under a CO2 Allowance Market: A Solution with a Reinforcement Learning-Based Sarsa Temporal-Difference Algorithm 

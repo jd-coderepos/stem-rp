@@ -1,0 +1,1 @@
+Does interaction matter? Testing whether a confidence heuristic can replace interaction in collective decision-making 

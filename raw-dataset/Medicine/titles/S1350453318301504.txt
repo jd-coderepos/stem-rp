@@ -1,0 +1,1 @@
+Rapid calculation of bespoke body segment parameters using 3D infra-red scanning 

@@ -1,0 +1,1 @@
+Anomalous U(1)'s are omnipresent in realizations of the Standard Model using D-branes. Such models are typically non-supersymmetric, and the anomalous U(1) masses are potentially relevant for experiment. In this Letter, the string calculation of anomalous U(1) masses [hep-th/0204153] is extended to non-supersymmetric orientifolds.

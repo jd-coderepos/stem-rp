@@ -1,0 +1,1 @@
+Combined model checking for temporal, probabilistic, and real-time logics 

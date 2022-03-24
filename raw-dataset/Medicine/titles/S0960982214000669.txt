@@ -1,0 +1,1 @@
+Dependency of the Spindle Assembly Checkpoint on Cdk1 Renders the Anaphase Transition Irreversible 

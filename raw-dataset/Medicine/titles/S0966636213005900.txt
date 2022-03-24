@@ -1,0 +1,1 @@
+The accuracy of an external frame using ISB recommended rotation sequence to define shoulder joint angle 

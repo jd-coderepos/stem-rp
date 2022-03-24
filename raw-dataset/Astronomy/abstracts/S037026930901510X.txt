@@ -1,0 +1,1 @@
+The Bohr Hamiltonian describing the collective motion of atomic nuclei is modified by allowing the mass to depend on the nuclear deformation. Exact analytical expressions are derived for spectra and wave functions in the case of a γ-unstable Davidson potential, using techniques of supersymmetric quantum mechanics. Numerical results in the Xe–Ba region are discussed.

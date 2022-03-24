@@ -1,0 +1,1 @@
+Connectivity-based parcellation increases network detection sensitivity in resting state fMRI: An investigation into the cingulate cortex in autism 

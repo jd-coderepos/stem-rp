@@ -1,0 +1,1 @@
+Comparing the similarity and spatial structure of neural representations: A pattern-component model 

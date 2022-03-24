@@ -1,0 +1,1 @@
+An hp-adaptive discontinuous Galerkin method for modelling snap loads in mooring cables 

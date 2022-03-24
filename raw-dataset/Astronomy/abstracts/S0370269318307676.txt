@@ -1,0 +1,1 @@
+An integral equation method for scalar scattering in Schwarzschild spacetime is constructed. The zeroth-order and first-order scattering phase shift is obtained.

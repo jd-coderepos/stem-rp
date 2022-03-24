@@ -1,0 +1,1 @@
+In this article we show that the use of Deligne–Beilinson cohomology in the context of the U ( 1 ) BF theory on a closed 3-manifold M yields a discrete Z N BF theory whose partition function is an abelian TV invariant of M. By comparing the expectation values of the U ( 1 ) and Z N holonomies in both BF theories we obtain a reciprocity formula.

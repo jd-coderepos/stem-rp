@@ -1,0 +1,1 @@
+Deriving spin-1 quartic interaction vertices from closure of the Poincaré algebra 

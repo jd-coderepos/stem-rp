@@ -1,0 +1,1 @@
+In this paper the subject of the BRST symmetry representation by means of superfields is resumed and extended to N = 1 supersymmetric gauge theories. Then a new extension to diffeomorphisms is presented. Finally some speculations of a possible global representation of BRST symmetric theories by means of non-trivial supermanifolds are outlined.

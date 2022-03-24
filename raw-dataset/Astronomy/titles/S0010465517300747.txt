@@ -1,0 +1,1 @@
+Hybrid multicore/vectorisation technique applied to the elastic wave equation on a staggered grid 

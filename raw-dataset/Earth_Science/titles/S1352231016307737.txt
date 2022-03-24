@@ -1,0 +1,1 @@
+Parameterization of gaseous dry deposition in atmospheric chemistry models: Sensitivity to aerodynamic resistance formulations under statically stable conditions 

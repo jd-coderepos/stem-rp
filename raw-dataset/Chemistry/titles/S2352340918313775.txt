@@ -1,0 +1,1 @@
+Dataset for the development of a diagnostic schedule for a defective LC-195V5 CNC milling machine at FUTA central workshop 

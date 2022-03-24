@@ -1,0 +1,1 @@
+Stochastic generation of synthetic minutely irradiance time series derived from mean hourly weather observation data 

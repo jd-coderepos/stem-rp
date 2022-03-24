@@ -1,0 +1,1 @@
+We investigate single-valued polylogarithms in two complex variables, which are relevant for the seven-point remainder function in N = 4 super-Yang–Mills theory in the multi-Regge regime. After constructing these two-dimensional polylogarithms, we determine the leading logarithmic approximation of the seven-point remainder function up to and including five loops.

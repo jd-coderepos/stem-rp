@@ -1,0 +1,1 @@
+STDP Allows Close-to-Optimal Spatiotemporal Spike Pattern Detection by Single Coincidence Detector Neurons 

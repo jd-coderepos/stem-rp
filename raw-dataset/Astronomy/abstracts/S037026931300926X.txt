@@ -1,0 +1,1 @@
+It is shown that the actions for topological gravity in even dimensions found by A. Chamseddine in Ref. [1] is, except a multiplicative constant, a gauged Wess–Zumino–Witten term.

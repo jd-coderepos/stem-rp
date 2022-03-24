@@ -1,0 +1,1 @@
+We demonstrate that the parafermions appear in the r-th root of unity limit of q-Virasoro/ W n algebra. The proper value of the central charge of the coset model sl ˆ ( n ) r ⊕ sl ˆ ( n ) m − n sl ˆ ( n ) m − n + r is given from the parafermion construction of the block in the limit.

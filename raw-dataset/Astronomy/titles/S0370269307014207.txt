@@ -1,0 +1,1 @@
+Thermal relative efficiency factor for recoiling 206Pb nuclei in a sapphire bolometer 

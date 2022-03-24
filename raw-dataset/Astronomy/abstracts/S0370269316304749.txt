@@ -1,0 +1,1 @@
+We explore the energy dependence of π mesons off the background Abelian magnetic field on the base of quenched SU(3) lattice gauge theory and calculate the magnetic dipole polarizability of charged and neutral pions for various lattice volumes and lattice spacings. The contribution of the magnetic hyperpolarizability to the neutral pion energy has been also found.

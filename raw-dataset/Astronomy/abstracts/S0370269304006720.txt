@@ -1,0 +1,1 @@
+Non-local conserved charges in two-dimensional sigma models with target spaces SO(2n)/SO(n)×SO(n) and Sp(2n)/Sp(n)×Sp(n) are shown to survive quantization, unspoiled by anomalies; these theories are therefore integrable at the quantum level. Local, higher-spin, conserved charges are also shown to survive quantization in the SO(2n)/SO(n)×SO(n) models.

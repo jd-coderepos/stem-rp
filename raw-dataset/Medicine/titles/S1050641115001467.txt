@@ -1,0 +1,1 @@
+Feasibility of using combined EMG and kinematic signals for prosthesis control: A simulation study using a virtual reality environment 

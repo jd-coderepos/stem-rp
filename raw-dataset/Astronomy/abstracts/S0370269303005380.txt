@@ -1,0 +1,1 @@
+We present a Lorentz-invariant formulation of baryon chiral perturbation theory including spin-3/2 fields. Particular attention is paid to the projection on the spin-3/2 components of the delta fields. We also discuss the nucleon mass and the pion–nucleon sigma term.

@@ -1,0 +1,1 @@
+Microarray dataset of Jurkat cells following miR-93 over-expression 

@@ -1,0 +1,1 @@
+We study the world data on elastic electron–proton scattering in order to determine the proton charge rms-radius. After accounting for the Coulomb distortion and using a parameterization that allows to deal properly with the higher moments we find a radius of 0.895±0.018 fm, which is significantly larger than the radii used in the past.

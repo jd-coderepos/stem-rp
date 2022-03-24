@@ -1,0 +1,1 @@
+By fitting the R values between 3.7 and 5.0 GeV measured by the BES Collaboration, the upper limit of the electron width of the newly discovered resonance Y ( 4260 ) is determined to be 580 eV / c 2 at 90% C.L. Together with the BaBar measurement on Γ e e ⋅ B ( Y ( 4260 ) → π + π − J / ψ ) , this implies a large decay width of Y ( 4260 ) → π + π − J / ψ final states.

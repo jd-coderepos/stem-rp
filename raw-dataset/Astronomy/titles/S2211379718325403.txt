@@ -1,0 +1,1 @@
+Stress analysis of a functionally graded plate integrated with piezoelectric faces via a four-unknown shear deformation theory 

@@ -1,0 +1,1 @@
+The kernel of the BFKL equation for non-zero momentum transfer is found at next-to-leading order. It is presented in various forms depending on the regularization of the infrared singularities in “virtual” and “real” parts of the kernel. The infrared safety of the total kernel is demonstrated and a form free from the singularities is suggested.

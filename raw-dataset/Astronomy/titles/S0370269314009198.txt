@@ -1,0 +1,1 @@
+Scaling ansatz with texture zeros in linear seesaw 

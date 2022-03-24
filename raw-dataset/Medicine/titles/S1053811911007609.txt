@@ -1,0 +1,1 @@
+Motion-related artefacts in EEG predict neuronally plausible patterns of activation in fMRI data 

@@ -1,0 +1,1 @@
+The model with the meson spectrum, consisting of zero-width equidistant resonances, is considered with connection to current correlators in coordinate space. The comparison of the explicit expressions for the correlators, obtained in this model, with the experimental data of ALEPH Collaboration on τ-decay is made and good agreement is found.

@@ -1,0 +1,1 @@
+Dataset concerning the hourly conversion factors for the cumulative energy demand and its non-renewable part, and hourly GHG emission factors of the Swiss mix during a one year period (2015–2016) 

@@ -1,0 +1,1 @@
+Combined PET/MR imaging in neurology: MR-based attenuation correction implies a strong spatial bias when ignoring bone 

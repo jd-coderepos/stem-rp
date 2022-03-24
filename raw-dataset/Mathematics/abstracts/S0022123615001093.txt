@@ -1,0 +1,1 @@
+In this paper, we define in an intrinsic way operators on a compact Lie group by means of symbols using the representations of the group. The main purpose is to show that these operators form a symbolic pseudo-differential calculus which coincides or generalises the (local) Hörmander pseudo-differential calculus on the group viewed as a compact manifold.

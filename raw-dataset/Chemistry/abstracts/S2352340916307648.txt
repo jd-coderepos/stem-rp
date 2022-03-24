@@ -1,0 +1,1 @@
+In this article, a random number of datasets was generated from random samples of used GSM (Global Systems for Mobile Communications) recharge cards. Statistical analyses were performed to refine the raw data to random number datasets arranged in table. A detailed description of the method and relevant tests of randomness were also discussed.

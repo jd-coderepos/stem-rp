@@ -1,0 +1,1 @@
+We study eight fermion terms in the effective action of the ABJM model. We show the non-renormalization of v 2 terms. After classifying all the possible eight fermion structures, we show that N = 6 supersymmetry determines all these terms completely up to an overall constant. This confirms the one loop non-renormalization of v 4 terms.

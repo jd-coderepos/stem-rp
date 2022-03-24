@@ -1,0 +1,1 @@
+Correspondence between quantum field theory on de Sitter and Euclidean de Sitter space is elucidate through an analysis of massive scalar field theory. We define Euclidean de Sitter fields and establish their relation to the de Sitter fields expanded in Chernikov–Tagirov modes.

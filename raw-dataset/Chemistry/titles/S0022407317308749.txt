@@ -1,0 +1,1 @@
+A simplified model of all-sky artificial sky glow derived from VIIRS Day/Night band data 

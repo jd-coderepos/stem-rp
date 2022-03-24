@@ -1,0 +1,14 @@
+Multigap Resistive Plate Chamber read out by 
+                  1
+                  ×
+                  1
+                  
+                  
+                     
+                        cm
+                     
+                     
+                        2
+                     
+                  
+                pads with the NINO ASIC 

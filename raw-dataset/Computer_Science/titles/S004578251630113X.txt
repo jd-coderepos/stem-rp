@@ -1,0 +1,1 @@
+A finite element framework for modeling internal frictional contact in three-dimensional fractured media using unstructured tetrahedral meshes 

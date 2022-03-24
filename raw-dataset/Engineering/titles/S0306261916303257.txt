@@ -1,0 +1,1 @@
+A dynamic organic Rankine cycle using a zeotropic mixture as the working fluid with composition tuning to match changing ambient conditions 

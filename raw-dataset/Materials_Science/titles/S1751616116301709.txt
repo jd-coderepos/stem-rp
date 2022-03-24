@@ -1,0 +1,1 @@
+Experimental validation of DXA-based finite element models for prediction of femoral strength 

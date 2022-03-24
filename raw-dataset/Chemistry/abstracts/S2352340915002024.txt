@@ -1,0 +1,1 @@
+This data article contains the benchmark dataset for training and testing iRNA-Methyl, a web-server predictor for identifying N6-methyladenosine sites in RNA (Chen et al., 2015 [15]). It can also be used to develop other predictors for identifying N6-methyladenosine sites in the Saccharomyces cerevisiae genome.

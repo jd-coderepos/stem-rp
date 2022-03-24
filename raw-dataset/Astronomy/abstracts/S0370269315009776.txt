@@ -1,0 +1,1 @@
+We present manifestly duality invariant, non-linear, equations of motion for maximal depth, partially massless higher spins. These are based on a first order, Maxwell-like formulation of the known partially massless systems. Our models mimic Dirac–Born–Infeld theory but it is unclear whether they are Lagrangian.

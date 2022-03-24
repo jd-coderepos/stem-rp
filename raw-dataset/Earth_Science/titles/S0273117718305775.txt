@@ -1,0 +1,1 @@
+Simulating arbitrary hyperspectral bandsets from multispectral observations via a generic Earth Observation-Land Data Assimilation System (EO-LDAS) 

@@ -1,0 +1,1 @@
+A reconstructed melanoma data set for evaluating differential treatment benefit according to biomarker subgroups 

@@ -1,0 +1,1 @@
+Nested multi-step stochastic correction offers a possibility to improve updating algorithms for numerical simulations of lattice gauge theories with fermions. The corresponding generalisations of the two-step multi-boson (TSMB) algorithm as well as some applications with hybrid Monte Carlo (HMC) algorithms are considered.

@@ -1,0 +1,1 @@
+We describe free differential algebras for non-Abelian one and two form gauge potentials in four dimensions deriving the integrability conditions for the corresponding curvatures. We show that a realization of these algebras occurs in M-theory compactifications on twisted tori with constant four-form flux, due to the presence of antisymmetric tensor fields in the reduced theory.

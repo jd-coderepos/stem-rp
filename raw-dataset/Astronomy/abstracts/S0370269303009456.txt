@@ -1,0 +1,1 @@
+The most straightforward use of AdS/CFT correspondence gives versions of QCD where quarks are in adjoint representations. Using an asymmetric orbifold approach we obtain nonsupersymmetric QCD with four quark flavors in fundamental representations of color.

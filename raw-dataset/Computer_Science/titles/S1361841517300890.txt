@@ -1,0 +1,1 @@
+A multimodal spatiotemporal cardiac motion atlas from MR and ultrasound data 

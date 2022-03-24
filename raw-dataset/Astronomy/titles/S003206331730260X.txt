@@ -1,0 +1,1 @@
+Automatic Coregistration and orthorectification (ACRO) and subsequent mosaicing of NASA high-resolution imagery over the Mars MC11 quadrangle, using HRSC as a baseline 

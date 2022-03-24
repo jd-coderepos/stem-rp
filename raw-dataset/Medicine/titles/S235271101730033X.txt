@@ -1,0 +1,1 @@
+Mathematica code for numerical generation of random process with given distribution and exponential autocorrelation function 

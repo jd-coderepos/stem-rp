@@ -1,0 +1,1 @@
+ABSTRACT The aim of this article is to synthetically describe the research projects that a selection of Italian universities is undertaking in the context of big data. Far from being exhaustive, this article has the objective of offering a sample of distinct applications that address the issue of managing huge amounts of data in Italy, collected in relation to diverse domains.

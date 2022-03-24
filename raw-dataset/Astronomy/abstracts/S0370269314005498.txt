@@ -1,0 +1,1 @@
+By appropriate scaling of coupling constants a one-parameter family of ensembles of two-dimensional geometries is obtained, which interpolates between the ensembles of (generalized) causal dynamical triangulations and ordinary dynamical triangulations. We study the fractal properties of the associated continuum geometries and identify both global and local Hausdorff dimensions.

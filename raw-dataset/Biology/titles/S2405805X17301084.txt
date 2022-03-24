@@ -1,0 +1,1 @@
+Investigating the consequences of asymmetric endoplasmic reticulum inheritance in Saccharomyces cerevisiae under stress using a combination of single cell measurements and mathematical modelling 

@@ -1,0 +1,1 @@
+A general solution for the quark propagator in two-dimensional covariant gauge QCD 

@@ -1,0 +1,1 @@
+Test-retest reproducibility of quantitative binding measures of [11C]Ro15-4513, a PET ligand for GABAA receptors containing alpha5 subunits 

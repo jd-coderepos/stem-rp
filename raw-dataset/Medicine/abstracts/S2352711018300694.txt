@@ -1,0 +1,1 @@
+In this update, the DLTPulseGenerator library was extended to allow the simulation of spectra consisting of non-discrete and distributed specific lifetimes, which follow a Gaussian, Lorentzian/Cauchy or Log-Normal distribution function. Typically, distributions of specific lifetimes are found for the lifetimes of positrons in porous materials due to the pore size distributions.

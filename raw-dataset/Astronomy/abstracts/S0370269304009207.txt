@@ -1,0 +1,1 @@
+We present a novel source for supersymmetry breaking in orientifold models, and show that it gives a vanishing contribution to the vacuum energy at genus zero and three-half. We also argue that all the corresponding perturbative contributions to the vacuum energy from higher-genus Riemann surfaces vanish identically.

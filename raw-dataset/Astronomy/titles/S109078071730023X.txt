@@ -1,0 +1,2 @@
+Measurement of 15N longitudinal relaxation rates in 15NH4
+               + spin systems to characterise rotational correlation times and chemical exchange 

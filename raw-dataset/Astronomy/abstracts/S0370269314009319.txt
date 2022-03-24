@@ -1,0 +1,1 @@
+We compute an all order correction to the scalar mass in the Φ 4 theory using a new method of functional integration adjusted also to the large couplings regime.

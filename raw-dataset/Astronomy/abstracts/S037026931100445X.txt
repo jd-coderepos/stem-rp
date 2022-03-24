@@ -1,0 +1,1 @@
+We attempt to reformulate eleven dimensional supergravity in terms of an object that unifies the three-form and the metric and makes the M-theory duality group manifest. This short Letter deals with the case of where the U-duality group SO ( 5 , 5 ) acts in five spatial dimensions.

@@ -1,0 +1,1 @@
+Nonstandard Bethe Ansatz equations for open O(N) spin chains 

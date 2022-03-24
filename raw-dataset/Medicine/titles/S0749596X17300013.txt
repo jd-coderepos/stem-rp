@@ -1,0 +1,1 @@
+Balancing Type I error and power in linear mixed models 

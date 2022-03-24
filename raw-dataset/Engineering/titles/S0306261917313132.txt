@@ -1,0 +1,1 @@
+A boundary layer scaling technique for estimating near-surface wind energy using numerical weather prediction and wind map data 

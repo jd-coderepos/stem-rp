@@ -1,0 +1,1 @@
+Fokker-Planck formalism in magnetic resonance simulations 

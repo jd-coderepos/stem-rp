@@ -1,0 +1,1 @@
+Pseudofermion dynamical theory for the spin dynamical correlation functions of the half-filled 1D Hubbard model 

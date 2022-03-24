@@ -1,0 +1,1 @@
+A jackknife approach to quantifying single-trial correlation between covariance-based metrics undefined on a single-trial basis 

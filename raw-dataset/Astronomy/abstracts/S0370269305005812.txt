@@ -1,0 +1,1 @@
+We calculate the wake induced in a hot, dense QCD medium by a fast parton in the framework of linear response theory. We discuss two different scenarios: a weakly coupled quark–gluon plasma (pQGP) described by hard-thermal loop (HTL) perturbation theory and a strongly coupled QGP (sQGP), which had the properties of a quantum liquid.

@@ -1,0 +1,1 @@
+We present and analyze a coupled finite element–boundary element method for a model in stationary micromagnetics. The finite element part is based on mixed conforming elements. For two- and three-dimensional settings, we show well-posedness of the discrete problem and present an a priori error analysis for the case of lowest order elements.

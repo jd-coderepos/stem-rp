@@ -1,0 +1,1 @@
+SpiNNaker: Fault tolerance in a power- and area- constrained large-scale neuromimetic architecture 

@@ -1,0 +1,1 @@
+Data on comparative studies of lineaments extraction from ASTER DEM, SRTM, and Cartosat for Jilledubanderu River basin, Anantapur district, A.P, India by using remote sensing and GIS 

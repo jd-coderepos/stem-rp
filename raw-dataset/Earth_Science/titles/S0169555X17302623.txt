@@ -1,0 +1,1 @@
+Evaluating fuzzy operators of an object-based image analysis for detecting landslides and their changes 

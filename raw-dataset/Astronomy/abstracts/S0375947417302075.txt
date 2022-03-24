@@ -1,0 +1,1 @@
+In this paper we present two quantum field theoretical analyses on the shear and bulk relaxation times. First, we discuss how to find Kubo formulas for the shear and the bulk relaxation times. Next, we provide results on the shear viscosity relaxation time obtained within the diagrammatic approach for the massless λ ϕ 4 theory.

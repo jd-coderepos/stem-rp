@@ -1,0 +1,1 @@
+This data article contains three benchmark datasets for training and testing iDNA-Methyl, a web-server predictor for identifying DNA methylation sites [Liu et al. Anal. Biochem. 474 (2015) 69–79].

@@ -1,0 +1,1 @@
+We analyze the nucleon axial-vector coupling to two loops in chiral perturbation theory. We show that chiral extrapolations based on this representation require lattice data with pion masses below 300 MeV.

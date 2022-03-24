@@ -1,0 +1,1 @@
+A CRISPR Resource for Individual, Combinatorial, or Multiplexed Gene Knockout 

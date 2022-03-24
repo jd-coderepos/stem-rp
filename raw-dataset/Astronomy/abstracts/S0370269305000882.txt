@@ -1,0 +1,1 @@
+We develop a nonperturbative quantum scalar field formalism from a noncompact Kaluza–Klein (KK) theory using the induced-matter theory of gravity during inflation. We study the particular case of a de Sitter expansion for the universe.

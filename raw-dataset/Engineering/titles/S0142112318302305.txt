@@ -1,0 +1,1 @@
+Probabilistic fatigue-life assessment model for laser-welded Ti-6Al-4V butt joints in the high-cycle fatigue regime 

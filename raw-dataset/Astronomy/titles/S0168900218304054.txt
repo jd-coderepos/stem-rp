@@ -1,0 +1,1 @@
+Pulse-height loss in the signal readout circuit of compound semiconductor detectors 

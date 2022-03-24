@@ -1,0 +1,1 @@
+We evaluate one-point correlation numbers on the torus in the Liouville theory coupled to the conformal matter M ( 2 , 2 p + 1 ) . We find agreement with the recent results obtained in the matrix model approach.

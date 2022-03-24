@@ -1,0 +1,1 @@
+In this erratum to “Electroweak corrections to neutralino and chargino decays into a W-boson in the (N)MSSM” we correct an error in the Bremsstrahlung integrals and adopt the renormalization of the electric charge. The adjustments do not change the statements given in the original publication.

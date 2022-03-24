@@ -1,0 +1,1 @@
+ARC: An open-source library for calculating properties of alkali Rydberg atoms 

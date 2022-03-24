@@ -1,0 +1,1 @@
+Automatic segmentation of the hippocampus and the amygdala driven by hybrid constraints: Method and validation 

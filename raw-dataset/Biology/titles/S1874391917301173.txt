@@ -1,0 +1,1 @@
+A curated gluten protein sequence database to support development of proteomics methods for determination of gluten in gluten-free foods 

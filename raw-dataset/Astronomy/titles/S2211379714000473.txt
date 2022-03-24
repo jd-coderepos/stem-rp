@@ -1,0 +1,1 @@
+Exact traveling wave solutions to the Klein–Gordon equation using the novel (G′/G)-expansion method 

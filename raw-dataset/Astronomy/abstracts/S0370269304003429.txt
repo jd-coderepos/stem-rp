@@ -1,0 +1,1 @@
+In the context of a gauge theoretical formulation, higher-dimensional gravity invariant under the AdS group is dimensionally reduced to Euler–Chern–Simons gravity. The dimensional reduction procedure of Grignani–Nardelli [Phys. Lett. B 300 (1993) 38] is generalized so as to permit reducing D-dimensional Lanczos–Lovelock gravity to d=D−1 dimensions.

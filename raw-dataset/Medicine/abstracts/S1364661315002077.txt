@@ -1,0 +1,1 @@
+New research suggests that magnetoencephalography (MEG) contains rich spatial information for decoding neural states. Even small differences in the angle of neighbouring dipoles generate subtle, but statistically separable field patterns. This implies MEG (and electroencephalography: EEG) is ideal for decoding neural states with high-temporal resolution in the human brain.

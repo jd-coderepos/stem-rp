@@ -1,0 +1,1 @@
+Exact solution of non-Newtonian fluid motion between side walls 

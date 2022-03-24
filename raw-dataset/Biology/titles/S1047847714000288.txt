@@ -1,0 +1,1 @@
+A simple Fourier filter for suppression of the missing wedge ray artefacts in single-axis electron tomographic reconstructions 

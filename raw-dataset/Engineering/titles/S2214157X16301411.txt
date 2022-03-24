@@ -1,0 +1,1 @@
+Multiphysics simulations of thermoelectric generator modules with cold and hot blocks and effects of some factors 

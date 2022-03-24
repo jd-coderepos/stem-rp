@@ -1,0 +1,1 @@
+Dynamic labelling of BDD and ZBDD for efficient non-coherent fault tree analysis 

@@ -1,0 +1,1 @@
+Combining fault injection and model checking to verify fault tolerance, recoverability, and diagnosability in multi-agent systems 

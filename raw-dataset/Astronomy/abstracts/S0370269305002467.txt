@@ -1,0 +1,1 @@
+We use detailed balance for a hadron composed of quark and gluon Fock states to obtain parton distributions in the proton and pion on the basis of a simple statistical model.

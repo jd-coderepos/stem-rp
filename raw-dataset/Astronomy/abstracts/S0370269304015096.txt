@@ -1,0 +1,1 @@
+We argue that the origin of non-perturbative corrections e − 2 π R n μ in the c = 1 matrix model is ( 1 , n ) D-branes of Zamolodchikovs. We confirm this identification comparing the flow of these corrections under the sine-Liouville perturbation in the two approaches.

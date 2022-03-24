@@ -1,0 +1,4 @@
+Circular test structure for the determination of piezoelectric constants of Sc
+                  x
+               Al1−x
+               N thin films applying Laser Doppler Vibrometry and FEM simulations 

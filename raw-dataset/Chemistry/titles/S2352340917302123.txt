@@ -1,0 +1,1 @@
+Microarray data and gene expression statistics for Saccharomyces cerevisiae exposed to simulated asbestos mine drainage 

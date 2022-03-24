@@ -1,0 +1,1 @@
+Dataset for evaluation of threescoring systems for forecasting the clinical outcomes of patients with upper gastrointestinal bleeding (UGIB) – Ahvaz, Iran 

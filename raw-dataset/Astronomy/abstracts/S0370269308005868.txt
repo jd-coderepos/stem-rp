@@ -1,0 +1,1 @@
+We consider nonuniform black strings inside their event horizon. We present numerical evidence, that the singularity touches the horizon as the horizon topology changing transition is reached.

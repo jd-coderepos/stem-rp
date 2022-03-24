@@ -1,0 +1,1 @@
+Accuracy of the pacemaker-mediated tachycardia algorithm in Boston Scientific devices 

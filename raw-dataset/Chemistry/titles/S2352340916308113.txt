@@ -1,0 +1,1 @@
+Energy dissipation dataset for reversible logic gates in quantum dot-cellular automata 

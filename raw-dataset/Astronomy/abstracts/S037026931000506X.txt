@@ -1,0 +1,1 @@
+We compute the gravitational corrections to the running of couplings in a scalar-fermion system, using the Wilsonian approach. Our discussion is relevant for symmetric as well as for broken scalar phases. We find that the Yukawa and quartic scalar couplings become irrelevant at the Gaussian fixed point.

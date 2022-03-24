@@ -1,0 +1,1 @@
+Closed form solution of Eigen frequency of monopile supported offshore wind turbines in deeper waters incorporating stiffness of substructure and SSI 

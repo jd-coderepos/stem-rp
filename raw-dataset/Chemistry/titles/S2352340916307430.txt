@@ -1,0 +1,1 @@
+Dataset of proteins mapped on HepG2 cells and those differentially abundant after expression of the dengue non-structural 1 protein 

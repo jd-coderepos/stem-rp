@@ -1,0 +1,1 @@
+This article presents a new bulk radiation damage model for p -type silicon for use in Synopsys Sentaurus TCAD. The model is shown to provide agreement between experiment and simulation for the voltage dependence of the leakage current and the charge collection efficiency, for fluences up to 8 × 1 0 15 1 MeV n eq ∕ cm 2 .

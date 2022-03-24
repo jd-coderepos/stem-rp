@@ -1,0 +1,1 @@
+Spatial datasets to define operational boundaries within four marine basins delineated by distance from shore, depth, EEZ and protected status, accompanied by maps and statistical summary tables 

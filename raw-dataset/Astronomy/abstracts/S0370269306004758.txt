@@ -1,0 +1,1 @@
+We focus on a spin-3/2 supersymmetry (SUSY) algebra of Baaklini in D = 3 and explicitly show a nonlinear realization of the SUSY algebra. The unitary representation of the spin-3/2 SUSY algebra is discussed and compared with the ordinary (spin-1/2) SUSY algebra.

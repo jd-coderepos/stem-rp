@@ -1,0 +1,1 @@
+We numerically explore the pasta structures and properties of low-density nuclear matter without any assumption on the geometry. We observe conventional pasta structures, while a mixture of the pasta structures appears as a metastable state at some transient densities. We also discuss the lattice structure of droplets.

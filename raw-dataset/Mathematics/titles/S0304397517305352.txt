@@ -1,0 +1,13 @@
+A novel characterization of the complexity class 
+                  
+                     
+                        Θ
+                     
+                     
+                        k
+                     
+                     
+                        P
+                     
+                  
+                based on counting and comparison 

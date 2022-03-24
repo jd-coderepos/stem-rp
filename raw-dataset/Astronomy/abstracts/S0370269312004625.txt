@@ -1,0 +1,1 @@
+We define multicritical CDT models of 2d quantum gravity and show that they are a special case of multicritical generalized CDT models obtained from the new scaling limit, the so-called “classical” scaling limit, of matrix models. The multicritical behavior agrees with the multicritical behavior of the so-called branched polymers.

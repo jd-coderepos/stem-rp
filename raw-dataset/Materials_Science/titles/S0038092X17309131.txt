@@ -1,0 +1,1 @@
+Design and commissioning of a virtual image solar simulator for testing thermal collectors 

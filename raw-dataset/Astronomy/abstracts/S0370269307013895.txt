@@ -1,0 +1,1 @@
+We derive the classical continuum limit of the operator tr s σ μ ν D ov ( x , x ) with D ov being the overlap Dirac operator and show that it corresponds to the gauge field strength tensor F μ ν ( x ) .

@@ -1,0 +1,1 @@
+Effective generation of closed-form soliton solutions of the continuous classical Heisenberg ferromagnet equation 

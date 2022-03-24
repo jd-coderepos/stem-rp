@@ -1,0 +1,1 @@
+Simulation strategies for the massless lattice Schwinger model in the dual formulation 

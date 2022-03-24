@@ -1,0 +1,1 @@
+Molecular dynamics simulations data of the twenty encoded amino acids in different force fields 

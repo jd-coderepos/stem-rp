@@ -1,0 +1,1 @@
+solveTruss v1.0: Static, global buckling and frequency analysis of 2D and 3D trusses with Mathematica 

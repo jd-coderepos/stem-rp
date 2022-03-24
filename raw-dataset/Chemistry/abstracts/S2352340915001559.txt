@@ -1,0 +1,1 @@
+This data presents analyzed data exports of Austrian torrent and avalanche cadaster (TAC) in May 2015. The TAC is developed by Austrian Service for Torrent and Avalanche Control. Data are viewed from different aspects and combinations geographically in the area of Lower Austria, a province of Austria.

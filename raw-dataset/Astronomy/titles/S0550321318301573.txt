@@ -1,0 +1,1 @@
+Least fine-tuned U(1) extended SSM 

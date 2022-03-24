@@ -1,0 +1,1 @@
+Prediction of transcription factor bindings sites affected by SNPs located at the osteopontin promoter 

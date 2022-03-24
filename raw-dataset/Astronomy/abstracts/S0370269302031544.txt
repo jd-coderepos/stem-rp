@@ -1,0 +1,1 @@
+In this Letter we show that the matrix model techniques developed by Dijkgraaf and Vafa can be extended to compute quantum deformed moduli spaces of vacua in four-dimensional supersymmetric gauge theories. The examples studied give the moduli space of a bulk D-brane probe in geometrically engineered theories, in the presence of fractional branes at singularities.

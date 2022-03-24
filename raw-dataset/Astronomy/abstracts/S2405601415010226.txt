@@ -1,0 +1,1 @@
+Using the MC Herwiri1.031, we present the current status of the comparisons with LHC data of the predictions of our approach of exact amplitude-based resummation for precision QCD calculations.

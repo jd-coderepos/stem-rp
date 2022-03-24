@@ -1,0 +1,1 @@
+The Mu2e experiment at Fermilab is a sensitive search for lepton flavor violation via muon-to-electron conversion in the field of an aluminum nucleus. The requirements for the tracking and calorimeter systems of the experiment, as well as the design of systems that fulfill these requirements, are briefly described.

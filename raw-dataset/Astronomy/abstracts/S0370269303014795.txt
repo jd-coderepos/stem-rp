@@ -1,0 +1,1 @@
+We present classical solutions of Dp-branes (p⩾5) in plane wave spacetime with nonconstant R–R 3-form flux. We also show the existence of a system of D3-branes in this background. We further analyze the supersymmetric properties of these branes by solving type II Killing spinor equations explicitly.

@@ -1,0 +1,1 @@
+We show, by direct computations of bosonic string spectra, the O(d,d;Z) (d=1,2) T-duality in the maximally supersymmetric IIB plane-wave background compactified on S 1 and T 2. Only half of the ordinary set of zero modes appear in the Hamiltonian. This “half” Narain lattice is proved to be stabilized by the T-duality group.

@@ -1,0 +1,1 @@
+An approach for treating contact surfaces in Lagrangian cell-centered hydrodynamics 

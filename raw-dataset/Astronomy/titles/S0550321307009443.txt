@@ -1,0 +1,10 @@
+Automated calculation scheme for 
+                  
+                     α
+                     n
+                  
+                contributions of QED to lepton 
+                  g
+                  −
+                  2
+               : New treatment of infrared divergence for diagrams without lepton loops 

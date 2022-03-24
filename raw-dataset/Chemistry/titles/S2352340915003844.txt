@@ -1,0 +1,1 @@
+Data for spatial characterization of AC signal propagation over primary neuron dendrites 

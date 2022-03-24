@@ -1,0 +1,32 @@
+
+               
+                  SU
+                  
+                     
+                        (
+                        4
+                        )
+                     
+                     C
+                  
+                  ×
+                  SU
+                  
+                     
+                        (
+                        2
+                        )
+                     
+                     L
+                  
+                  ×
+                  SU
+                  
+                     
+                        (
+                        2
+                        )
+                     
+                     R
+                  
+                models with C-parity 

@@ -1,0 +1,1 @@
+A compositional treatment of iterated open games 

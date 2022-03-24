@@ -1,0 +1,1 @@
+Mimic the optical conductivity in disordered solids via gauge/gravity duality 

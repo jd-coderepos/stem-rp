@@ -1,0 +1,1 @@
+We show that the local magnetization in the massive boundary Ising model on the half-plane with boundary magnetic field satisfies second order linear differential equation whose coefficients are expressed through Painleve function of the III kind.

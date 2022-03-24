@@ -1,0 +1,2 @@
+TbGT8 is a bifunctional glycosyltransferase that elaborates N-linked glycans on a protein phosphatase AcP115 and a GPI-anchor modifying glycan in Trypanosoma brucei
+             

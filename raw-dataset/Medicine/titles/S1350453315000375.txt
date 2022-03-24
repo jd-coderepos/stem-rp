@@ -1,0 +1,1 @@
+Instrumenting gait with an accelerometer: A system and algorithm examination 

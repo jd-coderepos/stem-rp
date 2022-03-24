@@ -1,0 +1,1 @@
+This article contains data related to the research article Auzias et al. (2015) [1]. This data can be used as a benchmark for quantitative evaluation of sulcal pits extraction algorithm. In particular, it allows a quantitative comparison with our method, and the assessment of the consistency of the sulcal pits extraction across two well-matched populations.

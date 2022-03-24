@@ -1,0 +1,1 @@
+CO2 and O2 solubility and diffusivity data in food products stored in data warehouse structured by ontology 

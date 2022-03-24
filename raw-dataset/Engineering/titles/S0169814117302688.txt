@@ -1,0 +1,1 @@
+Inverse dynamics based on occlusion-resistant Kinect data: Is it usable for ergonomics? 

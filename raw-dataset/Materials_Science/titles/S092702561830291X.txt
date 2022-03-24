@@ -1,0 +1,1 @@
+A numerical approach to compensate for phase field interface effects in alloy solidification 

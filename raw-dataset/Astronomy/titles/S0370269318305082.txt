@@ -1,0 +1,9 @@
+Skyrme model from 6d 
+                  N
+                  =
+                  (
+                  2
+                  ,
+                  0
+                  )
+                theory 

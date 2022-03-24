@@ -1,0 +1,1 @@
+We show that a recent proposal by Close and Kirk fails to describe a 0(980) and f 0(980) mixing when physical masses and widths are included.

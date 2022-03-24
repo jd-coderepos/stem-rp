@@ -1,0 +1,1 @@
+Simulating masonry wall behaviour using a simplified micro-model approach 

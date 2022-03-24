@@ -1,0 +1,1 @@
+A diagnostic for advance detection of forecast busts of regional surface solar radiation using multi-center grand ensemble forecasts 

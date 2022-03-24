@@ -1,0 +1,1 @@
+Representation of variable renewable energy sources in TIMER, an aggregated energy system simulation model 

@@ -1,0 +1,1 @@
+We explain how to compute meson masses in the large N limit using the twisted Eguchi–Kawai model. A very simple formula is derived, and we show how it leads in a fast and efficient way to results which are in fairly good agreement with other determinations. The method is easily extensible to reduced models with dynamical fermions based on the twisted reduction idea.

@@ -1,0 +1,1 @@
+Two thermal performance test (TPT) datasets of a single U-tube borehole heat exchanger with inlet setpoint temperatures of 30 °C and 40 °C 

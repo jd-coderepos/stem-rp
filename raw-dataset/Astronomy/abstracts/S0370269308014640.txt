@@ -1,0 +1,1 @@
+Within a large class of exact solutions of the Einstein equations describing a black hole embedded in a Friedmann universe it is shown that, under certain assumptions, only those with comoving Hawking–Hayward quasi-local mass are generic, in the sense that they are late-time attractors.

@@ -1,0 +1,1 @@
+Computing J-ideals of a matrix over a principal ideal domain 

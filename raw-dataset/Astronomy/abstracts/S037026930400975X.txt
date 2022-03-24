@@ -1,0 +1,1 @@
+It has been shown that only certain neutrino mass matrices with texture zeros are compatible with existing data. We discuss the stability of phenomenological consequences of texture zeros under radiative corrections in the type-I see-saw scenario. We show that under certain conditions additional patterns are allowed due to these effects.

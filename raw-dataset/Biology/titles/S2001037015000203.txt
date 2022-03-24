@@ -1,0 +1,1 @@
+Comparison of Metabolic Pathways in Escherichia coli by Using Genetic Algorithms 

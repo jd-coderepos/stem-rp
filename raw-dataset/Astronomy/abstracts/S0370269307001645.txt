@@ -1,0 +1,1 @@
+We show that the recently constructed higher-derivative 6D SYM theory involves internal chiral anomaly breaking gauge invariance. The anomaly is cancelled when adding to the theory an adjoint matter hypermultiplet.

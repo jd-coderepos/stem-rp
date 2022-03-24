@@ -1,0 +1,1 @@
+Dataset on the identification of differentially expressed genes by annealing control primer-based PCR in mitochondrial DNA-depleted myocytes 

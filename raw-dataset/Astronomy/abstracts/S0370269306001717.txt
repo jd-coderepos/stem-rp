@@ -1,0 +1,1 @@
+Using available experimental data on fission barriers and ground-state masses, a detailed study of the predictions of different models concerning the isospin dependence of saddle-point masses is performed. Evidence is found that several macroscopic models yield unrealistic saddle-point masses for very neutron-rich nuclei, which are relevant for the r-process nucleosynthesis.

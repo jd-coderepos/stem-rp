@@ -1,0 +1,1 @@
+Real-time Unsupervised Segmentation of human whole-body motion and its application to humanoid robot acquisition of motion symbols 

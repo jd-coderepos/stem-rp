@@ -1,0 +1,1 @@
+Dataset for a Dugesia japonica de novo transcriptome assembly, utilized for defining the voltage-gated like ion channel superfamily 

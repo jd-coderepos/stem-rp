@@ -1,0 +1,1 @@
+AutoTag and AutoSnap: Standardized, semi-automatic capture of regions of interest from whole slide images 

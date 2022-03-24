@@ -1,0 +1,1 @@
+We clarify the treatment of (bi)fundamental matters and of one-loop diagrams in the framework recently proposed by Dijkgraaf, Vafa, and their collaborators for calculating the non-perturbative glueball superpotential. As an important application, we show that the expectation values calculated in this framework satisfy the Konishi anomaly relation.

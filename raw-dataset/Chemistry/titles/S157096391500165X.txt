@@ -1,0 +1,1 @@
+Time-series analysis of the transcriptome and proteome of Escherichia coli upon glucose repression 

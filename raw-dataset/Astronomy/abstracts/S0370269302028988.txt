@@ -1,0 +1,1 @@
+We show that Einstein's gravity coupled to a non-minimally coupled scalar field is stable even for high values of the scalar field, when the sign of the Einstein–Hilbert action is reversed. We also discuss inflationary solutions and a possible new mechanism of reheating.

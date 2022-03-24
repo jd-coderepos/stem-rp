@@ -1,0 +1,1 @@
+pyEIT: A python based framework for Electrical Impedance Tomography 

@@ -1,0 +1,1 @@
+We prove the discrete triality invariance of the N = 2 NSR superstring moving in a D = 2 + 2 target space. We find that triality holds also in the Siegel–Berkovits formulation of the selfdual superstring. A supersymmetric generalization of Cayley's hyperdeterminant, based on a quartic invariant of the SL ( 2 | 1 ) 3 superalgebra, is presented.

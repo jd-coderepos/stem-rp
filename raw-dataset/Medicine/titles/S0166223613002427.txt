@@ -1,0 +1,1 @@
+What do grid cells contribute to place cell firing? 

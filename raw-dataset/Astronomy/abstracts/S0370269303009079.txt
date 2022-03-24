@@ -1,0 +1,1 @@
+We study how factorization breaking changes when going from diffractive deep inelastic scattering to diffractive photoproduction of dijets. These processes offer a sensitive probe of the interplay of soft and hard mechanisms in QCD. We demonstrate that unitarity effects are already important in the gluon distribution for x≲10−4, for quite a wide range of Q 2.

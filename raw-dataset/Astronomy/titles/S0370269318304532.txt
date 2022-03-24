@@ -1,0 +1,1 @@
+The spacetime DoF surface density as canonically conjugate variables driven by acceleration 

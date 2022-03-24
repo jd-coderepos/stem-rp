@@ -1,0 +1,1 @@
+Given a finite dimensional algebra A over an algebraically closed field, we consider the c-vectors such as defined by Fu in [18] and we give a new proof of its sign-coherence. Moreover, we characterise the modules whose dimension vectors are c-vectors as bricks respecting a functorially finiteness condition.

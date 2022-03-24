@@ -1,0 +1,1 @@
+We study the twistor formulation of the classical N = 4 super-Yang–Mills theory on the quadric submanifold of CP 3 | 3 × CP 3 | 3 . We reformulate the twistor equations in six dimension, where the superconformal symmetry is manifest, and find a connection to complexified AdS 5 .

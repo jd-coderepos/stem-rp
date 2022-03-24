@@ -1,0 +1,1 @@
+An intriguing connection, based on duality symmetry, between ordinary (commutative) Born–Infeld type theory and non-commutative Maxwell type theory, is pointed out. Both discrete as well as continuous duality transformations are considered and their implications for self duality condition and Legendre transformations are analysed.

@@ -1,0 +1,1 @@
+Heat loss prediction of a confined premixed jet flame using a conjugate heat transfer approach 

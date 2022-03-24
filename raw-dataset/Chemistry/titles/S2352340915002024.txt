@@ -1,0 +1,1 @@
+Benchmark data for identifying N6-methyladenosine sites in the Saccharomyces cerevisiae genome 

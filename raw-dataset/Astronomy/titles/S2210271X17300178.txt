@@ -1,0 +1,9 @@
+Structure prediction of (BaO)
+                  n
+                nanoclusters for 
+                  
+                     n
+                     ⩽
+                     24
+                  
+                using an evolutionary algorithm 

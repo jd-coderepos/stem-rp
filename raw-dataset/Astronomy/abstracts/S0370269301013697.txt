@@ -1,0 +1,1 @@
+The spectrum of curvature perturbation generated during inflation is studied in the case the inflation-driving scalar field (inflaton) φ crosses over its potential extremum. It is shown that the nondecaying mode of perturbation has a finite value and a proper formula is given. The result is also extended to more general cases where φ ̈ is nonnegligible.

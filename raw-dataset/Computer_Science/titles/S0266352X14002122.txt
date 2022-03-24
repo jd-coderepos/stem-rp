@@ -1,0 +1,1 @@
+A new rock slicing method based on linear programming 

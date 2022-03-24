@@ -1,0 +1,1 @@
+Validation of a physically-based solid oxide fuel cell anode model combining 3D tomography and impedance spectroscopy 

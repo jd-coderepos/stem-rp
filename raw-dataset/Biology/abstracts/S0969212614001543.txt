@@ -1,0 +1,1 @@
+Phosphatidylinositol-3 kinase-like kinases (PIKKs) are dependent on Hsp90 for their activation via the R2TP complex and Tel2. In this issue of Structure, Pal and colleagues present the molecular mechanism by which PIKKs are recruited to Hsp90.

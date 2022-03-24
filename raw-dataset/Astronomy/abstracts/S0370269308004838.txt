@@ -1,0 +1,1 @@
+It has been suggested that the existence of a non-Gaussian fixed point in general relativity might cure the ultraviolet problems of this theory. Such a fixed point is connected to an effective running of the gravitational coupling. We calculate the effect of the running gravitational coupling on the black hole production cross section in models with large extra dimensions.

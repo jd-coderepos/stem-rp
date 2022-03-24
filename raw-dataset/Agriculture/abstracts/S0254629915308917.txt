@@ -1,0 +1,1 @@
+A method for determining plant cover using crown diameters and plant count is described.

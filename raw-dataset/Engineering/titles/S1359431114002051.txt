@@ -1,0 +1,1 @@
+Thermodynamic consistency of the pseudopotential lattice Boltzmann model for simulating liquid–vapor flows 

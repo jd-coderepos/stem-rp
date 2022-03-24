@@ -1,0 +1,1 @@
+We give a combinatorial description of extremal generators of the supereigenvector cone { x : A ⊗ x ≥ x } in max algebra.

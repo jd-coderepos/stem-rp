@@ -1,0 +1,1 @@
+Design and implementation of a Serious Game on neurorehabilitation: Data on modifications of functionalities along implementation releases 

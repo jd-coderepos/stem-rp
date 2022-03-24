@@ -1,0 +1,1 @@
+Building a panel data set on fuel stations located in the Spanish regional areas of Madrid and Barcelona 

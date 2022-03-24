@@ -1,0 +1,1 @@
+We study the quantum properties at one-loop of the Yang–Baxter σ-models introduced by Klimčík [1,2]. The proof of the one-loop renormalizability is given, the one-loop renormalization flow is investigated and the quantum equivalence is studied.

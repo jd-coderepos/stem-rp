@@ -1,0 +1,1 @@
+A data-driven algorithm to predict throughput bottlenecks in a production system based on active periods of the machines 

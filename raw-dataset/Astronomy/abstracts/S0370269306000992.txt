@@ -1,0 +1,1 @@
+We use the detection of neutrinos from a future galactic type-II supernova event in a water Cerenkov detector like Super-Kamiokande to constrain the possible violation of spin-statistics by neutrinos resulting in their obeying a mixed statistics instead of Fermi–Dirac.

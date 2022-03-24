@@ -1,0 +1,1 @@
+A generalized spatial sign covariance matrix 

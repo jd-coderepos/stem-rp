@@ -1,0 +1,1 @@
+FRACAS: A capacity spectrum approach for seismic fragility assessment including record-to-record variability 

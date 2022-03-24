@@ -1,0 +1,1 @@
+Planar ordering in the plaquette-only gonihedric Ising model 

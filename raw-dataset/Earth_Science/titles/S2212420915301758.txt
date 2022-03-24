@@ -1,0 +1,1 @@
+A collaborative (web-GIS) framework based on empirical data collected from three case studies in Europe for risk management of hydro-meteorological hazards 

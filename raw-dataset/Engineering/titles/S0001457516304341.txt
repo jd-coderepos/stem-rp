@@ -1,0 +1,1 @@
+A novel Bayesian hierarchical model for road safety hotspot prediction 

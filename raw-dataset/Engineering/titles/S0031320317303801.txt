@@ -1,0 +1,1 @@
+Inference of a compact representation of sensor fingerprint for source camera identification 

@@ -1,0 +1,1 @@
+Rabbit antiserum was generated against the N-terminus of human GPR30 followed by peptide affinity purification. In this article, the methodology used and validation data are presented. The peptide affinity purified polyclonal antibody specifically detects human GPR30 in ELISA and on western blots of total protein prepared from human breast cancer cell lines.

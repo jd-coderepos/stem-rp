@@ -1,0 +1,6 @@
+Phantom-like behavior in 
+                  f
+                  (
+                  R
+                  )
+               -gravity 

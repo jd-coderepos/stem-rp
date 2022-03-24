@@ -1,0 +1,1 @@
+Estimated hemodynamic response function parameters obtained from resting state BOLD fMRI signals in subjects with autism spectrum disorder and matched healthy subjects 

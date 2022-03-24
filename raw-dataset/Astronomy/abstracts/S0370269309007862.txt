@@ -1,0 +1,1 @@
+It is demonstrated, that chirality violating condensates in massless QCD arise from zero mode solutions of Dirac equations in arbitrary gluon fields. Basing of this idea, the model is suggested, which allows one to calculate quark condensate magnetic susceptibilities in the external constant electromagnetic field.

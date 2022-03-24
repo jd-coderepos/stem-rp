@@ -1,0 +1,1 @@
+A unified motion planning method for parking an autonomous vehicle in the presence of irregularly placed obstacles 

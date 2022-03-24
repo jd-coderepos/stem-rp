@@ -1,0 +1,1 @@
+Validating an agent-based model of the Zipf׳s Law: A discrete Markov-chain approach 

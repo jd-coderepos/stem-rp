@@ -1,0 +1,1 @@
+A high-throughput real-time in vitro assay using mitochondrial targeted roGFP for screening of drugs targeting mitochondria 

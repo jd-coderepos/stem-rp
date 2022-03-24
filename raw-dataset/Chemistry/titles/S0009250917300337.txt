@@ -1,0 +1,1 @@
+Euler-Lagrange analysis towards representative down-scaling of a 22m3 aerobic S. cerevisiae fermentation 

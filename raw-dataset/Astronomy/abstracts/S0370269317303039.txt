@@ -1,0 +1,1 @@
+We have found some analytical cosmological solutions to MOdified Gravity (MOG). These solutions describe different evolutionary epochs of an isotropic and homogeneous universe. During each epoch, the evolution of cosmological perturbation is studied in the Newtonian framework and compared with the corresponding results of GR.

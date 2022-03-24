@@ -1,0 +1,1 @@
+We use gauge/string duality to analytically evaluate correlation lengths of the renormalized field strength correlators in pure Yang–Mills theories at zero and finite temperature.

@@ -1,0 +1,1 @@
+In this paper we consider the scattering of massless planar scalar waves by a noncommutative BTZ black hole. We compute the differential cross section via the partial wave approach, and we mainly show that the scattering of planar waves leads to a modified Aharonov–Bohm effect due to spacetime noncommutativity.

@@ -1,0 +1,1 @@
+The Dirac eigenvalues form a subset of observables of the Euclidean gravity. The symplectic two-form in the covariant phase space could be expressed, in principle, in terms of the Dirac eigenvalues. We discuss the existence of the formal solution of the equations defining the components of the symplectic form in this framework.

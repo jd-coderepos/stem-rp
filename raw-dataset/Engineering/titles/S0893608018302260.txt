@@ -1,0 +1,1 @@
+A model of operant learning based on chaotically varying synaptic strength 

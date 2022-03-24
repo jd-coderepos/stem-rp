@@ -1,0 +1,1 @@
+We calculate the component Lagrangian of the four-dimensional non-anticommutative (with a singlet deformation parameter) and fully N = 2 supersymmetric gauge field theory with the simple gauge group SU ( 2 ) . We find that the deformed (classical) scalar potential is unbounded from below, in contrast to the undeformed case.

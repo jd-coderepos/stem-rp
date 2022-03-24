@@ -1,0 +1,1 @@
+It is shown that a d-dimensional classical SU ( N ) Yang–Mills theory can be formulated in a ( d + 2 ) -dimensional space, with the extra two dimensions forming a surface with non-commutative geometry. In this Letter we present an explicit proof for the case of the torus and the sphere.

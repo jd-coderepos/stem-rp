@@ -1,0 +1,1 @@
+Validation of a claims-based algorithm identifying eligible study subjects in the ADAPTABLE pragmatic clinical trial 

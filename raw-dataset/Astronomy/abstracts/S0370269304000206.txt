@@ -1,0 +1,1 @@
+In the Randall–Sundrum compactification of AdS 5 with detuned brane tensions, supersymmetry can be spontaneously broken by a non-trivial Wilson line for the graviphoton. The supersymmetry breaking vanishes in the tuned limit. This effect is equivalent to supersymmetry breaking by Scherk–Schwarz boundary conditions.

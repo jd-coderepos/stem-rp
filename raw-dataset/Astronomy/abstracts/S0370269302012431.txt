@@ -1,0 +1,1 @@
+We show that heavy meson hadronic decay widths satisfy quark-hadron duality when smeared over the heavy quark mass, M, to an accuracy of order 1/M 2.

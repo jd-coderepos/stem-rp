@@ -1,0 +1,1 @@
+We show how the S-matrix of an extended theory of gravity defined by its three-point amplitudes can be constructed by demanding factorisation. The resultant S-matrix has tree amplitudes obeying the same soft singularity theorems as Einstein gravity including the sub-sub-leading terms.

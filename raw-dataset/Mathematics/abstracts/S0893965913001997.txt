@@ -1,0 +1,1 @@
+This work deals with the existence of positive ω -periodic solutions for the delay differential equations. The main results are illustrated with several examples.

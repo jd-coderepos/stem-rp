@@ -1,0 +1,3 @@
+Reproduction numbers for epidemic models with households and other social structures. I. Definition and calculation of R
+               0
+             

@@ -1,0 +1,1 @@
+Fractional charges, and in particular the spectral asymmetry η of certain Dirac operators, can appear in the central charge of supersymmetric field theories. This yields unexpected analyticity constraints on η from which classic results can be recovered in an elegant way. The method could also be applied in the context of string theory.

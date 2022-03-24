@@ -1,0 +1,1 @@
+Car dependent practices: Findings from a sequence pattern mining study of UK time use data 

@@ -1,0 +1,1 @@
+A generic assay for whole-genome amplification and deep sequencing of enterovirus A71 

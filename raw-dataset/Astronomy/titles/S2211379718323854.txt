@@ -1,0 +1,1 @@
+Can we detect X/M/C-class solar flares from global navigation satellite system data? 

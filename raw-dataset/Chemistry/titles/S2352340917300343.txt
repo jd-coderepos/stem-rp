@@ -1,0 +1,1 @@
+A database for reproducible manipulation research: CapriDB – Capture, Print, Innovate 

@@ -1,0 +1,1 @@
+Computational aspect of fermi distribution application on fission yield data calculation 

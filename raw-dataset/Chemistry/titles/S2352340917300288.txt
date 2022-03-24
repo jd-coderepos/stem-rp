@@ -1,0 +1,1 @@
+Curated human hyperbilirubinemia data and the respective OATP1B1 and 1B3 inhibition predictions 

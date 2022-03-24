@@ -1,0 +1,1 @@
+We discuss hadronic effects in the muonium hyperfine structure and derive an expression for the hadronic contribution to the hfs interval in form of the one-dimensional integral of the cross section of e + e − annihilation into hadrons. Higher-order hadronic contributions are also considered.

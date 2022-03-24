@@ -1,0 +1,1 @@
+Analytical method using gamma functions for determining areas of power elliptical shapes for use in geometrical textile models 

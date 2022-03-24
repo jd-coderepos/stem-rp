@@ -1,0 +1,1 @@
+Dataset for the proteomic and transcriptomic analyses of perivitelline fluid proteins in Pomacea snail eggs 

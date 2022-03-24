@@ -1,0 +1,1 @@
+6d Dirac fermion on a rectangle; scrutinizing boundary conditions, mode functions and spectrum 

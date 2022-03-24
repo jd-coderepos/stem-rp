@@ -1,0 +1,1 @@
+Data from psychiatric research frequently exhibit departures from Normality. Methods which utilise the data optimally to model the distribution directly are available. We highlight the issue of modelling skewness, resulting from screening instruments where the majority of respondents are healthy individuals and few participants have a value reflecting particular disorders.

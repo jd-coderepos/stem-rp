@@ -1,0 +1,1 @@
+Spatial encoding and spatial selection methods in high-resolution NMR spectroscopy 

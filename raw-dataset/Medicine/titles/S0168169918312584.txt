@@ -1,0 +1,1 @@
+Wheat yellow rust monitoring by learning from multispectral UAV aerial imagery 

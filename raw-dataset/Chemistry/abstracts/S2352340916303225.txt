@@ -1,0 +1,1 @@
+Novel high speed nanoindentation data is reported for 0% and 100% state of charge (SoC) for the spinal Li x Mn2O4 material. The article also includes the load/displacement data for different SoC highlighting the displacement bursts corresponding to the pillar splitting for fracture toughness evaluation. For more details, please see the article; Mughal et al. (2016) [1].

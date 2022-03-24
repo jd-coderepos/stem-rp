@@ -1,0 +1,1 @@
+The data presented in this paper supports the research article “A rapid, highly sensitive and culture-free detection of pathogens from blood by positive enrichment” ( Vutukuru et al., 2016) [1]. We compared a list of sepsis causing pathogens to the ApoH binding data given to us by ApoH technologies. The data highlights the binding of ApoH beads to sepsis causing pathogens.

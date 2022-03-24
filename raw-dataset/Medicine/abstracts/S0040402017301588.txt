@@ -1,0 +1,1 @@
+Flow chemistry enables the preparation of bis(indolyl)methanes from various indoles and structurally divergent aldehydes using Sc(OTf)3 catalysis. The reaction is regioselective for C-3 functionalization of the indoles, occurring over short reaction times allowing for rapid investigation of scope with straightforward work up facilitating product isolation.

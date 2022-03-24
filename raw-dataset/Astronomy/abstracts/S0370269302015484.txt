@@ -1,0 +1,1 @@
+We analyze the decay modes B0→D∗−D0K+ and B0→D∗−D∗0K+ and, using the available experimental data, we find bounds for the constants g and h describing the strong coupling of heavy mesons to light pseudoscalar mesons. Both the decay channels are dominated by broad L=1 charm resonances; the dominance is effective also in B 0→D − D 0 K + and B0→D−D∗0K+ .

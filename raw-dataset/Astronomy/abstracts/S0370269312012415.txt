@@ -1,0 +1,1 @@
+I use a simple model to parameterize mirror energy differences for several nuclei with N = 8 or 10 and their mirrors with Z = 8 or 10. I then use the results of the fit to predict the energy of the ground state of the unbound nucleus 15Ne: E 2 p = 2.68 ( 24 ) MeV .

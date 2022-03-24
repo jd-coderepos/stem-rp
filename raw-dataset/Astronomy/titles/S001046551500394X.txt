@@ -1,0 +1,1 @@
+Simple, accurate, and efficient implementation of 1-electron atomic time-dependent Schrödinger equation in spherical coordinates 

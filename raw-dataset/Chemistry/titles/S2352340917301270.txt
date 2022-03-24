@@ -1,0 +1,1 @@
+Data on RDM16 and STA1 regulate differential usage of exon/intron in RNA directed DNA Methylation pathway 

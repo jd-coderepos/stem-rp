@@ -1,0 +1,1 @@
+Resting state fMRI data from subjects scanned with the EPI-PACE (Echoplanar Imaging – Prospective Acquisition CorrEction) sequence 

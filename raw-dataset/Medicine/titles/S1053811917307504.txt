@@ -1,0 +1,2 @@
+
+               ICN_Atlas: Automated description and quantification of functional MRI activation patterns in the framework of intrinsic connectivity networks 

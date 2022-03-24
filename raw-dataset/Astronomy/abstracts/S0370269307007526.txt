@@ -1,0 +1,1 @@
+We find an exact classical solution in Euclidean gravity coupled to a scalar field with a particular form of potential commonly used in tachyon cosmology. This solution represents a tunneling between two vacua.

@@ -1,0 +1,1 @@
+We use the AdS/QCD distribution amplitudes for light mesons to calculate the transition form factors for B to ρ , K ⁎ decays. These form factors are then utilized to make predictions for the semileptonic B → ρ ℓ ν and dileptonic B → K ⁎ μ + μ − decays. We compare our predictions to the experimental data from BaBar and LHCb.

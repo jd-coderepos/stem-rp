@@ -1,0 +1,14 @@
+A note on exponential-Möbius sums over 
+                  
+                     
+                        F
+                     
+                     
+                        q
+                     
+                  
+                  [
+                  t
+                  ]
+               
+             

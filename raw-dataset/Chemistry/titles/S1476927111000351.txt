@@ -1,0 +1,1 @@
+Exploring the limits of fold discrimination by structural alignment: A large scale benchmark using decoys of known fold 

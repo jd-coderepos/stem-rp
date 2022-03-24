@@ -1,0 +1,1 @@
+Three-dimensional fluidized beds with rough spheres: Validation of a Two Fluid Model by Magnetic Particle Tracking and discrete particle simulations 

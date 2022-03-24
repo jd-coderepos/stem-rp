@@ -1,0 +1,1 @@
+We report about the experiences in the operation of the Hybrid Photon Detectors in the Ring Imaging Cherenkov Detectors of the LHCb experiment during the first run period, 2010–2012. Of particular interest is the ageing due to the deterioration of the vacuum quality of the tubes, leading to an increase of ion feedback.

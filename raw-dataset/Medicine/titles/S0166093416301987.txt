@@ -1,0 +1,1 @@
+MinVar: A rapid and versatile tool for HIV-1 drug resistance genotyping by deep sequencing 

@@ -1,0 +1,1 @@
+We show that thermodynamics for an asymptotically flat Schwarzschild black hole leads to a force of magnitude c 4 / ( 2 G ) . This remains true if one considers the simplest form of correction due to the generalized uncertainty principle. We comment on the maximum force conjecture, the subtleties involved, as well as the discrepancies with previous results in the literature.

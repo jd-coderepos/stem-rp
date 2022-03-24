@@ -1,0 +1,1 @@
+We study space–times with a closed conformal Killing–Yano tensor. It is shown that the D-dimensional Kerr–NUT–de Sitter space–time constructed by Chen–Lü–Pope is the only space–time admitting a rank-2 closed conformal Killing–Yano tensor with a certain symmetry.

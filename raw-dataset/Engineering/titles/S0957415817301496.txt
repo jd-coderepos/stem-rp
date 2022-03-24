@@ -1,0 +1,1 @@
+Bending angle prediction and control of soft pneumatic actuators with embedded flex sensors – A data-driven approach 

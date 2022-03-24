@@ -1,0 +1,1 @@
+Flux-torque cross-coupling analysis of FOC schemes: Novel perturbation rejection characteristics 

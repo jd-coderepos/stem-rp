@@ -1,0 +1,1 @@
+The K + → π 0 μ + ν γ ( K μ 3 γ ) decay has been measured with stopped positive kaons at the KEK 12 GeV proton synchrotron. A K μ 3 γ sample containing 125 events was obtained. The partial branching ratio Br ( K μ 3 γ , E γ > 30 MeV , θ μ + γ > 20 ° ) was found to be [ 2.4 ± 0.5 ( stat ) ± 0.6 ( syst ) ] × 10 −5 , which is in good agreement with theoretical predictions.

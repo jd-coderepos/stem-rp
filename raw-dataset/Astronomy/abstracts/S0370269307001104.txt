@@ -1,0 +1,1 @@
+A measurement of the cosmic ray positron fraction e + / ( e + + e − ) in the energy range of 1–30 GeV is presented. The measurement is based on data taken by the AMS-01 experiment during its 10 day Space Shuttle flight in June 1998. A proton background suppression on the order of 106 is reached by identifying converted bremsstrahlung photons emitted from positrons.

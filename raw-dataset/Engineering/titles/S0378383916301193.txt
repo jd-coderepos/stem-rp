@@ -1,0 +1,1 @@
+A copula-based approach for the estimation of wave height records through spatial correlation 

@@ -1,0 +1,1 @@
+It is demonstrated that using a suitable renormalization condition one obtains a consistent power counting in manifestly Lorentz-invariant baryon chiral perturbation theory including vector mesons as explicit degrees of freedom.

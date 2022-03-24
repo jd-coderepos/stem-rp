@@ -1,0 +1,1 @@
+We show how the quantization of two-dimensional gravity leads to an (Euclidean) quantum space–time where the average geometry is that of constant negative curvature and where the Hartle–Hawking boundary condition arises naturally.

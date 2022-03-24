@@ -1,0 +1,1 @@
+We show how to refine the conformal block expansion convergence estimates from arXiv:1208.6449. In doing so we find a novel explicit formula for the 3d conformal blocks on the real axis.

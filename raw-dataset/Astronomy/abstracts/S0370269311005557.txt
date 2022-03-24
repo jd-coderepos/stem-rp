@@ -1,0 +1,1 @@
+In 5D, I take the metric in canonical form and define causality by null-paths. Then spacetime is modulated by a factor equivalent to the wave function, and the 5D geodesic equation gives the 4D Klein–Gordon equation. These results effectively show how general relativity and quantum mechanics may be unified in 5D.

@@ -1,0 +1,1 @@
+A Fast Association Test for Identifying Pathogenic Variants Involved in Rare Diseases 

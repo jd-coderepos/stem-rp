@@ -1,0 +1,1 @@
+We study the quantum decay of D0-branes in two-dimensional 0B string theory. The quantum nature of the branes provides a natural cut-off for the closed string emission rate. We find exact quantum mechanical wave functions for the decaying branes and show how one can include the effects of the Fermi sea for any string coupling (Fermi energy).

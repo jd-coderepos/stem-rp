@@ -1,0 +1,1 @@
+Grace: A cross-platform micromagnetic simulator on graphics processing units 

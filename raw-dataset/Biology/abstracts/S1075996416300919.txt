@@ -1,0 +1,1 @@
+Essential genes of pathogens are potential therapeutic targets, but are difficult to verify. Here, gene essentiality was determined by targeted knockout following engineered gene duplication. Null mutants of candidate essential genes of Clostridium difficile were viable only in the presence of a stable second copy of the gene.

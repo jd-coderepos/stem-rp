@@ -1,0 +1,1 @@
+The first exact calculation of a three-body hadronic atom was performed. Kaonic deuterium 1s level shift and width were evaluated using Faddeev-type equations with Coulomb interaction. The obtained exact results were compared with commonly used approximate approaches.

@@ -1,0 +1,1 @@
+We find that the U(N) two-instanton solution presented in [Phys. Lett. B 547 (2002) 85] is incorrect. For the U(2) case, we give a very simple form of the general two-instanton solution, so as to clearly show the faultiness of their solution. We also discuss the dilute instanton gas limit and the 't Hooft two-instanton based on our general solution.

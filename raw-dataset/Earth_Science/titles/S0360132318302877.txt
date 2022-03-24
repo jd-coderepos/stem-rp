@@ -1,0 +1,1 @@
+Extension of generalized forced convective heat transfer coefficient expressions for isolated buildings taking into account oblique wind directions 

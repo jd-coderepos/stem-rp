@@ -1,0 +1,1 @@
+Three GPS trackers have been deployed on sea ice in Fram Strait collecting GPS positions between 7th July 2016 until 10th September 2016 with an interval between 5 and 30 min. For an easy understanding and usage, corresponding satellite images and python scripts are added to the GPS data.

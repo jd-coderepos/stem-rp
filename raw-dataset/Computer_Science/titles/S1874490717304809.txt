@@ -1,0 +1,1 @@
+A simple approach for the suppression of Rician interference in a relay backhaul using limited feedback 

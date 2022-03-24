@@ -1,0 +1,1 @@
+Some useful optimisations for unstructured computational fluid dynamics codes on multicore and manycore architectures 

@@ -1,0 +1,18 @@
+The dual pair 
+                  P
+                  i
+                  n
+                  (
+                  2
+                  n
+                  )
+                  ×
+                  
+                     osp
+                  
+                  (
+                  1
+                  |
+                  2
+                  )
+               , the Dirac equation and the Bannai–Ito algebra 

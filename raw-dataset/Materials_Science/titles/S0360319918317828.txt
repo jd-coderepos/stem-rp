@@ -1,0 +1,1 @@
+A novel maximum power point tracking technique based on fuzzy logic for photovoltaic systems 

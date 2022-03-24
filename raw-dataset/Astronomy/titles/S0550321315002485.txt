@@ -1,0 +1,1 @@
+Small polaron with generic open boundary conditions: Exact solution via the off-diagonal Bethe ansatz 

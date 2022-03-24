@@ -1,0 +1,1 @@
+X-ray, Cryo-EM, and computationally predicted protein structures used in integrative modeling of HIV Env glycoprotein gp120 in complex with CD4 and 17b 

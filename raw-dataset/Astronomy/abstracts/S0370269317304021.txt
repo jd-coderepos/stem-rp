@@ -1,0 +1,1 @@
+In nearly A d S 2 gravity the Einstein–Hilbert term is supplemented by the Jackiw–Teitelboim action. Integrating out the bulk metric gives rise to the Schwarzian action for the boundary curve. In the present note, we show how the extension to supergravity leads to the super-Schwarzian action for the superspace boundary.

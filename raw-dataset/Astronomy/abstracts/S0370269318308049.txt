@@ -1,0 +1,1 @@
+We give a general definition of the conformal anomaly for theories that are not classically Weyl invariant and show that this definition yields a quantity that is both finite and local. As an example we study the conformal anomaly for a non-minimally coupled massless scalar and show that our definition coincides with results obtained using the heat kernel method.

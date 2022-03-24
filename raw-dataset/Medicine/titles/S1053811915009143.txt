@@ -1,0 +1,1 @@
+Automatic segmentation of the striatum and globus pallidus using MIST: Multimodal Image Segmentation Tool 

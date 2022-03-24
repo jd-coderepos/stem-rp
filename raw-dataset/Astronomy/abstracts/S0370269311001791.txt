@@ -1,0 +1,1 @@
+The interaction between bulk and dynamic domain wall in the presence of a linear/non-linear electromagnetism make energy density, tension and pressure on the wall all variables, depending on the wall position. In Lee et al. (2009) [1] this fact seems to be ignored.

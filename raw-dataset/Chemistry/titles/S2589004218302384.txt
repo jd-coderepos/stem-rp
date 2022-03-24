@@ -1,0 +1,1 @@
+Insect-Inspired Sequential Inspection Strategy Enables an Artificial Network of Four Neurons to Estimate Numerosity 

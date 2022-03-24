@@ -1,0 +1,1 @@
+Charged black holes in Gauss–Bonnet extended gravity are studied. The electromagnetic field is coupled non-minimally, as in U(2,2) Chern–Simons theory. We find that the geometrical properties of the solution exhibit “phase transitions” as one varies the mass and charge. The full phase diagram for all values of the ADM mass and charge is displayed.

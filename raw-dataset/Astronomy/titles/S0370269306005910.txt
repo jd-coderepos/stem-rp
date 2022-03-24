@@ -1,0 +1,1 @@
+Inheritance principle and non-renormalization theorems at finite temperature 

@@ -1,0 +1,1 @@
+Near infrared hyperspectral dataset of healthy and infected apple tree leaves images for the early detection of apple scab disease 

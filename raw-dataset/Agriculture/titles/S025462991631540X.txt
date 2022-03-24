@@ -1,0 +1,1 @@
+A simple relationship for estimating the intensity of fires in natural vegetation 

@@ -1,0 +1,1 @@
+We obtain a closed form expression for the Action describing pure gravity, in light-cone gauge, in a four-dimensional Anti-de Sitter background. We perform a perturbative expansion of this closed form result to extract the cubic interaction vertex in this gauge.

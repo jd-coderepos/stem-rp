@@ -1,0 +1,1 @@
+RPA correlations, spectral function and 2p2h (multi-nucleon) effects on charged-current neutrino-nucleus reactions without emitted pions are discussed. We pay attention to the influence of RPA and multi-nucleon mechanisms on the MiniBooNE and MINERvA flux folded differential cross sections, the MiniBooNE flux unfolded total cross section and the neutrino energy reconstruction.

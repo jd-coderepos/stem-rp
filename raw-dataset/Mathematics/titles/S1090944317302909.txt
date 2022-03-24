@@ -1,0 +1,1 @@
+Computing equilibrium bond prices in the Vayanos-Vila model 

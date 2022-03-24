@@ -1,0 +1,1 @@
+Factors influencing SMEs CloudERP adoption: A test with generalized linear model and artificial neural network 

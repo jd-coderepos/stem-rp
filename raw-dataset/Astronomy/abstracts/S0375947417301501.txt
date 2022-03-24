@@ -1,0 +1,1 @@
+We describe the origin of, and the solution to, the negativity problem which occurs in the perturbative calculation of the cross-section for single-inclusive particle production in proton-nucleus collisions at next-to-leading-order.

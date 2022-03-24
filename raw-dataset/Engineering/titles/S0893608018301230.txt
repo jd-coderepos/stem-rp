@@ -1,0 +1,1 @@
+Effect of dilution in asymmetric recurrent neural networks 

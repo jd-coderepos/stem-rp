@@ -1,0 +1,1 @@
+Non-nested testing of spatial correlation 

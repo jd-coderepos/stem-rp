@@ -1,0 +1,2 @@
+
+               fixedTimeEvents: An R package for the distribution of distances between discrete events in fixed time 

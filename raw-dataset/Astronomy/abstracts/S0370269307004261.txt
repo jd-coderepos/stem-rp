@@ -1,0 +1,1 @@
+In the presence of large extra dimensions, the fundamental Planck scale can be much lower than the apparent four-dimensional Planck scale. In this setup, the weak gravity conjecture implies a much more stringent constraint on the UV cutoff for the U(1) gauge theory in four dimensions. This new energy scale may be relevant to LHC.

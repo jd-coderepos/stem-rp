@@ -1,0 +1,1 @@
+Datasets describing the growth and molecular features of hepatocellular carcinoma patient-derived xenograft cells grown in a three-dimensional macroporous hydrogel 

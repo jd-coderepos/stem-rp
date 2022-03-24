@@ -1,0 +1,14 @@
+The local spectrum of the Dirac operator for the universal cover of 
+                  
+                     
+                        SL
+                     
+                     
+                        2
+                     
+                  
+                  (
+                  R
+                  )
+               
+             

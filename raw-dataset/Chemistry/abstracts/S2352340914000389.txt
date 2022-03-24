@@ -1,0 +1,1 @@
+Cylindrocladium leaf blight is one of the most important diseases in Eucalyptus plantations. We investigated the proteome and transcriptome of Eucalyptus infected or not infected with Calonectria pseudoreteaudii. Here we provide the information about the processing of raw data obtained by RNA-seq and iTRAQ technologies. The data are related to [1].

@@ -1,0 +1,1 @@
+The N=1 super-sinh-Gordon model with spontaneously broken supersymmetry is considered. Explicit expressions for form-factors of the trace of the stress energy tensor Θ, the energy operator ϵ, as well as the order and disorder operators σ and μ are proposed.

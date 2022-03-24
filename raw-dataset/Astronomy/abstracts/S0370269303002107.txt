@@ -1,0 +1,1 @@
+We compute the supersymmetric QCD corrections to the polarization and the spin correlations of top quarks produced above threshold in e + e − collisions, taking into account arbitrary longitudinal polarization of the initial beams.

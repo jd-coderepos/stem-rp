@@ -1,0 +1,1 @@
+APOBEC and ADAR deaminases may cause many single nucleotide polymorphisms curated in the OMIM database 

@@ -1,0 +1,1 @@
+The Alt–Grassberger–Sandhas equations for the five-body η − 4 N problem are solved for the case of the driving ηN and NN potentials limited to s-waves. Separable expansion of the transition amplitudes in all different subsystems is employed to convert the five-body equations into the effective two-body form. Numerical results are presented for the η 4 He scattering length.

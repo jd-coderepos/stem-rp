@@ -1,0 +1,1 @@
+Chemically reactive flow of micropolar fluid accounting viscous dissipation and Joule heating 

@@ -1,0 +1,1 @@
+Rabbit-specific computational modelling of ventricular cell electrophysiology: Using populations of models to explore variability in the response to ischemia 

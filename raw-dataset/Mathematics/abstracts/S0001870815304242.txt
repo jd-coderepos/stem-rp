@@ -1,0 +1,1 @@
+Given a compact Riemannian manifold M without boundary, we show that large isoperimetric regions in M × R k are tubular neighborhoods of M × { x } , with x ∈ R k .

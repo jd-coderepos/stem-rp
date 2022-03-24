@@ -1,0 +1,1 @@
+It has been proposed that a quantum group structure underlies de Sitter/conformal field theory duality. These ideas are used to give a microscopic operator counting interpretation for the entropy of two-dimensional dilaton de Sitter space. This agrees with the Bekenstein–Hawking entropy up to a factor of order unity.

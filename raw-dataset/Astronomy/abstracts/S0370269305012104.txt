@@ -1,0 +1,1 @@
+We propose a simple derivation of renormalization group equations and Callan–Symanzik equations as decoupling theorems of the structures underlying effective field theories.

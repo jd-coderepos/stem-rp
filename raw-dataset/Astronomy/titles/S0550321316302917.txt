@@ -1,0 +1,26 @@
+Stochastic R matrix for 
+                  
+                     
+                        U
+                     
+                     
+                        q
+                     
+                  
+                  (
+                  
+                     
+                        A
+                     
+                     
+                        n
+                     
+                     
+                        (
+                        1
+                        )
+                     
+                  
+                  )
+               
+             

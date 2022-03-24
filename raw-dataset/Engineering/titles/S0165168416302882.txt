@@ -1,0 +1,1 @@
+Joint sparse model-based discriminative K-SVD for hyperspectral image classification 

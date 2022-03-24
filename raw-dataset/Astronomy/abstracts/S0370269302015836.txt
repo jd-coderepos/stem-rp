@@ -1,0 +1,1 @@
+Due to the sign problem, it is exponentially difficult to study QCD on the lattice at finite chemical potential. We propose a method—an overlap improving multi-parameter reweighting technique—to alleviate this problem. We apply this method and give the phase diagram of four-flavor QCD obtained on lattices 44 and 4×63. Our results are based on O (103–104) configurations.

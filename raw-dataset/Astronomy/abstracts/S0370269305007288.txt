@@ -1,0 +1,1 @@
+We study a stochastic formalism for a nonperturbative treatment of the inflaton field in the framework of a noncompact Kaluza–Klein (KK) theory during an inflationary (de Sitter) expansion, without the slow-roll approximation.

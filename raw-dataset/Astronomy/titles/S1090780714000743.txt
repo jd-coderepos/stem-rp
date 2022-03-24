@@ -1,0 +1,5 @@
+An exact solution for R
+               2,
+               
+                  eff
+                in CPMG experiments in the case of two site chemical exchange 

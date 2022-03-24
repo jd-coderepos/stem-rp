@@ -1,0 +1,1 @@
+CFD simulation of water vapour condensation in the presence of non-condensable gas in vertical cylindrical condensers 

@@ -1,0 +1,1 @@
+Imaging flow cytometry (IFC) captures multichannel images of hundreds of thousands of single cells within minutes. IFC is seeing a paradigm shift from low- to high-information-content analysis, driven partly by deep learning algorithms. We predict a wealth of applications with potential translation into clinical practice.

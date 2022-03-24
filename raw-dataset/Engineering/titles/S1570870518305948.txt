@@ -1,0 +1,1 @@
+Efficient DCT-based secret key generation for the Internet of Things 

@@ -1,0 +1,1 @@
+Data for occupancy internal heat gain calculation in main building categories 

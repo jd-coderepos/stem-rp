@@ -1,0 +1,1 @@
+Johnson-Cook parameter evaluation from ballistic impact data via iterative FEM modelling 

@@ -1,0 +1,1 @@
+Dataset of tear film cytokine levels in dry eye disease (DED) patients with and without HIV infection 

@@ -1,0 +1,1 @@
+A bi-planar coil system for nulling background magnetic fields in scalp mounted magnetoencephalography 

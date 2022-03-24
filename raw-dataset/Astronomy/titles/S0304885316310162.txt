@@ -1,0 +1,1 @@
+Highly parallel demagnetization field calculation using the fast multipole method on tetrahedral meshes with continuous sources 

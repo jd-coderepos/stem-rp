@@ -1,0 +1,1 @@
+A “Kallen–Lehman” approach to Ising model, inspired by quantum field theory à la Regge, is proposed. The analogy with the Kallen–Lehman representation leads to a formula for the free-energy of the 3D model with few free parameters which could be matched with the numerical data. The possible application of this scheme to the spin glass case is shortly discussed.

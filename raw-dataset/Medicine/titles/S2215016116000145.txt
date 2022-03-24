@@ -1,0 +1,1 @@
+Numerical study of the shape parameter dependence of the local radial point interpolation method in linear elasticity 

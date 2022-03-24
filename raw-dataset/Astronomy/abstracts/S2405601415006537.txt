@@ -1,0 +1,1 @@
+The performance of CMS detector during LHC Run 1 is presented. Excellent results regarding the CMS detector triggering capabilities and its performance for tracking and vertexing, particle identification, reconstruction and energy measurement, as well as jet and E̸ → T reconstruction have been obtained. Planned detector improvements for next LHC running period are also discussed.

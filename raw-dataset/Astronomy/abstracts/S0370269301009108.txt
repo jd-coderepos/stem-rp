@@ -1,0 +1,1 @@
+Assigning U(1) charges to the quarks of the standard model, and allowing one extra scalar doublet with m 2>0, the correct pattern of the up and down quark mass matrices is obtained, together with their charged-current mixing matrix.

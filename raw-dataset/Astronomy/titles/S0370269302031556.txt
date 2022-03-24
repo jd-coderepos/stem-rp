@@ -1,0 +1,5 @@
+A new supersymmetric SU(3)
+                  L
+               ⊗U(1)
+                  X
+                gauge model 

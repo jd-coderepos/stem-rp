@@ -1,0 +1,1 @@
+Kinetic models of metabolism that consider alternative steady-state solutions of intracellular fluxes and concentrations 

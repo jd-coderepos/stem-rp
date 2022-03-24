@@ -1,0 +1,1 @@
+Summary How do we learn from errors during complex movement tasks with redundancy? A new study shows that ambiguous mistakes in bimanual movements are corrected by the non-dominant hand, and responsibility for the error is assumed to fall to the effector with a recent history of poor performance.

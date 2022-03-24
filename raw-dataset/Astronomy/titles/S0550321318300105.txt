@@ -1,0 +1,17 @@
+Bimodule structure of the mixed tensor product over 
+                  
+                     
+                        U
+                     
+                     
+                        q
+                     
+                  
+                  s
+                  ℓ
+                  (
+                  2
+                  |
+                  1
+                  )
+                and quantum walled Brauer algebra 

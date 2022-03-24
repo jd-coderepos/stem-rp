@@ -1,0 +1,1 @@
+We provide the dataset of the vacancy (interstitial) formation energy, segregation energy, diffusion barrier, vacancy-interstitial annihilation barrier near the grain boundary (GB) in bcc-iron and also the corresponding interactive range. The vacancy-interstitial annihilation mechanisms in the bulk, near the GB and at the GB at across scales were given.

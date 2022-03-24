@@ -1,0 +1,1 @@
+Functional genomics in Trypanosoma brucei: A collection of vectors for the expression of tagged proteins from endogenous and ectopic gene loci 

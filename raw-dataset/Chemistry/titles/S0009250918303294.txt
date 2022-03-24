@@ -1,0 +1,1 @@
+Thermal stability criterion integrated in model predictive control for batch reactors 

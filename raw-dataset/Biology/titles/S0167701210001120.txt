@@ -1,0 +1,2 @@
+Detection of Mycoplasma mycoides subsp. mycoides SC in bronchoalveolar lavage fluids of cows based on a TaqMan real-time PCR discriminating wild type strains from an lppQ
+               − mutant vaccine strain used for DIVA-strategies 

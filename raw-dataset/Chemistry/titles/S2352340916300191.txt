@@ -1,0 +1,1 @@
+Data of the molecular dynamics simulations of mutations in the human connexin46 docking interface 

@@ -1,0 +1,1 @@
+This paper introduces a comprehensive cooling index to assess performance of cooling systems in data centers and demonstrates its application on a real case by using CFD (computational fluid mechanics) method. The proposed methodology provides a metric for comparing and ranking of the cooling efficiency of the air distribution configurations among available designs alternatives.

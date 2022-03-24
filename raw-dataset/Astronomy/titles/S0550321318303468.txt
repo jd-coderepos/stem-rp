@@ -1,0 +1,1 @@
+Optimal soft edge scaling variables for the Gaussian and Laguerre even β ensembles 

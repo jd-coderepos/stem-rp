@@ -1,0 +1,1 @@
+Dataset on blood biomarkers and GRACE score measured at admission for myocardial infarction in a large secondary hospital 

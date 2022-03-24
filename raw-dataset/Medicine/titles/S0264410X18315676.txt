@@ -1,0 +1,1 @@
+Tree-based scan statistic – Application in manufacturing-related safety signal detection 

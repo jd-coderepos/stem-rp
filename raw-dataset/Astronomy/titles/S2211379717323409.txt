@@ -1,0 +1,1 @@
+Boundary layer flow of MHD generalized Maxwell fluid over an exponentially accelerated infinite vertical surface with slip and Newtonian heating at the boundary 

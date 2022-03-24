@@ -1,0 +1,1 @@
+We derive a metric-like Lagrangian and equations of motion, in AdS space, for multiplets of fermionic fields with spin ranged from 1 2 to s, from their frame-like formulation.

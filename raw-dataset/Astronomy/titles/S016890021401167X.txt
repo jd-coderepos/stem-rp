@@ -1,0 +1,1 @@
+On the comparison of analog and digital SiPM readout in terms of expected timing performance 

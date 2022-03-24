@@ -1,0 +1,1 @@
+Slice Encoding for Metal Artefact Correction in magnetic resonance imaging examinations for radiotherapy planning 

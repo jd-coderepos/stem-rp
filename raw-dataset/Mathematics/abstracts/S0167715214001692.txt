@@ -1,0 +1,1 @@
+For square contingency tables, we propose a quasi-symmetry model with an exponential form along subdiagonal and give the theorem that Tomizawa’s (1992) diagonal exponent symmetry model holds if and only if the proposed model and marginal means equality model hold with the orthogonality of test statistics.

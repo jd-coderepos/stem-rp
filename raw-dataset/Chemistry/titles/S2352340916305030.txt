@@ -1,0 +1,1 @@
+3D-QSAR modelling dataset of bioflavonoids for predicting the potential modulatory effect on P-glycoprotein activity 

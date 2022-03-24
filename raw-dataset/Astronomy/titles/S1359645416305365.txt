@@ -1,0 +1,1 @@
+Study of lattice strain evolution during biaxial deformation of stainless steel using a finite element and fast Fourier transform based multi-scale approach 

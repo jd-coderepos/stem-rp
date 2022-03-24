@@ -1,0 +1,1 @@
+We describe a Fourier-accelerated hybrid Monte Carlo algorithm suitable for dynamical fermion simulations of non-gauge models. We test the algorithm in supersymmetric quantum mechanics viewed as a one-dimensional Euclidean lattice field theory. We find dramatic reductions in the autocorrelation time of the algorithm in comparison to standard HMC.

@@ -1,0 +1,1 @@
+The process of electron–positron annihilation into proton–antiproton pair is considered within the vicinity of ψ ( 3770 ) resonance. The interference between the pure electromagnetic intermediate state and the ψ ( 3770 ) state is evaluated. It is shown that this interference is destructive and the relative phase between these two contributions is large ( ϕ 0 ≈ 250 ° ).

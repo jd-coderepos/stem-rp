@@ -1,0 +1,1 @@
+In the n-dimensional Freund–Rubin model with an antisymmetric tensor field of rank s−1, the dimension of the external spacetime we live in must be min(s,n−s). This result is a generalization of the previous result in the d=11 supergravity case, where s=4.

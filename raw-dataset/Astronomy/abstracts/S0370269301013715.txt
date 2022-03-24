@@ -1,0 +1,1 @@
+We report on the result for the charm quark mass as obtained from our lattice QCD computation in the quenched approximation. Our result is mc MS (mc)=1.26(4)(12) GeV.

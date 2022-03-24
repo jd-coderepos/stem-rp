@@ -1,0 +1,1 @@
+The effects of phase space deformations on Kaluza–Klein cosmology are studied. The deformation is introduced by modifying the symplectic structure of the minisuperspace variables. In the deformed model, we find an accelerating scale factor and therefore infer the existence of an effective cosmological constant from the phase space deformation parameter β.

@@ -1,0 +1,1 @@
+We apply the procedure that was suggested in [B. Ezhuthachan, S. Mukhi, C. Papageorgakis, arXiv: 0806.1639] to the case of abelian D2-brane Dirac–Born–Infeld effective action and discuss its limitation. Then we suggest an alternative form of this procedure that is based on an existence of interpolating action proposed in [T. Ortin, hep-th/9707113, Y. Lozano, hep-th/9707011].

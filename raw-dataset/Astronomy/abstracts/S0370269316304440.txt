@@ -1,0 +1,1 @@
+We consider a minimally-coupled inflationary theory with a general scalar potential V ( f ( φ ) ) = V ( ξ ∑ k = 1 n λ k φ k ) containing a stationary point of maximal order m. We show that asymptotically flat potentials can be associated to stationary points of infinite order and discuss the relation of our approach to the theory of α-attractors.

@@ -1,0 +1,1 @@
+Derivation of a new parametric impulse response matrix utilized for nodal wind load identification by response measurement 

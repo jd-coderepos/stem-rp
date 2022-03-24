@@ -1,0 +1,1 @@
+In the framework of vector model of spin, we discuss the problem of a covariant formalism [35] concerning the discrepancy between relativistic and Pauli Hamiltonians. We show how the spin-induced non-commutativity of a position accounts the discrepancy on the classical level, without appeal to the Dirac equation and Foldy–Wouthuysen transformation.

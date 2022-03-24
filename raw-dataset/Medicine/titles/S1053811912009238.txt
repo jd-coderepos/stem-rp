@@ -1,0 +1,1 @@
+Corrigendum to “A general Bayesian treatment for MEG source reconstruction incorporating lead field uncertainty” [Neuroimge 60/2 (2012) 1194–1204] 

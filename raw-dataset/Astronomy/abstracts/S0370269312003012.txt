@@ -1,0 +1,1 @@
+We assess the extent to which various constrained versions of the NMSSM are able to describe the recent hints of a Higgs signal at the LHC corresponding to a Higgs mass in the range 123–128 GeV.

@@ -1,0 +1,1 @@
+Prominent approaches to quantum gravity struggle when it comes to incorporating a positive cosmological constant in their models. Using quantization of a complex SL ( 2 , C ) Chern–Simons theory we include a cosmological constant, of either sign, into a model of quantum gravity.

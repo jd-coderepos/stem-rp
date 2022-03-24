@@ -1,0 +1,1 @@
+Injury severity data for front and second row passengers in frontal crashes 

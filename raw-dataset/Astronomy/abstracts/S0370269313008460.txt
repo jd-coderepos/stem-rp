@@ -1,0 +1,1 @@
+We present a prescription to calculate manifestly gauge invariant tree-level scattering amplitudes for arbitrary scattering processes with off-shell initial-state quarks within the kinematics of high-energy scattering.

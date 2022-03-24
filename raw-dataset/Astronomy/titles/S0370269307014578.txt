@@ -1,0 +1,12 @@
+Hidden nonlinear 
+                  su
+                  (
+                  2
+                  |
+                  2
+                  )
+                superunitary symmetry of 
+                  N
+                  =
+                  2
+                superextended 1D Dirac delta potential problem 

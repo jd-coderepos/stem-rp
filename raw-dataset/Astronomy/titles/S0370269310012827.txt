@@ -1,0 +1,27 @@
+Self-relative (or Machian) information: 
+                  
+                     S
+                     BH
+                  
+                  =
+                  
+                     1
+                     4
+                  
+                  
+                     A
+                     BH
+                  
+                  −
+                  
+                     3
+                     2
+                  
+                  log
+                  
+                  
+                     A
+                     BH
+                  
+               
+             

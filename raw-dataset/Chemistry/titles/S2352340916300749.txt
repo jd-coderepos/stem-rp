@@ -1,0 +1,1 @@
+Dataset of calcified plaque condition in the stenotic coronary artery lesion obtained using multidetector computed tomography to indicate the addition of rotational atherectomy during percutaneous coronary intervention 

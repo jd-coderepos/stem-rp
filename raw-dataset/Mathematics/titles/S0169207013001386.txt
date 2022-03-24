@@ -1,0 +1,1 @@
+A new error measure for forecasts of household-level, high resolution electrical energy consumption 

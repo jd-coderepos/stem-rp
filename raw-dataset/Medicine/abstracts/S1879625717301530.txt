@@ -1,0 +1,1 @@
+Single-cell analyses allow uncovering cellular heterogeneity, not only per se, but also in response to viral infection. Similarly, single cell transcriptome analyses (scRNA-Seq) can highlight specific signatures, identifying cell subsets with particular phenotypes, which are relevant in the understanding of virus–host interactions.

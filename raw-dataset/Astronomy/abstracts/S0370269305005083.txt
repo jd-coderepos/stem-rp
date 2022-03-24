@@ -1,0 +1,1 @@
+We show how the Killing Spinor Identities (KSI) can be used to reduce the number of independent equations of motion that need to be checked explicitly to make sure that a supersymmetric configuration is a classical supergravity solution. We also show how the KSI can be used to compute BPS relations between masses and charges.

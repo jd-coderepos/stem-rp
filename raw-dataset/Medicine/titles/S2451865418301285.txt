@@ -1,0 +1,1 @@
+Comparing different ways of calculating sample size for two independent means: A worked example 

@@ -1,0 +1,1 @@
+Gauge independence in a higher-order Lagrangian formalism via change of variables in the path integral 

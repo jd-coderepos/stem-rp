@@ -1,0 +1,1 @@
+In this Letter, we propose a massive gravity theory with 5 degrees of freedom. The mass term is constructed by 3 Stückelberg scalar fields, which respects SO(3) symmetry in the fieldsʼ configuration. By the analysis on the linear cosmological perturbations, we found that such 5 d.o.f. are free from ghost instability, gradient instability, and tachyonic instability.

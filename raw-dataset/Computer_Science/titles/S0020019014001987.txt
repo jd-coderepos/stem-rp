@@ -1,0 +1,1 @@
+A simple algorithm for computing positively weighted straight skeletons of monotone polygons 

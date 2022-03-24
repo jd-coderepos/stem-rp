@@ -1,0 +1,1 @@
+We show the presence of non-cyclic phases for oscillating neutrinos in the context of quantum field theory. Such phases carry information about the non-perturbative vacuum structure associated with the field mixing. By subtracting the condensate contribution of the flavor vacuum, the previously studied quantum mechanics geometric phase is recovered.

@@ -1,0 +1,1 @@
+Trimethylation of Histone 3 lysine 27 (H3K27me3) ChIP-PCR and transcriptional expression data of Ef1-alpha, cyp26A, HoxC10, HoxD10 and HoxD11 in the Xenopus XTC cell line 

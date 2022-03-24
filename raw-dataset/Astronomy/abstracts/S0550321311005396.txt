@@ -1,0 +1,1 @@
+We give explicitly the reduction of supersymmetries of the positive energy unitary irreducible representations of the N-extended D = 4 conformal superalgebras su ( 2 , 2 / N ) . Further we give the classification of BPS and possibly protected states.

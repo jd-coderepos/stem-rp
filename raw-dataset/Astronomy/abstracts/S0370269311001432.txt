@@ -1,0 +1,1 @@
+A model where a Dirac fermion is coupled to background dilaton field is considered to study s-wave scattering of fermion by a back ground dilaton black hole. It is found that an uncomfortable situation towards information loss scenario arises when one loop correction gets involved during bosonization.

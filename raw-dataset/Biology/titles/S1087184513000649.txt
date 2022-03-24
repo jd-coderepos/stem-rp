@@ -1,0 +1,2 @@
+Reporters for the analysis of N-glycosylation in Candida albicans
+             

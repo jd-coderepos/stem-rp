@@ -1,0 +1,1 @@
+We consider a low-energy effective field theory of vector mesons and Goldstone bosons using the complex-mass renormalization. As an application we calculate the mass and the width of the ρ meson.

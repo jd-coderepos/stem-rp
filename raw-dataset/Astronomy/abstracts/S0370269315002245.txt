@@ -1,0 +1,1 @@
+We express all tree-level graviton amplitudes in Einstein's gravity as the collinear limits of a linear combination of pure Yang–Mills amplitudes in which each graviton is represented by two gauge bosons, each of them carrying exactly one half of graviton's momentum and helicity.

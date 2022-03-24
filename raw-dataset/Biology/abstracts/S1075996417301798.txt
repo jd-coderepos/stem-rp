@@ -1,0 +1,1 @@
+Effective microbial metabolic engineering is reliant on efficient gene transfer. Here we present a simple screening strategy that may be deployed to isolate rare, hypertransformable variants. The procedure was used to increase the frequency of transformation of the solvent producing organism Clostridium pasteurianum by three to four orders of magnitude.

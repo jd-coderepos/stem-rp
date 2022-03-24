@@ -1,0 +1,1 @@
+Using a covariant and gauge invariant symplectic structure constructed on the covariant phase space for Dirac–Nambu–Goto p-branes propagating in a curved background, the relevant commutation relations, Poincaré charges, and Poincaré algebra are considered. Some open questions for further research are outlined.

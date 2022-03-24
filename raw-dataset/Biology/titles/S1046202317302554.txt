@@ -1,0 +1,1 @@
+Optimized processing and analysis of conventional confocal microscopy generated scanning FCS data 

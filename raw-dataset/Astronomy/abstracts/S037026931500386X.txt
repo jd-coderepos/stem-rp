@@ -1,0 +1,1 @@
+We use compatibility of O-plane action with nonlinear T-duality as a guiding principle to find all NS–NS couplings in the O-plane action at order α ′ 2 . We find that the dilaton couplings appear in the string frame only via the transformation R ˆ μ ν → R ˆ μ ν + ∇ μ ∇ ν ϕ .

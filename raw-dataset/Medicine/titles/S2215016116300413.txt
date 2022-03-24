@@ -1,0 +1,1 @@
+Adapting Axelrod’s cultural dissemination model for simulating peer effects 

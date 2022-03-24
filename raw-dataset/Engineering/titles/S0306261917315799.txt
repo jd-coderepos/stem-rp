@@ -1,0 +1,1 @@
+A dynamic model for thermoelectric generator applied to vehicle waste heat recovery 

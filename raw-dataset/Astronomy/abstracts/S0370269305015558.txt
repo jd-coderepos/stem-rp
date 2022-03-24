@@ -1,0 +1,1 @@
+We describe the strong coupling limit ( g → ∞ ) for the Yang–Mills type matrix models. In this limit the dynamics of the model is reduced to one of the diagonal components which is characterized by a linearly confining potential. We also shortly discuss the case of the pure Yang–Mills model in more than one dimension.

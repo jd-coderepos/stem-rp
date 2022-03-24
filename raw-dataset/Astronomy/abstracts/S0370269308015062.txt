@@ -1,0 +1,1 @@
+We prove that the β-function of the Grosse–Wulkenhaar model including a magnetic field vanishes at all order of perturbations. We compute the renormalization group flow of the relevant dynamic parameters and find a non-Gaussian infrared fixed point. Some consequences of these results are discussed.

@@ -1,0 +1,1 @@
+Modelling the effects of bacterial cell state and spatial location on tuberculosis treatment: Insights from a hybrid multiscale cellular automaton model 

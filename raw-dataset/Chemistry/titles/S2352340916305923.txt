@@ -1,0 +1,1 @@
+Dataset of near infrared spectroscopy measurements to predict rheological parameters of sludge 

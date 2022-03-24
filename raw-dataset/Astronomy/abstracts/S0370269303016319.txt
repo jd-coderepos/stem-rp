@@ -1,0 +1,1 @@
+We show that antihydrogen production is the dominant process when mixing antiprotons and positrons in the ATHENA apparatus, and that the initial production rate exceeds 300 Hz, decaying to 30 Hz within 10 s. A fraction of 65% of all observed annihilations is due to antihydrogen.

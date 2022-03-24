@@ -1,0 +1,1 @@
+Using SPIN for automated debugging of infinite executions of Java programs 

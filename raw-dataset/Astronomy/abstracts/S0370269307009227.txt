@@ -1,0 +1,1 @@
+We present the evolution of Q-star configurations using numerical methods. We solve the full Einstein–Klein–Gordon system of equations and show that: Q-stars can be stable and unstable. The unstable branch is two fold: configurations with negative binding energy that collapse and form black holes, and others with positive binding energy that explode and release the scalar field.

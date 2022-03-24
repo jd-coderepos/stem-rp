@@ -1,0 +1,1 @@
+Demonstration of the double Penning Trap technique with a single proton 

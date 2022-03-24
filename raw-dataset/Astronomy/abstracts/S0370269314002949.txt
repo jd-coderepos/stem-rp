@@ -1,0 +1,1 @@
+We explicitly calculate the one-loop effective potential for a higher-derivative four-dimensional chiral superfield theory with a nonconventional kinetic term. We consider the cases of minimal and nonminimal general Lagrangians. In particular, we find that in the minimal case the divergent part of the one-loop effective potential vanishes by reason of the chirality.

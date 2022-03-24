@@ -1,0 +1,1 @@
+We show that a solution of the type IIB supergravity representing D3-branes in the presence of a 2-form background has 16 supersymmetries by explicitly constructing the transformation parameter of unbroken supersymmetry. This solution is dual to a noncommutative Yang–Mills theory in a certain limit.

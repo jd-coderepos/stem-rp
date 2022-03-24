@@ -1,0 +1,1 @@
+A high-compression electron gun for C6+ production: concept, simulations and mechanical design 

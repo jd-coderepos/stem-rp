@@ -1,0 +1,1 @@
+A Bayesian micro-simulation to evaluate the cost-effectiveness of interventions for mastitis control during the dry period in UK dairy herds 

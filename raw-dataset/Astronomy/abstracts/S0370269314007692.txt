@@ -1,0 +1,1 @@
+The neutron gyromagnetic ratio has been measured relative to that of the 199Hg atom with an uncertainty of 0.8 ppm. We employed an apparatus where ultracold neutrons and mercury atoms are stored in the same volume and report the result γ n / γ Hg = 3.8424574 ( 30 ) .

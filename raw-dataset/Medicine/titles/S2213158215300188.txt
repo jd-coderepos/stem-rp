@@ -1,0 +1,1 @@
+Fully automated segmentation of the cervical cord from T1-weighted MRI using PropSeg: Application to multiple sclerosis 

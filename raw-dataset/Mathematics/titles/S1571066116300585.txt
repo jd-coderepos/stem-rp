@@ -1,0 +1,1 @@
+A Unified Procedure for Provability and Counter-Model Generation in Minimal Implicational Logic 

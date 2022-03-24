@@ -1,0 +1,1 @@
+Reductions of binary trees and lattice paths induced by the register function 

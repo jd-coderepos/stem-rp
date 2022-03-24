@@ -1,0 +1,1 @@
+Tests of the co-integration rank in VAR models in the presence of a possible break in trend at an unknown point 

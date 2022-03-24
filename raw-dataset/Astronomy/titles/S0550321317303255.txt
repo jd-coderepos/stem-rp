@@ -1,0 +1,3 @@
+Infinite number of solvable generalizations of XY-chain, with cluster state, and with central charge c
+               =
+               m/2 

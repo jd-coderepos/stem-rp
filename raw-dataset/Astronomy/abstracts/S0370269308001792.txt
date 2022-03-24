@@ -1,0 +1,1 @@
+An extension of the neutrino sector with two right-handed singlet neutrinos responsible for Dirac neutrino masses is discussed. We show that this setup with flavor symmetry can give large solar and atmospheric neutrino mixings and suppressed θ 13 . The flavor symmetry U ( 1 ) × S 4 is shown to lead to θ 23 ≃ π / 4 and a new predictive formula for the θ 13 ( ≃ 0.015 ) .

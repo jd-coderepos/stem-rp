@@ -1,0 +1,1 @@
+Semi-analytical solutions for the transient temperature fields induced by a moving heat source in an orthogonal domain 

@@ -1,0 +1,1 @@
+Computation of marginal likelihoods with data-dependent support for latent variables 

@@ -1,0 +1,1 @@
+A practical model for predicting road traffic carbon dioxide emissions using Inductive Loop Detector data 

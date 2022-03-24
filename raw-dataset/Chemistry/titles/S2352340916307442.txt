@@ -1,0 +1,1 @@
+Subjective and objective evaluation of 10–30% dose reduced coronary artery phantom scans reconstructed with Forward projected model-based Iterative Reconstruction SoluTion (FIRST) 

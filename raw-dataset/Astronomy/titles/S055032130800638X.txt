@@ -1,0 +1,1 @@
+Differential equation for local magnetization in the boundary Ising model 

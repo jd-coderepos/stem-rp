@@ -1,0 +1,1 @@
+We calculate the one-loop effective potential for Horava–Lifshitz-like QED and Yukawa-like theory for arbitrary values of the critical exponent and the space–time dimension.

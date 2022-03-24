@@ -1,0 +1,1 @@
+Lirex: A Package for Identification of Long Inverted Repeats in Genomes 

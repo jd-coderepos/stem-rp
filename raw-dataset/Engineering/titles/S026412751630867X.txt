@@ -1,0 +1,1 @@
+A simplified layered beam approach for predicting ply drop delamination in thick composite laminates 

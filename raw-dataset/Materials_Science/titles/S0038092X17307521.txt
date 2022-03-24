@@ -1,0 +1,1 @@
+Uncertainty in monthly GHI due to daily data gaps 

@@ -1,0 +1,1 @@
+Reconfiguration analysis of a 3-DOF parallel mechanism using Euler parameter quaternions and algebraic geometry method 

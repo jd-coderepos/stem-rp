@@ -1,0 +1,1 @@
+In this paper, we introduce F S - ∧ ↑ -domains, and show that the category with F S - ∧ ↑ -domains as objects and Scott continuous functions as morphisms is a Cartesian closed category. Moreover, we characterize the consistent Smyth powerdomain over a Lawson compact domain by means of F S - ∧ ↑ -domain.

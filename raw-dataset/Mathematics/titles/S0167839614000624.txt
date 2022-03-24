@@ -1,0 +1,1 @@
+Conversion of trimmed NURBS surfaces to Catmull–Clark subdivision surfaces 

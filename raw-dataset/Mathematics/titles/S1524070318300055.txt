@@ -1,0 +1,1 @@
+An evaluation of canonical forms for non-rigid 3D shape retrieval 

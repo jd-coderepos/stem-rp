@@ -1,0 +1,1 @@
+We present a method for calculating any (nested) harmonic sum to arbitrary accuracy for all complex values of the argument. The method utilizes the relation between harmonic sums and (derivatives of) Hurwitz zeta functions, which allows a harmonic sum to be calculated as an expansion valid for large values of its argument. A program for implementing this method is also provided.

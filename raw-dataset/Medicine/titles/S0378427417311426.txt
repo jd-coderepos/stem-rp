@@ -1,0 +1,1 @@
+A physiologically based toxicokinetic model for inhaled ethylene and ethylene oxide in mouse, rat, and human 

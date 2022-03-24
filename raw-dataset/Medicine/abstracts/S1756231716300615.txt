@@ -1,0 +1,1 @@
+A brief survey is provided of common designs for medical studies and important issues in their implementation. The designs discussed include those for laboratory studies, clinical trials, cohort studies, case-control and related studies, and diagnostic studies.

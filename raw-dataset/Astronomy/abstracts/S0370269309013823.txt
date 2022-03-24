@@ -1,0 +1,1 @@
+We present a study of the parton distributions in transverse position or impact parameter space using a recent parametrization of u and d quark generalized parton distributions (GPDs) H ( x , t ) and E ( x , t ) at zero skewness. We make a comparative study between different parametrizations and discuss the region of validity of the positivity condition.

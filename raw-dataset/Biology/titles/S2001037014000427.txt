@@ -1,0 +1,1 @@
+A case study for cloud based high throughput analysis of NGS data using the globus genomics system 

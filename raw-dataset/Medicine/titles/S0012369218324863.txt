@@ -1,0 +1,1 @@
+Building a Prediction Model for Radiographically Confirmed Pneumonia in Peruvian Children From Symptoms to Imaging

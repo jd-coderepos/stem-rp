@@ -1,0 +1,1 @@
+We introduce several new identities combining basic hypergeometric sums and integrals. Such identities appear in the context of superconformal index computations for three-dimensional supersymmetric dual theories. We give both analytic proofs and physical interpretations of the presented identities.

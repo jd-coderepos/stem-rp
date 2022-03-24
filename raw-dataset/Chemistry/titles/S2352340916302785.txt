@@ -1,0 +1,1 @@
+Data for peptide-binding assay with oriented immobilization of GRP78 in Biacore 

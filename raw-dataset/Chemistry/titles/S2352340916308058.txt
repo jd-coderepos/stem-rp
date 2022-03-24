@@ -1,0 +1,1 @@
+Stock Market Index Data and indicators for Day Trading as a Binary Classification problem 

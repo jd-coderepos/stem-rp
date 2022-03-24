@@ -1,0 +1,35 @@
+Measurement of three-jet differential cross sections 
+                  d
+                  
+                     σ
+                     
+                        3
+                        
+                        jet
+                     
+                  
+                  /
+                  d
+                  
+                     M
+                     
+                        3
+                        
+                        jet
+                     
+                  
+                in 
+                  p
+                  
+                     p
+                     ¯
+                  
+                collisions at 
+                  
+                     s
+                  
+                  =
+                  1.96
+                   TeV
+               
+             

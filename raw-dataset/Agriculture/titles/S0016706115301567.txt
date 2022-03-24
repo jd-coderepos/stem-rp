@@ -1,0 +1,1 @@
+Changes in the variance of a soil property along a transect, a comparison of a non-stationary linear mixed model and a wavelet transform 

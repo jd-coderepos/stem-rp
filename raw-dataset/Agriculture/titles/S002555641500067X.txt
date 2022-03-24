@@ -1,0 +1,1 @@
+Complete hierarchies of SIR models on arbitrary networks with exact and approximate moment closure 

@@ -1,0 +1,1 @@
+Dealing with change in process choreographies: Design and implementation of propagation algorithms 

@@ -1,0 +1,1 @@
+The scale parameter Λ MS is computed on the lattice in the quenched approximation and for N f =2 flavors of light dynamical quarks. The dynamical calculation is done with non-perturbatively O(a) improved Wilson fermions. In the continuum limit we obtain Λ MS Nf=0=243(1)(10) MeV and Λ MS Nf=2=217(16)(11) MeV, respectively.

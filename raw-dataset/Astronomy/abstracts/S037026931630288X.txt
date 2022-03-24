@@ -1,0 +1,1 @@
+We construct a 5D, N = 2 Euclidean theory of supergravity coupled to vector multiplets. Upon reducing this theory over a circle we recover the action of 4D, N = 2 Euclidean supergravity coupled to vector multiplets.

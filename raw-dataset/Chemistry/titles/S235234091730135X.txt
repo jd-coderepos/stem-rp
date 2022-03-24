@@ -1,0 +1,1 @@
+Data for discriminating dead/live bacteria in homogenous cell suspensions and the effect of insoluble substrates on turbidimetric measurements 

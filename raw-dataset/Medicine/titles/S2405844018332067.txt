@@ -1,0 +1,1 @@
+State-of-the-art in artificial neural network applications: A survey 

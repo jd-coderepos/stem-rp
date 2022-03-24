@@ -1,0 +1,1 @@
+A methodology to calculate the friction coefficient in the transition regime: Application to straight chains 

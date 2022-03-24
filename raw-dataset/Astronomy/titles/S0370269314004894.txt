@@ -1,0 +1,7 @@
+Neutron spectroscopic factors of 55Ni hole-states from 
+                  (
+                  p
+                  ,
+                  d
+                  )
+                transfer reactions 

@@ -1,0 +1,1 @@
+Bayoumi and Eichengreen (1993) establish a EMU core–periphery pattern using 1963–1988 data. We use same methodology, sample, window length (1989–2015), and a novel over-identifying restriction test to ask whether the EMU strengthened or weakened the core–periphery pattern. Our results suggest the latter.

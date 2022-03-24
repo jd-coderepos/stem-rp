@@ -1,0 +1,1 @@
+In this paper, a generalized nonlinear dynamic integral inequality on time scales is established and then is used to study the boundedness of a class of nonlinear second-order dynamic equations on time scales. These theorems contain as special cases results for second-order differential equations, difference equations and q -difference equations.

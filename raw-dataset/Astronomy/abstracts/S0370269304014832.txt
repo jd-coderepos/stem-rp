@@ -1,0 +1,1 @@
+We extend Green's function method developed by Stewart and Gong to calculate the power spectrum of density perturbation in the case with a time-dependent sound speed, and explicitly give the power spectrum and spectral index up to second-order corrections in the slow-roll expansion. The case of tachyon inflation is included as a special case.

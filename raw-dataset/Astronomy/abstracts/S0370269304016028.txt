@@ -1,0 +1,1 @@
+We discuss cosmic microwave background anisotropies in models with an unconventional primordial power spectrum. In particular, we consider an initial power spectrum with some “spiky” corrections. Interestingly, such a primordial power spectrum generates “wavy” structure in the CMB angular power spectrum.

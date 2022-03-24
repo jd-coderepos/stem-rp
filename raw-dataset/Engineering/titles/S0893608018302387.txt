@@ -1,0 +1,1 @@
+Sign backpropagation: An on-chip learning algorithm for analog RRAM neuromorphic computing systems 

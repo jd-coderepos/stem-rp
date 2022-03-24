@@ -1,0 +1,1 @@
+We give a complete picture of when the tensor product of an induced module and a Weyl module is a tilting module for the algebraic group S L 2 over an algebraically closed field of characteristic p. Whilst the result is recursive by nature, we give an explicit statement in terms of the p-adic expansions of the highest weight of each module.

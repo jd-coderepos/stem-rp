@@ -1,0 +1,1 @@
+Hyperelastic bodies under homogeneous Cauchy stress induced by non-homogeneous finite deformations 

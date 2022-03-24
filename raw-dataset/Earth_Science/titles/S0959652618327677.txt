@@ -1,0 +1,1 @@
+A spatially explicit data-driven approach to calculating commodity-specific shipping emissions per vessel 

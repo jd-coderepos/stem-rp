@@ -1,0 +1,1 @@
+Logarithmic conformal field theory is investigated using the ADS/CFT correspondence and a novel method based on nilpotent weights. Using this device we add ghost fermions and point to a BRST invariance of the theory.

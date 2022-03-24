@@ -1,0 +1,1 @@
+Diffusion tensor microscopy data (15.6μm in-plane) of white matter tracts in the human, pig, and rat spinal cord with corresponding tissue histology 

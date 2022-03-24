@@ -1,0 +1,1 @@
+Quantifying StockTwits semantic terms’ trading behavior in financial markets: An effective application of decision tree algorithms 

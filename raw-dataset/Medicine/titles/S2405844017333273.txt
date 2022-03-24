@@ -1,0 +1,1 @@
+Comparison of simultaneous multi-slice readout-segmented EPI and conventional single-shot EPI for diffusion tensor imaging of the ulnar nerve 

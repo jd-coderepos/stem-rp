@@ -1,0 +1,1 @@
+The smARTS_Museum_V1: An open hardware device for remote monitoring of Cultural Heritage indoor environments 

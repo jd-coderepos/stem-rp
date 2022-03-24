@@ -1,0 +1,1 @@
+We analyse the decay τ → π π π ν based on the recently developed techniques to generate axial-vector resonances dynamically. Under the assumption that the a 1 is generated entirely through coupled-channel dynamics, one gets a reasonable description of the spectral function. Including, in addition, an explicit elementary a 1 does not improve the results.

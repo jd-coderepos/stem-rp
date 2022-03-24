@@ -1,0 +1,1 @@
+Ricci-flat spacetimes of signature ( 2 , q ) with q = 2 , 3 , 4 are constructed which admit irreducible Killing tensors of rank-3 or rank-4. The construction relies upon the Eisenhart lift applied to Drach's two-dimensional integrable systems which is followed by the oxidation with respect to free parameters. In four dimensions, some of our solutions are anti-self-dual.

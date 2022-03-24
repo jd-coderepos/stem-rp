@@ -1,0 +1,1 @@
+Speculation detection for Chinese clinical notes: Impacts of word segmentation and embedding models 

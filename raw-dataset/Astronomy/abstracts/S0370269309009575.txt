@@ -1,0 +1,1 @@
+We display the full anomaly structure of supergravity, including new contributions to the conformal anomaly. Our result has the super-Weyl and Kähler U ( 1 ) , transformation properties that are required for implementation of the Green–Schwarz mechanism for anomaly cancellation.

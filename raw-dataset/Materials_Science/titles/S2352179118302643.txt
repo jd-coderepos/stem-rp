@@ -1,0 +1,1 @@
+Diagnostic setup for the divertor manipulator at wendelstein 7-X 

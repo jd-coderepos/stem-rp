@@ -1,0 +1,1 @@
+A self-organizing short-term dynamical memory network 

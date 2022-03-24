@@ -1,0 +1,1 @@
+Real-time monitoring of position and motion of a non-stationary object with a highly sensitive magnetic impedance sensor 

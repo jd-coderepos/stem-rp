@@ -1,0 +1,1 @@
+A joint model-based experimental design approach for the identification of kinetic models in continuous flow laboratory reactors 

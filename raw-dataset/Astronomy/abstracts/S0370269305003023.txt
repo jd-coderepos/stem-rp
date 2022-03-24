@@ -1,0 +1,1 @@
+The perturbative approach to quantum field theory using retarded functions is extended to noncommutative theories. Unitarity as well as quantized equations of motion are studied and seen to cause problems in the case of space–time noncommutativity. A modified theory is suggested that is unitary and preserves the classical equations of motion on the quantum level.

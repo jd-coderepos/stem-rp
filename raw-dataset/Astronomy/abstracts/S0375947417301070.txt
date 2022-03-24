@@ -1,0 +1,1 @@
+We present an effective field theory model for QCD at finite temperature with quarks. We discuss the mean field theory, the fixing of parameters, and a prediction for the curvature of the critical line. We proceed to write down a pionic theory of fluctuations around the mean field, and discuss how the parameters of this pionic effective theory descend from the model with quarks.

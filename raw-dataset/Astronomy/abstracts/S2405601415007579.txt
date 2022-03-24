@@ -1,0 +1,1 @@
+It has been known for a long time that large-N methods can give invaluable insights into non-perturbative phenomena such as confinement. Lattice techniques can be used to compute quantities at large N. In this contribution, I review some recent large-N lattice results and discuss their implications for our understanding of non-perturbative QCD.

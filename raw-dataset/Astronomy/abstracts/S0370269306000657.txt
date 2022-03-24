@@ -1,0 +1,1 @@
+It is shown that U ( 3 ) L × U ( 3 ) R eight-quark interactions stabilize the asymmetric ground state of the well-known model with four-quark Nambu–Jona-Lasinio and six-quark 't Hooft interactions. The result remains when the reduced SU ( 3 ) flavour symmetry is explicitly broken by the general current quark mass term with m ˆ u ≠ m ˆ d ≠ m ˆ s .

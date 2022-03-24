@@ -1,0 +1,1 @@
+Power analysis data set for 4-Bit MOCLA adder 

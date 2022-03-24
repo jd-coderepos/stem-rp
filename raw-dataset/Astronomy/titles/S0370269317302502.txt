@@ -1,0 +1,1 @@
+Tensor-optimized antisymmetrized molecular dynamics as a successive variational method in nuclear many-body system 

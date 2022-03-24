@@ -1,0 +1,1 @@
+Using 3 fb − 1 of collision data collected by the LHCb collaboration in proton-proton collisions the B s 0 mixing phase, ϕ s in the B s 0 → ϕ ϕ decay mode is determined to be ϕ s = − 0.17 ± 0.15 (stat) ± 0.03 (syst) . This is consistent with the Standard Model expectation that CP violation in this channel is small.

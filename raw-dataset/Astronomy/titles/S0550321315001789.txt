@@ -1,0 +1,19 @@
+Contractions from 
+                  
+                     osp
+                  
+                  (
+                  1
+                  |
+                  32
+                  )
+                  ⊕
+                  
+                     osp
+                  
+                  (
+                  1
+                  |
+                  32
+                  )
+                to the M-theory superalgebra extended by additional fermionic generators 

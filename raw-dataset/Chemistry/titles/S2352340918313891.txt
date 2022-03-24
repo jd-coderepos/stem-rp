@@ -1,0 +1,1 @@
+A dataset of synthetic hexagonal close packed 3D polycrystalline microstructures, grain-wise microstructural descriptors and grain averaged stress fields under uniaxial tensile deformation for two sets of constitutive parameters 

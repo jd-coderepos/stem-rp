@@ -1,0 +1,1 @@
+The small-x behavior of structure functions in the saturation region is determined by the non-linear generalization of the BFKL equation. I suggest the effective field theory for the small-x evolution which solves formally this equation. The result is the 2+1 functional integral for the structure functions at small x.

@@ -1,0 +1,1 @@
+Terrain coefficients for predicting energy costs of walking over snow 

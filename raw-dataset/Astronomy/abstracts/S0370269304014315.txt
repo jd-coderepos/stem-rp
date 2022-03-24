@@ -1,0 +1,1 @@
+We show that there exist conformally invariant theories for all spins in d = 4 de Sitter space, namely the partially massless models with higher derivative gauge invariance under a scalar gauge parameter. This extends the catalog from the two known gauge models—Maxwell and partially massless spin 2—to all spins.

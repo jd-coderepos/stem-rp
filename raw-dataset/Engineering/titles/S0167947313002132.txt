@@ -1,0 +1,1 @@
+A pairwise likelihood approach for longitudinal data with missing observations in both response and covariates 

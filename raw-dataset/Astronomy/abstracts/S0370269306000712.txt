@@ -1,0 +1,1 @@
+We express the correlation between quark transversity and (total) quark angular momentum in terms of the second moment of chirally odd generalized parton distributions. The resulting relation allows to determine how much quarks of a given transversity contribute to the total angular momentum of the nucleon.

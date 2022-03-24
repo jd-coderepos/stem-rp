@@ -1,0 +1,1 @@
+In this work we offer an approach to enlarge the number of exactly solvable models with two real scalar fields in ( 1 + 1 )D. We build some new two-field models, and obtain their exact orbits and exact or numerical field configurations. It is noteworthy that a model presenting triple-kinks and double-flat-top lumps is among those new models.

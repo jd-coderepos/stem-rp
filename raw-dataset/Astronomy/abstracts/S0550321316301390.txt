@@ -1,0 +1,1 @@
+Stora and coworkers refined the notion of divergent quantum amplitude, somewhat upsetting the standard power-counting recipe. This unexpectedly clears the way to new prototypes for free and interacting field theories of bosons of any mass and spin.

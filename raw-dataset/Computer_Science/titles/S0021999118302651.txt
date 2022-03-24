@@ -1,0 +1,1 @@
+A posteriori error estimation for an augmented mixed-primal method applied to sedimentation–consolidation systems 

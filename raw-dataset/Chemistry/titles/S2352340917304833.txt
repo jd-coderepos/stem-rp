@@ -1,0 +1,2 @@
+Long-read transcriptome data for improved gene prediction in Lentinula edodes
+             

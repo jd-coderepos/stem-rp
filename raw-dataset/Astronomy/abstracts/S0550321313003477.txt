@@ -1,0 +1,1 @@
+We study the phenomenon of composite operator renormalization and mixing in systems where time-translational invariance is broken and the evolution is out-of-equilibrium. We show that composite operators mix also through non-local memory terms which persist for periods whose duration is set by the mass scales in the problem.

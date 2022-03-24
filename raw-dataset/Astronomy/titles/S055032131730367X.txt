@@ -1,0 +1,5 @@
+The Adler D-function for 
+                  N
+                  =
+                  1
+                SQCD regularized by higher covariant derivatives in the three-loop approximation 

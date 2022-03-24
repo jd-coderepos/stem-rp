@@ -1,0 +1,1 @@
+Microarray data and pathway analyses for primary human activated hepatic stellate cells compared to HepG2 human hepatoma cells 

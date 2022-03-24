@@ -1,0 +1,1 @@
+Correction of environmental magnetic fields for the acquisition of Nuclear magnetic relaxation dispersion profiles below Earth’s field 

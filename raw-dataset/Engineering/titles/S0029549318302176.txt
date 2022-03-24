@@ -1,0 +1,1 @@
+Mechanistic modelling of station blackout accidents for a generic 900 MW CANDU plant using the modified RELAP/SCDAPSIM/MOD3.6 code 

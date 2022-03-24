@@ -1,0 +1,1 @@
+Exact vacuum expectation values of the third level descendent fields 〈(∂ϕ)3( ∂ ̄ ϕ)3eaϕ〉 in the Bullough–Dodd model are proposed. By performing quantum group restrictions, we obtain 〈L−3 L ̄ −3Φlk〉 in perturbed minimal conformal field theories.

@@ -1,0 +1,1 @@
+Data on individual PCR efficiency values as quality control for circulating miRNAs 

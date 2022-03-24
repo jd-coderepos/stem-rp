@@ -1,0 +1,30 @@
+Reduction of 
+                  N
+                  =
+                  1
+               , 
+                  
+                     E
+                     8
+                  
+                SYM over 
+                  SU
+                  (
+                  3
+                  )
+                  /
+                  U
+                  (
+                  1
+                  )
+                  ×
+                  U
+                  (
+                  1
+                  )
+                  ×
+                  
+                     Z
+                     3
+                  
+                and its four-dimensional effective action 

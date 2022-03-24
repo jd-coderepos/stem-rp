@@ -1,0 +1,1 @@
+We use gauge-string duality to model the N-quark potential in pure Yang–Mills theories. For SU ( 3 ) , the result agrees remarkably well with lattice simulations. The model smoothly interpolates between almost the Δ-law at short distances and the Y-law at long distances.

@@ -1,0 +1,1 @@
+Using a relation between the thermodynamics of local horizons and the null energy condition, we consider the effects of quantum corrections to the gravitational entropy. In particular, we find that the geometric form of the null energy condition is not affected by the inclusion of logarithmic corrections to the Bekenstein–Hawking entropy.

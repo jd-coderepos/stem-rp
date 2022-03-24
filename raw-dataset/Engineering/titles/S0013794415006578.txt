@@ -1,0 +1,1 @@
+A numerical investigation of mesh sensitivity for a new three-dimensional fracture model within the combined finite-discrete element method 

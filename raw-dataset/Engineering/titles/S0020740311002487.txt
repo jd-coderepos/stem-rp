@@ -1,0 +1,1 @@
+An efficient approach for trimming simulation of 3D forged components 

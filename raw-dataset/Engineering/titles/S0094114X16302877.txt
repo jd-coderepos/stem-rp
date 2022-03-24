@@ -1,0 +1,1 @@
+Approximate equations for the meshing stiffness and the load sharing ratio of spur gears including hertzian effects 

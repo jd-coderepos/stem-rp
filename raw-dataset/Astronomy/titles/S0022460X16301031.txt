@@ -1,0 +1,1 @@
+A framework for experimental determination of localised vertical pedestrian forces on full-scale structures using wireless attitude and heading reference systems 

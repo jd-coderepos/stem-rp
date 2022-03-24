@@ -1,0 +1,1 @@
+The article contains computational data of many-body interactions in Al–Cu alloys, obtained using PAW-VASP calculations. Pairwise, three-site, and four-site interactions are presented. Mentioned data are relevant to the research article “Many-body mechanism of Guinier-Preston zones stabilization in Al–Cu alloys” (Gorbatov et al., 2017) [1].

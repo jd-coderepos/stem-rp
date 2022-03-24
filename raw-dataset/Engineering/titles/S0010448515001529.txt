@@ -1,0 +1,1 @@
+Can local NURBS refinement be achieved by modifying only the user interface? 

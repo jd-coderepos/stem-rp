@@ -1,0 +1,1 @@
+Efficient inference on fractionally integrated panel data models with fixed effects 

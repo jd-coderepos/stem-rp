@@ -1,0 +1,2 @@
+Investigating local and long-range neuronal network dynamics by simultaneous optogenetics, reverse microdialysis and silicon probe recordings in vivo
+             

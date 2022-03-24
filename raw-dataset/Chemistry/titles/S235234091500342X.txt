@@ -1,0 +1,1 @@
+Gene expression profiling data of Schizosaccharomyces pombe under nitrosative stress using differential display 

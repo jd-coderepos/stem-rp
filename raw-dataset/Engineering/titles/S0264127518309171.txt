@@ -1,0 +1,1 @@
+Multi-scale simulation of dendrite growth for direct energy deposition of nickel-based superalloys 

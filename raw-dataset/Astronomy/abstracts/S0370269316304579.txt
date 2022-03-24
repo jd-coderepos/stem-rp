@@ -1,0 +1,1 @@
+We study the geometrical properties of scale-invariant two-field models of inflation. In particular, we show that when the field-derivative space in the Einstein frame is maximally symmetric during inflation, the inflationary predictions can be universal and independent of the details of the theory.

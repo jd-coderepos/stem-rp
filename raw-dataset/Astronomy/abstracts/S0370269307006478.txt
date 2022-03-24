@@ -1,0 +1,1 @@
+For a quantum Hamiltonian H = H ( λ ) , the observability of the energies E may be robust (whenever all E are real at all λ) or, otherwise, conditional. Using a pseudo-Hermitian family of N-state chain models H = H ( N ) ( λ ) we discuss some generic properties of conditionally observable spectra.

@@ -1,0 +1,1 @@
+Topological insulators (TIs) have a large potential for spintronic devices owing to their spin-polarized, counter-propagating surface states. Recently, we have investigated spin pumping in a ferromagnet–TI–ferromagnet structure at room temperature. Here, we present the temperature-dependent measurement of spin pumping down to 10K, which shows no variation with temperature.

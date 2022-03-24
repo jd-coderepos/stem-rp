@@ -1,0 +1,1 @@
+A model for the propagation of uncertainty from continuous estimates of tree cover to categorical forest cover and change 

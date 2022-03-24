@@ -1,0 +1,1 @@
+In three dimensions, a phase transition occurs between the non-rotating BTZ black hole and the massless BTZ black hole. Further, introducing the mass of a conical singularity, we show that a transition between the non-rotating BTZ black hole and thermal AdS space is also possible.

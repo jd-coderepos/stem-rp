@@ -1,0 +1,1 @@
+Fast and sequence-adaptive whole-brain segmentation using parametric Bayesian modeling 

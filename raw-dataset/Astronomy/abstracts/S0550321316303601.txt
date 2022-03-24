@@ -1,0 +1,1 @@
+We examine the surface term for the BRST transformation of the open pure spinor superstring in an AdS 5 × S 5 background. We find that the boundary condition to eliminate the surface term leads to a classification of possible configurations of 1/2 supersymmetric D-branes.

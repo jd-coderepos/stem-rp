@@ -1,0 +1,1 @@
+The coadjoint orbit method is applied to the construction of Hamiltonian dynamics of massless particles of arbitrary helicity. The unusual transformation properties of canonical variables are interpreted in terms of nonlinear realizations of Poincare group. The action principle is formulated in terms of new space–time variables with standard transformation properties.

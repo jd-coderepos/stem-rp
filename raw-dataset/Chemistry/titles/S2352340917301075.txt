@@ -1,0 +1,1 @@
+Gender specific hippocampal whole genome transcriptome data from mice lacking the Cav2.3 R-type or Cav3.2 T-type voltage-gated calcium channel 

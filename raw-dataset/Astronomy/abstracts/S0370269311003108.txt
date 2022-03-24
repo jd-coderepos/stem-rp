@@ -1,0 +1,1 @@
+We show how to interpret the scalar Feynman integrals which appear when reducing tensor integrals as scalar Feynman integrals coming from certain nice matroids.

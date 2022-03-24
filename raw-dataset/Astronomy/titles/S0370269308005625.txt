@@ -1,0 +1,1 @@
+Minimal duality breaking in the Kallen–Lehman approach to 3D Ising model: A numerical test 

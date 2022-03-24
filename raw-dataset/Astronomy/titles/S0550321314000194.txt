@@ -1,0 +1,1 @@
+Generalized belief propagation for the magnetization of the simple cubic Ising model 

@@ -1,0 +1,1 @@
+Simulating price-aware electricity storage without linear optimisation 

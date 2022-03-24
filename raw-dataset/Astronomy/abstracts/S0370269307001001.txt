@@ -1,0 +1,1 @@
+It is shown that eight-quark interactions, which are needed to stabilize the ground state of the combined three flavor Nambu–Jona-Lasinio and 't Hooft Lagrangians, play also an important role in determining the critical temperature at which transitions occur from the dynamically broken chiral phase to the symmetric phase.

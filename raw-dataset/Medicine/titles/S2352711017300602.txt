@@ -1,0 +1,1 @@
+Recent developments in libxc — A comprehensive library of functionals for density functional theory 

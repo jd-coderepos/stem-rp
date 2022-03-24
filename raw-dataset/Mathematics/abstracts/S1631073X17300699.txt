@@ -1,0 +1,1 @@
+In this note, we give embeddings and other properties of Besov spaces, as well as spectral and Fourier multiplier theorems, in the setting of graded Lie groups. We also present a Nikolskii-type inequality and the Littlewood–Paley theorem that play a role in this analysis and are also of interest on their own.

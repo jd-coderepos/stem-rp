@@ -1,0 +1,1 @@
+Detection of eccentricity fault based on vibration in the PMSM 

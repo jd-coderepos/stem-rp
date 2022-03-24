@@ -1,0 +1,1 @@
+A deeply modulated, regular, continuous, oscillating current waveform is reliably and repeatably achieved during electropolishing of niobium single-cell elliptical radiofrequency cavities. Details of the technique and cavity test results are reported here. The method is applicable for cavity frequencies in the range 500MHz to 3.9GHz and can be extended to multicell structures.

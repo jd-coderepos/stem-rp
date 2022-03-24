@@ -1,0 +1,1 @@
+Brain-inspired computing with resistive switching memory (RRAM): Devices, synapses and neural networks 

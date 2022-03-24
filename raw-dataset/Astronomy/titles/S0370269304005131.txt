@@ -1,0 +1,4 @@
+Comparison of the Gottfried and Adler sum rules within the large-N
+               
+                  c
+                expansion 

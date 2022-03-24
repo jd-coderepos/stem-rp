@@ -1,0 +1,1 @@
+Cell integrated multi-junction thermocouple array for solid oxide fuel cell temperature sensing: N+1 architecture 

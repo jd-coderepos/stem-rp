@@ -1,0 +1,1 @@
+Treating the metric as a classical background field, we show that the cosmological constant does not run with the renormalization scale—contrary to some claims in the literature.

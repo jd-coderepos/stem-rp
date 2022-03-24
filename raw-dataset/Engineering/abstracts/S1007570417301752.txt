@@ -1,0 +1,1 @@
+The paper introduces a matrix-based approach to estimate the unique one-dimensional discrete-time dynamical system that generated a given sequence of probability density functions whilst subjected to an additive stochastic perturbation with known density.

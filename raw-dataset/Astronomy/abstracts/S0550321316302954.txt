@@ -1,0 +1,1 @@
+In this paper we develop the frame-like gauge invariant formulation for the massive two-column bosonic fields in (anti) de Sitter space-times. We begin with the partially massless cases in AdS and dS and then we combine these results into the general massive theory. Separate section is devoted to the special case where both columns have equal number of indices.

@@ -1,0 +1,1 @@
+We write the probabilities for neutrino oscillations in uniform-density matter exactly in terms of convention-independent vacuum neutrino oscillation parameters and the matter density. This extends earlier results formulating neutrino oscillations in terms of matter-, phase-, and trace-invariant quantities.

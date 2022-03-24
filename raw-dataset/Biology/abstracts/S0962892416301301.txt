@@ -1,0 +1,1 @@
+Proteomic studies find many proteins in unexpected cellular locations. Can functional components of organelles be distinguished from biochemical artefacts or misguided cellular sorting? The clue might reside in compositional changes that follow biological challenges and that can be decoded by machine learning.

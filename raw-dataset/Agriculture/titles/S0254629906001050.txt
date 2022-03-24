@@ -1,0 +1,1 @@
+Indicator value analysis as a group prediction technique in community classification 

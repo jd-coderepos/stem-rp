@@ -1,0 +1,1 @@
+Chiral solitons coupled with quarks in medium are studied based on the Wigner–Seitz approximation. The chiral quark soliton model is used to obtain the classical soliton solutions. To investigate nucleon and Δ in matter, the semi-classical quantization is performed by the cranking method. The saturation for nucleon matter and Δ matter are observed.

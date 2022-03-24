@@ -1,0 +1,1 @@
+An investigation into reducing the spindle acceleration energy consumption of machine tools 

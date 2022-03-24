@@ -1,0 +1,1 @@
+High spatial resolution three-dimensional mapping of vegetation spectral dynamics using computer vision 

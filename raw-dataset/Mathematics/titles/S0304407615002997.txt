@@ -1,0 +1,6 @@
+Individual and time effects in nonlinear panel models with large 
+                  N
+               , 
+                  T
+               
+             

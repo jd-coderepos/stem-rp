@@ -1,0 +1,1 @@
+We investigate the positivity constraints for the structure functions of both virtual and real photon. From the Cauchy–Schwarz inequality we derive three positivity conditions for the general virtual photon case, which reduce, in the real photon case, to one condition relating the polarized and unpolarized structure functions.

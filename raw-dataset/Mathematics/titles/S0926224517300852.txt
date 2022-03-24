@@ -1,0 +1,1 @@
+New exact and numerical solutions of the (convection–)diffusion kernels on SE(3) 

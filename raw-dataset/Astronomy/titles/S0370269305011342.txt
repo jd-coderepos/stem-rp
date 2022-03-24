@@ -1,0 +1,36 @@
+Search for 
+                  
+                     Λ
+                     c
+                     +
+                  
+                  →
+                  p
+                  
+                     K
+                     +
+                  
+                  
+                     π
+                     −
+                  
+                and 
+                  
+                     D
+                     s
+                     +
+                  
+                  →
+                  
+                     K
+                     +
+                  
+                  
+                     K
+                     +
+                  
+                  
+                     π
+                     −
+                  
+                using genetic programming event selection 

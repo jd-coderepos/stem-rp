@@ -1,0 +1,1 @@
+In this Letter we study the infra-red behaviour of a gauge invariant and physically motivated description of a charged particle in 2 + 1 dimensions. We show that both the mass shift and the wave function renormalisation are infra-red finite on-shell.

@@ -1,0 +1,1 @@
+We present the full expressions for the QCD β-function in the MOMggg, MOMq and MOMh renormalization schemes at three loops for an arbitrary colour group in the Landau gauge. The results for all three schemes are in very good agreement with the SU ( 3 ) numerical estimates provided by Chetyrkin and Seidensticker.

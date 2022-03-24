@@ -1,0 +1,1 @@
+Simulation model of speed–density characteristics for mixed bicycle flow—Comparison between cellular automata model and gas dynamics model 

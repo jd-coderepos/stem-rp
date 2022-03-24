@@ -1,0 +1,1 @@
+Asymptotic correlation functions and FFLO signature for the one-dimensional attractive Hubbard model 

@@ -1,0 +1,1 @@
+Data sets of migration barriers for atomistic Kinetic Monte Carlo simulations of Fe self-diffusion 

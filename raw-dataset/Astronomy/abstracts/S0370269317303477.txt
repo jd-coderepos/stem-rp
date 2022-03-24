@@ -1,0 +1,1 @@
+Using the KEDR detector at the VEPP-4M e + e − collider, we have determined the values of R at thirteen points of the center-of-mass energy between 1.84 and 3.05 GeV. The achieved accuracy is about or better than 3.9 % at most of the energy points with a systematic uncertainty less than 2.4 % .

@@ -1,0 +1,1 @@
+We found an additional symmetry hidden in the fermion and Higgs sectors of the Standard Model. It is connected to the centers of the SU(3) and SU(2) subgroups of the gauge group. A lattice regularization of the whole Standard Model is constructed that possesses this symmetry.

@@ -1,0 +1,1 @@
+This article aims at reviewing the state of the art of gaseous photon detectors for RICH applications. Emphasis will be put on THGEM based devices which represent the most advanced development among the various micro-pattern gaseous photon sensors proposed for Cherenkov imaging in very high rate environments.

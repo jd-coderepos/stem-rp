@@ -1,0 +1,1 @@
+Design of an eye-in-hand sensing and servo control framework for harvesting robotics in dense vegetation 

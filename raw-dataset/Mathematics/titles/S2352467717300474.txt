@@ -1,0 +1,1 @@
+Quantifying uncertainty in wholesale electricity price projections using Bayesian emulation of a generation investment model 

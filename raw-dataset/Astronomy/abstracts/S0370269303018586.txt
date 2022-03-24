@@ -1,0 +1,1 @@
+We have measured the triple correlation D of the neutron polarisation and the momenta of electron and antineutrino, dW∝1+DP(p e ×p ν ̄ ), in neutron beta decay. Our result is D=[−2.8±6.4(stat)±3.0(syst)]×10−4. The corresponding phase between g A and g V in V–A-theory follows as φ AV=180.04°±0.09°. This result improves the limit on a possible T violation in neutron beta decay.

@@ -1,0 +1,17 @@
+A rational approximation to 
+                  〈
+                  V
+                  V
+                  −
+                  A
+                  A
+                  〉
+                and its 
+                  O
+                  (
+                  
+                     p
+                     6
+                  
+                  )
+                low-energy constant 

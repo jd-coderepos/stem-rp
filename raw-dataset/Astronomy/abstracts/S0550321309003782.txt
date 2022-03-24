@@ -1,0 +1,1 @@
+In this paper, we calculate analytically the baryonic density and susceptibilities, which are sensitive probes to the fermionic degrees of freedom, in a holographic model of QCD both in its hot QGP phase and in its cold dense phase. Interesting patterns due to strong coupling dynamics will be shown and valuable lessons for QCD will be discussed.

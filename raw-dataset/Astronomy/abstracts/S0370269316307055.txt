@@ -1,0 +1,1 @@
+We calculate one-loop contributions to the two and three point spinor–vector functions in z = 2 Horava–Lifshitz QED. This allows us to obtain the anomalous magnetic moment.

@@ -1,0 +1,1 @@
+The geodesic deviation equation is generalized to worldline deviation equations describing the relative accelerations of charged spinning particles in the framework of Dixon–Souriau equations of motion.

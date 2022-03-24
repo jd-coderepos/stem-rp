@@ -1,0 +1,1 @@
+Measurements of timing resolution of ultra-fast silicon detectors with the SAMPIC waveform digitizer 

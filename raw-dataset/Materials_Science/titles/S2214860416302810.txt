@@ -1,0 +1,1 @@
+A voxel-based method of constructing and skinning conformal and functionally graded lattice structures suitable for additive manufacturing 

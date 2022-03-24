@@ -1,0 +1,1 @@
+QED collinear radiation factors in the next-to-leading logarithmic approximation 

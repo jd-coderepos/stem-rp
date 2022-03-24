@@ -1,0 +1,1 @@
+We describe the computation of the O ( α S ) corrections to the Wilson coefficients of the kinetic and chromomagnetic operators in inclusive semileptonic B decays. We can thus evaluate the complete correction at order α S Λ Q C D 2 / m b 2 to the semileptonic width and the first two leptonic moments.

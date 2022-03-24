@@ -1,0 +1,1 @@
+A new design of a test platform for testing multiple partial discharge sources 

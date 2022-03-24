@@ -1,0 +1,1 @@
+This paper examined the spectral properties of quadruple symmetric real functions. Theorem is formulated, under which the complex spectra of such symmetric functions are conjugated. The properties of the trigonometric functions are used in the proof of the theorem. Numerical results are presented for illustrating of the proven theorem.

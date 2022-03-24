@@ -1,0 +1,1 @@
+Dataset reporting the perceiver identification rates of basic emotions expressed by male, female and ambiguous gendered walkers in full-light, point-light and synthetically modelled point-light walkers 

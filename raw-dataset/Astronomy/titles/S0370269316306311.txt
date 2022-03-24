@@ -1,0 +1,9 @@
+One-loop divergences in the 6D, 
+                  N
+                  =
+                  (
+                  1
+                  ,
+                  0
+                  )
+                abelian gauge theory 

@@ -1,0 +1,1 @@
+Joint registration and synthesis using a probabilistic model for alignment of MRI and histological sections 

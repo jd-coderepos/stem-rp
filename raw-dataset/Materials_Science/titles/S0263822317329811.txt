@@ -1,0 +1,1 @@
+Exact transfer- and stiffness matrix for the composite beam-column with Refined Zigzag kinematics 

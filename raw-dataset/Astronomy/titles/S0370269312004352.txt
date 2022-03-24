@@ -1,0 +1,1 @@
+A light-front coupled-cluster method for the nonperturbative solution of quantum field theories 

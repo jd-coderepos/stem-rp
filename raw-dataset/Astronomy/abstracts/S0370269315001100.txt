@@ -1,0 +1,1 @@
+A very simple expression is conjectured for arbitrary colored Jones and HOMFLY polynomials of a rich ( g + 1 ) -parametric family of pretzel knots and links. The answer for the Jones and HOMFLY is fully and explicitly expressed through the Racah matrix of U q ( SU N ) , and looks related to a modular transformation of toric conformal block.

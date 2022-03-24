@@ -1,0 +1,1 @@
+In 2006, Ma et al. presented an elegant theory for how populations of neurons might represent uncertainty to perform Bayesian inference. Critically, according to this theory, neural variability is no longer a nuisance, but rather a vital part of how the brain encodes probability distributions and performs computations with them.

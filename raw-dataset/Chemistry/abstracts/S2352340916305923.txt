@@ -1,0 +1,1 @@
+In the dataset presented in this article, 36 sludge samples were characterized. Rheological parameters were determined and near infrared spectroscopy measurements were realized. In order to assess the potential of near infrared spectroscopy to predict rheological parameters of sludge, Partial Least Square algorithm was used to build calibration models.

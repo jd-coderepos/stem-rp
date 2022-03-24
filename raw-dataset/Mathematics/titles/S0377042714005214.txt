@@ -1,0 +1,1 @@
+FEM–BEM coupling for the large-body limit in micromagnetics 

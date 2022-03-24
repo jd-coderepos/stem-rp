@@ -1,0 +1,1 @@
+Decoding visual object categories from temporal correlations of ECoG signals 

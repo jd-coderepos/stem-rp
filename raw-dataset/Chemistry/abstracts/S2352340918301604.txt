@@ -1,0 +1,1 @@
+This data article contains the statistical analysis of the total, percentage and distribution of editorial board composition of 111 Hindawi journals indexed in Emerging Sources Citation Index (ESCI) across the continents. The reliability of the data was shown using correlation, goodness-of-fit test, analysis of variance and statistical variability tests.

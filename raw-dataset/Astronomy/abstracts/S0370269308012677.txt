@@ -1,0 +1,1 @@
+We propose an infrared cut-off for the holographic dark energy, which besides the square of the Hubble scale also contains the time derivative of the Hubble scale. This avoids the problem of causality which appears using the event horizon area as the cut-off, and solves the coincidence problem.

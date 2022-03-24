@@ -1,0 +1,1 @@
+Contracting bipartite graphs to paths and cycles 

@@ -1,0 +1,1 @@
+We study the asymptotic solutions of a version of the Balitsky–Kovchegov evolution with discrete steps in rapidity. We derive a closed iterative equation in momentum space. We show that it possesses traveling-wave solutions and extract their properties. We find no evidence for chaotic behaviour due to discretization.

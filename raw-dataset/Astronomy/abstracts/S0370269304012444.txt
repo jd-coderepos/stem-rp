@@ -1,0 +1,1 @@
+It is shown that in 5D Kaluza–Klein theory there are everywhere regular wormhole-like solutions in which the magnetic field at the center is the origin of a rotation on the peripheral part of these solutions. The time on the peripheral part is topologically non-trivial and magnetic field is suppressed in comparison with the electric one.

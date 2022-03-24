@@ -1,0 +1,1 @@
+The angular distributions of the charge exchange reaction 1H(6He, 6Li)n were measured in reverse kinematics with a secondary 6He beam at the energy of 4.17A MeV. The data were analyzed in the context of a microscopic calculation. It is shown that both the ground state of 6He and the second excited state of 6Li (3.563 MeV, 0+) have halo structure.

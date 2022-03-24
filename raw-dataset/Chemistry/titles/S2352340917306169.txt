@@ -1,0 +1,1 @@
+Data documenting the performance of the PT/INR line correction method for reconciling INR discrepancies between central laboratory coagulation analyzers using different thromboplastins during the evaluation of a portable Coagulometer 

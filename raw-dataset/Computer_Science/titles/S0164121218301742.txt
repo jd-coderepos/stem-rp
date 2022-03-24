@@ -1,0 +1,1 @@
+Designing and implementing an environment for software start-up education: Patterns and anti-patterns 

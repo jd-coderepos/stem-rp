@@ -1,0 +1,1 @@
+Potential fitting biases resulting from grouping data into variable width bins 

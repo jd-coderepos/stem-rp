@@ -1,0 +1,1 @@
+We propose a modification of the hybrid Monte Carlo algorithm that allows for a larger step-size of the integration scheme at constant acceptance rate. The key ingredient is that the pseudo-fermion action is split into two parts. We test our proposal at the example of the two-dimensional lattice Schwinger model with two degenerate flavours of Wilson-fermions.

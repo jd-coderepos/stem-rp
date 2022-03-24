@@ -1,0 +1,1 @@
+Detection of high energy muons with sub-20ps timing resolution using L(Y)SO crystals and SiPM readout 

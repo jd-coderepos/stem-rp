@@ -1,0 +1,1 @@
+SDE SIS epidemic model with demographic stochasticity and varying population size 

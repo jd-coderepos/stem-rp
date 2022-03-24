@@ -1,0 +1,1 @@
+Voxelization algorithms for geospatial applications Computational methods for voxelating spatial datasets of 3D city models containing 3D surface, curve and point data models

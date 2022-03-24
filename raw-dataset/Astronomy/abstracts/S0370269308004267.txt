@@ -1,0 +1,1 @@
+The formation of fragments in proton-induced reactions at low relativistic energies within a combination of a covariant dynamical transport model and a statistical approach is investigated. In particular, we discuss in detail the applicability and limitations of such a hybrid model by comparing data on fragmentation at low relativistic SIS/GSI-energies.

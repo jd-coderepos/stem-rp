@@ -1,0 +1,1 @@
+A new method for quantifying the performance of EEG blind source separation algorithms by referencing a simultaneously recorded ECoG signal 

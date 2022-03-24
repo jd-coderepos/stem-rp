@@ -1,0 +1,1 @@
+Syphilis detection using the Siemens ADVIA Centaur Syphilis treponemal assay 

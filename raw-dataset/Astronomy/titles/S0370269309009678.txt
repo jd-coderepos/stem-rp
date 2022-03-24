@@ -1,0 +1,1 @@
+A note on embedding non-Abelian finite flavor groups in continuous groups 

@@ -1,0 +1,1 @@
+It has been suggested that higher-derivative gravity theories coupled to a scalar field with shift symmetry may be an important candidate for a quantum gravity. We show that this class of gravity theories are renormalizable in D = 3 and 4 dimensions.

@@ -1,0 +1,1 @@
+This paper studies the perturbation of soliton due to the chiral nonlinear Schrödinger's equation by the aid of soliton perturbation theory. The perturbation term that is studied is the quantum potential perturbation of the chiral soliton that is known as Bohm potential. The stable fixed point of the chiral soliton parameters is obtained.

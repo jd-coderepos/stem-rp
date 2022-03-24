@@ -1,0 +1,1 @@
+We present searches for the top quark flavor-changing neutral current (FCNC) interactions by the CMS experiment. The FCNC searches have been performed in the vertices of tqZ, tqg, and tqγ in decay and production processes. The results are based on the data collected from proton proton collisions at the LHC at centre-of-mass energies of 7 and 8 TeV.

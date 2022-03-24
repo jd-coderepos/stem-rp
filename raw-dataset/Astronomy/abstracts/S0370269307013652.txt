@@ -1,0 +1,1 @@
+A model-independent method for the determination of resonance parameters as K-matrix pole parameters from a T matrix is presented. The method is based on eliminating the dependence on the choice of channel basis by analyzing the trace of the K and T matrices in the coupled-channel formalism, rather than individual matrix elements of the multichannel scattering matrix.

@@ -1,0 +1,1 @@
+Unsteady shrinking embedded horizontal sheet subjected to inclined Lorentz force and Joule heating, an analytical solution 

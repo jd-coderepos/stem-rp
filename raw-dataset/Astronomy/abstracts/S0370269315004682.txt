@@ -1,0 +1,1 @@
+This study uses very simple symmetry and consistency considerations to put constraints on possible Friedmann equations for modified gravity models in curved spaces. As an example, it is applied to loop quantum cosmology.

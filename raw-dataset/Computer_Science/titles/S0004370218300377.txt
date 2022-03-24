@@ -1,0 +1,1 @@
+Extracting mutual exclusion invariants from lifted temporal planning domains 

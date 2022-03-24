@@ -1,0 +1,1 @@
+Aerodynamic and electrical evaluation of a VAWT farm control system with passive rectifiers and mutual DC-bus 

@@ -1,0 +1,1 @@
+A system for accurate and automated injection of hyperpolarized substrate with minimal dead time and scalable volumes over a large range 

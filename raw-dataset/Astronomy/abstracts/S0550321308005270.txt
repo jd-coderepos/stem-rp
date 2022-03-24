@@ -1,0 +1,1 @@
+We present the Green–Schwarz action for Type IIA strings on AdS 4 × CP 3 . The action is based on a Z 4 automorphism of the coset OSp ( 4 | 6 ) / ( SO ( 1 , 3 ) × SU ( 3 ) × U ( 1 ) ) . The equations of motion admit a representation in terms of a Lax connection, showing that the system is classically integrable.

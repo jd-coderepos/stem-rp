@@ -1,0 +1,1 @@
+Comparison of noise-normalized minimum norm estimates for MEG analysis using multiple resolution metrics 

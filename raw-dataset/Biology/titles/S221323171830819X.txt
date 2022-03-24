@@ -1,0 +1,2 @@
+Stable integration of the Mrx1-roGFP2 biosensor to monitor dynamic changes of the mycothiol redox potential in Corynebacterium glutamicum
+             

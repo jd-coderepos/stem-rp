@@ -1,0 +1,1 @@
+Assessing the performance under ionising radiation of lead tungstate scintillators for EM calorimetry in the CLAS12 Forward Tagger 

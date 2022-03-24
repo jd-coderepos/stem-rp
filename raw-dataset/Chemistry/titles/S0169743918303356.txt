@@ -1,0 +1,1 @@
+Supervised classification of monomodal and multimodal hyperspectral data in vibrational microspectroscopy: A comprehensive comparison 

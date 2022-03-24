@@ -1,0 +1,1 @@
+Datasets, processing and refinement details for Mtb-AnPRT: inhibitor structures with various space groups 

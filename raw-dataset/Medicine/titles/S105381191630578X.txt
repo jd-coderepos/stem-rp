@@ -1,0 +1,1 @@
+Variance decomposition for single-subject task-based fMRI activity estimates across many sessions 

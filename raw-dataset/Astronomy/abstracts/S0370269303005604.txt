@@ -1,0 +1,1 @@
+Realistic heterotic string models require the presence of the Wilson lines. We study the effect of continuous Wilson lines on the heterotic Yukawa couplings for Abelian orbifold compactifications and find that the presence of continuous Wilson lines affects the magnitude of the twisted Yukawa couplings resulting in their stronger hierarchy.

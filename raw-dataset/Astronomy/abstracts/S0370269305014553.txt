@@ -1,0 +1,1 @@
+We consider SU ( N ) lattice gauge theory at infinite N defined on a torus with a CP invariant twist. Massless fermions are incorporated in an elegant way, while keeping them quenched. We present some numerical results which suggest that twisting can make numerical simulations of planar QCD more efficient.

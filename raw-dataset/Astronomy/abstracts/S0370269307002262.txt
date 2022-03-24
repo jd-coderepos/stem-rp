@@ -1,0 +1,1 @@
+We explain how a four-body amplitude analysis of the D decay products in the mode B ± → ( K + K − π + π − ) D K ± is sensitive to the unitarity triangle angle γ. We present results from simulation studies which show that a precision on γ of 15° is achievable with 1000 events and assuming a value of 0.10 for the parameter r B .

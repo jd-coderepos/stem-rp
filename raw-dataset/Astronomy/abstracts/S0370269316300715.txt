@@ -1,0 +1,1 @@
+In this note we show that given a conformally invariant theory in flat space-time, it is not always possible to couple it to gravity in a Weyl invariant way.

@@ -1,0 +1,1 @@
+Data for the elaboration of the CIPROS checklist with items for a patient registry software system: Examples and explanations 

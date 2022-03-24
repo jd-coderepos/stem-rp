@@ -1,0 +1,1 @@
+The results of a two-loop calculation in the Feynman gauge of both the DGLAP and the ERBL evolution kernels for transversely polarized distributions are presented. The structure of these evolution kernels is discussed in detail. In addition, the effect of the two-loop evolution on the distribution amplitude of a twist-2 transversely polarized meson is explored.

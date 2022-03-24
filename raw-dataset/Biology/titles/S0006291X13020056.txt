@@ -1,0 +1,1 @@
+supraHex: An R/Bioconductor package for tabular omics data analysis using a supra-hexagonal map 

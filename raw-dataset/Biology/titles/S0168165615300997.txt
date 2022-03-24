@@ -1,0 +1,1 @@
+A versatile puromycin-linker using cnvK for high-throughput in vitro selection by cDNA display 

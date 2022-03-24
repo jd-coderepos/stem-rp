@@ -1,0 +1,1 @@
+It is pointed out that the average semi-inclusive particle phase-space density at freeze-out can be determined from the coincidence probability of the events observed in multiparticle production. The method of measurement is described and its accuracy examined.

@@ -1,0 +1,1 @@
+Sensory cortices receive inputs not only from thalamus but also from higher-order cortical regions. Here, Zagha et al. (2013) show that motor cortical inputs can switch barrel cortex into a desynchronized state that enables more faithful representation of subtle sensory stimuli.

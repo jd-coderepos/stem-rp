@@ -1,0 +1,1 @@
+Fully automatic acute ischemic lesion segmentation in DWI using convolutional neural networks 

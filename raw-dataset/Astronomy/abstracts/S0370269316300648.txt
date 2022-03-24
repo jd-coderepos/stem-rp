@@ -1,0 +1,1 @@
+We apply the differential equation method to the calculation of the total Born cross section of the process Z 1 Z 2 → Z 1 Z 2 e + e − . We obtain explicit expression for the cross section exact in the relative velocity of the nuclei.

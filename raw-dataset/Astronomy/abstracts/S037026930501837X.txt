@@ -1,0 +1,1 @@
+A semi-classical model for wobbling motion is presented as an extension to the Bohr–Mottelson model of wobbling motion. Using the resultant wobbling potential, a quantum mechanical equation is derived for anharmonic wobbling motion. We then attempt to explain the anharmonicity observed in the excited bands of two wobbling phonons in the A ≃ 160 region.

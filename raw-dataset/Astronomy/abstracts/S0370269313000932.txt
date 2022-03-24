@@ -1,0 +1,1 @@
+Neutral systems containing two identical particles, in homogeneous magnetic field are shown to obey exact factorizable solutions both in nonrelativistic and relativistic formalism, similarly to the neutral two-body systems. Concrete examples of the helium atom and the neutron as a (ddu) system are considered.

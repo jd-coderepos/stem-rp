@@ -1,0 +1,1 @@
+Dataset on differential gene expression analysis for splenic transcriptome profiling and the transcripts related to six immune pathways in grass carp 

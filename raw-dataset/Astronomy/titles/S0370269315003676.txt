@@ -1,0 +1,1 @@
+Symmetry conserving configuration mixing method with cranked states 

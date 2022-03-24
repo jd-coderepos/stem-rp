@@ -1,0 +1,1 @@
+We report our final estimate of the b-quark mass from N f = 2 lattice QCD simulations using Heavy Quark Effective Theory non-perturbatively matched to QCD at O ( 1 / m h ) . Treating systematic and statistical errors in a conservative manner, we obtain m ¯ b MS ¯ ( 2 GeV ) = 4.88 ( 15 ) GeV after an extrapolation to the physical point.

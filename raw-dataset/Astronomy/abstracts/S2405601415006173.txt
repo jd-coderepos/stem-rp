@@ -1,0 +1,1 @@
+We present preliminary results of a bayesian fit to the Wilson coefficients of the Standard Model gauge invariant dimension-6 operators involving one or more Higgs fields, using data on electroweak precision observables and Higgs boson signal strengths.

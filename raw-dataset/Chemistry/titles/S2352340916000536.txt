@@ -1,0 +1,1 @@
+Dataset of mouse hippocampus profiled by LC–MS/MS for label-free quantitation 

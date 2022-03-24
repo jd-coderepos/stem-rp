@@ -1,0 +1,1 @@
+By constructing a set of appropriate matrices γ μ for general covariant Dirac equation, we further extend fermion tunneling method to 5-dimensional Kerr–AdS black hole, and show that the expected Hawking temperature is recovered.

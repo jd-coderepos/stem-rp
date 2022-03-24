@@ -1,0 +1,1 @@
+In this brief overview we will reflect on the process of the design of the linear collider (LC) final focus (FF) optics, and will also describe the theoretical and experimental efforts on design and practical realisation of a prototype of the LC FF optics implemented in the ATF2 facility at KEK, Japan, presently being commissioned and operated.

@@ -1,0 +1,1 @@
+In this note, a method to derive the Seiberg duality by the matrix model is given. The key fact we used is that effective actions given by matrix models should be identical for both electric and magnetic theories. We demonstrate our method for SQCD with U(N), SO(N) and Sp(N) gauge groups.

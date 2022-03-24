@@ -1,0 +1,17 @@
+The continuum limit of 
+                  
+                     
+                        a
+                     
+                     
+                        N
+                        −
+                        1
+                     
+                     
+                        (
+                        2
+                        )
+                     
+                  
+                spin chains 

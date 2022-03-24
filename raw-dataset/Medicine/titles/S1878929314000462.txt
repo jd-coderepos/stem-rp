@@ -1,0 +1,1 @@
+Averaging, not internal noise, limits the development of coherent motion processing 

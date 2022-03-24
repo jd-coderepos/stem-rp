@@ -1,0 +1,1 @@
+The infrared behavior of the gluon and ghost propagators is analyzed in Yang–Mills theories in the presence of dynamical mass generation in the Landau gauge. By restricting the domain of integration in the path-integral to the Gribov region Ω, the gauge propagator is found to be suppressed in the infrared, while the ghost propagator is enhanced.

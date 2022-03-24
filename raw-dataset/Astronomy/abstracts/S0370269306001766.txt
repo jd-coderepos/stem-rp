@@ -1,0 +1,1 @@
+We discuss a minimal canonical modification of electrodynamics in order to account for ultraviolet Lorentz violating effects. This modification creates a birefringence that rotates the polarization planes from different directions. Such effects might be detectable in the anisotropic polarization of the Cosmic Microwave Background radiation.

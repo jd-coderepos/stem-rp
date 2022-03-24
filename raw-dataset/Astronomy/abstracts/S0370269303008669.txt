@@ -1,0 +1,1 @@
+We construct a family of quasi-solvable quantum many-body systems by an algebraic method. The models contain up to two-body interactions and have permutation symmetry. We classify these models under the consideration of invariance property. It turns out that this family includes the rational, hyperbolic (trigonometric) and elliptic Inozemtsev models as particular cases.

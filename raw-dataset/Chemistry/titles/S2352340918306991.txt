@@ -1,0 +1,1 @@
+Dataset for regulation between lncRNAs and their nearby protein-coding genes in human cancers 

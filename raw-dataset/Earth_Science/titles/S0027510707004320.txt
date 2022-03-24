@@ -1,0 +1,1 @@
+Binding of MutS protein to oligonucleotides containing a methylated or an ethylated guanine residue, and correlation with mutation frequency 

@@ -1,0 +1,1 @@
+Serum sample containing endogenous antibodies interfering with multiple hormone immunoassays. Laboratory strategies to detect interference 

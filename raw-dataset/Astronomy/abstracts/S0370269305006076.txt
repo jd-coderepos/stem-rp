@@ -1,0 +1,1 @@
+A proper counting of states for black holes in the quantum geometry approach shows that the dominant configuration for spins are distributions that include spins exceeding one-half at the punctures. This raises the value of the Immirzi parameter and the black hole entropy. However, the coefficient of the logarithmic correction remains − 1 / 2 as before.

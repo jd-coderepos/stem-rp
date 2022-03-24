@@ -1,0 +1,1 @@
+We set up a zero recoil sum rule to constrain the form factors of the Λ b → Λ c transition. Our results are compared with the recent lattice calculation for these transitions. We find the same situation as in the case for B → D ⁎ : The lattice results practically saturate the sum rules, leaving basically no room for excited states.

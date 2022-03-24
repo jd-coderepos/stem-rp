@@ -1,0 +1,1 @@
+In frames of dS/CFT correspondence suggested by Strominger we calculate holographic conformal anomaly for dual Euclidean CFT. The holographic renormalization group method is used for this purpose. It is explicitly demonstrated that two-dimensional and four-dimensional conformal anomalies (or corresponding central charges) have the same form as those obtained in AdS/CFT duality.

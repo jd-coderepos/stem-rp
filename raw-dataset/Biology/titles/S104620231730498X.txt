@@ -1,0 +1,1 @@
+Bi-clustering of metabolic data using matrix factorization tools 

@@ -1,0 +1,1 @@
+Whole transcriptome sequence data of 5-FU sensitive and 5-FU resistant tumors generated in a mouse model of de novo carcinogenesis 

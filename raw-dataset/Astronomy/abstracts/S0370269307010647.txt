@@ -1,0 +1,1 @@
+In this Letter a previously initiated program to construct space from modular forms on the string worldsheet is applied to mirror symmetry. Predictions of an algebraic mirror construction are confirmed for elliptic curves of Brieskorn–Pham type by showing that the string theoretic modular forms associated to the Hasse–Weil L-series of mirror pairs of such curves are identical.

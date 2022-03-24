@@ -1,0 +1,1 @@
+We study the structure of the confining string in Yang–Mills theory using the method of the field strength correlators. The method allows us to demonstrate that both the local fluctuations of the topological charge and the gluon condensate are suppressed in the vicinity of the string axis in agreement with results of lattice simulations.

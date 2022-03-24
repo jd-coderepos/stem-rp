@@ -1,0 +1,1 @@
+Comparison of lossless compression schemes for high rate electrical grid time series for smart grid monitoring and analysis 

@@ -1,0 +1,1 @@
+ECG-based estimation of dispersion of APD restitution as a tool to stratify sotalol-induced arrhythmic risk 

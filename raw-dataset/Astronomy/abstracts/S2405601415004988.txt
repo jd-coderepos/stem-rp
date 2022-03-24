@@ -1,0 +1,1 @@
+I review very recent new theoretical results in theoretical QCD. In particular, I illustrate developments in the field of higher order calculations, in the techniques for matching fixed order calculations and showers, and in the field of boosted jet algorithms.

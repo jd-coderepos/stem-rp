@@ -1,0 +1,1 @@
+We present raw sequence reads and genome assemblies derived from 17 accessions of the Ethiopian orphan crop plant enset (Ensete ventricosum (Welw.) Cheesman) using the Illumina HiSeq and MiSeq platforms. Also presented is a catalogue of single-nucleotide polymorphisms inferred from the sequence data at an average density of approximately one per kilobase of genomic DNA.

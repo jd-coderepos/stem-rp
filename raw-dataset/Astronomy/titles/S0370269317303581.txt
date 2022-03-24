@@ -1,0 +1,24 @@
+NNLO QCD counterterm contributions to 
+                  
+                     
+                        B
+                     
+                     
+                        ¯
+                     
+                  
+                  →
+                  
+                     
+                        X
+                     
+                     
+                        s
+                     
+                  
+                  γ
+                for the physical value of m
+               
+                  c
+               
+             

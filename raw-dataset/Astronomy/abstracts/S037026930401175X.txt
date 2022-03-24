@@ -1,0 +1,1 @@
+We discuss the recent experimental observation which suggested that the mass difference between the scalar and pseudoscalar heavy-light mesons is larger for the non-strange states than for the strange ones. After computing the chiral corrections in the heavy quark limit we show that, contrary to experiment, the mass difference in the non-strange case should be smaller.

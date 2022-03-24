@@ -1,0 +1,1 @@
+We use the algebraic Bethe ansatz to obtain the eigenvalues and eigenvectors of the spin-1 Temperley–Lieb open quantum chain with “free” boundary conditions. We exploit the associated reflection algebra in order to prove the off-shell equation satisfied by the Bethe vectors.

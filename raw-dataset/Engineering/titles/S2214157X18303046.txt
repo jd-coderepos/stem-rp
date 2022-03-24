@@ -1,0 +1,1 @@
+Cattaneo-Christov model for electrical magnetite micropoler Casson ferrofluid over a stretching/shrinking sheet using effective thermal conductivity model 

@@ -1,0 +1,1 @@
+Comparison of reconstruction and acquisition choices for quantitative T2* maps and synthetic contrasts 

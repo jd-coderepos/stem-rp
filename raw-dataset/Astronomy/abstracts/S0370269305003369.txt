@@ -1,0 +1,1 @@
+We discuss quantum creation scenario of Kerr–de Sitter black hole in all dimensions. We show that its relative creation probability is the exponential to the entropy of the black hole, using a topological argument. The action of the Euclidean regular instanton can be readily calculated in the same way.

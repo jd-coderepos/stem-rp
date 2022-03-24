@@ -1,0 +1,1 @@
+High frequency modes meshfree analysis of Reissner–Mindlin plates 

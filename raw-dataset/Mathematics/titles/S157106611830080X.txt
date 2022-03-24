@@ -1,0 +1,1 @@
+Mechanizing Focused Linear Logic in Coq 

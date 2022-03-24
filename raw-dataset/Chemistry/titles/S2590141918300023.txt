@@ -1,0 +1,1 @@
+Open shell electronic state calculations on quantum computers: A quantum circuit for the preparation of configuration state functions based on Serber construction 

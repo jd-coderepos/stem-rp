@@ -1,0 +1,1 @@
+The scattering of a charged scalar field on Coulomb potential on de Sitter space–time is studied using the solution of the free Klein–Gordon equation. We find that the scattering amplitude is independent of the choice of the picture and in addition the total energy is conserved in the scattering process.

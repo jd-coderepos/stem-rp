@@ -1,0 +1,1 @@
+Momentum sum rules for fragmentation functions are considered. In particular, we give a general proof of the Schäfer–Teryaev sum rule for the transverse momentum dependent Collins function. We also argue that corresponding sum rules for related fragmentation functions do not exist. Our model-independent analysis is supplemented by calculations in a simple field-theoretical model.

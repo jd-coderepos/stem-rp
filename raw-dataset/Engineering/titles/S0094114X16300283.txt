@@ -1,0 +1,1 @@
+Geometric construction and kinematic analysis of a 6R single-loop overconstrained spatial mechanism that has three pairs of revolute joints with intersecting joint axes 

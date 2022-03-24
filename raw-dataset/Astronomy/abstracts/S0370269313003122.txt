@@ -1,0 +1,1 @@
+A search for paraphotons, or hidden U ( 1 ) gauge bosons, is performed using an intense X-ray beamline at SPring-8. “Light Shining through a Wall” technique is used in this search. No excess of events above background is observed. A stringent constraint is obtained on the photon–paraphoton mixing angle, χ < 8.06 × 10 − 5 (95% C.L.) for 0.04 eV < m γ ′ < 26 keV .

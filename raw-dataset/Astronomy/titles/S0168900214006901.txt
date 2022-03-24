@@ -1,0 +1,1 @@
+Lessons from Monte Carlo simulations of the performance of a dual-readout fiber calorimeter 

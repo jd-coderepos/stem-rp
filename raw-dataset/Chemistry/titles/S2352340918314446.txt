@@ -1,0 +1,1 @@
+Dataset of mechanical properties from different types of wine stopper: Micro-agglomerated, natural cork and synthetic 

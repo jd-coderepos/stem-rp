@@ -1,0 +1,1 @@
+A two-dimensional problem with rotation and magnetic field in the context of four thermoelastic theories 

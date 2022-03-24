@@ -1,0 +1,5 @@
+NB BLG model in 
+                  N
+                  =
+                  8
+                superfields 

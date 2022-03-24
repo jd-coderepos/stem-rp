@@ -1,0 +1,1 @@
+Stochastic analysis of a full system of two competing populations in a chemostat 

@@ -1,0 +1,1 @@
+Open and scalable analytics of large Earth observation datasets: From scenes to multidimensional arrays using SciDB and GDAL 

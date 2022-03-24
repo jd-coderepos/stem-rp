@@ -1,0 +1,1 @@
+Fixed boundary conditions analysis of the 3d gonihedric Ising model with κ=0 

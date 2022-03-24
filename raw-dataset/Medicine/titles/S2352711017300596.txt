@@ -1,0 +1,1 @@
+A new algorithm in singular spectrum analysis framework:The Overlap-SSA (ov-SSA) 

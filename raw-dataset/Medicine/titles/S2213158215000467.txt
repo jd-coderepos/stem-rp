@@ -1,0 +1,1 @@
+T2 mapping outperforms normalised FLAIR in identifying hippocampal sclerosis 

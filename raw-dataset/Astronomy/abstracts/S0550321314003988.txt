@@ -1,0 +1,1 @@
+We employ powerful techniques based on Hilbert and Gröbner bases to analyze particle physics models derived from string theory. Individual models are shown to have a huge landscape of vacua that differ in their phenomenological properties. We explore the (discrete) symmetries of these vacua, the new R symmetry selection rules and their consequences for moduli stabilization.

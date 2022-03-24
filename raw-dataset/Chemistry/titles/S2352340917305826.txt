@@ -1,0 +1,1 @@
+Data on the expression of PEPCK in HepG2 hepatocytes transfected with miR-195 

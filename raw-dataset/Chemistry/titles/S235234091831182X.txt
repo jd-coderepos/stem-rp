@@ -1,0 +1,1 @@
+RNA-seq data and surprisal analysis of icl mutant and control strain of the green microalga Chlamydomonas reinhardtii during day/night cycles 

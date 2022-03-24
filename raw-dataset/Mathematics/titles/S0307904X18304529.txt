@@ -1,0 +1,1 @@
+Sliding mode control of inventory management systems with bounded batch size 

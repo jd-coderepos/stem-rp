@@ -1,0 +1,1 @@
+Global propagation of gravity waves generated with the whole atmosphere transfer function model 

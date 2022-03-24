@@ -1,0 +1,1 @@
+The first result of the pp2pp experiment at RHIC on elastic scattering of polarized protons at s =200 GeV is reported here. The exponential slope parameter b of the diffractive peak of the elastic cross section in the t range 0.010⩽|t|⩽0.019 (GeV/c)2 was measured to be b=16.3±1.6(stat.)±0.9(syst.) (GeV/c)−2.

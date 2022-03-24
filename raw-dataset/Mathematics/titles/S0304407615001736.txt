@@ -1,0 +1,3 @@
+A weak instrument 
+                  F
+               -test in linear IV models with multiple endogenous variables 

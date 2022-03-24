@@ -1,0 +1,1 @@
+We investigate the virtual photon structure function in the supersymmetric QCD (SQCD), where we have squarks and gluinos in addition to the quarks and gluons. Taking into account the heavy particle mass effects to the leading order in QCD and SQCD we evaluate the photon structure function and numerically study its behavior for the QCD and SQCD cases.

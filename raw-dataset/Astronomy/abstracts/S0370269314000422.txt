@@ -1,0 +1,1 @@
+We compute the energy levels of some of the lower-lying heavy quarkonium states perturbatively up to O ( α s 5 m ) and O ( α s 5 m log α s ) . Stability of the predictions depends crucially on the unknown 4-loop pole- MS ¯ mass relation. We discuss the current status of the predictions with respect to the observed bottomonium spectrum.

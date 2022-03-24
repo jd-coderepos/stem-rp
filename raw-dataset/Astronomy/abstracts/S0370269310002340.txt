@@ -1,0 +1,1 @@
+For the general renormalizable N = 1 supersymmetric Yang–Mills theory, regularized by higher covariant derivatives, a two-loop β-function is calculated. It is shown that all integrals, needed for obtaining this function, can be easily calculated, because they are integrals of total derivatives.

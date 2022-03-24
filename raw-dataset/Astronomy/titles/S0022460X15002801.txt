@@ -1,0 +1,1 @@
+An inverse method to determine the dispersion curves of periodic structures based on wave superposition 

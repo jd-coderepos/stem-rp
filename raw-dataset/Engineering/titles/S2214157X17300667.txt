@@ -1,0 +1,1 @@
+Analysis study of shell and tube heat exchanger for clough company with reselect different parameters to improve the design 

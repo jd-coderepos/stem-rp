@@ -1,0 +1,1 @@
+The trace anomaly in six-dimensional space is given by the local terms which have six derivatives of the metric. We find the effective action which is responsible for the anomaly. The result is presented in non-local covariant form and also in the local covariant form with two auxiliary scalar fields.

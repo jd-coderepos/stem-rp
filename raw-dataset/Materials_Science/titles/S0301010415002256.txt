@@ -1,0 +1,1 @@
+Generating symmetry-adapted bases for non-Abelian point groups to be used in vibronic coupling Hamiltonians 

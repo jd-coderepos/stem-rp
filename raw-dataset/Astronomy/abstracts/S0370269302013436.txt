@@ -1,0 +1,1 @@
+An updated analysis of vector and axial-vector spectral functions is presented. The resonant contributions to the spectral integrals are shown to be expressible as multiples of 4π 2 f π 2, encoding the scale of spontaneous chiral symmetry breaking in QCD. Up to order T 2 this behavior carries over to the case of finite temperature.

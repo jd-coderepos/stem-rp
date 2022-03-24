@@ -1,0 +1,1 @@
+A rigorous version of R.P. Brent's model for the binary Euclidean algorithm 

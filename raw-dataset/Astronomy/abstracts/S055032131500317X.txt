@@ -1,0 +1,1 @@
+In this paper, we construct a quadratic r-matrix structure for the classical rational BC n Ruijsenaars–Schneider–van Diejen system with the maximal number of three independent coupling parameters. As a byproduct, we provide a Lax representation of the dynamics as well.

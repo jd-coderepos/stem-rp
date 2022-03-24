@@ -1,0 +1,1 @@
+The Chern–Simons actions of the multiple fundamental string and the multiple gravitational wave are established to full order in the background fields. Gauge invariance is checked. Special attention is drawn to the non-Abelian gauge transformations of the world-volume fields.

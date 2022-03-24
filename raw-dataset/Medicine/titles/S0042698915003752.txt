@@ -1,0 +1,1 @@
+Encoding and estimation of first- and second-order binocular disparity in natural images 

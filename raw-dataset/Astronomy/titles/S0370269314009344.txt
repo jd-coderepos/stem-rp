@@ -1,0 +1,5 @@
+Lower bound of the tensor-to-scalar ratio 
+                  r
+                  ≳
+                  0.1
+                in a nearly quadratic chaotic inflation model in supergravity 

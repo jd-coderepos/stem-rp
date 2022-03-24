@@ -1,0 +1,1 @@
+XaNSoNS: GPU-accelerated simulator of diffraction patterns of nanoparticles 

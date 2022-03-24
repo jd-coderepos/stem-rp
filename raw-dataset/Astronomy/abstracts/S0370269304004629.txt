@@ -1,0 +1,1 @@
+We perform the stochastic quantization of scalar QED based on a generalization of the stochastic gauge fixing scheme and its geometric interpretation. It is shown that the stochastic quantization scheme exactly agrees with the usual path integral formulation.

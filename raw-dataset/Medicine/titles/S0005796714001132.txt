@@ -1,0 +1,1 @@
+First steps in using machine learning on fMRI data to predict intrusive memories of traumatic film footage 

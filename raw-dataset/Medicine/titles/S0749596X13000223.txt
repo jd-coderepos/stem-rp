@@ -1,0 +1,1 @@
+Letter order is not coded by open bigrams 

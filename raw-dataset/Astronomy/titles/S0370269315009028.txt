@@ -1,0 +1,1 @@
+Scalar boundary conditions in hyperscaling violating geometry 

@@ -1,0 +1,1 @@
+Demonstration and validation of Kernel Density Estimation for spatial meta-analyses in cognitive neuroscience using simulated data 

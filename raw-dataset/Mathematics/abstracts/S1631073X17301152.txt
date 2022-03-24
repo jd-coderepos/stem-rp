@@ -1,0 +1,1 @@
+The aim of this note is to present the almost global well-posedness result for the Cauchy problem for the Kirchhoff equation with large data in Gevrey spaces. We also briefly discuss the corresponding results in bounded and in exterior domains.

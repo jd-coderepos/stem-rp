@@ -1,0 +1,1 @@
+Logarithmic scaling for height variables in the Abelian sandpile model 

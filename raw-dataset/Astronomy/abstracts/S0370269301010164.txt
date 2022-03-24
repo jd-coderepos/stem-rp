@@ -1,0 +1,1 @@
+A method of measuring the close to threshold meson production in neutron–neutron collisions is described where the momenta of the colliding neutrons can be determined with the accuracy obtainable for the proton–proton reaction. The technique is based on the double quasi-free nn→nnX 0 reaction, where deuterons are used as a source of neutrons.

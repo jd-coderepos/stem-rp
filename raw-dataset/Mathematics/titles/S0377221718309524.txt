@@ -1,0 +1,1 @@
+A supply chain member should set its margin later if another member's cost is highly uncertain 

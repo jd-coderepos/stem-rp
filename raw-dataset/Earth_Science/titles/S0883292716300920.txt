@@ -1,0 +1,1 @@
+Manual hierarchical clustering of regional geochemical data using a Bayesian finite mixture model 

@@ -1,0 +1,1 @@
+Inference regarding multiple structural changes in linear models with endogenous regressors 

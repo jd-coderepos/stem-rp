@@ -1,0 +1,1 @@
+We discuss an ambiguity of the derivation of the Hawking radiation through the gravitational anomaly method and propose modifications of this method such that it reproduces the correct thermal fluxes. In this modified gravitational anomaly method, we employ the two-dimensional conformal field theory technique.

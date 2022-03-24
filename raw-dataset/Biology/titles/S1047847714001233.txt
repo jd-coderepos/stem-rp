@@ -1,0 +1,1 @@
+Corrigendum to “A simple Fourier filter for suppression of the missing wedge ray artefacts in single-axis electron tomographic reconstructions” [J. Struct. Biol. 186(1) (2014) 141–152] 

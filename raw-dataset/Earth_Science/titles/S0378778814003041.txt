@@ -1,0 +1,1 @@
+Inferring the thermal resistance and effective thermal mass of a wall using frequent temperature and heat flux measurements 

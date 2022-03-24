@@ -1,0 +1,1 @@
+A variant of the bivariate Poisson common shock model is proposed which, contrary to the original, spans all possible degrees of dependence. Its basic distributional properties are described, moment-based estimation is studied, and its use is illustrated on real data.

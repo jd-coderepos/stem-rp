@@ -1,0 +1,1 @@
+We use a simple Colour Glass Condensate/String Percolation Model argument to show the existence, due to energy conservation, of bounds to the violation of Feynman scaling and limiting fragmentation.

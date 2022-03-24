@@ -1,0 +1,1 @@
+A fitting model of the pixel response to monochromatic X-rays in photon counting detectors 

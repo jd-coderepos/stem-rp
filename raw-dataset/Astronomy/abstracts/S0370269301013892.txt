@@ -1,0 +1,1 @@
+We construct supergravity duals of D6-branes wrapping Kähler four-cycles inside a Calabi–Yau threefold, CY 3. We obtain the purely gravitational M-theory description, which turns out to be a Calabi–Yau fourfold, CY 4. We also analyze the dynamics of a probe D6 in this background.

@@ -1,0 +1,1 @@
+Modelling the failure of reinforced concrete with nonlocal and crack band approaches using the damage-plasticity model CDPM2 

@@ -1,0 +1,1 @@
+Wave equation for sums of squares on compact Lie groups 

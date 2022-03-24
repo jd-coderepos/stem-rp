@@ -1,0 +1,26 @@
+Complete graphs, Hilbert series, and the Higgs branch of the 4d 
+                  N
+                  =
+                  2
+                
+               
+                  (
+                  
+                     
+                        A
+                     
+                     
+                        n
+                     
+                  
+                  ,
+                  
+                     
+                        A
+                     
+                     
+                        m
+                     
+                  
+                  )
+                SCFTs 

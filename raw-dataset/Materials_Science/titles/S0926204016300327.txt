@@ -1,0 +1,1 @@
+Visualization and processing of computed solid-state NMR parameters: MagresView and MagresPython 

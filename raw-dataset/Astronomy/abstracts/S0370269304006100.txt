@@ -1,0 +1,1 @@
+We construct sum rules for the forward vector and tensor polarizabilities for any spin-S target and apply them to the spin-1 deuteron. We calculate these polarizabilities of the deuteron to the next-to-leading order in the pionless effective field theory.

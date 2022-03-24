@@ -1,0 +1,1 @@
+We calculate the width of the delta resonance at leading two-loop order in baryon chiral perturbation theory. This gives a correlation between the leading pion–nucleon–delta and pion–delta couplings, which is relevant for the analysis of pion–nucleon scattering and other processes.

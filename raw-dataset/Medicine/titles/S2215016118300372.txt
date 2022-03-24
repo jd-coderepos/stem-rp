@@ -1,0 +1,1 @@
+MATLAB algorithm to implement soil water data assimilation with the Ensemble Kalman Filter using HYDRUS 

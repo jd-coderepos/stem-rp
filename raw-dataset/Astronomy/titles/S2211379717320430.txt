@@ -1,0 +1,1 @@
+Exact traveling wave solutions of fractional order Boussinesq-like equations by applying Exp-function method 

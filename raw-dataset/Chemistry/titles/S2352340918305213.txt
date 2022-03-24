@@ -1,0 +1,1 @@
+Property income from-whom-to-whom matrices: A dataset based on financial assets–liabilities stocks of financial instrument for Spain 

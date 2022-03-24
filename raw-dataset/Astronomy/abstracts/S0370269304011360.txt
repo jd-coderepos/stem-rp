@@ -1,0 +1,1 @@
+The method of Mellin–Barnes representation is used to calculate dimensionally regularized massive on-shell double box Feynman diagrams contributing to Bhabha scattering at two loops.

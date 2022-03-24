@@ -1,0 +1,1 @@
+Tracking control of small-scale helicopters using explicit nonlinear MPC augmented with disturbance observers 

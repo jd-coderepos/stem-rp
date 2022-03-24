@@ -1,0 +1,1 @@
+Fast optimisation of tidal stream turbine positions for power generation in small arrays with low blockage based on superposition of self-similar far-wake velocity deficit profiles 

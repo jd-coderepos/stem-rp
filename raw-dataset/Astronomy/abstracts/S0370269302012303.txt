@@ -1,0 +1,1 @@
+It is shown that the conflict between lattice chiral symmetry and the Majorana condition in the presence of Yukawa couplings, which was noted in our previous Letter, is related in an essential way to the basic properties of Ginsparg–Wilson operators, namely, locality and species doubling.

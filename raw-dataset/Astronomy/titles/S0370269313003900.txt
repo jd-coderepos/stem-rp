@@ -1,0 +1,1 @@
+Stochastic extension of the Lanczos method for nuclear shell-model calculations with variational Monte Carlo method 

@@ -1,0 +1,1 @@
+Brownian Ratchet Mechanism for Faithful Segregation of Low-Copy-Number Plasmids 

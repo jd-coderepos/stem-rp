@@ -1,0 +1,1 @@
+We consider a possible field theory candidate for the electroweak SU ( 2 ) ⊗ U ( 1 ) model where the limit of infinitely sharp Higgs potential is performed. We show that it is possible to formulate such a limit as a Stückelberg massive non-Abelian gauge theory.

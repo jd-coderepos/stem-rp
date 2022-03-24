@@ -1,0 +1,1 @@
+Computing stationary solutions of the two-dimensional Gross–Pitaevskii equation with deflated continuation 

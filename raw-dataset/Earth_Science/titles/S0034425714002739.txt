@@ -1,0 +1,1 @@
+Validation of Envisat MERIS algorithms for chlorophyll retrieval in a large, turbid and optically-complex shallow lake 

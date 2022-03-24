@@ -1,0 +1,1 @@
+Calculation of four-point correlation function of logarithmic conformal field theory using AdS/CFT correspondence 

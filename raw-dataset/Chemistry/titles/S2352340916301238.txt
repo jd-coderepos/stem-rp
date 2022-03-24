@@ -1,0 +1,1 @@
+Data supporting beta-amyloid dimer structural transitions and protein–lipid interactions on asymmetric lipid bilayer surfaces using MD simulations on experimentally derived NMR protein structures 

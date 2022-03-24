@@ -1,0 +1,1 @@
+In this Letter, we apply the proper-time method to generate the Lorentz-violating Chern–Simons terms in the four-dimensional Yang–Mills and non-linearized gravity theories. It is shown that the coefficient of the induced Chern–Simons term is finite but regularization dependent.

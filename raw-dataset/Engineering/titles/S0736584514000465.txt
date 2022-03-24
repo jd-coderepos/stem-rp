@@ -1,0 +1,1 @@
+Vertical motion control of building façade maintenance robot with built-in guide rail 

@@ -1,0 +1,1 @@
+Time resolution deterioration with increasing crystal length in a TOF-PET system 

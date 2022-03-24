@@ -1,0 +1,1 @@
+Validation of the blocked force method for various boundary conditions for automotive source characterization 

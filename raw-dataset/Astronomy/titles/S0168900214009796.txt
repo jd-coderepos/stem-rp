@@ -1,0 +1,1 @@
+Point charge potential and weighting field of a pixel or pad in a plane condenser 

@@ -1,0 +1,1 @@
+In the framework of nonlinear realizations we rederive the action of the N=2 super-conformal quantum mechanics (SCQM). We propose also the WZNW-like construction of interaction term in the Lagrangian with the help of Cartan's Omega-forms.

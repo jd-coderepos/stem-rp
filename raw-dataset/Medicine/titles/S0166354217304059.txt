@@ -1,0 +1,1 @@
+Modular cell-based platform for high throughput identification of compounds that inhibit a viral interferon antagonist of choice 

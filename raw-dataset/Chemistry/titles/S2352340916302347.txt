@@ -1,0 +1,1 @@
+Data on copula modeling of mixed discrete and continuous neural time series 

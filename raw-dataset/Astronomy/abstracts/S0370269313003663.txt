@@ -1,0 +1,1 @@
+We employ a new method, “gauge cooling”, to stabilize complex Langevin simulations of QCD with heavy quarks. The results are checked against results obtained with reweighting; we find agreement within the estimated errors, except for strong gauge coupling in the confinement region. The method allows us to go to previously unaccessible high densities.

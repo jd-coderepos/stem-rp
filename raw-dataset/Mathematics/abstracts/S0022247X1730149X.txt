@@ -1,0 +1,1 @@
+We study the action of the full bosonic string for the domain being two-dimensional Minkowski space and the target a Riemannian manifold. Its critical points couple the wave map equation to a scalar and a two-form potential. Besides investigating their basic features we establish existence results for the latter.

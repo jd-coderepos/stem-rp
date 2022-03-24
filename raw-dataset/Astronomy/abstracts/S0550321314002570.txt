@@ -1,0 +1,1 @@
+We derive a class of cubic interaction vertices for three higher spin fields, with integer spins λ 1 , λ 2 , λ 3 , by closing commutators of the Poincaré algebra in four-dimensional flat spacetime. We find that these vertices exhibit an interesting factorization property which allows us to identify off-shell perturbative relations between them.

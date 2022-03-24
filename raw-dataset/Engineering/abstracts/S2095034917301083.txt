@@ -1,0 +1,1 @@
+We review the concept of “equilibrium” in turbulence. It generally means a property of the energy spectrum, it can also be understood in terms of a scalar property, the Taylor–Kolmogorov formula relating the dissipation rate to the total energy and integral length scale. The implications of equilibrium and strong departure from equilibrium for turbulence modeling are stressed.

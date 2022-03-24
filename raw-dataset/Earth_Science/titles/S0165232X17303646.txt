@@ -1,0 +1,1 @@
+Considerations on scaling behavior in avalanche flow along cycloidal and parabolic tracks 

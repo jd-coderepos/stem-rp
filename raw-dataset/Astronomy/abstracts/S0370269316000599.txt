@@ -1,0 +1,1 @@
+Ricci-flat metrics of the ultrahyperbolic signature which enjoy the l-conformal Galilei symmetry are constructed. They involve the AdS 2 -metric in a way similar to the near horizon black hole geometries. The associated geodesic equations are shown to describe a second order dynamical system for which the acceleration generators are functionally independent.

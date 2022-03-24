@@ -1,0 +1,1 @@
+A rigorous nonorthogonal configuration interaction approach for the calculation of electronic couplings between diabatic states applied to singlet fission 

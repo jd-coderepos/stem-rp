@@ -1,0 +1,1 @@
+Mesoscopic simulation of nonequilibrium detonation with discrete Boltzmann method 

@@ -1,0 +1,1 @@
+We present a search for the decays B + → μ + ν μ and B + → e + ν e in a 253 fb−1 data sample collected at the ϒ ( 4 S ) resonance with the Belle detector at the KEKB asymmetric-energy B factory. We find no significant evidence for a signal and set 90% confidence level upper limits of B ( B + → μ + ν μ ) < 1.7 × 10 −6 and B ( B + → e + ν e ) < 9.8 × 10 −7 .

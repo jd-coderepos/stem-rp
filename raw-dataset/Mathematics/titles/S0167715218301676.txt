@@ -1,0 +1,1 @@
+A new bivariate Poisson common shock model covering all possible degrees of dependence 

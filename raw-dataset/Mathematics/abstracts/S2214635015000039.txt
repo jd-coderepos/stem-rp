@@ -1,0 +1,1 @@
+In this article we lay out requirements for an experimental market software for financial and economic research. We then discuss existing solutions. Finally, we introduce GIMS, an open source market software which is characterized by extensibility and ease of use, while offering nearly all of the required functionality.

@@ -1,0 +1,1 @@
+It is shown that similarly to massless superparticle, classical global symmetry of the Berkovits twistor string action is infinite-dimensional. We identify its superalgebra, whose finite-dimensional subalgebra contains psl ( 4 | 4 , R ) superalgebra. In quantum theory this infinite-dimensional symmetry breaks down to SL ( 4 | 4 , R ) one.

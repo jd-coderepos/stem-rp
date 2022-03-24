@@ -1,0 +1,1 @@
+We derive the formal expressions needed to discuss the change of the twist-two parton distribution functions when a hadron is placed in a medium with relativistic scalar and vector mean fields.

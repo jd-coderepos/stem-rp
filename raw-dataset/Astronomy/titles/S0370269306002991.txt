@@ -1,0 +1,23 @@
+Embedding of bases: From the 
+                  M
+                  (
+                  2
+                  ,
+                  2
+                  κ
+                  +
+                  1
+                  )
+                to the 
+                  M
+                  (
+                  3
+                  ,
+                  4
+                  κ
+                  +
+                  2
+                  −
+                  δ
+                  )
+                models 

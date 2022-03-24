@@ -1,0 +1,1 @@
+It is shown that the Dirac equations in general higher dimensional Kerr–NUT–de Sitter spacetimes are separated into ordinary differential equations.

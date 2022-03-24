@@ -1,0 +1,1 @@
+Local striatal reward signals can be predicted from corticostriatal connectivity 

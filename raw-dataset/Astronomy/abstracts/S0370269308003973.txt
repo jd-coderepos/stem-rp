@@ -1,0 +1,1 @@
+We propose an inequality on bulk viscosity of strongly coupled gauge theory plasmas that allow for a dual supergravity description. Using explicit example of the N = 2 ∗ gauge theory plasma we show that the bulk viscosity remains finite at a critical point with a divergent specific heat. We present an estimate for the bulk viscosity of QGP plasma at RHIC.

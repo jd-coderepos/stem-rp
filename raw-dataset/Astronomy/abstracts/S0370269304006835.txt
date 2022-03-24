@@ -1,0 +1,1 @@
+We present the non-commutative extension of the U(N) Cremmer–Scherk–Kalb–Ramond theory, displaying its differential form and gauge structures. The Seiberg–Witten map of the model is also constructed up to 0(θ 2).

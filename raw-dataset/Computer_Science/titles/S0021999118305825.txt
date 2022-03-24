@@ -1,0 +1,1 @@
+A high-order hybridizable discontinuous Galerkin method with fast convergence to steady-state solutions of the gas kinetic equation 

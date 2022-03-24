@@ -1,0 +1,1 @@
+We describe minimal supergravity models where supersymmetry is non-linearly realized via constrained superfields. We show that the resulting actions differ from the so called “de Sitter” supergravities because we consider constraints eliminating directly the auxiliary fields of the gravity multiplet.

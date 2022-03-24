@@ -1,0 +1,1 @@
+We report the first observation of the rare η → e + e − e + e − ( γ ) decay based on 1.7 fb − 1 collected by the KLOE experiment at the DAΦNE ϕ-factory. The selection of the e + e − e + e − final state is fully inclusive of radiation. We have identified 362 ± 29 events resulting in a branching ratio of ( 2.4 ± 0.2 stat + bckg ± 0.1 syst ) × 10 − 5 .

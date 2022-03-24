@@ -1,0 +1,1 @@
+The leading contribution of the light-by-light scattering effects to g-factor of a bound electron is derived. The corresponding amplitude is expressed in terms of low-energy Delbrück scattering of a virtual photon. The result reads Δg=(7/216)α(Zα)5.

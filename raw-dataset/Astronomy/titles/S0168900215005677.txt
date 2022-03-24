@@ -1,0 +1,1 @@
+Comparative timing measurements of LYSO and LFS-3 to achieve the best time resolution for TOF-PET 

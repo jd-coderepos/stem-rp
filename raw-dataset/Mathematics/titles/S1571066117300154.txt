@@ -1,0 +1,1 @@
+Formalized Meta-Theory of Sequent Calculi for Substructural Logics 

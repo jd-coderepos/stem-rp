@@ -1,0 +1,1 @@
+We show that the branes of ten-dimensional IIA/IIB string theory must satisfy, upon toroidal compactification, specific wrapping rules in order to reproduce the number of supersymmetric branes that follows from a supergravity analysis. The realization of these wrapping rules suggests that IIA/IIB string theory contains a whole class of generalized Kaluza–Klein monopoles.

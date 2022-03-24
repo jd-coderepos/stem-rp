@@ -1,0 +1,1 @@
+We show that there is a class of finite groups, the so-called perfect groups, which cannot exhibit anomalies. This implies that all non-Abelian finite simple groups are anomaly-free. On the other hand, non-perfect groups generically suffer from anomalies. We present two different ways that allow one to understand these statements.

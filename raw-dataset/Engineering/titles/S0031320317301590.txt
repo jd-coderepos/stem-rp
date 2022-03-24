@@ -1,0 +1,1 @@
+Simpler editing of graph-based segmentation hierarchies using zipping algorithms 

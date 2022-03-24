@@ -1,0 +1,1 @@
+Harmonic oscillator potential with a sextic anharmonicity in the prolate γ-rigid collective geometrical model 

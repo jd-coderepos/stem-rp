@@ -1,0 +1,1 @@
+Gender specific click and tone burst evoked ABR datasets from mice lacking the Cav2.3 R-type voltage-gated calcium channel 

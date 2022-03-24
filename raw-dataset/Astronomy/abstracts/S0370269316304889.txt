@@ -1,0 +1,1 @@
+The slope of the β function at a fixed point is commonly thought to be RG invariant and to be the critical exponent γ ⁎ that governs the approach of any physical quantity R to its fixed-point limit: R ⁎ − R ∝ Q γ ⁎ . Chýla has shown that this is not quite true. Here we define a proper RG invariant, the “effective exponent” γ ( Q ) , whose fixed-point limit is the true γ ⁎ .

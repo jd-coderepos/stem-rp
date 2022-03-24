@@ -1,0 +1,1 @@
+Wetting boundary condition for the color-gradient lattice Boltzmann method: Validation with analytical and experimental data 

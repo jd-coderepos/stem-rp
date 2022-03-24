@@ -1,0 +1,1 @@
+Numerical simulation of bubble formation with a moving contact line using Local Front Reconstruction Method 

@@ -1,0 +1,1 @@
+It is shown that 2 + 1 dimensional anti-de Sitter spacetimes are Lorentz-flat. This means, in particular, that any simply-connected patch of the BTZ black hole solution can be endowed with a Lorentz connection that is locally pure gauge. The result can be naturally extended to a wider class of black hole geometries and point particles in three-dimensional spacetime.

@@ -1,0 +1,1 @@
+We calculate the electromagnetic form factor of the pion in lattice gauge theory. The non-perturbatively improved Sheikoleslami–Wohlert lattice action is used together with the O(a) improved current. The form factor is compared to results for other choices for the current and features of the structure of the pion deduced from the ‘Bethe–Salpeter wave function’ are discussed.

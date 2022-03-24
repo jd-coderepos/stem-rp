@@ -1,0 +1,1 @@
+We use the functional form of the QCD running coupling to modify the conformal metric in AdS/CFT mapping the fifth-dimensional z-coordinate to the energy scale in the four-dimensional QCD. The resulting type-0 string theory in five dimensions is solved with the Nambu–Goto action giving good agreement with the Coulombic and confinement Q Q ¯ potential.

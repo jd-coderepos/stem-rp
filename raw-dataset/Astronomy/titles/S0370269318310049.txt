@@ -1,0 +1,4 @@
+Determination of α
+               
+                  s
+                from static QCD potential with renormalon subtraction 

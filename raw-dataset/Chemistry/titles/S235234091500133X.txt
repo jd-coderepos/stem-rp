@@ -1,0 +1,1 @@
+A human gut metaproteomic dataset from stool samples pretreated or not by differential centrifugation 

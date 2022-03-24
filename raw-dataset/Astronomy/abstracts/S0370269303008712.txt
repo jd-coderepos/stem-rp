@@ -1,0 +1,1 @@
+The Balitsky–Fadin–Kuraev–Lipatov equation in the next-to-leading logarithmic approximation is solved using an iterative method. We derive the solution for forward scattering with all conformal spins. A discussion of the infrared finiteness of the results is included.

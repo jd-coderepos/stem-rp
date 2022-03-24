@@ -1,0 +1,1 @@
+We use the correspondence between scalar field theory on AdS and induced conformal field theory on its boundary to calculate correlation functions of logarithmic conformal field theory in arbitrary dimensions. Our calculations utilize the newly proposed method of nilpotent weights. We derive expressions for the four point function assuming a generic interaction term.

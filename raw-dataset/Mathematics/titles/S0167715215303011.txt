@@ -1,0 +1,1 @@
+Transient one-dimensional diffusions conditioned to converge to a different limit point 

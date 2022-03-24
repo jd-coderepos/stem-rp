@@ -1,0 +1,1 @@
+An 18-subject EEG data collection using a visual-oddball task, designed for benchmarking algorithms and headset performance comparisons 

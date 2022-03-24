@@ -1,0 +1,1 @@
+A compression field based model to assess the shear strength of concrete slender beams without web reinforcement 

@@ -1,0 +1,1 @@
+Biadjoint scalar theories are novel field theories that arise in the study of non-abelian gauge and gravity amplitudes. In this short paper, we present exact nonperturbative solutions of the field equations, and compare their properties with monopole-like solutions in non-abelian gauge theory. Our results may pave the way for nonperturbative studies of the double copy.

@@ -1,0 +1,1 @@
+Data related to the PC71BM loading and it's impact on nanostructuring for blend of PBDTTT-EFT:PC71BM bulk heterojunction solar cell 

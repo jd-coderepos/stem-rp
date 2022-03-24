@@ -1,0 +1,1 @@
+Development and verification of a time-domain approach for determining forces and moments in structural components of floaters with an application to floating wind turbines 

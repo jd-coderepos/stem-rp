@@ -1,0 +1,3 @@
+Studying the perturbed Wess–Zumino–Novikov–Witten SU(2)
+                  k
+                theory using the truncated conformal spectrum approach 

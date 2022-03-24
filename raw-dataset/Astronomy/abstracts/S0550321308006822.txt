@@ -1,0 +1,1 @@
+Stationary distributions of complex Langevin equations are shown to be the complexified path integral solutions of the Schwinger–Dyson equations of the associated quantum field theory. Specific examples in zero dimensions and on a lattice are given. The relevance to the study of quantum field theory solution space is discussed.

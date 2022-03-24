@@ -1,0 +1,1 @@
+Method to extract an enhanced cervical vertebrae area from a digital X-ray image 

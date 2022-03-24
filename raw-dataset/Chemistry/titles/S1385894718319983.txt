@@ -1,0 +1,1 @@
+Investigation of pressure drop in 3D replicated open-cell foams: Coupling CFD with experimental data on additively manufactured foams 

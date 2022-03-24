@@ -1,0 +1,1 @@
+Small RNA data set that includes tRNA-derived fragments from Jurkat cells treated with camptothecin 

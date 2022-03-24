@@ -1,0 +1,1 @@
+Dataset of the binding kinetic rate constants of anti-PCSK9 antibodies obtained using the Biacore T100, ProteOn XPR36, Octet RED384, and IBIS MX96 biosensor platforms 

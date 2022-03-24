@@ -1,0 +1,1 @@
+Abelian dominance is used to reformulate the QCD Lagrangian as a sum over the roots of Lie group representation theory. This greatly facilitates extending the SU ( 2 ) magnetic ground state energy spectrum, several arguments for the stability of the magnetic ground state, and the Faddeev–Skyrme model to arbitrary SU ( N ) QCD.

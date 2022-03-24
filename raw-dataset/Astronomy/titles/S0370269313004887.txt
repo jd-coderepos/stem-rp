@@ -1,0 +1,1 @@
+A spin-foam vertex amplitude with the correct semiclassical limit 

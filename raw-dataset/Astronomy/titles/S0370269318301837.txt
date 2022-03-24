@@ -1,0 +1,1 @@
+A Nakanishi-based model illustrating the covariant extension of the pion GPD overlap representation and its ambiguities 

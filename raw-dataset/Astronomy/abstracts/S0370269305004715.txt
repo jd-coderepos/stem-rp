@@ -1,0 +1,1 @@
+We show that the infinite series in the classical action for non(anti)commutative N = 2 σ-models in two dimensions, can be resummed by using constraint equations of the auxiliary fields. We argue that the resulting action takes a standard form and the target space is necessarily smeared by terms dependent on the deformation parameter.

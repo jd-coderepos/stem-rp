@@ -1,0 +1,1 @@
+We show that singular equivalences of Morita type with level between finite-dimensional Gorenstein algebras over a field preserve the (Fg) condition.

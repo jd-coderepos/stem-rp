@@ -1,0 +1,1 @@
+A non-Abelian finite flavor group G ⊂ SO ( 3 ) can have double covering G ′ ⊂ SU ( 2 ) such that G ⊄ G ′ . This situation is not contradictory, but quite natural, and we give explicit examples such as G = D n , G ′ = Q 2 n and G = T , G ′ = T ′ . This observation can be crucial in particle theory model building.

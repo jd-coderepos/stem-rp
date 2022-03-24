@@ -1,0 +1,11 @@
+A theorem concerning twisted and untwisted partition functions in 
+                  U
+                  (
+                  N
+                  )
+                and 
+                  SU
+                  (
+                  N
+                  )
+                lattice gauge theories 

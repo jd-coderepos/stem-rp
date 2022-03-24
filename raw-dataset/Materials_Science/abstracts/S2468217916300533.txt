@@ -1,0 +1,1 @@
+The electron local density of states (LDOS) are calculated for graphene with isolated vacancies, divacancies and vacancy group of four nearest-neighbor vacancies. A strong anisotropy of behavior of LDOS near Fermi level is demonstrated for atoms near defect. Effect of next-to-nearest neighbor interaction on the properties of graphene with vacancies is established.

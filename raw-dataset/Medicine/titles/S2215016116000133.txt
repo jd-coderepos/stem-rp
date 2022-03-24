@@ -1,0 +1,1 @@
+Instrumentation to study myofibril mechanics from static to artificial simulations of cardiac cycle 

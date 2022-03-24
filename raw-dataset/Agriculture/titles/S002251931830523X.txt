@@ -1,0 +1,1 @@
+An energetic reformulation of kinetic rate laws enables scalable parameter estimation for biochemical networks 

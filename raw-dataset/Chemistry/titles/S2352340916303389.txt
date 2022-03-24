@@ -1,0 +1,1 @@
+Calculating the mean time to capture for tethered ligands and its effect on the chemical equilibrium of bound ligand pairs 

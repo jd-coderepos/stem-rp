@@ -1,0 +1,1 @@
+Dataset of response of a semi anechoic room Frankonia SAC 3 plus driven by the electric field 

@@ -1,0 +1,58 @@
+Integrable deformations of the 
+                  
+                     
+                        G
+                     
+                     
+                        
+                           
+                              k
+                           
+                           
+                              1
+                           
+                        
+                     
+                  
+                  ×
+                  
+                     
+                        G
+                     
+                     
+                        
+                           
+                              k
+                           
+                           
+                              2
+                           
+                        
+                     
+                  
+                  /
+                  
+                     
+                        G
+                     
+                     
+                        
+                           
+                              k
+                           
+                           
+                              1
+                           
+                        
+                        +
+                        
+                           
+                              k
+                           
+                           
+                              2
+                           
+                        
+                     
+                  
+                coset CFTs 

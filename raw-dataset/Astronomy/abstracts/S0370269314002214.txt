@@ -1,0 +1,1 @@
+We present median statistics central values and ranges for 12 cosmological parameters, using 582 measurements (published during 1990–2010) collected by [9]. On comparing to the recent Planck Collaboration [1] estimates of 11 of these parameters, we find good consistency in ten cases.

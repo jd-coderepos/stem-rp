@@ -1,0 +1,1 @@
+Dataset of the AAC2 conformations in the c-, intermediate- and m-states obtained from free-energy simulations 

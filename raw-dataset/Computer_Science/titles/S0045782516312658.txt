@@ -1,0 +1,1 @@
+Energy consistent framework for continuously evolving 3D crack propagation 

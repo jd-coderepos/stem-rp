@@ -1,0 +1,1 @@
+We investigate self-gravitating rotating solutions in the Einstein–Skyrme theory. These solutions are globally regular and asymptotically flat. We present a new kind of solutions with zero baryon number, which possess neither a flat limit nor a static limit.

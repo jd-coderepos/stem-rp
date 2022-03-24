@@ -1,0 +1,1 @@
+The heavy quark potential of a thermal Yang–Mills theory in strong coupling limit is explored in terms of the holographic principle. With a fairly general AdS/QCD metric the heavy quark potential displays a kink-like screening in the plasma phase. This behavior may conflict the causality of a field theory that is mathematically equivalent to the thermal Yang–Mills.

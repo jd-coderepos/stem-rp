@@ -1,0 +1,1 @@
+True stereoscopic 3D cannot be simulated by shifting 2D content off the screen plane 

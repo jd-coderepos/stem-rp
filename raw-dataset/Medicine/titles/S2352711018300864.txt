@@ -1,0 +1,2 @@
+
+               EvoDyn-3s: A Mathematica computable document to analyze evolutionary dynamics in 3-strategy games 

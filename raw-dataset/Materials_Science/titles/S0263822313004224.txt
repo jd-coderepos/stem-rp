@@ -1,0 +1,1 @@
+Buckling analysis of variable angle tow, variable thickness panels with transverse shear effects 

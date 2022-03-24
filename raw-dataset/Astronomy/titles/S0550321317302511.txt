@@ -1,0 +1,10 @@
+Scalar products of Bethe vectors in the models with 
+                  
+                     gl
+                  
+                  (
+                  m
+                  |
+                  n
+                  )
+                symmetry 

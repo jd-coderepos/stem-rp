@@ -1,0 +1,1 @@
+In this Letter we consider three future singularities in different Friedmann–Lemaître–Robertson–Walker scenarios and show that the universe departs more and more from thermodynamic equilibrium as the corresponding singularity is approached. Though not proven in general, this feature may characterize future singularities of homogeneous and isotropic cosmologies.

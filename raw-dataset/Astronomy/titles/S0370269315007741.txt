@@ -1,0 +1,1 @@
+Spherical vibrator model with an energy increasing stiffness 

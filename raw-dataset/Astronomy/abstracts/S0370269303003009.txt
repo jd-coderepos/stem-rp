@@ -1,0 +1,1 @@
+Fermilab experiment E835 has measured the cross section for the reaction p ̄ p→e+e− at s=11.63, 12.43, 14.40 and 18.22 GeV2. From the analysis of the 66 observed events new high-precision measurements of the proton magnetic form factor are obtained.

@@ -1,0 +1,1 @@
+Integrating stochastic time-dependent travel speed in solution methods for the dynamic dial-a-ride problem 

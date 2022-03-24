@@ -1,0 +1,1 @@
+We propose a natural solution to the μ problem in gauge mediation. It relies on the logarithmic dependence of the effective Kähler potential on the messenger threshold superfield X. Thus, μ and Bμ naturally arise at one and two loops, respectively. Moreover B has the same phase as the gaugino mass and the supersymmetric CP problem is solved as well.

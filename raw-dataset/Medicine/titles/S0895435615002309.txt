@@ -1,0 +1,1 @@
+Multivariate meta-analysis of individual participant data helped externally validate the performance and implementation of a prediction model 

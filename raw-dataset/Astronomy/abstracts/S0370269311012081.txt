@@ -1,0 +1,1 @@
+We define the concept of Levi-Civita truncation for a Lagrangian in the Palatini formulation with an arbitrary connection, and show that its consistency uniquely identifies the Lovelock Lagrangians.

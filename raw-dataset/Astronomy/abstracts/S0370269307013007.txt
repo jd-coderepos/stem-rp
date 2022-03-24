@@ -1,0 +1,1 @@
+The doubling of the angle of beam deflection due to volume reflection of protons by a sequence of two bent silicon crystals was experimentally observed at the 400 GeV proton beam of the CERN SPS. A similar sequence of short bent crystals can be used as an efficient primary collimator for the Large Hadron Collider.

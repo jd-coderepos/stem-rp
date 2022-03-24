@@ -1,0 +1,1 @@
+Genome-wide analysis of chromatin structures in Trypanosoma brucei using high-resolution MNase-ChIP-seq 

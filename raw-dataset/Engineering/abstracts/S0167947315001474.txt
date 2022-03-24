@@ -1,0 +1,1 @@
+Exact formulae are provided for the calculation of multivariate skewness and kurtosis of Markov-switching Vector Auto-Regressive (MS VAR) processes as well as for the general class of MS state space (MS SS) models. The use of the higher-order moments in non-linear modeling is illustrated with two examples. A Matlab code that implements the results is available from the authors.

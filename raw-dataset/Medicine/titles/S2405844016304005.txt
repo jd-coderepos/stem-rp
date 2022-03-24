@@ -1,0 +1,1 @@
+Use of multiple picosecond high-mass molecular dynamics simulations to predict crystallographic B-factors of folded globular proteins 

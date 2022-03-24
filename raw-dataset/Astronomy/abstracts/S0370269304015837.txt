@@ -1,0 +1,1 @@
+We calculate the Meissner masses of gluons in neutral three-flavor color superconducting matter for finite strange quark mass. In the CFL phase the Meissner masses are slowly varying function of the strange quark mass. For large strange quark mass, in the so-called gCFL phase, the Meissner masses of gluons with colors a = 1 , 2 become imaginary, indicating an instability.

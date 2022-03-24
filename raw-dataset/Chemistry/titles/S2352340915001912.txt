@@ -1,0 +1,1 @@
+A structural group-connectome in standard stereotactic (MNI) space 

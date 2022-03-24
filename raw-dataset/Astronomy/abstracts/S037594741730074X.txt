@@ -1,0 +1,1 @@
+We report on the lattice calculations of the heavy quark potential at T > 0 in 2+1 flavor QCD at physical quark masses using the Highly Improved Staggered Quark discretization. We study in detail the systematic effects in the determination of the real and imaginary parts of the potential when using the moment method.

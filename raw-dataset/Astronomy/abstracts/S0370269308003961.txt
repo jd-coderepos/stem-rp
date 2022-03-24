@@ -1,0 +1,1 @@
+We demonstrate generation of the two-dimensional Chern–Simons-like Lorentz-breaking action via an appropriate Lorentz-breaking coupling of scalar and spinor fields at zero as well as at the finite temperature and via the noncommutative fields method and study the dispersion relations corresponding to this action.

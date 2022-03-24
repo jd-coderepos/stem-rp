@@ -1,0 +1,1 @@
+Prediction of residual stress within linear friction welds using a computationally efficient modelling approach 

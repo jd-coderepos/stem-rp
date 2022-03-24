@@ -1,0 +1,1 @@
+Simulating the optical performance of a small-sized telescope with secondary optics for the Cherenkov Telescope Array 

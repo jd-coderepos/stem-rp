@@ -1,0 +1,1 @@
+Dataset for analysing the relationships among economic growth, fossil fuel and non-fossil fuel consumption 

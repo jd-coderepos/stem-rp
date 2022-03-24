@@ -1,0 +1,1 @@
+Sea ice drift data for Fram Strait derived from a feature-tracking algorithm applied on Sentinel-1 SAR imagery 

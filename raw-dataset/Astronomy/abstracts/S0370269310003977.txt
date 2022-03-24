@@ -1,0 +1,1 @@
+The residual mass of the pion in a finite spatial box at vanishing quark masses, the mass gap, is computed with two flavors of dynamical clover fermions. The result is compared with predictions of chiral perturbation theory in the δ regime.

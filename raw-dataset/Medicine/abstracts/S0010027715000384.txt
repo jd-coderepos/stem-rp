@@ -1,0 +1,1 @@
+The methods proposed by Demaree, Weaver and Juergensen (2014) are not the most appropriate for testing for the presence of a selection effect. We use a simple and straightforward method to demonstrate that the data are not consistent with such an effect.

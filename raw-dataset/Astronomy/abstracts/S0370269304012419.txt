@@ -1,0 +1,1 @@
+Axially symmetric gravitating multi-skyrmion configurations are obtained using the harmonic map ansatz introduced in [J. Math. Phys. 40 (1999) 6353]. In particular, the effect of gravity on the energy and baryon densities of the SU ( 3 ) non-gravitating multi-skyrmion configurations is studied in detail.

@@ -1,0 +1,1 @@
+Heuristics and lower bounds for the simple assembly line balancing problem type 1: Overview, computational tests and improvements 

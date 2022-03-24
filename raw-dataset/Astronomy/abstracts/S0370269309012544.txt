@@ -1,0 +1,1 @@
+In this Letter we show that the entropy of black hole horizon in charged rotating BTZ space–time can be described by the Cardy–Verlinde formula, which is supposed to be an entropy formula of conformal field theory in any dimension.

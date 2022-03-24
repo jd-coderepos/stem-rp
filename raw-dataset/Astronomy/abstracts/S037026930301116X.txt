@@ -1,0 +1,1 @@
+We present new static axially symmetric solutions of SU(2) Yang–Mills–Higgs theory, representing chains of monopoles and antimonopoles in static equilibrium. They correspond to saddlepoints of the energy functional and exist both in the topologically trivial sector and in the sector with topological charge one.

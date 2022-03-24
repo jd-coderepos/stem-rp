@@ -1,0 +1,1 @@
+Dataset of curcumin derivatives for QSAR modeling of anti cancer against P388 cell line 

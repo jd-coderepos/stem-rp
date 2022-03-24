@@ -1,0 +1,1 @@
+It has been shown that anisotropy of homogeneous spacetime described by the general Kasner metric can be damped by quantum fluctuations coming from perturbative quantum gravity in one-loop approximation. Also, a formal argument, not limited to one-loop approximation, is put forward in favor of stability of isotropy in the exactly isotropic case.

@@ -1,0 +1,1 @@
+Computation of the string tension in four-dimensional Yang–Mills theory using large N reduction 

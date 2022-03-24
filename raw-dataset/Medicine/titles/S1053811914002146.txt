@@ -1,0 +1,1 @@
+Adaptive smoothing of multi-shell diffusion weighted magnetic resonance data by msPOAS 

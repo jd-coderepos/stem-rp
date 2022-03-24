@@ -1,0 +1,1 @@
+Recently, it was found in QED that the generation of a dynamical electron mass in a strong magnetic field is significantly enhanced by the perturbative electron mass. In the present Letter, the related question of a possible enhancement of the dynamical quark mass in an external magnetic field and with a bare mass term is investigated in the Nambu–Jona-Lasinio model.

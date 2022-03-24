@@ -1,0 +1,1 @@
+We analyze the quantum ABJM theory on N = 1 superspace in different gauges. We study the Batalin–Vilkovisky (BV) formulation for this model. By developing field/antifield dependent BRST transformation we establish connection between the two different solutions of the quantum master equation within the BV formulation.

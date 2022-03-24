@@ -1,0 +1,1 @@
+Data on cell cycle in breast cancer cell line, MDA-MB-231 with ferulic acid treatment 

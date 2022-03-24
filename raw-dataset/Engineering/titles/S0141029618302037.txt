@@ -1,0 +1,1 @@
+Performance of low-frequency structures incorporated with rate-independent linear damping 

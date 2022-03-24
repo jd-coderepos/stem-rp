@@ -1,0 +1,1 @@
+Improved models for predicting bubble velocity, bubble frequency and bed expansion in a bubbling fluidized bed 

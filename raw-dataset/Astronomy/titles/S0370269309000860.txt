@@ -1,0 +1,9 @@
+Some physics of the two-dimensional 
+                  N
+                  =
+                  (
+                  2
+                  ,
+                  2
+                  )
+                supersymmetric Yang–Mills theory: Lattice Monte Carlo study 

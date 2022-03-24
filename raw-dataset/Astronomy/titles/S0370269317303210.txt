@@ -1,0 +1,1 @@
+An asymptotically safe solution to the U(1) triviality problem 

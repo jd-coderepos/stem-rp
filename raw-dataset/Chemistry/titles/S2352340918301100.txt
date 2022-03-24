@@ -1,0 +1,1 @@
+Data characterizing the energetics of enzyme-catalyzed hydrolysis and transglycosylation reactions by DFT cluster model calculations 

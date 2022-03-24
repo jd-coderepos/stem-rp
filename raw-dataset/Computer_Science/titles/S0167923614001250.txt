@@ -1,0 +1,1 @@
+A kernel entropy manifold learning approach for financial data analysis 

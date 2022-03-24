@@ -1,0 +1,1 @@
+A class of discrete flavor-symmetry-based models predicts constrained neutrino mass matrix schemes that lead to specific neutrino mass sum-rules (MSR). We show how these theories may constrain the absolute scale of neutrino mass, leading in most of the cases to a lower bound on the neutrinoless double beta decay effective amplitude.

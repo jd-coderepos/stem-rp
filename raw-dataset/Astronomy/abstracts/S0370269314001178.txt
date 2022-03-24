@@ -1,0 +1,1 @@
+A conformal factor in the Bohr model embeds Bohr space in six dimensions, revealing the O ( 6 ) symmetry and its contraction to the E ( 5 ) at infinity. Phenomenological consequences are discussed after the re-formulation of the Bohr Hamiltonian in six dimensions on a five sphere.

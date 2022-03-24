@@ -1,0 +1,1 @@
+Data set for diet specific differential gene expression analysis in three Spodoptera moths 

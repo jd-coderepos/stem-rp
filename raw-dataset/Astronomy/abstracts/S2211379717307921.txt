@@ -1,0 +1,1 @@
+Motion of cells in living tissues is hindered by obstacles, which may be stationary or may also move. We present a simplified method to calculate the exact Fickian diffusivity for a tracer particle in a random walk with one obstacle.

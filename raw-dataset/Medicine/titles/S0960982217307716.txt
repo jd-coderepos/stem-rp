@@ -1,0 +1,1 @@
+Grid Cells Encode Local Positional Information 

@@ -1,0 +1,1 @@
+This Future weather dataset is used for assessing the risk of overheating and thermal discomfort or heat stress in the free running buildings. The weather files are in the format of .epw which can be used in the building simulation packages such as EnergyPlus, DesignBuilder, IES, etc.

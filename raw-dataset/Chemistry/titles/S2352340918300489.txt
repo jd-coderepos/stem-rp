@@ -1,0 +1,1 @@
+Rb interactome data and its modulations during cell cycle progression in HEK 293 cells 

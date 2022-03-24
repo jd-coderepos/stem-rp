@@ -1,0 +1,1 @@
+Pedotransfer functions for predicting available water capacity in French soils, their applicability domain and associated uncertainty 

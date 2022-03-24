@@ -1,0 +1,1 @@
+We construct actions for non-relativistic strings and membranes purely as Wess–Zumino terms of the underlying Galilei groups.

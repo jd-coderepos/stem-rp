@@ -1,0 +1,1 @@
+Model-independent resonance parameter extraction from the trace of K and T matrices 

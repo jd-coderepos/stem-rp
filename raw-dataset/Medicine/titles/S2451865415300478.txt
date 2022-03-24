@@ -1,0 +1,1 @@
+Generalization of Wei's urn design to unequal allocations in sequential clinical trials 

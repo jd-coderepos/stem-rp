@@ -1,0 +1,1 @@
+A max-stable process model for rainfall extremes at different accumulation durations 

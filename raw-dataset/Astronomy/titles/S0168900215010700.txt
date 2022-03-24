@@ -1,0 +1,1 @@
+Spectral response of the energy-binning Dosepix ASIC coupled to a 300μm silicon sensor under high fluxes of synchrotron radiation 

@@ -1,0 +1,1 @@
+Assuming the existence of a functional relation among the Standard Model (SM) gauge couplings α 1 and quartic λ, we determine the mass of the Higgs particle. Similar considerations for the top and bottom Yukawa couplings in the minimal supersymmetric SM lead to the prediction of a narrow window for tan β, one of the main parameters that determine the light Higgs mass.

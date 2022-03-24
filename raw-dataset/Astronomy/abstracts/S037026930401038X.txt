@@ -1,0 +1,1 @@
+We have measured the absolute branching ratio BR ( K ± → π ± π 0 π 0 ) with the KLOE detector at the DAΦNE e + e − collider. We collected ∼ 3.3 × 10 7 tagged charged kaons, from the reaction e + e − → ϕ → K + K − . We find BR ( K ± → π ± π 0 π 0 ) = ( 1.763 ± 0.013 stat ± 0.022 syst ) × 10 − 2 .

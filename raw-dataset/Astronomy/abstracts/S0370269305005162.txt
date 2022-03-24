@@ -1,0 +1,1 @@
+The quark mixing matrix is parameterised such that its “Cabibbo substructure” is emphasised. One can choose one of the parameters to be an arbitrarily chosen angle of the unitarity triangle, for example, the angle β (also called Φ 1 ).

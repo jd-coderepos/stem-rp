@@ -1,0 +1,1 @@
+EEG-Annotate: Automated identification and labeling of events in continuous signals with applications to EEG 

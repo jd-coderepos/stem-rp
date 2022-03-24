@@ -1,0 +1,1 @@
+SDNET2018: An annotated image dataset for non-contact concrete crack detection using deep convolutional neural networks 

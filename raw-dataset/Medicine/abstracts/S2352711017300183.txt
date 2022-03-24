@@ -1,0 +1,1 @@
+We present an updated version of our inelastic neutron scattering software package Takin, which is a programme for neutron triple-axis experiment planning and evaluation. The new version features several additional programme modules mainly concerning three-dimensional calculations and visualisations. In addition, existing modules have been improved and extended.

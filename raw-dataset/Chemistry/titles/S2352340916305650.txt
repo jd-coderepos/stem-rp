@@ -1,0 +1,1 @@
+Data from computational analysis of the peptide linkers in the MocR bacterial transcriptional regulators 

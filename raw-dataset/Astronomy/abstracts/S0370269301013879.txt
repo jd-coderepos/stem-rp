@@ -1,0 +1,1 @@
+We show that at asymptotically high densities the “color-flavor-locked+neutral kaon condensate” phase of QCD develops a charged kaon condensate through the Coleman–Weinberg mechanism. At densities achievable in neutron stars a charged kaon condensate forms only for some (natural) values of the low energy constants describing the low-lying excitations of the ground state.

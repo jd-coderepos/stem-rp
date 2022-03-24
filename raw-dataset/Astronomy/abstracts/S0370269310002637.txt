@@ -1,0 +1,1 @@
+We calculate 2-point correlators for New Massive Gravity at the chiral point and find that they behave precisely as those of a logarithmic conformal field theory, which is characterized in addition to the central charges c L = c R = 0 by ‘new anomalies’ b L = b R = − σ 12 ℓ G N , where σ is the sign of the Einstein–Hilbert term, ℓ the AdS radius and G N Newton's constant.

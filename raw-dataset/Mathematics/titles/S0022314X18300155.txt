@@ -1,0 +1,1 @@
+On the asymptotic formula in Waring's problem with shifts 

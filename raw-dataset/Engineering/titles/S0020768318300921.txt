@@ -1,0 +1,1 @@
+Discrete crack dynamics: A planar model of crack propagation and crack-inclusion interactions in brittle materials 

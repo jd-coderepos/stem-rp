@@ -1,0 +1,1 @@
+We present the calculation of the finite part of the heavy quark impact factor at next-to-leading logarithmic (NLx) accuracy. The final result is written in a form suitable for phenomenological studies such as the calculation of the cross-section for single heavy quark production at the LHC within the k T -factorization scheme.

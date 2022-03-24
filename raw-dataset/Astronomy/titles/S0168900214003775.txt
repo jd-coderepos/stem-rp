@@ -1,0 +1,1 @@
+Systematic study of new types of Hamamatsu MPPCs read out with the NINO ASIC 

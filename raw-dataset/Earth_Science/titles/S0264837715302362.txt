@@ -1,0 +1,1 @@
+Spatial information in European agricultural data management. Requirements and interoperability supported by a domain model 

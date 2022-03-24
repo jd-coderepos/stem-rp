@@ -1,0 +1,9 @@
+
+               SU(3)
+                  p
+                quiver theories with 
+                  N
+                  =
+                  0
+                for p
+               =8 and 9 

@@ -1,0 +1,1 @@
+A general analytical solution for the evolution of cliffs accounting for strength degradation, seismic action, formation of tension cracks and seepage 

@@ -1,0 +1,1 @@
+Parallel accelerated cyclic reduction preconditioner for three-dimensional elliptic PDEs with variable coefficients 

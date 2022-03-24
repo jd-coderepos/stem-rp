@@ -1,0 +1,1 @@
+Understanding the power requirements of autonomous underwater systems, Part I: An analytical model for optimum swimming speeds and cost of transport 

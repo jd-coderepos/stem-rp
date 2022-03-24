@@ -1,0 +1,1 @@
+We present the full two-loop β-functions for the MSSM including R-parity violating couplings. We analyse the effect of two-loop running on the bounds on R-parity violating couplings, on the nature of the LSP and on the stop masses.

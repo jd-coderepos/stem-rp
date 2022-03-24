@@ -1,0 +1,1 @@
+Deep EndoVO: A recurrent convolutional neural network (RCNN) based visual odometry approach for endoscopic capsule robots 

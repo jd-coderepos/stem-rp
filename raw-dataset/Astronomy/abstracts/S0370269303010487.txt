@@ -1,0 +1,1 @@
+The dynamics of even topological open membranes relies on Nambu brackets. Consequently, such 2p-branes can be quantized through the consistent quantization of the underlying Nambu dynamical structures. This is a summary construction relying on the methods detailed in Refs. [New J. Phys. 4 (2002) 83.1; Phys. Rev. D 68 (2003)].

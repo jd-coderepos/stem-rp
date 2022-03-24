@@ -1,0 +1,1 @@
+We present the Ricci-flat metric and its Kähler potential on the conifold with the O(N) isometry, whose conical singularity is repaired by the complex quadric surface Q N−2=SO(N)/SO(N−2)×U(1).

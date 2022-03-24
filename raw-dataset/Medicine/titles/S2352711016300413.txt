@@ -1,0 +1,1 @@
+CodaNorm: A software package for the body-wave attenuation calculation by the coda-normalization method 

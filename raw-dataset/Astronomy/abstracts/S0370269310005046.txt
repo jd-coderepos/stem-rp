@@ -1,0 +1,1 @@
+We investigate the area spectrum for rotating black holes which are Kerr and BTZ black holes. For slowly rotating black holes, we use the Maggiore's idea combined with Kunstatter's method to derive their area spectra, which are equally spaced.

@@ -1,0 +1,1 @@
+I use the method of retrofitting, developed by Dine, Feng and Silverstein, to generate the scale of inflation dynamically, allowing it to be naturally small. This is a general procedure that may be performed on existing models of supersymmetric inflation. I illustrate this idea on two such models, one an example of F-term inflation and the other an example of D-term inflation.

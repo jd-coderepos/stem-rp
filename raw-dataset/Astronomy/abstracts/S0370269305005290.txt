@@ -1,0 +1,1 @@
+In the context of asymptotically flat space–times, it has been suggested to label elementary particles as unitary irreducible representations of the BMS group. We analyse this idea in the spirit of the holographic principle advocating the use of this definition.

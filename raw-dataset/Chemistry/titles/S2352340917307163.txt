@@ -1,0 +1,1 @@
+Dataset demonstrating effects of momentum transfer on sizing of current collector for lithium-ion batteries during laser cutting 

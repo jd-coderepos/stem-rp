@@ -1,0 +1,1 @@
+This contribution presents a theoretical overview of hydrodynamic modelling of heavy-ion collisions, with highlights on some recent developments. In particular, the formulation of anisotropic hydrodynamics, the role of hydrodynamic fluctuations, and the non-linear coupling of flow coefficients will be discussed.

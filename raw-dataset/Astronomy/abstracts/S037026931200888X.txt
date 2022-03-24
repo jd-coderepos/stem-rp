@@ -1,0 +1,1 @@
+We obtain a new bound on the value of Peskin–Takeuchi S parameter in a wide class of bottom-up holographic models for technicolor. Namely, we show that weakly coupled holographic description in these models implies S ≫ 0.2 . Our bound is in conflict with the results of electroweak precision measurements, so it strongly disfavors the models we consider.

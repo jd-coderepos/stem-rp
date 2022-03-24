@@ -1,0 +1,1 @@
+A simple approach to measure transmissibility and forecast incidence 
