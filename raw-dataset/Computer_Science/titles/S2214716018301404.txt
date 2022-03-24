@@ -1,1 +1,0 @@
-Unique closed-form solutions of portfolio selection subject to mean-skewness-normalization constraints 

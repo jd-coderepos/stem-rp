@@ -1,1 +1,0 @@
-Robotic manipulation of multiple objects as a POMDP 

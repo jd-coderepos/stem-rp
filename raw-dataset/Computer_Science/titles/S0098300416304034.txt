@@ -1,1 +1,0 @@
-Performance prediction of finite-difference solvers for different computer architectures 

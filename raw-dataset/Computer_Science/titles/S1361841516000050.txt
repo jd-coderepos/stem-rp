@@ -1,1 +1,0 @@
-Evaluation of state-of-the-art segmentation algorithms for left ventricle infarct from late Gadolinium enhancement MR images 

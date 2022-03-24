@@ -1,1 +1,0 @@
-Multi-index constrained transportation problem with bounds on availabilities, requirements and commodities 

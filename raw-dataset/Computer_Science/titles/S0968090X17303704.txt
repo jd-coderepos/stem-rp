@@ -1,1 +1,0 @@
-Objective functions for plug-in hybrid electric vehicle battery range optimization and possible effects on the vehicle fleet 

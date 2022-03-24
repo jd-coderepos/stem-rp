@@ -1,1 +1,0 @@
-Empirical assessment of the critical time increment in explicit particulate discrete element method simulations 

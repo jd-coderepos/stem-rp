@@ -1,1 +1,0 @@
-Mesh adaptation on the sphere using optimal transport and the numerical solution of a Monge–Ampère type equation 

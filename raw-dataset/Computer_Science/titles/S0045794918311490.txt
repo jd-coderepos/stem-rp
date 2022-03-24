@@ -1,1 +1,0 @@
-B-spline based boundary conditions in the material point method 

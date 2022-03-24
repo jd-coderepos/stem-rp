@@ -1,1 +1,0 @@
-Patterning of tensile fabric structures with a discrete element model using dynamic relaxation 

@@ -1,1 +1,0 @@
-Generalizations of bounds on the index of convergence to weighted digraphs 

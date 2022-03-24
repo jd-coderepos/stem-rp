@@ -1,1 +1,0 @@
-Effect of acquisition parameters on equivalent time and equivalent bandwidth algorithms for partial discharge clustering 

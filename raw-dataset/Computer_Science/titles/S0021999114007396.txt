@@ -1,1 +1,0 @@
-The Galerkin finite element method for a multi-term time-fractional diffusion equation 

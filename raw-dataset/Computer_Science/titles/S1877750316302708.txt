@@ -1,1 +1,0 @@
-Performance evaluation of explicit finite difference algorithms with varying amounts of computational and memory intensity 

@@ -1,1 +1,0 @@
-A perspective on specifying and verifying concurrent modules 

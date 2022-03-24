@@ -1,1 +1,0 @@
-A discriminative approach to perspective shape from shading in uncalibrated illumination 

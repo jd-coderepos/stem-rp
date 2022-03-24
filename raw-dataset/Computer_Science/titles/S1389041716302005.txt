@@ -1,1 +1,0 @@
-An architecture for ethical robots inspired by the simulation theory of cognition 

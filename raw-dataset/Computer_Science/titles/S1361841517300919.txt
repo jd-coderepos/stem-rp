@@ -1,1 +1,0 @@
-Stereo vision-based tracking of soft tissue motion with application to online ablation control in laser microsurgery 

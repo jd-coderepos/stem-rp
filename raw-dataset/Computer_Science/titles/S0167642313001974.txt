@@ -1,1 +1,0 @@
-Real-time verification of wireless home networks using bigraphs with sharing 

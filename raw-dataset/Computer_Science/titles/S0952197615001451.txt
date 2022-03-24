@@ -1,1 +1,0 @@
-Agent-based simulation of emergency response to plan the allocation of resources for a hypothetical two-site major incident 

@@ -1,1 +1,0 @@
-A quality-guided displacement tracking algorithm for ultrasonic elasticity imaging 

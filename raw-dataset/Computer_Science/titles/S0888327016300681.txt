@@ -1,1 +1,0 @@
-A machine learning approach to nonlinear modal analysis 

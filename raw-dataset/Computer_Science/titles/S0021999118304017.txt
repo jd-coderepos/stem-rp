@@ -1,1 +1,0 @@
-Adjoint-based fluid dynamic design optimization in quasi-periodic unsteady flow problems using a harmonic balance method 

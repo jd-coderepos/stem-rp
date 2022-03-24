@@ -1,1 +1,0 @@
-Boundary element dynamical energy analysis: A versatile method for solving two or three dimensional wave problems in the high frequency limit 

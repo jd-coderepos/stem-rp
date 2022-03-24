@@ -1,1 +1,0 @@
-Formal verification of autonomous vehicle platooning 

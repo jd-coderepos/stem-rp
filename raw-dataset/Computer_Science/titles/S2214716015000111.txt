@@ -1,1 +1,0 @@
-Automation of strategy using IDEF0 — A proof of concept 

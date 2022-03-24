@@ -1,1 +1,0 @@
-Spin-polarized transport in ferromagnetic multilayers: An unconditionally convergent FEM integrator 

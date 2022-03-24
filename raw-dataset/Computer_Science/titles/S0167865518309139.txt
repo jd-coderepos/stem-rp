@@ -1,1 +1,0 @@
-Widening siamese architectures for stereo matching 

@@ -1,1 +1,0 @@
-An Integer Linear Programming approach to the single and bi-objective Next Release Problem 

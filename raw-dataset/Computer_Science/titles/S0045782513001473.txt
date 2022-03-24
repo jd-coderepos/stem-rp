@@ -1,1 +1,0 @@
-A Laplacian-based algorithm for non-isothermal atomistic-continuum hybrid simulation of micro and nano-flows 

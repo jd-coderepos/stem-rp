@@ -1,1 +1,0 @@
-The virtues of idleness: A decidable fragment of resource agent logic 

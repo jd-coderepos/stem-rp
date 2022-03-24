@@ -1,1 +1,0 @@
-A versatile data-intensive computing platform for information retrieval from big geospatial data 

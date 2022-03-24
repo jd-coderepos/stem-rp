@@ -1,1 +1,0 @@
-Lessons learnt from the deployment of a semantic virtual research environment 

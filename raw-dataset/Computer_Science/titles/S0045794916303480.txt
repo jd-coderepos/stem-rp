@@ -1,1 +1,0 @@
-Resolving the sign conflict problem for hp–hexahedral Nédélec elements with application to eddy current problems 

@@ -1,1 +1,0 @@
-Configuration and evaluation of an integrated demand management process using a space-filling design and Kriging metamodeling 

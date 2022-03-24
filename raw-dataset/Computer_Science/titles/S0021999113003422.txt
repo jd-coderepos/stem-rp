@@ -1,1 +1,0 @@
-An enhanced Immersed Structural Potential Method for fluid–structure interaction 

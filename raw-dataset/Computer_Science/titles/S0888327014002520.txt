@@ -1,1 +1,0 @@
-Bayesian system identification of a nonlinear dynamical system using a novel variant of Simulated Annealing 

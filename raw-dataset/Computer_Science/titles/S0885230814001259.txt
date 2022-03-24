@@ -1,1 +1,0 @@
-Environmentally robust ASR front-end for deep neural network acoustic models 

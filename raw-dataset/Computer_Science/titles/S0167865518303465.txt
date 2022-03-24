@@ -1,1 +1,0 @@
-Multi-part segmentation for porcine offal inspection with auto-context and adaptive atlases 

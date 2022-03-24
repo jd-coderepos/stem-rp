@@ -1,1 +1,0 @@
-Designing context-aware systems: A method for understanding and analysing context in practice 

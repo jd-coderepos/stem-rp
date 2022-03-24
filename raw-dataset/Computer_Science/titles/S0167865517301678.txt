@@ -1,1 +1,0 @@
-Deep long short-term memory structures model temporal dependencies improving cognitive workload estimation 

@@ -1,1 +1,0 @@
-Linking indexing data structures to de Bruijn graphs: Construction and update 

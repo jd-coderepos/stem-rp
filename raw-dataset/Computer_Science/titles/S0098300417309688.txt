@@ -1,1 +1,0 @@
-Context-dependent image quality assessment of JPEG compressed Mars Science Laboratory Mastcam images using convolutional neural networks 

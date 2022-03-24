@@ -1,1 +1,0 @@
-A harmonic balance method for nonlinear fluid structure interaction problems 

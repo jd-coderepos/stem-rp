@@ -1,1 +1,0 @@
-A multi-physics methodology for the simulation of reactive flow and elastoplastic structural response 

@@ -1,1 +1,0 @@
-3D shape analysis of the brain's third ventricle using a midplane encoded symmetric template model 

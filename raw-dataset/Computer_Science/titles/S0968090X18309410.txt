@@ -1,1 +1,0 @@
-A parallel algorithm for train rescheduling 

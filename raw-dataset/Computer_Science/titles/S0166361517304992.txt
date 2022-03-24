@@ -1,1 +1,0 @@
-Towards on-farm pig face recognition using convolutional neural networks 

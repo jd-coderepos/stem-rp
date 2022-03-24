@@ -1,1 +1,0 @@
-A decision support system for vessel speed decision in maritime logistics using weather archive big data 

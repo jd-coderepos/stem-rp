@@ -1,1 +1,0 @@
-p-Automata: New foundations for discrete-time probabilistic verification 

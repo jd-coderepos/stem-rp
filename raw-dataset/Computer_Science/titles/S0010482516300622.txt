@@ -1,1 +1,0 @@
-Post-processing techniques for making reliable measurements from curve-skeletons 

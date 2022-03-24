@@ -1,1 +1,0 @@
-Direct numerical simulation of particulate flows with an overset grid method 

@@ -1,1 +1,0 @@
-Editing to a planar graph of given degrees 

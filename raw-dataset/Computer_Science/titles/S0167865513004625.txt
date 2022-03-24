@@ -1,1 +1,0 @@
-Contextual anomaly detection in crowded surveillance scenes 

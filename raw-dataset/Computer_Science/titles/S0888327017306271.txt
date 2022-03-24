@@ -1,1 +1,0 @@
-A comparison of linear approaches to filter out environmental effects in structural health monitoring 

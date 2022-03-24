@@ -1,1 +1,0 @@
-Efficient simulation of cardiac electrical propagation using high order finite elements 

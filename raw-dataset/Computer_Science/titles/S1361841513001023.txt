@@ -1,1 +1,0 @@
-A theoretical framework for quantifying blood volume flow rate from dynamic angiographic data and application to vessel-encoded arterial spin labeling MRI 

@@ -1,1 +1,0 @@
-A Jungle Computing approach to common image source identification in large collections of images 

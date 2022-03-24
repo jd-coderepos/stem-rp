@@ -1,1 +1,0 @@
-Direct parametric reconstruction from undersampled (k, t)-space data in dynamic contrast enhanced MRI 

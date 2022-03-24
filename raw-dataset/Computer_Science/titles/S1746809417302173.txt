@@ -1,1 +1,0 @@
-Multiscale sequential convolutional neural networks for simultaneous detection of fovea and optic disc 

@@ -1,1 +1,0 @@
-Source sentence simplification for statistical machine translation 

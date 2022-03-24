@@ -1,1 +1,0 @@
-A graph-based segmentation algorithm for tree crown extraction using airborne LiDAR data 

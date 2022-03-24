@@ -1,1 +1,0 @@
-Blind adaptive carrier phase recovery for QAM systems 

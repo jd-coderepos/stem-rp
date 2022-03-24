@@ -1,1 +1,0 @@
-On variational and symplectic time integrators for Hamiltonian systems 

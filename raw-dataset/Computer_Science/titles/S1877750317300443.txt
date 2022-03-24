@@ -1,1 +1,0 @@
-Gaussian process emulation of an individual-based model simulation of microbial communities 

@@ -1,1 +1,0 @@
-The General Single-Dish Data format: A retrospective 

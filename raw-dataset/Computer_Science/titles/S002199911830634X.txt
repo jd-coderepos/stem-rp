@@ -1,1 +1,0 @@
-Semi-implicit integrations of perturbation equations for all-scale atmospheric dynamics 

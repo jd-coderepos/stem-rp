@@ -1,1 +1,0 @@
-Parallel selective sampling method for imbalanced and large data classification 

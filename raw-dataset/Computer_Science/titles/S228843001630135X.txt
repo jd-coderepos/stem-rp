@@ -1,1 +1,0 @@
-Introducing a novel mesh following technique for approximation-free robotic tool path trajectories 

@@ -1,1 +1,0 @@
-Short links and tiny keyboards: A systematic exploration of design trade-offs in link shortening services 

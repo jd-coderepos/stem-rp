@@ -1,1 +1,0 @@
-Real-time motion planning methods for autonomous on-road driving: State-of-the-art and future research directions 

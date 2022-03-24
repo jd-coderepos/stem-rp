@@ -1,1 +1,0 @@
-Adaptive height controller for an agile hopping robot 

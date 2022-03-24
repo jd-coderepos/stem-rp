@@ -1,1 +1,0 @@
-Methods for interpreting and understanding deep neural networks 

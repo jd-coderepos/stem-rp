@@ -1,1 +1,0 @@
-Beyond the mean in fork-join queues: Efficient approximation for response-time tails 

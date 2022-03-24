@@ -1,1 +1,0 @@
-A level-set approach to joint image segmentation and registration with application to CT lung imaging 

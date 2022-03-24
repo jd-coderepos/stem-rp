@@ -1,1 +1,0 @@
-Rapid development of image analysis research tools: Bridging the gap between researcher and clinician with pyOsiriX 

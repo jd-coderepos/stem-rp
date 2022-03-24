@@ -1,1 +1,0 @@
-A review on trust propagation and opinion dynamics in social networks and group decision making frameworks 

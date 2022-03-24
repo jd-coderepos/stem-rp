@@ -1,1 +1,0 @@
-Clinical implementation of a neonatal seizure detection algorithm 

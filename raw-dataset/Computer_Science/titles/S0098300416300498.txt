@@ -1,1 +1,0 @@
-Gamra: Simple meshing for complex earthquakes 

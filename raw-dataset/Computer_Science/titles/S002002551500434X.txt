@@ -1,1 +1,0 @@
-QTC3D: Extending the qualitative trajectory calculus to three dimensions 

@@ -1,1 +1,0 @@
-Development of an implicit material point method for geotechnical applications 

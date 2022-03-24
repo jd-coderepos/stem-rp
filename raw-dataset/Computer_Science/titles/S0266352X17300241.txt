@@ -1,1 +1,0 @@
-The importance of accurate time-integration in the numerical modelling of P-wave propagation 

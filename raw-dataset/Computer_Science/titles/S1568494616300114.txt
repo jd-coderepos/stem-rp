@@ -1,1 +1,0 @@
-Quantitative prediction of peptide binding affinity by using hybrid fuzzy support vector regression 

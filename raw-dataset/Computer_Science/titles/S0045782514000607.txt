@@ -1,1 +1,0 @@
-A displacement-based finite element formulation for incompressible and nearly-incompressible cardiac mechanics 

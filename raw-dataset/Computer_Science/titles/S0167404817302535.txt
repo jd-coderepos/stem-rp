@@ -1,1 +1,0 @@
-Malware classification using self organising feature maps and machine activity data 

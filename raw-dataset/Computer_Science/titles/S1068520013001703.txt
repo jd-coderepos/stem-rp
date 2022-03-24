@@ -1,1 +1,0 @@
-Experimental evaluation of prefiltering for 56Gbaud DP-QPSK signal transmission in 75GHz WDM grid 

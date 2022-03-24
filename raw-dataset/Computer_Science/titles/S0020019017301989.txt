@@ -1,1 +1,0 @@
-Independent feedback vertex sets for graphs of bounded diameter 

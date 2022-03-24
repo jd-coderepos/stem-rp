@@ -1,1 +1,0 @@
-A passive movement method for parameter estimation of a musculo-skeletal arm model incorporating a modified hill muscle model 

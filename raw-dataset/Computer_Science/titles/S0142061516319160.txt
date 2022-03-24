@@ -1,1 +1,0 @@
-Grid capacity and efficiency enhancement by operating medium voltage AC cables as DC links with modular multilevel converters 

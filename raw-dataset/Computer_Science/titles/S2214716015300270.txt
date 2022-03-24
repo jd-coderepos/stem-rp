@@ -1,1 +1,0 @@
-The irace package: Iterated racing for automatic algorithm configuration 

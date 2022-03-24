@@ -1,1 +1,0 @@
-Interactive data visualization of chatter conditions in a cold rolling mill 

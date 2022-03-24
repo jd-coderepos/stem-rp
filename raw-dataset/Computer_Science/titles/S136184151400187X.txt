@@ -1,1 +1,0 @@
-Robust whole-brain segmentation: Application to traumatic brain injury 

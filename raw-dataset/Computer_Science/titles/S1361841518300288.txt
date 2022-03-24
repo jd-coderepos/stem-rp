@@ -1,1 +1,0 @@
-Intrasubject multimodal groupwise registration with the conditional template entropy 

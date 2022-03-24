@@ -1,1 +1,0 @@
-Structure preserving schemes for the continuum Kuramoto model: Phase transitions 

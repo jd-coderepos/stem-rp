@@ -1,3 +1,0 @@
-The description logic 
-                  SHIQ
-                with a flexible meta-modelling hierarchy 

@@ -1,1 +1,0 @@
-Directional wavelet based features for colonic polyp classification 

@@ -1,1 +1,0 @@
-Backdoors into heterogeneous classes of SAT and CSP 

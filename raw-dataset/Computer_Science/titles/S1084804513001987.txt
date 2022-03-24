@@ -1,1 +1,0 @@
-Performance analysis of quantization-based approximation algorithms for precomputing the supported QoS 

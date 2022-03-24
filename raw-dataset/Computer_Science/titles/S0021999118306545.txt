@@ -1,1 +1,0 @@
-On a robust and accurate localized artificial diffusivity scheme for the high-order flux-reconstruction method 

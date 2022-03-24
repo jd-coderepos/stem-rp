@@ -1,1 +1,0 @@
-The Parzen Window method: In terms of two vectors and one matrix 

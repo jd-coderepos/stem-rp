@@ -1,1 +1,0 @@
-MRI to X-ray mammography intensity-based registration with simultaneous optimisation of pose and biomechanical transformation parameters 

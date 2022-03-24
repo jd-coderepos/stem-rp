@@ -1,1 +1,0 @@
-A comparative study on polynomial dealiasing and split form discontinuous Galerkin schemes for under-resolved turbulence computations 

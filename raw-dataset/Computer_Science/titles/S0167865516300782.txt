@@ -1,1 +1,0 @@
-Predicting sex as a soft-biometrics from device interaction swipe gestures 

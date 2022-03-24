@@ -1,1 +1,0 @@
-Wave dispersion properties of compound finite elements 

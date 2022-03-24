@@ -1,1 +1,0 @@
-Fast native-MATLAB stiffness assembly for SIPG linear elasticity 

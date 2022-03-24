@@ -1,1 +1,0 @@
-Inferring hybrid transportation modes from sparse GPS data using a moving window SVM classification 

@@ -1,1 +1,0 @@
-An evaluation of noise reduction algorithms for particle-based fluid simulations in multi-scale applications 

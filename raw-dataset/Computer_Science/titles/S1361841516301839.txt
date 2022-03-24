@@ -1,1 +1,0 @@
-Efficient multi-scale 3D CNN with fully connected CRF for accurate brain lesion segmentation 

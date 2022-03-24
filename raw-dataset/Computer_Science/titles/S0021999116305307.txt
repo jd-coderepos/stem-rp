@@ -1,1 +1,0 @@
-Hamiltonian discontinuous Galerkin FEM for linear, stratified (in)compressible Euler equations: internal gravity waves 

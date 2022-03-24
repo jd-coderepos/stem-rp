@@ -1,1 +1,0 @@
-A memory access model for highly-threaded many-core architectures 

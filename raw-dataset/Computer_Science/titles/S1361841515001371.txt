@@ -1,1 +1,0 @@
-Non-invasive pressure difference estimation from PC-MRI using the work-energy equation 

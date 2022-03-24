@@ -1,1 +1,0 @@
-A local space–time kriging approach applied to a national outpatient malaria data set 

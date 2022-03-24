@@ -1,1 +1,0 @@
-Fast sampling from Wiener posteriors for image data with dataflow engines 

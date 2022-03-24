@@ -1,1 +1,0 @@
-Damage detection using modal frequency curve and squared residual wavelet coefficients-based damage indicator 

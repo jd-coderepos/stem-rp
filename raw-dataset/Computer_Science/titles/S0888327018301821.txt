@@ -1,1 +1,0 @@
-Fatigue life calculation procedure for the rotor of an embedded magnet traction motor taking into account thermomechanical loads 

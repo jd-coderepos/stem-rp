@@ -1,1 +1,0 @@
-Pre-gait analysis using optimal parameters for a walking machine tool based on a free-leg hexapod structure 

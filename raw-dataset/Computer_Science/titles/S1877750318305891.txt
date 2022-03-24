@@ -1,1 +1,0 @@
-A look-up table method based on unstructured grids and its application to non-ideal compressible fluid dynamic simulations 

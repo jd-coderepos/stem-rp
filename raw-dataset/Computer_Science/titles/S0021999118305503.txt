@@ -1,1 +1,0 @@
-Higher-order compatible finite element schemes for the nonlinear rotating shallow water equations on the sphere 

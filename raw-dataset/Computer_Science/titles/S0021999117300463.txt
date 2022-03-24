@@ -1,1 +1,0 @@
-An asymptotic-preserving method for a relaxation of the Navier–Stokes–Korteweg equations 

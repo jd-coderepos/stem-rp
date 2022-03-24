@@ -1,1 +1,0 @@
-Overhead reduction scheme for SDN-based Data Center Networks 

@@ -1,1 +1,0 @@
-A spectral element formulation of the immersed boundary method for Newtonian fluids 

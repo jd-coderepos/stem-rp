@@ -1,1 +1,0 @@
-GIFT-Cloud: A data sharing and collaboration platform for medical imaging research 

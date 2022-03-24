@@ -1,1 +1,0 @@
-A novel coupling of noise reduction algorithms for particle flow simulations 

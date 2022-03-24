@@ -1,1 +1,0 @@
-Real-time traffic incident detection using a probabilistic topic model 

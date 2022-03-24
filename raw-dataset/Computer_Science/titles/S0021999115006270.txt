@@ -1,1 +1,0 @@
-Fast spectral solution of the generalized Enskog equation for dense gases 

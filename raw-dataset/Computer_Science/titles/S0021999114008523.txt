@@ -1,1 +1,0 @@
-Asynchronous coupling of hybrid models for efficient simulation of multiscale systems 

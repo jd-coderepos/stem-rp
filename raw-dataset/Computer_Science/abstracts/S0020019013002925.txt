@@ -1,1 +1,0 @@
-The distributed synthesis problem of safety and reachability languages is known to be undecidable. In this article, we establish that this is the case for very simple languages, namely for safety and reachability specifications in the intersection of LTL and ACTL.

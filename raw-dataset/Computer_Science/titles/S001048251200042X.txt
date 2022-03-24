@@ -1,1 +1,0 @@
-Hangman BCI: An unsupervised adaptive self-paced Brain–Computer Interface for playing games 

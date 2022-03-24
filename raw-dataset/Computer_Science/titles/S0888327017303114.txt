@@ -1,1 +1,0 @@
-Reliability based impact localization in composite panels using Bayesian updating and the Kalman filter 

@@ -1,1 +1,0 @@
-Protecting QDI interconnects from transient faults using delay-insensitive redundant check codes 

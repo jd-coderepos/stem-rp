@@ -1,1 +1,0 @@
-Photometric stereo for three-dimensional leaf venation extraction 

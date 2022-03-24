@@ -1,1 +1,0 @@
-Considerations in using OpenCL on GPUs and FPGAs for throughput-oriented genomics workloads 

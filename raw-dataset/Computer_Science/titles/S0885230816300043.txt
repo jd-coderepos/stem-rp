@@ -1,1 +1,0 @@
-Acoustic adaptation to dynamic background conditions with asynchronous transformations 

@@ -1,1 +1,0 @@
-Optimized explicit finite-difference schemes for spatial derivatives using maximum norm 

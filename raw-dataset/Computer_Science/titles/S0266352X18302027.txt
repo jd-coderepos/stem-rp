@@ -1,1 +1,0 @@
-A coupled thermo-hydro-mechanical finite element formulation of one-dimensional beam elements for three-dimensional analysis 

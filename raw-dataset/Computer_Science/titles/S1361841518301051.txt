@@ -1,1 +1,0 @@
-Weakly-supervised convolutional neural networks for multimodal image registration 

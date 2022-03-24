@@ -1,1 +1,0 @@
-Quantification of cracked area in thermal path of high-power multi-chip modules using transient thermal impedance measurement 

@@ -1,1 +1,0 @@
-On the eigenvalues of the ADER-WENO Galerkin predictor 

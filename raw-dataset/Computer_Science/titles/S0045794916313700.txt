@@ -1,1 +1,0 @@
-A high-order stabilised ALE finite element formulation for the Euler equations on deformable domains 

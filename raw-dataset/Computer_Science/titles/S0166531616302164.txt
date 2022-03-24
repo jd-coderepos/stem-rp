@@ -1,1 +1,0 @@
-Dispatching fixed-sized jobs with multiple deadlines to parallel heterogeneous servers 

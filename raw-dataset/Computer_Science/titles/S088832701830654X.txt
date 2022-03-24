@@ -1,1 +1,0 @@
-A cointegration approach for heteroscedastic data based on a time series decomposition: An application to structural health monitoring 

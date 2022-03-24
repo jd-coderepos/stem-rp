@@ -1,1 +1,0 @@
-Inferring neighbourhood quality with property transaction records by using a locally adaptive spatial multi-level model 

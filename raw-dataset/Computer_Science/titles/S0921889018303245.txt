@@ -1,1 +1,0 @@
-Deep reinforcement learning with smooth policy update: Application to robotic cloth manipulation 

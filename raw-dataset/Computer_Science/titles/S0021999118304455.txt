@@ -1,1 +1,0 @@
-A boundary integral method for modelling vibroacoustic energy distributions in uncertain built up structures 

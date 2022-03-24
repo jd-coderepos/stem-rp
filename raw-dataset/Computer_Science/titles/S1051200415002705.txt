@@ -1,1 +1,0 @@
-Performance analysis of a family of adaptive blind equalization algorithms for square-QAM 

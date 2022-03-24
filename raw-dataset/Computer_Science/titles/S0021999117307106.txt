@@ -1,1 +1,0 @@
-A discontinuous Galerkin method for nonlinear parabolic equations and gradient flow problems with interaction potentials 

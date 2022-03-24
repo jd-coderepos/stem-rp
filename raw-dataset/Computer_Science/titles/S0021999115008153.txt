@@ -1,1 +1,0 @@
-Massively parallel kinetic Monte Carlo simulations of charge carrier transport in organic semiconductors 

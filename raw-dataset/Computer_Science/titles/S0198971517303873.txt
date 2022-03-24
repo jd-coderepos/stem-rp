@@ -1,1 +1,0 @@
-Conformance testing of geographic information. A case study on the Land Parcel Identification System 

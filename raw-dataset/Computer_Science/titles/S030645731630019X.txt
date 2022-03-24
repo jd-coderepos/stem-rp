@@ -1,2 +1,0 @@
-FCA based ontology development for data integration
- 

@@ -1,1 +1,0 @@
-An evolutionary approach to solve a system of multiple interrelated agent problems 

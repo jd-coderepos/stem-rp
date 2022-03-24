@@ -1,1 +1,0 @@
-Flexible composition and execution of large scale applications on distributed e-infrastructures 

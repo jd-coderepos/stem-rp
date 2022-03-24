@@ -1,1 +1,0 @@
-Enforcement of entailment constraints in distributed service-based business processes 

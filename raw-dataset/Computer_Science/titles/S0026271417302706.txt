@@ -1,1 +1,0 @@
-Impact of the gate driver voltage on temperature sensitive electrical parameters for condition monitoring of SiC power MOSFETs 

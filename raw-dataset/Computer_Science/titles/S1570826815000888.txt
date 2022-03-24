@@ -1,1 +1,0 @@
-Querying and integrating spatial–temporal information on the Web of Data via time geography 

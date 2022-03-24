@@ -1,1 +1,0 @@
-Formal verification of ethical choices in autonomous systems 

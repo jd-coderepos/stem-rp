@@ -1,1 +1,0 @@
-Group-wise similarity registration of point sets using Student’s t-mixture model for statistical shape models 

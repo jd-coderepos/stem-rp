@@ -1,1 +1,0 @@
-Shortest path and vehicle trajectory aided map-matching for low frequency GPS data 

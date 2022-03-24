@@ -1,1 +1,0 @@
-Visual motor integration of robot’s drawing behavior using recurrent neural network 

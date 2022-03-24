@@ -1,1 +1,0 @@
-Sparse Bayesian Learning for non-Gaussian sources 

@@ -1,1 +1,0 @@
-Optical remotely sensed time series data for land cover classification: A review 

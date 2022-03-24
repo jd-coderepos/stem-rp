@@ -1,1 +1,0 @@
-ArguBlogging: An application for the Argument Web 

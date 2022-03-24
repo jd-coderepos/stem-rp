@@ -1,1 +1,0 @@
-On linear-time data dissemination in dynamic rooted trees 

@@ -1,1 +1,0 @@
-Constrained approximation of effective generators for multiscale stochastic reaction networks and application to conditioned path sampling 

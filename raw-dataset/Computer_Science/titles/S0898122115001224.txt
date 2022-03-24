@@ -1,1 +1,0 @@
-On the identification of symmetric quadrature rules for finite element methods 

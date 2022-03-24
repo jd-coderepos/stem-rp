@@ -1,1 +1,0 @@
-A hybrid particle-mesh method for incompressible active polar viscous gels 

@@ -1,1 +1,0 @@
-A numerical model of two-phase flow at the micro-scale using the volume-of-fluid method 

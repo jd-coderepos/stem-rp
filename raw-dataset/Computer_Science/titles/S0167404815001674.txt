@@ -1,1 +1,0 @@
-Identifying cyber risk hotspots: A framework for measuring temporal variance in computer network risk 

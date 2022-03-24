@@ -1,1 +1,0 @@
-Pairwise adaptive thermostats for improved accuracy and stability in dissipative particle dynamics 

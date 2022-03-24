@@ -1,1 +1,0 @@
-Benders decomposition with special purpose method for the sub problem in lot sizing problem under uncertain demand 

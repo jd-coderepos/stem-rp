@@ -1,1 +1,0 @@
-Possible values: Exploring a concept for concurrency 

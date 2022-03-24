@@ -1,1 +1,0 @@
-Multilingual word embeddings for the assessment of narrative speech in mild cognitive impairment 

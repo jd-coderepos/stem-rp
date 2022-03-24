@@ -1,1 +1,0 @@
-Extreme point and halving edge search in abstract order types 

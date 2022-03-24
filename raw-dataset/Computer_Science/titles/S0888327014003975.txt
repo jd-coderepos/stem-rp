@@ -1,1 +1,0 @@
-Bayesian system identification of dynamical systems using highly informative training data 

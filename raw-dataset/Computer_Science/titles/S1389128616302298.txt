@@ -1,1 +1,0 @@
-Network and server resource management strategies for data centre infrastructures: A survey 

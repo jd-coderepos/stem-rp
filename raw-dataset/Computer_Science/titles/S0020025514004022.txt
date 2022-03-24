@@ -1,1 +1,0 @@
-Population-based Algorithm Portfolios with automated constituent algorithms selection 

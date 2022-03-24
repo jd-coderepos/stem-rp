@@ -1,1 +1,0 @@
-pyGIMLi: An open-source library for modelling and inversion in geophysics 

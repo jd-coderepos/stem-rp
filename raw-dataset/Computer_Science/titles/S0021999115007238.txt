@@ -1,1 +1,0 @@
-Adaptive Haar wavelets for the angular discretisation of spectral wave models 

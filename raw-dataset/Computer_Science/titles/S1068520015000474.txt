@@ -1,1 +1,0 @@
-On the performance of joint iterative detection and decoding in coherent optical channels with laser frequency fluctuations 

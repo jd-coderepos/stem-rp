@@ -1,1 +1,0 @@
-Selective policies for efficient state retention in transiently-powered embedded systems: Exploiting properties of NVM technologies 

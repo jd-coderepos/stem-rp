@@ -1,1 +1,0 @@
-Branch-and-price and adaptive large neighborhood search for the truck and trailer routing problem with time windows 

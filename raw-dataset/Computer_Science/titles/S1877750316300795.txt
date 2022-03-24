@@ -1,1 +1,0 @@
-A new parallelization scheme for adaptive mesh refinement 

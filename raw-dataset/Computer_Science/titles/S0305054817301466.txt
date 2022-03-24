@@ -1,1 +1,0 @@
-Optimisation of transportation service network using κ-node large neighbourhood search 

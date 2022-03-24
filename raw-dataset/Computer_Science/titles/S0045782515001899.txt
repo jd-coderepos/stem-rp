@@ -1,3 +1,0 @@
-Multiwavelet discontinuous Galerkin 
-                  h
-               -adaptive shallow water model 

@@ -1,1 +1,0 @@
-SimPEG: An open source framework for simulation and gradient based parameter estimation in geophysical applications 

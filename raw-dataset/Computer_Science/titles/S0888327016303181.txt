@@ -1,1 +1,0 @@
-A novel defect depth measurement method based on Nonlinear System Identification for pulsed thermographic inspection 

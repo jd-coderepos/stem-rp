@@ -1,1 +1,0 @@
-Heart rate control during treadmill exercise using input-sensitivity shaping for disturbance rejection of very-low-frequency heart rate variability 

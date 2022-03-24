@@ -1,1 +1,0 @@
-An Eulerian–Lagrangian incompressible SPH formulation (ELI-SPH) connected with a sharp interface 

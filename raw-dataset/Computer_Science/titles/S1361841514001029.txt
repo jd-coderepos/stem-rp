@@ -1,1 +1,0 @@
-Susceptibility artefact correction using dynamic graph cuts: Application to neurosurgery 

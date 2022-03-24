@@ -1,1 +1,0 @@
-The CancerGrid experience: Metadata-based model-driven engineering for clinical trials 

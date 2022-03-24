@@ -1,1 +1,0 @@
-Experimental demonstration of the maximum likelihood-based chromatic dispersion estimator for coherent receivers 

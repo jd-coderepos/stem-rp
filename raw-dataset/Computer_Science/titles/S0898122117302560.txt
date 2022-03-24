@@ -1,1 +1,0 @@
-Non-prismatic Timoshenko-like beam model: Numerical solution via isogeometric collocation 

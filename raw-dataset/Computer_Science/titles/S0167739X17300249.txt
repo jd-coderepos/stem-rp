@@ -1,1 +1,0 @@
-Software architectures to integrate workflow engines in science gateways 

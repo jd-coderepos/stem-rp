@@ -1,1 +1,0 @@
-Comparing supervised and unsupervised multiresolution segmentation approaches for extracting buildings from very high resolution imagery 

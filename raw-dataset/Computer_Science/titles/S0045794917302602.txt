@@ -1,1 +1,0 @@
-High-order finite elements for the solution of Helmholtz problems 

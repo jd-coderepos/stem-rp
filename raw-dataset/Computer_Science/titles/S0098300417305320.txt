@@ -1,1 +1,0 @@
-A geophone wireless sensor network for investigating glacier stick-slip motion 

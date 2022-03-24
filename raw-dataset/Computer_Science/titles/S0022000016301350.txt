@@ -1,1 +1,0 @@
-A game characterisation of tree-like Q-Resolution size 

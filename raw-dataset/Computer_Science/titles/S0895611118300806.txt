@@ -1,1 +1,0 @@
-Deep learning nuclei detection: A simple approach can deliver state-of-the-art results 

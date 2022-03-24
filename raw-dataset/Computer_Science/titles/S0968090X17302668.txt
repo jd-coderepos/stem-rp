@@ -1,1 +1,0 @@
-Agent-based simulation framework for mixed traffic of cars, pedestrians and trams 

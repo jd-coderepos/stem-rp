@@ -1,1 +1,0 @@
-Implicit gas-kinetic unified algorithm based on multi-block docking grid for multi-body reentry flows covering all flow regimes 

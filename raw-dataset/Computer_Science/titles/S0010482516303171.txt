@@ -1,1 +1,0 @@
-Morphological classification of odontogenic keratocysts using Bouligand–Minkowski fractal descriptors 

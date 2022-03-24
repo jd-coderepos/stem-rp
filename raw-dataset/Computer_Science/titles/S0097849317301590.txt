@@ -1,1 +1,0 @@
-Posture-based and action-based graphs for boxing skill visualization 

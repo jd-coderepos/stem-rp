@@ -1,1 +1,0 @@
-Integration of Google Maps/Earth with microscale meteorology models and data visualization 

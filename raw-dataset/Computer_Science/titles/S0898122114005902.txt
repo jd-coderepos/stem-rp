@@ -1,1 +1,0 @@
-On the error propagation of semi-Lagrange and Fourier methods for advection problems 

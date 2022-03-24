@@ -1,1 +1,0 @@
-Feature-based fuzzy connectedness segmentation of ultrasound images with an object completion step 

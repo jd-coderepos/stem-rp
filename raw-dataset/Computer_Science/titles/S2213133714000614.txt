@@ -1,1 +1,0 @@
-ORAC-DR: A generic data reduction pipeline infrastructure 

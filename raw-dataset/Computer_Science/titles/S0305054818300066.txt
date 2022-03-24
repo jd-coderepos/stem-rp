@@ -1,1 +1,0 @@
-Relaxation heuristics for the set multicover problem with generalized upper bound constraints 

@@ -1,1 +1,0 @@
-Coordinated node and link mapping VNE using a new paths algebra strategy 
